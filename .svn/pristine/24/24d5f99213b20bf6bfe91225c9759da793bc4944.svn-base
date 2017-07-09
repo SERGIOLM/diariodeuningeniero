@@ -1,0 +1,122 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diary of an engineer, know guadalajara, guadalajara history, guadalajara in Spain" />
+	<meta name="description" content="Main page of know guadalajara, history of a town"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<script>
+    /*Array con las imagenes que se iran mostrando en la web*/
+    var imagenes=new Array(
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_sepia.png',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_bn.png'       
+    );
+    /*Funcion para cambiar la imagen*/
+    function rotarImagenes()
+    {
+        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+        var index=Math.floor((Math.random()*imagenes.length));
+ 
+        // cambiamos la imagen
+        document.getElementById("imagen").src=imagenes[index];
+    } 
+    /*Función que se ejecuta una vez cargada la página*/
+    onload=function()
+    {
+        // Cargamos una imagen aleatoria
+        rotarImagenes();
+ 
+        // Indicamos que cada 5 segundos cambie la imagen
+        setInterval(rotarImagenes,5000);
+    }
+	</script>
+	<title>Diary of an engineer - Know my town - History - Web Site By Sergio Lopez Design</title>
+</head>
+
+
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a href="main_en.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Work abroad</a></li>
+				<li><a>Know my town</a></li>
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_guadalajara_en.html"><span class="primero"><i class="icon icon-home"></i></span>Home</a></li>
+				<li><a href="guada_provincia_en.html"><span class="segundo"><i class="icon icon-earth"></i></span>Region</a></li>
+				<li><a href="guada_historia_en.html"><span class="tercero"><i class="icon icon-bookmarks"></i></span>History</a>
+					<ul>
+						<li><a href="guada_historia_I_en.html"><span class="tercero"><i class="icon icon-paste"></i></span>Origin sI-XIV</a></li>
+						<li><a href="guada_historia_II_en.html"><span class="segundo"><i class="icon icon-paste"></i></span>Splendor s.XIV-XVI</a></li>
+						<li><a href="guada_historia_III_en.html"><span class="tercero"><i class="icon icon-paste"></i></span>Fall s.XVII-XIX</a></li>
+						<li><a href="guada_historia_IV_en.html"><span class="segundo"><i class="icon icon-paste"></i></span>Reborn s.XX</a></li>
+						<li><a href="guada_historia_V_en.html"><span class="tercero"><i class="icon icon-paste"></i></span>Today s.XXI</a></li>
+					</ul></li>						
+				<li><a href="guada_senderismo_en.html"><span class="cuarto"><i class="icon icon-road"></i></span>Trekking</a></li>
+				<li><a href="guada_gastronomia_en.html"><span class="quinto"><i class="icon icon-spoon-knife"></i></span>Gastronomy</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>
+			</ul>	
+		</div>						
+		<div id="banner">
+			<img class="banner" src="" id="imagen"alt="banner"/><br />							
+			<a href="guada_historia_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>	
+			<a href="guada_historia_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>	
+			<!--<a href="guada_historia_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+		</div>	
+	</div>
+	<div id="content">
+		<p>In this chapter I will to do tell the history and physiognomy of a town that sounds familir for most of spanish people but only few have been there.</p>
+		
+					<ul>
+						<li><a href="guada_historia_I_en.html">Origin sI-XIV</a><br />
+							I go to do a historic rout starting with town born, and the first roman settlement and the conquest evolution by the arabs.
+						</li>					
+						<li><a href="guada_historia_II_en.html">Splendour s.XIV-XVI</a>
+							Golden age of Guadalajara where it was ruled by the Duques of Infantado. Large dynasty which has his origin in the help of  Diego Hurtado
+							de Mendoza.
+
+							A Castilian nobleman who did a remarkable job in fighting the Arabs, being in the battle of Aljubarrota hand of King Juan I of Castile.
+							He was appointed Admiral of Castille and first member of the lineage of the Mendoza who obtained the title of Infantado´s Duke with the Catholic Monarchs, being the beginning
+							of the glorious era of the city.
+						</li>
+						<li><a href="guada_historia_III_en.html">Fall s.XVII-XIX</a><br />
+							In this chapter I review the advent of the worst time in Guadalajara, where depopulation and the flight of the noble Alcarreños to the capital, Madrid, suitable
+							the abandonment of the city and most of the palaces. As well as numerous wars that made damage in the monumental artistic heritage of Guadalajara.
+						</li>						
+						<li><a href="guada_historia_IV_en.html">Resurge s.XX</a>
+							From the nineteenth century the city was acquiring certain vigor of the past. Review of developments since that time through the Spanish civil war where
+							again more bad luck played a trick to Guadalajara, losing many buildings and even to burn the symbol of the city, the Palace of the Infantry.
+						</li>
+						<li><a href="guada_historia_V_en.html">Today s.XXI</a>
+							In this last section I talk about the city of Guadalajara in the current present where thanks to institutions has modernized the city and it has been equipped with infrastructure
+							many cities will like to possess. Guadalajara goes hand in hand Vanguard is one of the few cities that creates more wealth than destroys, having in recent years
+							high income despite having as other cities some works of dubious origin, but still far lower cases most Spanish cities panorama.
+							It also has very good sports clubs and sponsoring these events being my excellent understanding compared with the population counts.
+						</li>	
+											
+					</ul>		
+	</div>	
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+		</div> 
+</body>
+
+</html>
+

@@ -1,0 +1,125 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_emprender.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diario de un ingeniero, sobre el autor de diario" />
+	<meta name="description" content="Biografia del autor"/>	
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<title>Diario de un Ingeniero - Sobre mi -- Web Site By Sergio Lopez Design</title>
+</head>
+
+<!-- SCRIPTS REDES SOCIALES. -->
+<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+<script src="https://apis.google.com/js/platform.js" async defer>
+	{lang: 'es'}
+</script>
+<script type="text/javascript">
+	window.___gcfg = {lang: 'es'};
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/platform.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+<script>
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}}(document, 'script', 'twitter-wjs');
+</script>
+<script type="text/javascript">
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){js=d.createElement(s);
+			js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_blog1.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>	
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="tercero"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a>Sobre mi</a></li>		
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+
+	</div>		
+	<div id="wrapper3">		
+		<div id="topnav">
+			<ul>
+				<li><a href="guada_provincia_es.html"><span class="primero"><i class="icon icon-facebook2"></i></span><i class="icon icon-facebook"></i></a></li>	
+				<li><a href="guada_provincia_es.html"><span class="segundo"><i class="icon icon-google2"></i></span><i class="icon icon-google"></i></a></li>
+				<li><a href="guada_provincia_es.html"><span class="tercero"><i class="icon icon-linkedin2"></i></span><i class="icon icon-linkedin"></i></a></li>
+				<li><a href="guada_provincia_es.html"><span class="cuarto"><i class="icon icon-mail3"></i></span><i class="icon icon-mail2"></i></a></li>
+			</ul>
+			<br/><br/><br/><br/><br/><img class=blog_banner2" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/about_me.jpg" border="0" alt=" photo sobre_mi.jpg"/>
+		</div>
+	</div>
+	<div id="langue2">
+		<img  class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp0.jpg" alt=”ESP_LANGUAGUE” />
+		<a href="aboutme_en.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="aboutme_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>-->
+	</div>
+	<div id="top_sidebar_blog">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+	</div>
+	<div id="content">
+		<br/><h2>Sergio López Martínez</h2><br/>
+		<h4> Nacido en Madrid, ha vivido gran parte de su vida en Guadalajara, ciudad que conoce a la perfección.
+			Estudio en el colegio público Alcarria y mas tarde en el instituto público Liceo Caracense del cual se habla en este sitio web en la sección de Guadalajara, ya que es un edificio con mucha historia.<br /><br />
+			<img  class="left_b" src="https://www.uah.es/export/sites/uah/.galleries/imagenes-estructura/logopie.png" border="0" alt="logo UAH"/>
+
+			En el año <strong>2003</strong> estudio en la Universidad de Alcalá, <strong>Ingeniería Técnica de Telecomunicaciones en Sistemas Electrónicos</strong>y seguidamente el <strong>Máster Oficial en Sistemas Electrónicos Avanzados</strong> finalizando en el año<strong> 2011</strong>.<br/><br/>
+			Trabajó a en la Universidad de Alcalá durante una año y medio gracias a la obtención de una beca de formación y también como personal investigador en el último año del Master.<br /><br />
+
+
+			La beca de investigación trataba en adaptar un proyecto completo en una Virtex 5 con los esquematicos y diseños del proyecto fin de master a una Spartan 6, FPGA de menor coste y tamaño que cumpliría y de sobra las exigencias del cliente.<br/><br/>
+			<img  class="left_b" src="http://www.indizze.com/sites/default/files/imagecache/logo_pagina/logos-empresa/pw84sel.gif" border="0" alt="logo SELEKRON"/>
+			Mientras realizaba la beca de investigación recibió otra del ayuntamiento de Guadalajara para colaborar en Selekron, empresa local especializada en equipos electrónicos de control con presencia
+			en  proyectos de conocidas empresas españolas.<br/><br/>
+
+			Al finalizar ambas becas emprendió un viaje por Europa empezando en Francia. Allí la parada fue Toulouse capital de la industria aeronáutica europea.
+			Estuvo realizando un curso en la Alianza Francesa para mejorar el francés adquirido años antes en la Escuela Oficial de Idiomas y poder	alcanzar algún trabajo.<br/>
+			<img  class="left_b" src="https://upload.wikimedia.org/wikipedia/fr/2/24/Adrexo_2013_(logo).png" border="0" alt="logo ADREXO"/>
+			Una vez realizado los primeros cursos comenzó a trabajar en una empresa de logística de la zona, Adrexo, mientras seguía perfeccionando el francés y estudiando ingles en algunos cursos gratuitos de la zona.<br/><br/>
+			A finales del año y viendo que obtener un trabajo cualificado era bastante difícil para alguien con tan poca experiencia decidió emprender la ruta a un país más dinamico donde cambiar de trabajo estaba a la orden del día.<br/><br/>
+
+			<img  class="left_b" src="http://logok.org/wp-content/uploads/2015/01/Nokia-Siemens-Networks-logo.png" border="0" alt=" logo NSN"/>
+			En Febrero de <strong>2012</strong> aterrizó en Inglaterra donde comenzó a aprender el inglés en cursos gratuitos del estado o de librerías de la zona, así como en parques, asociaciones y alguna academia de pago de la zona.<br/>
+			Después de cuatro meses consiguiendo gran destreza con el idioma consiguió un primer trabajo en una fábrica de componentes electrónicos en la parte central de Inglaterra.
+			Un par de meses después ficharía por NSN (Nokia Siemens Networks).<br/><br/>
+			En NSN trabajó en la adaptación de un nuevo módulo de radio para todas las BTS´s manteniendo todas las mejoras de los últimos diseños doblando la capacidad de banda. A <strong>finales de 2014</strong> la empresa informa de que va a trasladar
+			el proyecto a la India para su nuevo plan estratégico en el que se estaban reduciendo costes, ofreciendo diversas opciones para trasladar a la gente del departamento.<br/><br/>
+
+			<img  class="left_b" src="http://www.vectorlogo.es/wp-content/uploads/2015/02/logo-vector-indra.jpg" border="0" alt=" logo INDRA"/>
+			En <strong>2015</strong> volvió a España y estuvo trabajando en Indra como ingeniero de desarrollo software adaptando un diseño anterior para que cumpliera nuevas normativas y añadirle ciertas funcionalidades,
+			tareas de testeo y de documentación de especificaciones técnicas así como la inclusion de nuevos SCADAS para el cliente.	<br/><br/>
+
+			<img  class="left_b" src="http://www.vectorlogo.es/wp-content/uploads/2015/11/logo-vector-ceoe.jpg" border="0" alt=" logo CEOE"/>
+			En <strong>2016</strong> comenzó un curso de seguridad informática de 500 horas así como la creación del presente sitio web que ahora mismo puedes contemplar. El curso ofrece un enfoque bastante general pero a su vez se detiene en el
+			uso práctico de diferentes herramientas de seguridad para controlar el tráfico que puede entrar y salir en una red y como con herramientas más sofisticadas que parten casi todas de Kali Linux, un sistema
+			operativo bastante parecido a Ubuntu enfocado a estos temas. También el análisis de datos al recibir un ataque o como ocultar vulnerabilidades en paquetes o descubrir esos paquetes.<br/><br/>
+
+			<img  class="left_b" src="http://logok.org/wp-content/uploads/2014/04/Orange-logo.png" border="0" alt=" logo ORANGE"/>
+			Al finalizar el curso se le ofrece realizar las prácticas en una conocida empresa de Guadalajara, Orange y terminan contratándolo como operador telefónico de soporte técnico donde adquirí habilidades sociales y comerciales a través de la atención a los clientes.<br/>
+			Al terminar las prácticas y realizar el trabajo antes de su nueva campaña de marketing finaliza el contrato temporal y vuelvo a estar a la busqueda de un nuevo empleo.<br/><br/>
+		</h4>
+	</div>
+	<div id="leftside">
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Desgined by Sergio Lopez Martinez                                                 CONTACTO <a href="guada_provincia_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

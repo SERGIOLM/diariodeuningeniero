@@ -1,0 +1,162 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Make an account in england, guide of banks in england" />
+	<meta name="description" content="List of english banks and comparative"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90367288-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<title>Diary of an engineer - Living in England - Banks - Web Site By Sergio Lopez Design</title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_travel.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a>Work abroad</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+	</div>
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_uk_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>
+				<li><a href="country_fr_es.html"><span class="segundo"><i class="icon icon-road"></i></span>Territorio</a>
+					<ul>
+						<li><a href="country_toulouse_fr_es.html"><span class="primero"><i class="icon icon-office"></i></span>Toulouse</a></li>
+					</ul></li>
+				<li><a href="work_uk_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>	
+				<li><a href="house_uk_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>	
+				<li><a href="idiom_uk_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>	
+				<li><a href="transport_uk_en.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transporte</a></li>	
+				<li><a >						<span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>					
+					<ul>
+						<li><a>Banks</a></li>					
+						<li><a href="markets_uk_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_uk_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>						
+						<li><a href="health_uk_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="social_uk_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>						
+						<li><a href="tourism_uk_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>								
+				<li><a href="transfer_uk_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>							
+			</ul>	
+		</div>						
+		<div id="banner">
+			<a href="main_uk_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_uk.jpg" alt=”banner_emprender” /></a><br />
+		</div>
+	</div>
+	<div id="langue">
+		<a href="banks_uk_es.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<a href="https://sergiolm.github.io/diariodeuningeniero/banks_uk_en.html" data-action="share/whatsapp/share"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-whatsapp_dark.jpg"></a>
+		<div class="fb-send" data-href="https://sergiolm.github.io/diariodeuningeniero/banks_uk_en.html"></div>
+	</div>
+	<div id="social_widget_s" >
+		<div class="fb-send" data-href="www.diariodeuningeniero.com/banks_uk_en.html"></div>
+		<a href="http://twitter.com/home?status=Banks in England+www.diariodeuningeniero.com/banks_uk_en.html"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-twitter.png"></a>
+		<a href="whatsapp://send?text= www.diariodeuningeniero.com/banks_uk_en.html" data-text="Banks in England-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-whatsapp.png"></a>
+	</div>
+	<div id="top_sidebar_london">
+		<div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div>
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/">Diariodeuningeniero</a></blockquote></div>
+		<br /><br /><br /><br /><br /><br />
+		<div class="fb-follow" data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<a href="https://transferwise.com/u/1bbfd"><img  src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/transferwise.jpg"  alt="transferwise"/></a>
+	</div>
+	<div id="content">
+		<h1>Banks in England</h1>		
+			<p>For earn money legally you must have a bank account registered in England. Normally there is a little problem  with the papers to have one, because sometimes you have the trouble that for rent a house or an
+			apartment they ask you for a job contract and for a job contract you need an account, so you need to do something before. Some people reject cash money so it is necessary.<br /><br />
+			Depending of the location of the bank offices sometimes you could have more probability to create the account successfully. In my case i haven´t a house before land in England, but I went to an
+			english office and I inscribe in a course with an address where i was not living, ( i was living in a hostel), and with the paper of the office I create the bank account and with the bank account
+			I got rent papers for the house.<br /><br />
+			Banks in england normally give a debit card without commission. Timetable of banks in England use to be since 9 am to 15pm and there are some days that office until evening.
+			Most of the operations are required to be done online and at difference to others banks.<br /><br />
+			In England there are a lot of banks and in London specially. Banks of all the world use to have the headquartes there because it is the economical capital of the finance world after New York. 
+			The more important banks are the next:<br /></p>
+			
+			<h2><a href="http://www.barclays.co.uk/">Barclays</a></h2>		
+			<a href="http://www.barclays.co.uk"><img class="left_b2" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Barclays_logo.svg/391px-Barclays_logo.svg.png" alt=”banks_banner1” /></a><br />
+			<p>This is one of the more important banks of England with a global strong presence. Is one of the recommended banks to creat a foreign account because it is easy to do due 
+			they not have fees or commisions. If you are foreign it is easy to create the account and they use to ask for some money in the account and living place.
+			I remember have 20 pounds for 6 months and not do any operation and the 20 pounds where there.</p>											
+			<h2><a href="https://www.lloydsbank.com/">Lloyds Bank</a></h2>	
+			<a href="https://www.lloydsbank.com/"><img class="left_b2" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/LloydsBankLogo.svg/512px-LloydsBankLogo.svg.png" alt=”banks_banner2” /></a>	<br />
+			<p>It is with Barclays the bank with the biggest number of offices distributed in many offices in England. If your are in London it is easy to create far of the centre of the town, because
+			it could give an impression that you are a tourist and not people who live in London, because renting house in the center, area 1, it is basically impossible for a normal person, even the people
+			who work in the bank live outside the center.</p>
+			<h2><a href="http://www.santander.co.uk/">Santander</a></h2>	
+			<a href="http://www.santander.co.uk/"><img class="left_b2" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banco_Santander.svg/250px-Banco_Santander.svg.png" alt=”banks_banner3” /></a>	<br />
+			<p>It is the 4th bank by number of offices in UK and even being the same bank that in spain, it is a totally different bank, with diferent rules and conditions. If you have an account bank
+			in Spain it could be easy to create the account.</p>
+			<h2><a href="https://www.hsbc.com/">HSBC</a></h2>	
+			<a href="https://www.hsbc.com/"><img class="left_b2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/HSBC.svg/300px-HSBC.svg.png" alt=”banks_banner4” /></a>	<br />
+			<p>It is the first bank in United Kingdom in volumen and it is the seventh bank biggest in the world. It has office in all the country but make a account is not that easy like the others and not
+			free of fees. </p>
+			<h2><a href="http://personal.natwest.com/personal.html">Natwest</a></h2>				
+			<a href="http://personal.natwest.com/personal.html"><img class="left_b2" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/NatWest_logo.svg/200px-NatWest_logo.svg.png" alt=”banks_banner5” /></a>	<br />
+			<p>It is one of the biggest banks in number of operations in United Kingdom. Until the date it was composing by Scotland Bank of United Kingdom but lastly it wasn't trying to absorv other banks like HSBC.</p>
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio López Martínez                        <a href="avisolegal_en.html">Legal Advisor</a>                       CONTACT<a href="contactme_en.html"><span class="primero"><i class="icon icon-mail2"></i></span></a></p>
+	</div> 
+</body>
+</html>
+

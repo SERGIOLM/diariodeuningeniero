@@ -1,0 +1,165 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Mesa river treking, Jarabas path zaragoza, mesa river zaragoza" />
+	<meta name="description" content="My trekking places in Guadalajara region. Mesa river north east of guadalajara/>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+	<title>Diary of an engineer - Know my town - Trekking in Guadalajara - Web Site By Sergio Lopez Design </title>
+	<script type="text/javascript" src="jquery-latest.js"></script>
+	<script type="text/javascript">
+	
+	var index = 0;
+    /*Array con las imagenes que se iran mostrando en la web*/
+    /*Funcion para cambiar la imagen*/
+	function change_imagen(id)
+	{	
+	    $( '#topo' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/' + id + '.jpg');
+	}
+	function hide_imagen()
+	{
+	    $( '#topo' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_mesa.png');
+	}  
+  
+	function cargar_imagenes( imagenes ) {
+	    $( imagenes ).each( function () {
+	        $( '<img/>' )[ 0 ].src = this;
+	    });
+	}
+	
+	 var title_image_ocejon=new Array(
+                                                                                     
+    );
+
+	var imagenes_mesa=new Array(
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa1.jpg',
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa2.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa3.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa4.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa5.jpg',
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa6.jpg',			        		
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa7.jpg',
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa8.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa9.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa10.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa11.jpg',
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa12.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa13.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa14.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa15.jpg'
+	                      	                           
+    ); 
+    function rotarImagenesUp()
+    {
+        index++;
+        if(index==15) index=14;  
+        document.getElementById("imagen2").src=imagenes_mesa[index];
+ 		//document.getElementById("imagen").title=title_image_ocejon[index];
+    }
+	
+    function rotarImagenesDown(id)
+    {
+        if(index==0) index=1; 
+        index--;         
+    	document.getElementById("imagen2").src=imagenes_mesa[index];
+		//document.getElementById("imagen").title=title_image_ocejon[index];
+    }
+	
+	</script>
+</head>
+
+<body>
+
+	<div id="wrapper">
+		<div id="wrapper">
+			<div id="topnav">
+				<ul>
+					<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+					<li><a href="main_en.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Work abroad</a></li>
+					<li><a>Know my town</a></li>
+					<li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+				</ul>
+			</div>
+
+			<div id="logo">
+				<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+			</div>
+			<div id="social-media">
+			</div>
+		</div>
+		<div id="wrapper2">
+			<div id="topnav">
+				<ul>
+					<li><a href="main_guadalajara_en.html"><span class="primero"><i class="icon icon-home"></i></span>Home</a></li>
+					<li><a href="guada_provincia_en.html"><span class="segundo"><i class="icon icon-earth"></i></span>Region</a></li>
+					<li><a href="guada_historia_en.html"><span class="tercero"><i class="icon icon-bookmarks"></i></span>History</a>
+					<li><a><span class="cuarto"><i class="icon icon-road"></i></span>Trekking</a>
+						<ul>
+							<li><a href="guada_saguila_en.html">Aguila y Peña Hueva</a></li>
+							<li><a href="guada_socejon_en.html">Ocejon</a></li>
+							<li><a href="guada_slobo_en.html">Lobo</a></li>
+							<li><a href="guada_shundido_en.html">Hundido de Armallones</a></li>
+							<li><a>Mesa</a></li>
+							<li><a href="guada_salarilla_en.html">Muela_alarilla</a></li>
+							<li><a href="guada_saltotajo_en.html">Kayaking at Alto Tajo</a></li>
+							<li><a href="guada_spietajo_en.html">Tajo y barranco Hoz</a></li>
+						</ul></li>
+					<li><a href="guada_gastronomia_en.html"><span class="quinto"><i class="icon icon-spoon-knife"></i></span>Gastronomy</a></li>
+					<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>
+				</ul>
+			</div>
+			<div id="banner">
+			<img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/alpiedelameseta.png" alt="banner"/><br />							
+			<a href="guada_smesa_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>
+			<a href="guada_smesa_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>
+<!--			<a href="guada_smesa_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>-->
+		</div>	
+	</div>
+
+	<div id="content-pre">
+		
+		<h1>Mesa river route by the rocks</h1>
+		<img src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_mesa.jpg" id="topo" width="600"  alt="mapa_mesa">
+	    <img class="right_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa1.jpg" id="imagen2" alt="img_mesa"   >
+	</div>
+	<div id="controles">	
+		<i class="icon icon-arrow-left" onmousedown="rotarImagenesDown()"></i>
+		<i class="icon icon-pause2" onmousedown="act_rotarImagenes('0')"></i>
+		<i class="icon icon-play3" onmousedown="act_rotarImagenes('1')"></i>
+		<i class="icon icon-arrow-right" onmousedown="rotarImagenesUp()"></i>	
+	</div>	
+	<div id="content">
+		<p>Region of Guadalajara has nothing to envy to other provinces of Spain. Here we can find wonders of nature that few people know.
+		The eastern part is quite unknown for most of the Spanish and has some of the best treasures as nature places. In the map below I present the
+		General index of hiking trails that will explain in my website where you will find truthful information as to overcome these challenges.
+		There are all levels and are marked in different colors depending on the difficulty entailed either.
+
+		If you click on the map you can see the exposed routes that I have done.
+		If you press <a onmousedown="change_imagen('topocomarcas') "> here </a> you will see the topographic map classified by the areas of the region.
+
+	    <img class="right_medium2" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa2.jpg" alt="img_mesa2"   >  
+	    <img class="right_medium2" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa3.jpg" alt="img_mesa3"   >
+
+		This route is theoretically in the region of Zaragoza but has been included to be sticking with Guadalajara, just past the ravine Valdelobos.
+		It is part of the town of Jaraba, parking the car in the vicinity of a shrine that is built against the mountain as shown in the photo uploaded.
+		This point is the origin of the route where the path will go up and will border around the ravine and then down and do the same route.
+
+		This path is circular and the maximum vertical drop is 300 meters. This shrine is only accessible on Tuesdays, with guided tour.
+		During the route we will see in information panels different stages in the formation of these strange grooves and observe cave paintings
+		and former pastors pens. <br/>
+
+		<Img class = "right_medium2" src = "http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa9.jpg" alt = "img_mesa9">
+		<Img class = "right_medium2" src = "http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa14.jpg" alt = "img_mesa14">
+		Just around the sanctuary can be seen on many occasions the flight of lion vulture, a species endemic to this area, as seen
+		in the photo.
+		The ideal time to realize it is spring, when we have a temperature not exceeding 25 degrees. We did it in the month of April
+		and even as early the sun was enough. It is advisable to wear sunscreen as this area is quite arid, hence it is called La Hoz Seca of Mesa river.
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>
+</html>

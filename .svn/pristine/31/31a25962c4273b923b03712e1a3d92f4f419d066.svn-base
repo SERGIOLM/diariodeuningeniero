@@ -1,0 +1,141 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diario de un ingeniero, emprender en francia, salir por toulouse, toulouse multicultural universitaria, ir a trabajar a toulouse" />
+	<meta name="description" content="Mi experiencia en Toulouse."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+</script>
+	
+	<title>Diario de un Ingeniero - Blog - Toulouse 2012 - Web Site By Sergio Lopez Design </title>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_fr_es.html"><span class="primero"><i class="icon icon-home"></i></span>INICIO</a></li>
+				<li><a href="country_fr_es.html"><span class="segundo"><i class="icon icon-road"></i></span>Territorio</a>
+					<ul>
+						<li><a href="country_toulouse_fr_es.html"><span class="primero"><i class="icon icon-office"></i></span>Toulouse</a></li>
+					</ul></li>									
+				<li><a href="work_fr_es.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Trabajar</a></li>
+				<li><a href="house_fr_es.html"><span class="cuarto"><i class="icon icon-office"></i></span>Vivienda</a></li>
+				<li><a href="idiom_fr_es.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Idioma</a></li>
+				<li><a href="transport_fr_es.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transporte</a></li>
+				<li><a >						<span class="septimo"><i class="icon icon-spoon-knife"></i></span>Vivir</a>					
+					<ul>
+						<li><a href="banks_fr_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Bancos</a></li>
+						<li><a href="markets_fr_es.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermercados</a></li>
+						<li><a href="telecoms_fr_es.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>
+						<li><a href="health_fr_es.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Salud</a></li>
+						<li><a href="social_fr_es.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+						<li><a>Turismo</a></li>
+					</ul></li>								
+				<li><a href="transfer_fr_es.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transferir $</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>							
+			</ul>	
+		</div>						
+		<div id="banner">
+			<a href="main_fr_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fr.jpg" alt=”banner_emprender” /></a><br />
+			<a href="blog_toulouse_fr_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>
+			<a href="blog_toulouse_fr_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>
+			<!--<a href="country_toulouse_fr_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+		</div>
+	</div>		
+	<div id="content">
+		<h1>Mi experiencia en Francia</h1>
+
+			<p>A primeros de 2012 aterrice en Toulouse con la esperanza de encontrar un trabajo y conseguir algo de experiencia laboral. </br></br>
+			<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/toulouse_fr/frescos_capitoile.jpg" alt="frescos"  />
+			Con mis títulos recien sacados no tardaría en comprender que no solo los titulos son importantes. En un principio elegi Francia debido a que mi conocimiento del francés era mucho
+			mejor que el inglés y de que lo había aprendido mucho más facilmente que en ingles. Empece en la escuela de idiomas con 13 años frente al inglés que entre con 14 años, pero salí rapido
+			de la escuela ya que cuando estaba llegando a cuarto mi nivel hablado era bastante limitado y el plan de estudios español se enfoca en la gramática y el escrito pero a la hora de pedir,
+			se exceden y no se practicaba casi en clase. De hecho a partir de los 18 años ya no volvi a la escuela de idiomas y lo deje para un momento como este donde tuviera que aprenderlo en la calle, con la realidad. </br></br>
+
+			A parte de que mi conocimiento de la lengua era mejor cuento con familia en Francia, mí tia y todos mis primos y algunos primos segundos. Estuve en casa de mí tia el primer mes donde me estuvo ayudando con
+			las busquedas de casa y con las pequeñas cosas. A partir de ahi me mude a un piso a realizar mi busqueda de empleo a Toulouse ya que mi tía vive en un pueblo a 30 km de Toulouse.
+
+			Estuve mirando muchos pisos pero me parecían muchos muy caros por una habitación ya que pedian más de 400 euros. Con ese precio en España alquilas un piso completo en mi ciudad. Y encontre uno a 300 euros,
+			a 10 minutos andando del centro de Toulouse y al lado del aereopuerto. Estuve viviendo con un ingeniero marroquí muy culto y de mente abierta con el que aprendi muchísimo acerca de las cosas de la vida.</br></br>
+
+			<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/toulouse_fr/arco_toulouse.jpg" alt="arco"  />
+			En ese período primero estuve inscrito en una escuela de frances muy prestigiosa, <a href="idiom_fr_es.html">l´Alliance Française </a>en la que estuve un único mes para tener el nivel necesario para mantener una conversación telefónica.
+			Pronto se me agotaron los 2.000 euros que portaba con lo que me puse a trabajar en lo primero que se me puso a tiro.
+			Mientras echava CVs, y aprendia idiomas o en asociaciones ya gratuitas o en los eventos o centros públicos me dedicaba a repartir catalogos de IKEA por la ciudad. Sin haber hecho nunca ningún tipo de trabajo así
+			quede número uno en el reparto de los 10 dias y me cogieron indefinido para repartir ya paquetería y publicidad en barrios asignados. Aprendi bastante de conducción mientras tuve este tipo de trabajo y no perdía el tiempo
+			ya que mientras repartia solía escuchar la radio francesa. De hecho mientras estuve alli me lo tomaba bastante en serio, y estuve bastante tiempo sin hablar español, cosa que seria completamente distinta en mis siguientes viajes.</br></br>
+
+
+			A finales de 2012  ya que la situación no era buena y varios agentes me decían de esperar porque el verano no es el tiempo propicio para encontrar trabajo en Francia, decidi que volvería a España para irme a Reino Unido.
+			En este tiempo aprendí más que en un año de universidad, había aprendido un monton en el tema de presentaciones, currículos, habia realizado multitud de entrevistas en salones, solo me faltaba mejorar mi nivel de inglés.</br></br></p>
+
+
+
+		<h2>Mi llegada a Toulouse, un entorno muy agradable</h2>
+			<p>	<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/toulouse_fr/canal_toulouse.jpg" alt="canal"  />
+			Toulouse es una ciudad universitaria y como tal hay multitud de jovenes. Además debido a sus buenas condiciones climatológicas hay un montón de estudiantes erasmus y otras partes de Francia.
+			La ciudad no tiene mucha polución y el transporte público funciona muy bien con unos precios moderados. Yo en mis primeros dias pagaba con la tarjeta de Tisseo pero al estar sin trabajo poco después me
+			dieron la gratuidad del transporte. Esto es fundamental, ya que para moverte a las empresas o las agencias si no tienes empleo es costoso.
+			De esta manera se facilita la vida a uno cuando esta en peor situación. Además hay ayudas a los alquileres, si bien por mi corta estancia no los pedí ya que si ganas poco allí dificilmente puedes pagar una vivienda.
+			Estas ayudas son posibles gracias a los altos impuestos que se pagan en Francia, estado que a mi modo de ver es demasiado socialista y a veces incurre en derroche en otros ámbitos que no comentare aquí.</br></br>
+
+			Francia ademas tiene una cultura alimentaria muy buena y el sur tiene productos de gran calidad aunque con respecto a las verduras o hortalizas no llegan al nivel de España, pero si comparamos con países del norte es perfecta.
+			Las panaderías y pastelerías de Toulouse son muy buenas y los restaurantes también aunque esto es general de Francia. Por poco más de 10 euros se puede comer muy bien en Toulouse.</br></br>
+			<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/toulouse_fr/park_toulouse.jpg" alt="park"  />
+			Existe gran sensibilidad a las bicicletas aunque no como otras partes de Europa, y casi todo el tranpsorte se hace o bien por metro o por autobus que cuenta con muchisimas lineas para una ciudad de su extensión. Además los horarios son
+			muy frecuentes y puntuales no como en España.</br></br>
+
+			Además los pueblos de alrededor son preciosos y existen muchos bosques que hacen que la calidad del aire sea muy buena. Alrededor hay muchos pueblos con grandes urbanizaciones, por lo que en extensión es muy grande ya que salvo
+			3 o 4 barrios los bloques de pisos no superan las siete plantas.</br></br></p>
+
+		<h1>Vivir en Toulouse</h1>
+			<p>La vida en Toulouse era algo montona pero divertida. Aparte del trabajo y de las entrevistas de trabajo o ferias y salones de empleo, salia bastante a hacer deporte o de fiesta.</br></br>
+			Solía ir a los cafes linguisticos o a actividades por internet. Y hubo bastantes eventos organizados por el ayuntamiento como Toulouse fluvial, donde había bastante deportes a orillas del garona.
+			El ayuntamiento prestaba los materiales para todos los deportes todos los días en verano. Todo esto en conjunto con la gente que ya conocía y con los encuentros con mi familia hizo que pasara un tiempo
+			bastante agradable.</br></br>
+			A parte existen multitud de eventos durante el año y exposiciones, en concreto en Toulouse se ubican cerca del estadio de Francia, al sur de Toulouse en la parte norte de La Garona en su cruce con Toulouse.
+			Tambien ferias agricolas donde puedes comprar variedades de hortalizas o plantas para cultivar. Ademas el gran numero de parques y zonas verdes en la ciudad y el estar rodeada de bosques hacen de la ciudad un buen lugar para pasear.</br></br>
+			<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/toulouse_fr/espantildea-italia_2.jpg" alt="esp-ita2"  />
+			Ademas es muy frecuente encontrar gente española ya que hay mucha poblacion española criada en Toulouse venida de dos epocas.
+			Por un lado los refugiados españoles de la guerra civil española del bando republicano y por otro lado de la epoca de los 60 como mis tios. Jovenes nacidos con Franco que buscaban un lugar donde prosperar.</br></br>
+			Aqui muestro unas fotos de como se viven los partidos de España en la Casa del Pueblo Español en Toulouse, con mas emocion y sentimiento que en España si cabe.</p>
+			<img class="horiz_medium" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/toulouse_fr/espantildea-italia.jpg" alt="esp-ita"  /></br></br>
+
+		<h2>Ocio y salidas Nocturas en Toulouse</h2>
+			<p>	<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/toulouse_fr/rue_toulouse.jpg" alt="rue"  />
+			En Tououse existe bastante ambiente. Como zonas de salida esta el centro de Toulouse donde existen multitud de bares y algunas pequeñas discotecas que abren algo mas tarde.
+			Normalmente los bares de noche suelen esta abiertos a partir de las 20h ya que en Francia la mayoria de la gente suele cenar a las 19h-20h.</br></br>
+			Las discotecas suelen abrir a partir de la 1 o 2 y por lo que pude ver aunque tiene cultura de beber como en España la gente se suele controlar mas a parte de que la bebida de graduacion es
+			carisima debido a los impuestos del gobierno. Mismamente ya en un supermercado el precio es mas del doble que aqui. La bebida por excelencia es el vino, que esta bastante bien.
+			Aunque no hay tapas en los bares y suele haber mas platos que raciones, la gente es mas de salir a cenar y tomar unos vinos. Eso si como dije anteriormente la mayoria de restaurantes franceses
+			son bastantes buenos en comparacion con España y los precios en comparacion con los ingresos medios de la gente bastante mejores que en España.</br></br>
+			Tambien existen los bares que hay mas fiesta de la que parece con bajos donde puedes encontrate de todo y en las zonas menos esperadas.
+			En cuanto a la noche tambien hay bastante prostitucion y droga en las calles, ya que la prostitucion no esta regulada al igual que en España.</br></br></p>
+
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>

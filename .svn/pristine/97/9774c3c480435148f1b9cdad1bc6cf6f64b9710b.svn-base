@@ -1,0 +1,107 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diary of an engineer back to spain" />
+	<meta name="description" content="Go back to spain and work again."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<!-- SCRIPT estadisticas -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90367288-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<title>Diary of an engineer - Blog - Fleet 2013 - Web Site By Sergio Lopez Design</title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_gu_wall.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper_europe">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a href="main_en.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Work abroad</a>
+					<ul>
+						<li><a href="main_uk_en.html">England</a></li>
+						<li><a href="main_fr_en.html">France</a></li>
+					</ul>
+				</li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>
+	</div>
+	<div id="banner_blog">
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<a href="blog_backspain_es_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<a href="whatsapp://send?text= www.diariodeuningeniero.com/blog_backspain_es_en.html" data-text="Back to Spain-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-whatsapp.png"></a>
+		<div class="fb-send" data-href="www.diariodeuningeniero.com/blog_backspain_es_en.html"></div>
+	</div>
+	<div id="top_sidebar_blog">
+		<div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/">Diariodeuningeniero</a></blockquote></div>
+		<div class="fb-follow" data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+	</div>
+	<div id="content">	<br />
+		<h1>Back to Spain</h1>
+			<p>In 2015 I returned to Spain where I worked in Indra for a year.
+				Then I would be taking an advanced computer security course and working as a phone operator in my city.</p>
+
+			<h2>Working in Indra</h2>
+				<p>At the end of 2014, having several months to look for work offered by Nokia, and receiving several offers in the United Kingdom I decided to return to Spain to work near the place of residence, in Indra, in Torrejón de Ardoz. <br />
+				The project dealt with the implementation of an aircraft localization system, ADSB, implemented in 2007 for certain types of radars. Development of DSP algorithms and programming.
+				At the end of the project the company decided to dispense with its services, due in part to the new strategic plan and other factors.
+				This company has great potential because it has most of the defense projects of Spain and a lot of good engineers working a lot of hours.
+				It has a large client base of various countries and the great state support. <br />
+				However the organization and management of it is quite disastrous, so it has to do a strategic plan since 2014 to reduce costs and personnel.
+				Even so I believe that in the future may have a greater role but the market is quite suspicious yet.<br /><br /></p>
+
+			<h2>Professional Computer Security Certificate</h2>
+				<p>After completing my temporary contract in Indra, I obtained a place in my city to teach a course on computer security.
+				One of the sectors with more projection of future and with greater growth in the world of the technology.
+				In Spain is starting to take off although many companies still think that they are unaware of the attacks from the network.
+				Most of the company directors of little and medium companies are not aware of the risk involved in having data on servers without any protection, be it a firewall or filters or intrusion detection systems.<br /><br /></p>
+
+			<h2>Working as phone operator in  Orange</h2>
+				<p>In August 2016 I started my security course at the company Orange in Guadalajara and started working later on technical support for clients.<br /><br /></p>
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio López Martínez                        <a href="avisolegal_en.html">Legal Advisor</a>                       CONTACT<a href="contactme_en.html"><span class="primero"><i class="icon icon-mail2"></i></span></a></p>
+	</div> 
+</body>
+</html>

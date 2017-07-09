@@ -1,0 +1,197 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content=" subir el ocejon, pico ocejon senderismo guadalajara" />
+	<meta name="description" content="Subida al pico ocejon en Guadalajara"/>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<title>Diario de un Ingeniero - Conoce mi ciudad - Senderismo en Guadalajara - Pico Ocejon - Web Site By Sergio Lopez Design </title>
+
+	<script type="text/javascript" src="jquery-latest.js"></script>
+	<script type="text/javascript">
+		var index = 0;
+		/*Array con las imagenes que se iran mostrando en la web*/
+		/*Funcion para cambiar la imagen*/
+		function change_imagen(id)
+		{
+			$( '#topo' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/' + id + '.jpg');
+		}
+		function hide_imagen()
+		{
+			$( '#topo' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_ocejon.jpg');
+		}
+
+		function cargar_imagenes( imagenes ) {
+			$( imagenes ).each( function () {
+				$( '<img/>' )[ 0 ].src = this;
+			});
+		}
+
+		 var title_image_ocejon=new Array(
+
+		);
+
+		var imagenes_ocejon=new Array(
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon1.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon2.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon3.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon4.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon5.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon6.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon7.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon8.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon9.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon10.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon11.jpg'
+		);
+		function rotarImagenesUp()
+		{
+			index++;
+			if(index==11) index=10;
+			document.getElementById("imagen2").src=imagenes_ocejon[index];
+			//document.getElementById("imagen").title=title_image_ocejon[index];
+		}
+
+		function rotarImagenesDown(id)
+		{
+			if(index==0) index=1;
+			index--;
+			document.getElementById("imagen2").src=imagenes_ocejon[index];
+			//document.getElementById("imagen").title=title_image_ocejon[index];
+		}
+	</script>
+
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+</head>
+
+<body>
+
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon address-book"></i></span>Diario de un Ingeniero</a></li>	
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="cuarto"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_guadalajara_es.html"><span class="primero"><i class="icon icon-home"></i></span>INICIO</a></li>	
+				<li><a href="guada_provincia_es.html"><span class="segundo"><i class="icon icon-earth"></i></span>Provincia</a></li>
+				<li><a href="guada_ciudad_es.html"><span class="tercero"><i class="icon icon-office"></i></span>Ciudad</a></li>
+				<li><a href="guada_historia_es.html"><span class="cuarto"><i class="icon icon-bookmarks"></i></span>Historia</a>
+					<ul>
+						<li><a href="guada_historia_I_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Origen sI-XIV</a></li>
+						<li><a href="guada_historia_II_es.html"><span class="segundo"><i class="icon icon-paste"></i></span>Apogeo s.XIV-XVI</a></li>
+						<li><a href="guada_historia_III_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Declive s.XVII-XIX</a></li>						
+						<li><a href="guada_historia_IV_es.html"><span class="cuarto"><i class="icon icon-paste"></i></span>Resurgir s.XX</a></li>
+						<li><a href="guada_historia_V_es.html"><span class="quinto"><i class="icon icon-paste"></i></span>Hoy s.XXI</a></li>
+					</ul></li>						
+				<li><a href="guada_senderismo_es.html"><span class="quinto"><i class="icon icon-road"></i></span>Senderismo</a>
+					<ul>
+						<li><a href="guada_saguila_es.html">Aguila y Peña Hueva</a></li>					
+						<li><a>Ocejon</a></li>
+						<li><a href="guada_slobo_es.html">Lobo</a></li>						
+						<li><a href="guada_shundido_es.html">Hundido de Armallones</a></li>
+						<li><a href="guada_smesa_es.html">Mesa</a></li>
+						<li><a href="guada_salarilla_es.html">Muela_alarilla</a></li>
+						<li><a href="guada_saltotajo_es.html">Piragüismo en el Alto Tajo</a></li>
+						<li><a href="guada_spietajo_es.html">Tajo y barranco Hoz</a></li>																			
+					</ul></li>					
+				<li><a href="guada_gastronomia_es.html"><span class="sexto"><i class="icon icon-spoon-knife"></i></span>Gastronomia</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>						
+			</ul>	
+		</div>
+		<div id="banner">
+			<img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/alpiedelameseta.png" alt="banner"/><br />
+		</div>
+	</div>
+	<div id="langue">
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a href="guada_socejon_en.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="guada_socejon_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>	-->
+	</div>
+
+	<div id="content-pre">
+		<h1>Ruta por el Ocejon</h1>
+		<img class="horiz_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_ocejon.jpg" id="topo" width="600"  alt="mapa_ocejon">
+	    <img class="meseta" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon1.jpg" id="imagen2" alt="img_ocejon"   >
+	</div>
+	<div id="controles">	
+		<i class="icon icon-arrow-left" onmousedown="rotarImagenesDown()"></i>
+		<i class="icon icon-pause2" onmousedown="act_rotarImagenes('0')"></i>
+		<i class="icon icon-play3" onmousedown="act_rotarImagenes('1')"></i>
+		<i class="icon icon-arrow-right" onmousedown="rotarImagenesUp()"></i>	
+	</div>
+	<div id="top_sidebar_ext">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<a class="twitter-timeline" href="https://twitter.com/diariodesergi" data-widget-id="736325529834532864">Tweets por el @diariodesergi.</a>
+	</div>
+
+	<div id="content">
+		<p>La provincia de Guadalajara no tiene nada que envidiar a otras provincias de España. En ella podemos encontrar maravillas de la naturaleza que poca gente conoce.
+			La parte este es bastante desconocida para la mayoría de los españoles y alberga unos de los mejores tesoros en cuanto a parajes senderistas se refiere. En el siguiente mapa presento el índice general de rutas senderistas que voy a explicar en mi website donde podréis encontrar información veraz de como superar estos desafíos.
+			Las hay de todos los niveles y están marcadas en diferentes colores dependiendo de la dificultad entrañada.<br/><br/>
+
+			Si pulsas en el mapa podrás ve las rutas expuestas que yo mismo he realizado.<br/><br/>
+			Si pulsas <a onmouseover="change_imagen('guada_topocomarcas')" onmouseout="hide_imagen()">aquí </a>veras el mapa topografico clasificado por las zonas de la provincia.<br/><br/>
+			<img class="right_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon4.jpg" alt="img_ocejon4"   >
+			Se parte desde el pueblo de Valverde de los Arroyos referente de la <strong>Arquitectura Negra</strong>. Este pueblo tiene siglos de antigüedad, concretamente empezó a formarse un núcleo urbano a partir
+			de la conquista de Toledo por parte de los cristianos. Poco a poco fue creciendo en población y empezaron las primeras construcciones.
+			Los pueblos de esta área solían utilizar materiales locales, ya que estaba muy aislado de otras poblaciones, de ahí que haya conservado con el tiempo esta forma de edificación.
+			La iglesia del pueblo fue terminada hace 200 años si bien ha tenido numerosas modificaciones y cuenta con una cruz procesional del siglo XVI.
+			Además cuenta con una plaza preciosa que cuenta con una fuente muy antigua rodeada por edificios típicos de la zona.
+			Los materiales usados son tales como la piedra, la pizarra o la madera o el barro dando lugar a este tipo de arquitectura que se confunde fácilmente con el entorno dejando al visitante un bonito recuerdo.<br/><br/>
+
+			En el pueblo no tendremos problemas al aparcar y hay multitud de tiendas y un par de bares donde podremos comprar algo en caso de imprevistos.
+			El Ocejón no se ve desde el pueblo ya que esta detrás de los montes que se ven en la proximidad.
+
+			<img class="right_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/ocejon/ocejon7.jpg" alt="img_ocejon7"   >
+			El pueblo se encuentra a 1200 metros de altura por lo que las condiciones para vivir en invierno son bastante duras, debido a las
+			nevadas y a las bajas temperaturas. La senda al principio es fácil y no cuesta nada subir la cuesta. Una vez se ha llegado a la mitad del desnivel a unos 1600 metros la cuesta se hace más pronunciada y el desgaste mayor. Hay numerosas piedras que habrá que lidiar hasta que lleguemos a la base de la montaña.
+			Una vez llegado a ese punto podremos proceder a subir al pico, que no son más de 150 metros más arriba pero antes pararemos a descansar y a tomar algunos víveres.
+			Allí tendremos el punto geodésico del pico donde podremos contemplar las demás montañas del sistema central y donde se podrá ver el pico Lobo, el segundo más alto de la provincia de Guadalajara, mas tirando ya hacia Madrid.<br/>
+
+			La ruta se puede hacer o bien desde Majaelrayo o bien desde Valverde de los Arroyos por lo que si uno tiene suficientes ganas se puede bajar a Majaelrayo y que alguien os pueda recoger allí.
+			Nosotros optamos por volver por Las Chorreras. Un lugar donde se acumula el agua que baja de la montaña y que esta repleto de vegetación y arboleda.<br/>
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>
+</html>

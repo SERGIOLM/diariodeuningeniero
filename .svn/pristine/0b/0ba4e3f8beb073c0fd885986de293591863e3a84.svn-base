@@ -1,0 +1,131 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Banks in France, Diario de un ingeniero, emprender en Francia, bancos en Francia,  crear cuenta en francia, guia bancos en francia" />
+	<meta name="description" content="Listado de los bancos franceses y comparativa."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<title>Diary of an engineer - Live in France - Banks - Web Site By Sergio Lopez Design</title>
+</head>
+
+<!-- SCRIPTS REDES SOCIALES. -->
+<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+<script src="https://apis.google.com/js/platform.js" async defer>
+	{lang: 'es'}
+</script>
+<script type="text/javascript">
+	window.___gcfg = {lang: 'es'};
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/platform.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+<script>
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}}(document, 'script', 'twitter-wjs');
+</script>
+<script type="text/javascript">
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){js=d.createElement(s);
+			js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a>Work abroad</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>
+	<div id="wrapper2">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_fr_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>
+				<li><a href="country_fr_en.html"><span class="segundo"><i class="icon icon-road"></i></span>Country</a>
+					<ul>
+						<li><a href="country_paris_fr_es.html"><span class="primero"><i class="icon icon-office"></i></span>Paris</a></li>
+						<li><a href="country_toulouse_fr_es.html"><span class="primero"><i class="icon icon-office"></i></span>Toulouse</a></li>
+					</ul></li>
+				<li><a href="work_fr_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>
+				<li><a href="house_fr_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>
+				<li><a href="idiom_fr_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>
+				<li><a href="transport_fr_en.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transport</a></li>
+				<li><a><span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>
+					<ul>
+						<li><a>Banks</a></li>
+						<li><a href="markets_fr_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_fr_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>
+						<li><a href="health_fr_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="social_fr_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+						<li><a href="tourism_fr_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>
+				<li><a href="transfer_fr_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>
+			</ul>
+		</div>
+		<div id="banner">
+			<a href="banks_fr_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fr.jpg" alt=”banner_emprender” /></a>	<br />
+			<a href="banks_fr_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>
+			<a href="banks_fr_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>
+			<!--<a href="banks_fr_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>-->
+		</div>
+	</div>
+	<div id="top_sidebar_ext">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<a class="twitter-timeline" href="https://twitter.com/diariodesergi" data-widget-id="736325529834532864">Tweets por el @diariodesergi.</a>
+	</div>
+	<div id="content">
+		<h1>French banks</h1>
+			<p>For earn money you will need a bank account in France. Normally there is a little problem  with the papers to have one, because sometimes you have the trouble that for rent a house or an
+			apartment they ask you for a job contract and for a job contract you need an account, so you need to do something before. Some people reject cash money so it is necessary.<br /><br />
+			But in most of cases if you are spanish there is not a lot of problems. If you put some spanish goods as guarantees you could create an account easily. If you are in a house as a guest you can put as that
+			in the account. If you have some friends or some family there it will be easier.	<br /><br />
+			In addition most of the banka give some benefits to students and young people because all the banks in France charge comissions than could arrive to 2 euros.
+			If you are foreign the banks could offer you a card debit by default but if not you need to pay an extra for htis service. For receive and pay money it is very used bank check and it is provided by the
+			bank when you open a bank account. It is so used than there is people who pay by bank check to shop even for quantities which are less than 10 euros.<br /><br />
+
+			Office timetalbes use to be since 8 to 19 hours and saturdays until 12 hours.<br /><br />
+			The more important banks are the nexts :<br /></p>
+			<h2><a href="https://www.credit-agricole.fr/">Credite Agricole</a></h2>		
+			<a href="https://www.credit-agricole.fr/"><img class="left_b2" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a6/Cr%C3%A9dit_Agricole.svg/langfr-180px-Cr%C3%A9dit_Agricole.svg.png" alt=”banks_fr_banner1” /></a><br />
+			<p>Is one of the banks more importants and the fusion with different banks. It is the second group of minority bank of Europe.</p>
+			<h2><a href="http://www.banquepopulaire.fr/">Banque Populaire</a> y <a href="https://www.caisse-epargne.fr/">Caisse d´épargne</a></h2>		
+			<a href="http://www.banquepopulaire.fr/"><img class="left_b2" src="https://upload.wikimedia.org/wikipedia/fr/8/8d/Banque_Populaire_logo_2011.png" alt=”banks_fr_banner2” /></a><br />
+			<a href="https://www.caisse-epargne.fr/"><img class="left_b2" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Caisse_depargne_logo.svg/langfr-220px-Caisse_depargne_logo.svg.png" alt=”banks_fr_banner2” /></a><br />			
+			<p>Is one of the groups with more agencies in France and has about 20 different regional banks. It has about 8 million of clients.</p>
+			<h2><a href="https://www.labanquepostale.fr/">Banque Postale</a></h2>	
+			<a href="https://www.labanquepostale.fr/"><img class="left_b2" src="https://www.labanquepostale.fr/etc/designs/labanquepostale/particuliers/images/bp-app/fb_bp.jpg" alt=”banks_fr_banner3” /></a><br />
+			<p>It is one of the more popular banks in France.</p>
+			<h2><a href="https://mabanque.bnpparibas/">BNP Paribas</a></h2>	
+			<a href="https://mabanque.bnpparibas/"><img class="left_b2" src="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_BNP_Paribas.svg/langfr-330px-Logo_BNP_Paribas.svg.png" alt=”banks_fr_banner4” /></a><br />
+			<p>It is a bank very popular in the international sphere. It has record of daily operations.</p>
+			<h2><a href="https://www.credit-du-nord.fr/">Credit du Nord</a></h2>	
+			<a href="https://www.credit-du-nord.fr/"><img class="left_b2" src="https://www.credit-du-nord.fr/instit/IPI/cms/multicanal/Bibliotheques/Images/Images_simples/Logos/Logos_Home/CDN//Fichier" alt=”banks_fr_banner5” /></a><br />
+			<p>It is lighter than the others and it is composed by 8 regional banks.</p>
+
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>
+</html>
+

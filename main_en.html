@@ -1,0 +1,232 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_emprender.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="countries of euro to start, work abroad" />
+	<meta name="description" content="Main web about how to start in another country"/>	
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+		function change_image( id )
+		{
+			$( '#Europe' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/' + id + '1.png');
+
+		}
+		function hide_image()
+		{
+			$( '#Europe' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/Europe1.png');
+		}
+		function change_banner( id )
+		{
+			$( '#banner_main' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/emprender_' + id + '.jpg');
+			$( '#country_sel' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/' + id + '_select.jpg');
+		}
+		function hide_banner( id )
+		{
+			$( '#banner_main' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/emprender_fuera_de_tu_pais.jpg');
+			$( '#country_sel' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/non_select.jpg');
+		}
+
+
+		function cargar_imagenes( imagenes ) {
+			$( imagenes ).each( function () {
+				$( '<img/>' )[ 0 ].src = this;
+			});
+		}
+		cargar_imagenes([
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/select_menu/Spain.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/select_menu/England.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/select_menu/Belgium.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/select_menu/France.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banner/emprender_fr.jpg',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banner/emprender_uk.jpg'
+		]);
+	</script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<!-- SCRIPT estadisticas -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90367288-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<title>Diary of an engineer - Main - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/fondo_travel.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper_europe">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a>Work abroad</a></li>
+				<li><a href="main_guadalajara_en.html"><span class="tercero"><i class="icon icon-office"></i></span>Know my town</a></li>
+				<li><a href="aboutme_en.html"><span class="cuarto"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="banner_europe">
+		<a href="main_en.html"><img class="banner" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/emprender_fuera_de_tu_pais.jpg" id="banner_main" alt=”banner_emprender” /></a><br />
+	</div>
+	<div id="langue_europe" >
+		<a href="main_es.html"><img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="main_fr.html"><img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+	</div>
+	<div id="social_widget_e" >
+		<div class="fb-send" data-href="www.diariodeuningeniero.com/main_en.html"></div>
+		<a href="http://twitter.com/home?status=Go work abroad+www.diariodeuningeniero.com/main_en.html"><img class="icono_s" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-twitter.png"></a>
+		<a href="whatsapp://send?text= www.diariodeuningeniero.com/main_en.html" data-text="Go work abroad-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono_s" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-whatsapp.png"></a>
+	</div>
+	<div id="image_europe">
+		<a href="main_uk_en.html"><img class="euro" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/non_select.jpg" id="country_sel"alt=”country_avatar” /></a>
+	</div>
+
+	<div id="content-pre-eur">
+		<img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/select_menu/Europe1.png"   id="Europe" width="1000"  alt="" usemap="#Europe_Map">
+
+		<map name="Europe_Map">
+		<area onmouseover="change_image('France'),change_banner('fr')" onmouseout="hide_image('France'), hide_banner('fr')" 
+		shape="poly" alt="" coords="562,700, 562,713, 555,713, 558,711, 559,704, 562,700" href="main_fr_en.html">
+		<area onmouseover="change_image('France'),change_banner('fr')" onmouseout="hide_image('France'), hide_banner('fr')" 
+		shape="poly" alt="" coords="562,694, 562,700, 559,704, 558,711, 555,713, 551,713, 551,712, 545,705, 546,696, 552,688, 560,683, 560,690, 562,694" href="main_fr_en.html">
+		<area onmouseover="change_image('France'),change_banner('fr')" onmouseout="hide_image('France'), hide_banner('fr')"  
+		shape="poly" alt="" coords="463,484, 562,484, 562,589, 562,694, 560,690, 560,683, 552,688, 546,696, 545,705, 551,712, 551,713, 451,713, 351,713, 351,622, 351,531, 353,533, 352,537, 357,540, 360,544, 374,548, 382,558, 389,569, 397,579, 396,581, 398,583, 396,589, 398,595, 391,611, 386,628, 375,642, 379,647, 381,654,
+		393,660, 406,664, 422,666, 426,671, 432,674, 436,680, 443,679, 449,677, 452,666, 461,660, 473,657, 482,663, 493,667, 502,673, 507,672, 513,671, 516,665, 524,664, 527,659, 531,655, 524,650, 522,642, 524,632, 517,629, 517,622, 525,620, 524,608, 524,595, 518,595, 517,600, 513,603, 512,600, 509,598, 512,594, 515,590, 516,584,
+		523,579, 528,573, 535,568, 536,571, 540,571, 540,560, 546,550, 551,539, 534,533, 517,527, 504,517, 500,516, 498,513, 495,514, 491,515, 488,510, 489,504, 482,502, 480,495, 470,491, 463,484" href="main_fr_en.html">
+		<area onmouseover="change_image('France'),change_banner('fr')" onmouseout="hide_image('France'), hide_banner('fr')" 
+		shape="poly" alt="" coords="461,484, 463,484, 470,491, 480,495, 482,502, 489,504, 488,510, 491,515, 495,514, 498,513, 500,516, 504,517, 517,527, 534,533, 551,539, 546,550, 540,560, 540,571, 536,571, 535,568, 528,573, 523,579, 516,584, 515,590, 512,594, 509,598, 512,600, 513,603, 517,600, 518,595, 524,595, 524,608,
+		525,620, 517,622, 517,629, 524,632, 522,642, 524,650, 531,655, 527,659, 524,664, 516,665, 513,671, 507,672, 502,673, 493,667, 482,663, 473,657, 461,660, 452,666, 449,677, 443,679, 436,680, 432,674, 426,671, 422,666, 406,664, 393,660, 381,654, 379,647, 375,642, 386,628, 391,611, 398,595, 396,589, 398,583, 396,581, 397,579,
+		389,569, 382,558, 374,548, 360,544, 357,540, 352,537, 353,533, 351,531, 351,526, 358,525, 363,522, 365,525, 369,526, 372,522, 378,522, 379,527, 382,531, 390,531, 396,531, 400,535, 401,531, 405,530, 403,511, 406,512, 407,515, 409,517, 417,519, 425,520, 433,516, 432,513, 432,511, 442,509, 451,504, 452,508, 453,499, 455,490,
+		461,484" href="main_fr_en.html">
+		<area onmouseover="change_image('France'),change_banner('fr')" onmouseout="hide_image('France'), hide_banner('fr')" 
+		shape="poly" alt="" coords="461,484, 455,490, 453,499, 452,508, 451,504, 442,509, 432,511, 432,513, 433,516, 425,520, 417,519, 409,517, 407,515, 406,512, 403,511, 405,530, 401,531, 400,535, 396,531, 390,531, 382,531, 379,527, 378,522, 372,522, 369,526, 365,525, 363,522, 358,525, 351,526, 351,484, 461,484" href="main_fr_en.html">
+		<!--<area onmouseover="change_image('Belgium')" onmouseout="hide_image('Belgium')" shape="poly" alt="" coords="528,503, 528,524, 515,524, 515,516, 517,511, 524,510, 525,505, 528,503" href="http://##belgium">
+	<area onmouseover="change_image('Belgium')" onmouseout="hide_image('Belgium')" shape="poly" alt="" coords="468,486, 471,491, 479,493, 482,500, 487,502, 491,506, 490,508, 489,511, 491,513, 495,512, 498,511, 505,518, 513,524, 468,524, 468,486" href="http://##belgium">
+		<area onmouseover="change_image('Belgium')" onmouseout="hide_image('Belgium')" shape="poly" alt="" coords="505,479, 528,479, 528,501, 524,499, 522,495, 518,495, 516,493, 515,486, 510,482, 505,479" href="http://##belgium">
+		<area onmouseover="change_image('Belgium')" onmouseout="hide_image('Belgium')" shape="poly" alt="" coords="487,479, 502,479, 494,482, 487,479" href="http://##belgium">
+		<area onmouseover="change_image('Belgium')" onmouseout="hide_image('Belgium')" shape="poly" alt="" coords="484,479, 487,479, 494,482, 502,479, 505,479, 510,482, 515,486, 516,493, 518,495, 522,495, 524,499, 528,501, 528,503, 525,505, 524,510, 517,511, 515,516, 515,524, 513,524, 505,518, 498,511, 495,512, 491,513, 489,511, 490,508, 491,506, 487,502, 482,500, 479,493, 471,491, 468,486, 468,484,
+		475,482, 482,482, 482,480, 484,479" href="http://##belgium">
+		<area onmouseover="change_image('Belgium')" onmouseout="hide_image('Belgium')" shape="poly" alt="" coords="484,479, 482,480, 482,482, 475,482, 468,484, 468,479, 484,479" href="http://##belgium">
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="rect" alt="" coords="74,609,463,849" href="http://##spain">
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="poly" alt="" coords="74,846, 74,844, 78,843, 81,842, 81,844, 80,848, 76,848, 74,846" href="http://##spain">
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="poly" alt="" coords="128,837, 132,841, 131,847, 128,846, 125,845, 126,841, 128,837" href="http://##spain">
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="poly" alt="" coords="91,833, 95,834, 97,838, 90,839, 91,833" href="http://##spain">
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="poly" alt="" coords="111,831, 109,834, 108,837, 105,835, 104,832, 108,831, 111,831" href="http://##spain">
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="poly" alt="" coords="163,822, 165,826, 164,831, 160,833, 162,828, 163,822" href="http://##spain">		
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="poly" alt="" coords="78,819, 84,819, 81,828, 78,825, 78,819" href="http://##spain">
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="poly" alt="" coords="176,808, 173,816, 165,819, 169,812, 176,808" href="http://##spain">
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="poly" alt="" coords="409,749, 413,750, 413,755, 408,756, 403,757, 406,753, 409,749" href="http://##spain">
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="poly" alt="" coords="440,738, 442,741, 445,744, 437,753, 435,747, 430,744, 434,740, 440,738" href="http://##spain">
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="poly" alt="" coords="452,737, 458,737, 462,740, 461,745, 456,742, 452,737" href="http://##spain">
+		<area onmouseover="change_image('Spain')" onmouseout="hide_image('Spain')" shape="poly" alt="" coords="312,622, 322,630, 337,633, 349,639, 359,640, 365,643, 374,644, 385,657, 401,665, 421,668, 430,676, 439,683, 444,681, 449,679, 449,686, 449,695, 432,701, 416,708, 411,708, 399,716, 390,727, 380,737, 380,749, 384,753, 387,757, 376,763, 368,772, 358,777, 347,782, 340,791, 325,791, 309,787,
+		290,784, 283,788, 274,790, 267,793, 266,791, 263,792, 261,783, 257,775, 258,772, 260,769, 253,762, 245,756, 245,748, 254,745, 260,739, 258,734, 254,730, 262,721, 259,712, 260,703, 271,700, 274,685, 281,674, 289,665, 288,657, 283,652, 279,647, 275,649, 272,653, 262,647, 249,643, 253,634, 254,623, 250,621, 249,617, 253,616,
+		255,613, 261,613, 265,615, 270,612, 276,610, 291,619, 312,622" href="http://##spain">
+-->
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')" 
+		shape="rect" alt="" coords="343,257,460,487" href="main_uk_en.html">
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')"  
+		shape="poly" alt="" coords="374,487, 350,487, 359,483, 369,480, 371,484, 374,487" href="main_uk_en.html">
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')" 
+		shape="poly" alt="" coords="436,487, 377,487, 381,475, 382,478, 382,480, 388,480, 391,477, 394,481, 400,482, 405,480, 408,482, 411,484, 415,483, 418,480, 423,483, 431,484, 436,487" href="main_uk_en.html">
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')" 
+		shape="poly" alt="" coords="460,450, 460,487, 438,487, 443,482, 446,483, 450,480, 451,475, 445,474, 442,469, 449,462, 458,457, 458,452, 460,450" href="main_uk_en.html">
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')" 
+		shape="poly" alt="" coords="389,392, 389,398, 384,398, 381,397, 389,392" href="main_uk_en.html">
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')" 
+		shape="poly" alt="" coords="344,382, 344,380, 350,371, 351,358, 358,357, 358,361, 360,364, 369,367, 373,374, 378,381, 376,388, 371,391, 366,394, 354,389, 344,382" href="main_uk_en.html">
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')" 
+		shape="poly" alt="" coords="391,349, 394,349, 394,353, 391,352, 391,349" href="main_uk_en.html">
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')" 
+		shape="poly" alt="" coords="378,355, 371,355, 373,345, 376,345, 380,349, 378,355" href="main_uk_en.html">
+		<area onmouseover="change_image('England')" onmouseout="hide_image('England')" 
+		shape="poly" alt="" coords="383,309, 383,313, 379,313, 383,309" href="main_uk_en.html">
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')" 
+		shape="rect" alt="" coords="345,292,460,487" href="main_uk_en.html">
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')" 
+		shape="poly" alt="" coords="378,293, 385,293, 384,296, 381,295, 379,297, 378,293" href="main_uk_en.html">
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')" 
+		shape="poly" alt="" coords="432,284, 431,286, 431,289, 425,289, 425,285, 432,284" href="main_uk_en.html">
+		<area onmouseover="change_image('England'),change_banner('uk')" onmouseout="hide_image('England'), hide_banner('uk')" 
+		shape="poly" alt="" coords="456,257, 458,257, 458,262, 457,265, 453,266, 454,261, 456,257" href="main_uk_en.html">
+		</map>
+
+	</div>
+		<div id="top_sidebar_paris">
+			<div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div>
+			<div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/">Diariodeuningeniero</a></blockquote></div>
+			<div class="fb-follow" data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div>
+			<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		</div>
+
+	<div id="content">
+
+		<p>		<p><strong>Click on the map</strong> one of the countries availables, actually <strong>France and United Kingdom</strong>.<br /><br />
+		This site has the finality to help everyone who is thinking about do life outside his country. Specially is projected to people who are thinking in England and France.
+		There are a lot of basic advices and easy ways to get objectives to begin the new life in an easy way.
+		This last part is what difference against other similar site.</p>
+
+		<p>Before begin the battle is better to have a high vision of the country we are going to.
+		Therefore it is mandatory to study the next points : </p>
+		<ul style="list-style-type:circle">		
+			<li>Demand of kind of job proposed</li>			
+			<li>Language required.</li>				
+			<li>Expenses : House, transport and food.</li>				
+			<li>Economics of the country : Interests rates, foreign exchanges.</li>			
+			<li>Familiarity with the country, similarity with our way of life.</li>			
+			<li>Leisure, sports, culture.<br /></li>
+		</ul>
+		<p>One time we have choosen the destination country the first thing to do is to choose the town where we are going to settle. That is required if we have not done a contract since our country.
+		My recommendation in this case is look in a big town to increase the posibilities to find a job. By other hand integration and find friendships are faster and easy in big towns.		
+		Once we have a good idea of the country we can change of town to another.<br /><br />	
+		Furthermore if we are not familiar with go to the grocery or cook we should informe about local food in the area. In the case there are not some food we use to eat, we need to think
+		if we can assume that or maybe we should import paying delivery taxes. It is true than in Europe, legumes and fruits use to be imported of south and due to long transport 
+		there are more preserevatives and the taste is not the same <br /><br />	
+		
+		Another point very important is the time sunset and the typical timetable. There are north countries than in north about 5 pm in winter the sun is setting, so we should profite the 
+		few hours we have to do activities outside home. For people of south missing the sun can cause to our body a lot of problems like depression and sleep disorders.</p>		 
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio López Martínez                        <a href="avisolegal_en.html">Legal Advisor</a>                       CONTACT<a href="contactme_en.html"><span class="primero"><i class="icon icon-mail2"></i></span></a></p>
+	</div> 
+</body>
+</html>

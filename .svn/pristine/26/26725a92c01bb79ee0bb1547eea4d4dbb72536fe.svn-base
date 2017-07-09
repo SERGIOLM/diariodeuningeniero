@@ -1,0 +1,158 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="puente de san pedro senderismo, barranco de la hoz" />
+	<meta name="description" content="Ruta desde Zaorejas hasta el puente San Pedro y visita al Barranco de la Hoz"/>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<title>Diario de un Ingeniero - Conoce mi ciudad - Senderismo en Guadalajara - Pie del Tajo - Web Site By Sergio Lopez Design </title>
+	<script type="text/javascript" src="jquery-latest.js"></script>
+	<script type="text/javascript">
+	
+	var index = 0;
+    /*Array con las imagenes que se iran mostrando en la web*/
+    /*Funcion para cambiar la imagen*/
+	function change_imagen(id)
+	{	
+	    $( '#topo' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/' + id + '.jpg');
+	}
+	function hide_imagen()
+	{
+	    $( '#topo' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_pietajo.png');
+	}  
+  
+	function cargar_imagenes( imagenes ) {
+	    $( imagenes ).each( function () {
+	        $( '<img/>' )[ 0 ].src = this;
+	    });
+	}
+	
+	 var title_image_ocejon=new Array(
+                                                                                     
+    );
+
+	var imagenes_pietajo=new Array(
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/pietajo1.jpg',
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/pietajo2.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/pietajo3.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/pietajo4.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/pietajo5.jpg',
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/molina1.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/hoz1.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/hoz2.jpg',	
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/hoz3.jpg'      	                           
+    ); 
+    function rotarImagenesUp()
+    {
+        index++;
+        if(index==9) index=8;  
+        document.getElementById("imagen2").src=imagenes_pietajo[index];
+ 		//document.getElementById("imagen").title=title_image_ocejon[index];
+    }
+	
+    function rotarImagenesDown(id)
+    {
+        if(index==0) index=1; 
+        index--;         
+    	document.getElementById("imagen2").src=imagenes_pietajo[index];
+		//document.getElementById("imagen").title=title_image_ocejon[index];
+    }
+	
+	</script>
+</head>
+
+<body>
+
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon address-book"></i></span>Diario de un Ingeniero</a></li>	
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="cuarto"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_guadalajara_es.html"><span class="primero"><i class="icon icon-home"></i></span>INICIO</a></li>	
+				<li><a href="guada_provincia_es.html"><span class="segundo"><i class="icon icon-earth"></i></span>Provincia</a></li>		
+				<li><a href="guada_historia_es.html"><span class="tercero"><i class="icon icon-bookmarks"></i></span>Historia</a>
+					<ul>
+						<li><a href="guada_historia_I_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Origen sI-XIV</a></li>					
+						<li><a href="guada_historia_II_es.html"><span class="segundo"><i class="icon icon-paste"></i></span>Apogeo s.XIV-XVI</a></li>
+						<li><a href="guada_historia_III_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Declive s.XVII-XIX</a></li>						
+						<li><a href="guada_historia_IV_es.html"><span class="segundo"><i class="icon icon-paste"></i></span>Resurgir s.XX</a></li>
+						<li><a href="guada_historia_V_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Hoy s.XXI</a></li>						
+					</ul></li>						
+				<li><a href="guada_senderismo_es.html"><span class="cuarto"><i class="icon icon-road"></i></span>Senderismo</a>
+					<ul>
+						<li><a href="guada_saguila_es.html">Aguila y Peña Hueva</a></li>					
+						<li><a href="guada_socejon_es.html">Ocejon</a></li>
+						<li><a href="guada_slobo_es.html">Lobo</a></li>						
+						<li><a href="guada_shundido_es.html">Hundido de Armallones</a></li>						
+						<li><a href="guada_smesa_es.html">Mesa</a></li>
+						<li><a href="guada_salarilla_es.html">Muela_alarilla</a></li>
+						<li><a href="guada_saltotajo_es.html">Piragüismo en el Alto Tajo</a></li>
+						<li><a>Tajo y barranco Hoz</a></li>																			
+					</ul></li>					
+				<li><a href="guada_gastronomia_es.html"><span class="quinto"><i class="icon icon-spoon-knife"></i></span>Gastronomia</a></li>														
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>						
+			</ul>	
+		</div>						
+		<div id="banner">
+			<img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/alpiedelameseta.png" alt="banner"/><br />							
+			<a href="guada_spietajo_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>
+			<a href="guada_spietajo_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>
+			<!--<a href="guada_spietajo_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>-->
+		</div>	
+	</div>
+
+	<div id="content-pre">
+		
+		<h1>Ruta al pie del Tajo y subida en El Barranco de la Hoz</h1>
+		<img class="horiz_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_pietajo.jpg" id="topo" width="450"  alt="mapa_ocejon">
+	    <img class="right_big2" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/pietajo1.jpg" id="imagen2" alt="img_pietajo"   >	
+	</div>
+	<div id="controles">	
+		<i class="icon icon-arrow-left" onmousedown="rotarImagenesDown()"></i>
+		<i class="icon icon-pause2" onmousedown="act_rotarImagenes('0')"></i>
+		<i class="icon icon-play3" onmousedown="act_rotarImagenes('1')"></i>
+		<i class="icon icon-arrow-right" onmousedown="rotarImagenesUp()"></i>	
+	</div>	
+	<div id="content">
+		<p>La provincia de Guadalajara no tiene nada que envidiar a otras provincias de España. En ella podemos encontrar maravillas de la naturaleza que poca gente conoce.
+			La parte este es bastante desconocida para la mayoría de los españoles y alberga unos de los mejores tesoros en cuanto a parajes senderistas se refiere. En el siguiente mapa presento el
+			índice general de rutas senderistas que voy a explicar en mi website donde podréis encontrar información veraz de cómo superar estos desafíos.
+			Las hay de todos los niveles y están marcadas en diferentes colores dependiendo de la dificultad entrañada.
+
+			Si pulsas en el mapa podrás ve las rutas expuestas que yo mismo he realizado.
+			Si pulsas <a onmouseover="change_imagen('guada_topocomarcas')" onmouseout="hide_imagen()"  >aqui </a>veras el mapa topográfico clasificado por las zonas de la provincia.<br/><br/>
+			La salida se realiza desde Zaorejas y se va en coche. Esta ruta es un paseo por el parque natural del río Tajo. Se sube al mirador del Alto Tajo y posteriormente se va bajando hasta llegar a Puente de San Pedro donde podremos bañarnos y realizar
+			actividades acuáticas como kayak o piragüismo.   <br/><br/>
+			<img class="right_medium2" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/pietajo2.jpg" alt="img_pietajo2"   >
+			<img class="right_medium2" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/pietajo4.jpg" alt="img_pietajo4"   >
+			<br/><br/>
+
+			<img class="right_medium2" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/hoz1.jpg" alt="img_hoz1"   >
+			<img class="right_medium2" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/pietajo/hoz2.jpg" alt="img_hoz2"  >   <br/>  <br/>
+
+			Yendo en coche podremos ir a disfrutar un poco de un tramo del Barranco de la Hoz, donde existe una ermita santuario a la virgen y podremos observar las magníficas vistas de esta comarca.
+			Por la parte de abajo existen numerosos saltos en el rio y unas vistas increíbles, de las mejores de la provincia de Guadalajara.</p><br /></p>
+		<br/><br/>				
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>
+</html>

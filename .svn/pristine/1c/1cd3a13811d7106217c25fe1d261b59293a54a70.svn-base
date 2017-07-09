@@ -1,0 +1,108 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="italian referendum 2016, banks italian referendum, italian reform referendum bank" />
+	<meta name="description" content="italian referendum 2016, market reaction."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+	</script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<title>DDiary of an engineer - Diary of an engineer - Economics 2016 - Italian referendum -Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_markets.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+<div id="wrapper">
+	<div id="topnav">
+		<ul>
+			<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+			<li><a href="main_en.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Work abroad</a></li>
+			<li><a href="main_guadalajara_en.html"><span class="tercero"><i class="icon icon-office"></i></span>Know my town</a></li>
+			<li><a href="aboutme_en.html"><span class="cuarto"><i class="icon icon-profile"></i></span>About me</a></li>
+		</ul>
+	</div>
+	<div id="logo">
+		<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+	</div>
+</div>
+<div id="langue_europe" >
+	<a href="blog_eco2016_itareferendum_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+	<a><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+	<a href="blog_eco2016_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/back.jpg" alt=”BACK” /></a>
+</div>
+<div id="top_sidebar_blog">
+	<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+	<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+	<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+</div>
+<div id="content-pre">
+	<h1 style="color:saddlebrown;   -webkit-text-fill-color: white;-webkit-text-stroke-color: black;-webkit-text-stroke-width: 1px; font-size:36px;  text-align: center;">Italian Referendum</h1>
+	<br /><br /><br />
+</div>
+
+	<div id="content">
+		<p>At the end of December it happened last event of the year in the European Union. <br />
+		Italy's referendum was aimed at strengthening the power of the executive and avoiding the ungovernability of the country that has ruled for years.
+		In <strong> Italy the parliament is too fragmented </strong> and is not enough with half of the parliament to change certain laws sometimes happens in Spain.
+		This mixture of parties and contrasts often means that there are measures that can not be executed by the number of currents within the party.
+		In my opinion it is a good idea that <strong> suppressed the senate, but rather that the first party need the majority should be necessary to have a second round to choose the president between two or three candidates </strong>..<br /><br />
+
+		<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_Renzi.jpg" alt=”Renzi” />
+		Mateo Renzi, a young social-democratic politician, played this way to follow his mandate.
+		A mandate in which he was not even elected and is that the average years of presidents in Italy is 1 year.
+		<Strong> Renzi in this case had everything to lose </strong> even though it is one of the few that generates <strong> less rejection by the population </strong>.
+		He is among the politicians who carry in his program continue with old Italy as Berlusconi or the Northern League, or those who want to destroy everything built for years as the Anti-European Five-Star Movement.
+		In addition, his plan was also rejected by a large number of left-wing parties that see in the measures proposed by the referendum in order to have a role in the hinge parliament that has done so much damage in many countries.<br /><br />
+
+		So after the resounding failure of the referendum, supported mostly by people with a stable life as the largest population, and some social-democrats or some young people who want to give a chance to change.
+		Renzi resigned as he had promised and left Italy as it was, but with a banking and economic problem difficult to solve.
+		As soon as he left office he was replaced and elections are expected next year.
+		Elections no matter what happens they will not be able to end the problem that Italy suffers.<br /><br />
+
+		In the markets there was a tenuous answer to the downfall after knowing the results and is that already was deducted the defeat of the Renzi.
+		But what nobody expected was that after the failure to two days the main European indexes rose strongly.
+		This was largely due to the conciliatory and hopeful words of ECB President Mario Draghi.
+		He promised to inject money to the affected banks for their possible bailout, and to imply that whatever happened in the referendum would not have a great weight in case of not forging.
+		If you look at the following chart we can see how the negative result of the referendum was discounted from the markets, although the euro the previous day rose in the hope that it could make a sudden change.
+		This is because in that case the euro would have skyrocketed since there is no positive news of the euro zone of any event for a long time.
+		Once finished it was seen as <strong> the Italian MIB index continued with the bullish path </strong> that already had begun the two days before.
+		Italian market had hardly risen against other indices after the victory of Trump by the uncertainty surrounding the referendum.<br />
+		<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_italian_referendum_MIBvsEURIndex_1h.jpg" alt=”Renzi” />
+
+		<strong>Italian elections are expected in Italy in 2017 </ strong>, where a victory of the </strong> 5 Star Movement <strong> could </strong> adversely affect the euro and the markets and political instability </strong> could stop the hikes that occur.
+		That added to the already known <strong> elections of France and Germany and the possible Greek elections makes 2017 also a very volatile year in European equity </strong>.</p>
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio Lopez Martinez                                                 CONTACT <a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

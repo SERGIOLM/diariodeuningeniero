@@ -1,0 +1,128 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Caida del petroleo 2016 analisis, minimos del petroleo registrados en enero 2016" />
+	<meta name="description" content="Caida del petroleo en 2016"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+	</script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<title>Diario de un Ingeniero - Blog - Analisis economia 2016 - Caida del petroleo -Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_markets.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+	</div>
+	<div id="langue_europe" >
+		<a><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a href="blog_eco2016_petrol_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<a href="blog_eco2016_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/back.jpg" alt=”BACK” /></a>
+	</div>
+	<div id="top_sidebar_blog">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+	</div>
+	<div id="content-pre">
+		<h1 style="color:saddlebrown;   -webkit-text-fill-color: white;-webkit-text-stroke-color: black;-webkit-text-stroke-width: 1px; font-size:36px;  text-align: center;">Sobreoferta petroleo</h1>
+		<br /><br /><br />
+	</div>
+
+	<div id="content">
+		<h1>Mínimos en 10 años</h1>
+		<p>Obervando el gráfico se aprecia que<strong> los precios no estuvieron por debajo de 30$ desde despues de la crisís crediticia de Estados Unidos de 2008</strong> donde la situacion de las bolsas era muy diferente a la actual.
+		Desde entonces la recuperación de los precios fue progresiva hasta alcanzar el entorno de los 100 $ en el que la demanda y la oferta se mantuvo estable.
+		A partir de entonces nada remarcable sucedio hasta comienzos del 2015.
+		Desde entonces la demanda ha ido bajando y la oferta lejos de reducirse a aumentado un 10% durante todo 2015. Llegando a la crisis de comienzos de año.<br />
+		<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_brent_1M.jpg" alt=”brent_1M” /><br />
+
+		A principios de 2016 contemplamos atónitos la bajada imparable del crudo. Se llegó a mínimos en una década ya olvidados, muy cercanos al coste de producción.
+			<strong>Esta sobreoferta fue propiciada por el primer país productor de crudo, Arabia Saudi, y por Rusia que no pararon de bombear petróleo</strong>.
+		Si bien en el caso de Rusia responde a las necesidades económicas del país que basa una gran parte de su PIB en la industria gasística y petrolera.
+		Mientras que Arabia Saudí era más bien en respuesta a su principal enemigo, Irán, que por primera vez iba a estar exento de embargos comerciales por parte de Estados Unidos y Europa y ya había comenzado a abrir varios pozos petroleros con el fin de la exportación.<br /> <br />
+
+		También con respuesta <strong>la apertura de pozos en Estados Unidos y en otros sitios del planeta con la técnica del “frakking”</strong>.
+		Una técnica en la que se extrae petróleo a mucha profundidad estableciendo métodos hidráulicos que son costosos y peligrosos.
+		Recordemos que BP tuvo hace dos años una explosión en una de sus petroleras	que aparte de costar vidas humanas esparció millones de toneladas de crudo por todo el Atlántico, contaminando ecosistemas y especies marinas.
+		Esta técnica sale rentable a partir de los 50 dólares por barril. Así que la mayoría de plataformas fueron cerradas y el 90% de prospecciones para encontrar reservas canceladas.<br /><br />
+
+		Así las cosas pronto entrarían los Saudíes en razón y recortarían la producción para llegar a unos mejores precios con los que Estados Unidos siguiera sin abrir nuevos pozos y ellos no sufrieran perdidas.
+		Esto fue cuando el <strong>precio medio del barril se estabilizo a los 45$</strong>.
+		Aun así, no era suficiente para ellos y para <strong>otros países golpeados por la crisis ajenos a la OPEP como Venezuela, Nigeria, Brasil o Irak</strong>.
+		Países con tremendas dificultades políticas y económicas.<br /><br />
+
+		Las rencillas irreconciliables por parte de Irán y Arabia Saudita hicieron fracasar el primer acuerdo de recorte del crudo en verano y se dejó para una futura ocasión.
+		Sin embargo <strong>los precios no volverían a bajar más de 40$ por la congelación de la producción</strong>.<br /><br />
+
+		A partir de Septiembre se realizó un <strong>nuevo intento </strong>de aminorar producciones como resultado de <strong>la cumbre de Viena </strong>que ocurrió en Diciembre donde <strong>los miembros da OPEP acordaron el recorte de cerca de 1.2 millones de barriles diarios</strong>.
+		<strong>Fuera de la OPEP se recortó la producción, siendo Rusia</strong> el principal gestor de estas reuniones.
+		Estos recortes empezarán a realizarse en <strong>Enero del próximo año si bien los cambios ya se han realizado en la cotización	del crudo habiéndose apreciado cerca de un 25%</strong>.
+		Pasando a estar ahora en una horquilla entre 50$ y 57$. <br /><br />
+
+		Debido a la subida del precio del dólar la oscilación en el último mes ha sido brusca pero en próximos meses el precio será algo más estable.
+		Desde mi punto de vista esto <strong> debería desembocar en un precio de unos 60-65$</strong> . <br /><br />
+		Aun habiendo estos cambios, la situación no es para nada halagüeña en lo que se refiere al mercado del crudo ya que tiene que hacer frente a los siguientes problemas:</p>
+		<ul>
+			<li>La menor demanda del mismo por parte de China que está reduciendo su producción y más con las medidas “antidumping” por parte de la UE y USA.</li>
+			<li>El descubrimiento de nuevos yacimientos que en los próximos años pueden ser explotados como el último de Brasil que se estima que puede ser el mayor hasta la fecha convirtiéndole en primer país con mayor capacidad.</li>
+			<li>La reapertura de la extracción y expotación en Kazaghan, ciudad de Kazahistan que podría alcanzar los 1.6 millones de barriles diarios, una cantidad enorme que podría desequilibrar el mercado. </li>
+			<li>El crecimiento de la producción en los países nórdicos y Canadá, que están tirando de sus reservas ya que presuponen correctamente el declive y que es mejor vender a estos precios a no venderlos en el futuro.</li>
+			<li>Y el más importante, la implementación de los coches eléctricos en toda Europa y en China en particular que pueden suponer un 25% del parque total de automóviles en 2020 y que podría terminar con los	motores de combustión probablemente en 2030.
+			A parte del incremento de la polución en las,grandes ciudades europeas que ya han traído consigo medidas por parte de los ayuntamientos para limitar el uso del automóvil y propiciar un uso más responsable y el del transporte público.</li>
+		</ul>
+
+		<p>
+		Tras esto <strong> mis estimaciones para 2017</strong>  se pueden ver en el siguiente gráfico:<br />
+		<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_brent_1D_future.jpg" alt=”brent_1D_future” /><br />
+
+		Por ello, cualquier inversión relacionada con el petróleo para este año sera bastante buena opción ya que queda bastante margén por recuperar en todos los valores como <strong>petróleras y empresas de refinado </strong>.
+		En cambio esta subida de precios puede ser negativa para <strong>aerolíneas y empresas de transporte</strong> ya que suponen un incremento en sus gastos.<br /><br />
+		Así con estas variables estimo que la subida del petróleo puede tener los días contados y no le queden más de dos años, por ello el sector petrolero puede ser buena inversión durante los próximos dos años,
+		si bien va a haber una reducción increíble de la demanda siempre se necesitará para otros fines industriales, pero la caída que sufra con el coche eléctrico será brutal.</p>
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Desgined by Sergio Lopez Martinez                                                 CONTACTO <a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

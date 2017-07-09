@@ -1,0 +1,184 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diario de un ingeniero, emprender en Francia, informacion para extranjeros en Francia, viajar a Francia" />
+	<meta name="description" content="Principal de como emprender en Francia"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<style type="text/css">
+    	/* Tabla   */	    
+	    table 
+	    {
+	       border:2px solid black;
+	       border-collapse:separate;
+	       border-spacing:10 px;
+	       width:900px;
+	       height:auto;
+	       font-size:medium;
+	       font-family:arial;
+	       margin-bottom:5px;
+	       text-align:center;	       
+	     }
+	    tr.color {	background-color:navy;												
+	    }	       
+	    th, td {	display:table-cell; border:2px solid black; padding:10 px;					
+	    }  
+	</style>
+	<script>
+    /*Array con las imagenes que se iran mostrando en la web*/
+    var imagenes=new Array(
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/home_fr/main1_fr.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/home_fr/main2_fr.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/home_fr/main3_fr.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/home_fr/main4_fr.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/home_fr/main5_fr.jpg', 
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/home_fr/main6_fr.jpg'           
+    );
+ 
+    /*Funcion para cambiar la imagen*/
+    function rotarImagenes()
+    {
+        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+        var index=Math.floor((Math.random()*imagenes.length));
+ 
+        // cambiamos la imagen
+        document.getElementById("imagen").src=imagenes[index];
+    }
+ 
+    /*Función que se ejecuta una vez cargada la página*/
+    onload=function()
+    {
+        // Cargamos una imagen aleatoria
+        rotarImagenes();
+ 
+        // Indicamos que cada 5 segundos cambie la imagen
+        setInterval(rotarImagenes,5000);
+    }
+	</script>
+	<title>Diario de un Ingeniero - Emprender en Francia - Inicio - Web Site By Sergio Lopez Design </title>	
+</head>
+
+
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+
+	</div>	
+	
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a>INICIO</a></li>	
+				<li><a href="country_fr_es.html"><span class="segundo"><i class="icon icon-road"></i></span>Territorio</a></li>					
+				<li><a href="work_fr_es.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Trabajar</a></li>	
+				<li><a href="house_fr_es.html"><span class="cuarto"><i class="icon icon-office"></i></span>Vivienda</a></li>	
+				<li><a href="idiom_fr_es.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Idioma</a></li>	
+				<li><a href="transport_fr_es.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transporte</a></li>	
+				<li><a><span class="septimo"><i class="icon icon-spoon-knife"></i></span>Vivir</a>
+					<ul>
+						<li><a href="banks_fr_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Bancos</a></li>					
+						<li><a href="markets_fr_es.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermercados</a></li>
+						<li><a href="telecoms_fr_es.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telefonia</a></li>						
+						<li><a href="health_fr_es.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Salud</a></li>
+						<li><a href="fun_fr_es.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>						
+						<li><a href="tourism_fr_es.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Turismo</a></li>
+					</ul></li>								
+				<li><a href="transfer_fr_es.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transferir $</a></li>	
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>						
+			</ul>	
+		</div>						
+		<div id="banner">
+			<a href="main_fr_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fr.jpg" alt=”banner_emprender” /></a>	<br />	
+			<a href="main_fr_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>	
+			<a href="main_fr_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>	
+			<!--<a href="main_fr_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+		</div>	
+	</div>	
+	<div id="slides">	
+		<img class="horiz_slides"  src="" id="imagen"alt="banner"/>	
+	</div>
+	<div id="content">
+		<p>Esta es la seccion sobre Francia, un pa{is limitrofe con España que comparte parte del espiritu mediterraneo, ya que su dieta es algo similar a la nuestra, mas en el sur y 
+		su lengua proviene del latin al igual que la nuestra..<br />
+		<p>Segun los requerimientos para emprender en un pais y atendiendo a la prioridad dispone de buenas caracteristicas, si bien a diferencia de Inglaterra en este caso hay que estar motivado,
+		y gustar de alguna manera la cultura francesa ya que es para mi uno de los motivos principales para intentar formar parte de este pais. Aqui muchos de las experiencias ganadas seran mas
+		especificas para este pais a diferencia de Inglaterra que al ser una conjuncion de culturas y no tener claramente una identidad definida ya que esta mezclandose todo demasiado en los ultimos tiempos,
+		en Francia estas el espiritu frances, sus valores y su forma de pensar queda inalterado.</p>
+		<table >
+		<tbody>
+			<tr class="color">
+                <th>Puntuacion</th>
+                <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th>
+            </tr>
+			<tr>
+                <th style="width:300px">Empleo*</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td>
+			</tr>
+			<tr>
+                <th>Idioma</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td>                        
+            </tr>
+			<tr>
+                <th>Gastos**</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td>
+            </tr>
+			<tr>
+                <th>Economía en el país***</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td>
+            </tr>
+			<tr>
+                <th>Supermercados****</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td>
+            </tr>
+			<tr>
+                <th>Ocio, cultura</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td>
+            </tr>
+			<tr>
+                <th>Deporte</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td>
+            </tr>
+			<tr>
+                <th>Mentalidad gente*****</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td><td class="n"></td>
+            </tr>
+			<tr>
+                <th>Clima</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td>
+            </tr>                    
+		</tbody>
+    	</table>
+        <p style="font-style:italic">
+		<ul>         
+			<li>Demanda de empleoy nivel de paro.</li> 
+			<li>** Vivienda, transporte y alimentación.</li>
+			<li>***Divisa, tipos de interés.</li> 
+			<li>****Facilidad para encontrar alimentos que nos sean familiares.</li>
+			<li>*****Sobre poblacion autoctona.</li>				
+		</ul> </p>	
+		<p>Una pagina realmente util para los que acaban de llegar es esta :</p>
+		<a href="https://www.service-public.fr/"><img class="left_b2" src="https://www.service-public.fr/resources/v-2e752ce060/web/img/logo-service-public.png" alt=”work_banner2” /></a><br />
+		
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>
+</html>

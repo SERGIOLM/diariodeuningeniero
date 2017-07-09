@@ -1,0 +1,165 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_emprender.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="diario de un ingeniero, blog diario de un ingeniero" />
+	<meta name="description" content="Blog de diario de un ingeniero"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<title>Diary of an engineer - Main - Web Site By Sergio Lopez Design </title>
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+		function change_image( id )
+		{
+			$( '#Europe' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/' + id + '.png');
+
+		}
+		function hide_image()
+		{
+			$( '#Europe' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/Europe.png');
+		}
+		function change_banner( id )
+		{
+			$( '#banner_main' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_' + id + '.jpg');
+			$( '#country_sel' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/banners/' + id + '_select.jpg');
+		}
+		function hide_banner( id )
+		{
+			$( '#banner_main' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fuera_de_tu_pais.jpg');
+			$( '#country_sel' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/banners/non_select.jpg');
+		}
+
+
+		function cargar_imagenes( imagenes ) {
+			$( imagenes ).each( function () {
+				$( '<img/>' )[ 0 ].src = this;
+			});
+		}
+		cargar_imagenes([
+				'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/Spain.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/England.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/Belgium.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/France.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/banner/emprender_fr.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/banner/emprender_uk.jpg'
+		]);
+	</script>
+
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	
+</head>
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a>Diario de un Ingeniero</a></li>	
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="tercero"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="cuarto"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+	</div>
+	<div id="langue_europe" >
+		<a href="main_blog_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a href="main_blog_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="main_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+	</div>
+	<div id="top_sidebar_ext">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<a class="twitter-timeline" href="https://twitter.com/diariodesergi" data-widget-id="736325529834532864">Tweets por el @diariodesergi.</a>
+	</div>
+
+	<div id="pre-content">
+		<h1>                                    Bienvenido a mi Blog</h1>
+		<br /><br /><br />
+	</div>
+	<div id="content">
+
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_backspain_es_es.html">Vuelta a España</text_banner></a>
+				<a href="blog_backspain_es_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/guadalajara_banner.jpg"  alt="fleet"  /></a>
+				<h5>En 2015 volveria a España donde trabajaria en Indra, en Madrid.</h5>
+				<h6>20 Diciembre 2015</h6>
+			</div>
+		</div>
+		<br /><br />
+
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_fleet_uk_es.html">Mi estancia en Fleet</text_banner></a>
+				<a href="blog_fleet_uk_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/fleet_banner.jpg"  alt="fleet"  /></a>
+				<h5>Despues de Stratford consegui un trabajo en NSN donde estaria mas de un año en proyectos relacionados con las BTSs.</h5>
+				<h6>20 Diciembre 2014</h6>
+			</div>
+		</div>
+		<br /><br />
+
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_stratford_uk_es.html">Mi estancia en Stratford Upon Avon</text_banner></a>
+				<a href="blog_stratford_uk_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/stratford_banner.jpg"  alt="stratford"  /></a>
+				<h5>En 2013 estuve dos meses en Stratford trabajando en una fabrica de componentes electronicos.</h5>
+				<h6>1 Septiembre 2013</h6>
+			</div>
+		</div>
+		<br /><br />
+
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_london_uk_es.html">Mi estancia en Londres</text_banner></a>
+				<a href="blog_london_uk_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/london_banner.jpg"  alt="london"  /></a>
+				<h5>En 2013 viaje a Londres para aprender el ingles y conseguir con ello las puertas a un buen trabajo en cualquier sitio.</h5>
+				<h6>1 Junio 2013</h6>
+			</div>
+		</div>
+		<br /><br />
+
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_toulouse_fr_es.html">Mi estancia en Toulouse</a></text_banner>
+				<a href="blog_toulouse_fr_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/toulouse_banner.jpg"  alt="parlament"  /></a>
+				<h5>En 2012 parti a Toulouse con la intencion de encontrar algun trabajo, aprendi mucho mas que en la carrera en lo que a la vida se refiere.</h5>
+				<h6>10 Diciembre 2012</h6>
+			</div>
+		</div>
+	</div>
+
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>
+</html>

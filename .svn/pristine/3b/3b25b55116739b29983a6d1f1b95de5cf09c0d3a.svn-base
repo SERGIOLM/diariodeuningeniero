@@ -1,0 +1,90 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diary of an engineer, live in France, diary of an engineer, live france, supermarkets France, shop in france, guide shopping France" />
+	<meta name="description" content="Guide of french supermarkets, comparative. Where to shop in france." />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+	<title>Diary of an engineer - Living in France - Supermarkets - Web Site By Sergio Lopez Design  </title>
+</head>
+<body>
+<div id="wrapper">
+    <div id="topnav">
+        <ul>
+            <li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+            <li><a href="main_guadalajara_en.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>
+            <li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+        </ul>
+    </div>
+    <div id="logo">
+        <img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+    </div>
+    <div id="social-media">
+    </div>
+</div>
+<div id="wrapper2">
+    <div id="topnav">
+        <ul>
+            <li><a href="main_fr_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>
+            <li><a href="country_fr_en.html"><span class="segundo"><i class="icon icon-road"></i></span>Country</a>
+            <li><a href="work_fr_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>
+            <li><a href="house_fr_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>
+            <li><a href="idiom_fr_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>
+            <li><a href="transport_fr_en.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transport</a></li>
+            <li><a><span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>
+                <ul>
+                    <li><a href="banks_fr_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>
+                    <li><a>Supermarkets</a></li>
+                    <li><a href="telecoms_fr_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>
+                    <li><a href="health_ufr_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+                    <li><a href="social_fr_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+                    <li><a href="tourism_fr_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+                </ul></li>
+            <li><a href="transfer_uk_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+            <li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>
+        </ul>
+		<div id="banner">
+			<a href="main_uk_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fr.jpg" alt=”banner_emprender” /></a><br />
+			<a href="markets_fr_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>
+			<a href="markets_fr_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>
+			<!--<a href="markets_fr_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>-->
+		</div>
+	</div>
+    <div id="content">
+		<h1>Supermarkets in France</h1>
+			<p>En Francia como en España existen varias cadenas de supermercados, donde se puede encontrar gran variedad de productos. </p>
+			<h2><a href="http://www.carrefour.fr">Carrefour</a></h2>
+			<a href="http://www.carrefour.fr"><img class="left_b2" src="http://www.carrefouruncombatpourlaliberte.fr/wp-content/uploads/2012/09/carrefourfr.jpg" alt=”markets_banner1” /></a><br />
+			<p>It is the giant of the supermarkets in France. This chain of supermarkets it has the biggest in all France, big roads or outside the towns. It is not only food products, it sell all kind.
+				In addition inside this centeres there are all the brands of clothes and restaurant franchises and has entreteinment spaces and creches. Shop for french people is life style, they use to pass with family
+				saturday or sunday. </p>
+			<p>In France as in Spain it exist some supermarket chains where you can find a lot of food products. </p>
+			<h2><a href="http://www.aldi.fr">Carrefour</a></h2>
+			<a href="http://www.aldi.fr"><img class="left_b2" src="http://www.aldi.fr/images/logo_nfr.png" alt=”markets_banner2” /></a><br />
+			<p>Supermarket very extended in France, there are in all France of all sizes.</p>
+			<a href="http://www.lidl.fr"><img class="left_b2" src="http://www.lidl.fr/statics/lidl-fr/ds_img/layout/Lidl-Logo_RGB_ok2016.jpg" alt=”markets_banne3” /></a><br />
+			<p>One of the supermarkets more attractive in France. Due his competitive prices and the fact he has foreign brands, as german or spanish is reference of low prices.
+				Unlike his rivals it has not so much stores.</p>
+			<a href="http://www.simplymarket.fr/"><img class="left_b2" src="http://www.simplymarket.fr/images/GBI_SIMPLY/logo.png" alt=”markets_banner4” /></a><br />
+			<p>Supermarket with shops in all french towns. In Spain it exist also and it seems like Caprabo market in category.</p>
+			<a href="http://www.auchan.fr/"><img class="left_b2" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Auchan.svg/200px-Auchan.svg.png" alt=”markets_banner5” /></a><br />
+			<p>Supermarket of same group as Alcampo. Big comercial centers as Carrefour..<br /></p>
+			<img class="right_medium" src="http://www.neozarrivants.com//upload/1348938061.jpg" alt=”markets1” />
+			<p>In addition in France there are a lot of street markets where you can find fresh products with good prices.
+				In my stay in Toulouse I use to pass near Arnaud Bernard on Sundays, same street as Compans Cafarelli. Sundays was the day where they change all the material and at last time of the middle of the day I bargain
+				the prices to the sellers to have very good price. For 10 euros I was able to buy all fruits and vegetables for two persons in a week, near 30 kgs.<br />
+				They say than french people have the better bread and has the best products in the bakerys (pattisaries). In my opinkon it is true but there is a big difference in price between hand made and industrial products.
+				A loaf of bread could cost about 50 centimes in the supermarket but in the bakery it use to be three times that price. In bakery you can spend like 50 euros montly only on bread. That it is expensive for a person
+				with the low salary in France that it is one of the biggest in Europe, around 1400 euros. This is completly different than in spain where supermarket loaf and bakery loaf could suppose a 30% more and bakerys use to
+				has even competitive prices in basic things.</p>
+	</div>
+		<div id="rightside">
+		</div>
+		<div id="footer">
+			<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+		</div> 
+</body>
+</html>
+

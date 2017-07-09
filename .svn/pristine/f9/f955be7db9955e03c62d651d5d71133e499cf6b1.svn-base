@@ -1,0 +1,247 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="plano ciudad de guadalajara, mapa de guadalajara, monumentos en guadalajara, que ver en guadalajara" />
+	<meta name="description" content="Description of town of Guadalajara, in Spain"/>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<title>Diario de un Ingeniero - Conoce mi ciudad - Ciudad de Guadalajara - Web Site By Sergio Lopez Design</title>
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+    /*Array con las imagenes que se iran mostrando en la web*/
+    var imagenes=new Array(
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_original.png',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_flash.png',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_poster.png',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_mosaico.png'        
+    );
+	/*Funcion para cambiar la imagen*/
+	function change_imagen( id )
+	{
+		$( '#Guada' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/ciudad/mapa_gu_' + id + '.jpg');
+		$( '#Guada_img' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/ciudad/i' + id + '.jpg');
+	}
+	function hide_imagen()
+	{
+		$( '#Guada' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/ciudad/mapa_gu_2D.jpg');
+		$( '#Guada_img' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/ciudad/igu.jpg');
+	}
+    function rotarImagenes()
+    {
+        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+        var index=Math.floor((Math.random()*imagenes.length));
+ 
+        // cambiamos la imagen
+        document.getElementById("imagen").src=imagenes[index];
+    }
+    onload=function()
+    {
+        // Cargamos una imagen aleatoria
+        rotarImagenes();
+ 
+        // Indicamos que cada 5 segundos cambie la imagen
+        setInterval(rotarImagenes,5000);
+    }
+	function cargar_imagenes( imagenes ) {
+	    $( imagenes ).each( function () {
+	        $( '<img/>' )[ 0 ].src = this;
+	    });
+	}
+	cargar_imagenes([
+		'http://i235.photobucket.com/albums/ee43/Sergio22/guada/ciudad/mapa_gu_3D.jpg',
+		'http://i235.photobucket.com/albums/ee43/Sergio22/guada/ciudad/mapa_gu_2D.jpg',
+		'http://i235.photobucket.com/albums/ee43/Sergio22/guada/ciudad/mapa_gu_00.jpg'
+	]);
+	</script>
+
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+</head>
+
+<body>
+
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon address-book"></i></span>Diario de un Ingeniero</a></li>	
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="cuarto"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="" id="imagen" alt="banner" />
+		</div>
+	</div>
+	<div id="wrapper_gu">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_guadalajara_es.html"><span class="primero"><i class="icon icon-home"></i></span>INICIO</a></li>
+				<li><a href="guada_provincia_es.html"><span class="segundo"><i class="icon icon-earth"></i></span>Provincia</a></li>
+				<li><a>Ciudad</a></li>
+				<li><a href="guada_historia_es.html"><span class="cuarto"><i class="icon icon-bookmarks"></i></span>Historia</a>
+				<li><a href="guada_senderismo_es.html"><span class="quinto"><i class="icon icon-road"></i></span>Senderismo</a></li>
+				<li><a href="guada_gastronomia_es.html"><span class="sexto"><i class="icon icon-spoon-knife"></i></span>Gastronomia</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>
+			</ul>
+			<a href="main_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>
+			<a href="main_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>
+			<!--<a href="main_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+		</div>
+	</div>
+	<div id="banner">
+	</div>
+
+	<div id="content_map">
+		<img src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/ciudad/mapa_gu_2D.jpg"   style="float:left" width="753" height="685" id="Guada"   alt="" usemap="#Guada_Town">
+		<img src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/ciudad/igu.jpg"  style="float:right"  width="200" height="685" id="Guada_img"   alt="">
+
+		<map name="Guada_Town">
+			<area onmouseover="change_imagen('01')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="275,147, 278,152, 277,162, 272,162, 266,162, 262,159, 264,159, 267,161, 274,159, 276,153, 275,147" href="http://##l01">
+			<area onmouseover="change_imagen('01')" onmouseout="hide_imagen()"  shape="rect" alt="" coords="260,143,279,163" href="http://##l01">
+			<area onmouseover="change_imagen('01')" onmouseout="hide_imagen()"  shape="rect" alt="" coords="260,143,280,164" href="http://##l01">
+			<area onmouseover="change_imagen('02')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="372,316, 376,322, 383,323, 388,318, 388,324, 372,324, 372,316" href="http://##l02">
+			<area onmouseover="change_imagen('02')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="388,314, 388,318, 383,323, 376,322, 372,316, 372,315, 373,315, 376,309, 383,309, 388,314" href="http://##l02">
+			<area onmouseover="change_imagen('02')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="388,314, 383,309, 376,309, 373,315, 372,315, 372,307, 388,307, 388,314" href="http://##l2">
+			<area onmouseover="change_imagen('03')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="485,345, 482,341, 477,339, 471,342, 471,348, 474,353, 480,354, 485,349, 485,356, 469,356, 469,339, 485,339, 485,345" href="http://##l03">
+			<area onmouseover="change_imagen('04')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="485,345, 485,349, 480,354, 474,353, 471,348, 471,342, 477,339, 482,341, 485,345" href="http://##l03">
+			<area onmouseover="change_imagen('04')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="471,375, 468,375, 464,371, 461,368, 461,363, 468,358, 475,361, 476,366, 474,371, 471,372, 471,375" href="http://##l04">
+			<area onmouseover="change_imagen('04')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="461,368, 464,371, 468,375, 461,375, 461,368" href="http://##l04">
+			<area onmouseover="change_imagen('05')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="471,375, 471,372, 474,371, 476,366, 475,361, 468,358, 461,363, 461,352, 477,352, 477,375, 471,375" href="http://##l04">
+			<area onmouseover="change_imagen('05')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="415,354, 415,359, 409,359, 415,354" href="http://##l05">
+			<area onmouseover="change_imagen('05')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="399,354, 404,359, 399,359, 399,354" href="http://##l05">
+			<area onmouseover="change_imagen('05')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="408,342, 415,342, 415,348, 408,342" href="http://##l05">
+			<area onmouseover="change_imagen('05')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="406,342, 408,342, 415,348, 415,354, 409,359, 404,359, 399,354, 399,348, 406,342" href="http://##l05">
+			<area onmouseover="change_imagen('05')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="406,342, 399,348, 399,342, 406,342" href="http://##l05">
+			<area onmouseover="change_imagen('06')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="435,372, 440,376, 446,377, 451,372, 451,378, 435,378, 435,372" href="http://##l06">
+			<area onmouseover="change_imagen('06')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="445,361, 451,361, 451,366, 445,361" href="http://##l06">
+			<area onmouseover="change_imagen('06')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="440,361, 445,361, 451,366, 451,372, 446,377, 440,376, 435,372, 435,366, 440,361" href="http://##l06">
+			<area onmouseover="change_imagen('06')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="440,361, 435,366, 435,361, 440,361" href="http://##l06">
+			<area onmouseover="change_imagen('07')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="358,273, 363,278, 370,278, 374,273, 374,279, 358,279, 358,273" href="http://##l07">
+			<area onmouseover="change_imagen('07')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="374,268, 374,273, 370,278, 363,278, 358,273, 358,268, 359,268, 363,263, 370,264, 374,268" href="http://##l07">
+			<area onmouseover="change_imagen('07')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="374,268, 370,264, 363,263, 359,268, 358,268, 358,262, 374,262, 374,268" href="http://##l07">
+			<area onmouseover="change_imagen('08')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="459,337, 459,332, 460,332, 463,327, 468,326, 474,329, 474,335, 471,341, 465,342, 459,337" href="http://##l8">
+			<area onmouseover="change_imagen('08')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="459,337, 465,342, 471,341, 474,335, 474,329, 468,326, 463,327, 460,332, 459,332, 459,325, 476,325, 476,343, 459,343, 459,337" href="http://##l08">
+			<area onmouseover="change_imagen('09')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="373,318, 373,324, 367,324, 373,318" href="http://##l09">
+			<area onmouseover="change_imagen('09')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="357,318, 361,324, 357,324, 357,318" href="http://##l09">
+			<area onmouseover="change_imagen('09')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="373,313, 373,318, 367,324, 361,324, 357,318, 357,313, 358,313, 362,308, 368,309, 373,313" href="http://##l09">
+			<area onmouseover="change_imagen('09')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="373,313, 368,309, 362,308, 358,313, 357,313, 357,307, 373,307, 373,313" href="http://##l09">
+			<area onmouseover="change_imagen('10')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="526,393, 526,399, 522,399, 526,393" href="http://##l0">
+			<area onmouseover="change_imagen('10')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="511,393, 516,399, 511,399, 511,393" href="http://##l0">
+			<area onmouseover="change_imagen('10')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="526,388, 526,393, 522,399, 516,399, 511,393, 511,388, 511,388, 516,383, 522,384, 526,388" href="http://##l0">
+			<area onmouseover="change_imagen('10')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="526,388, 522,384, 516,383, 511,388, 511,388, 511,382, 526,382, 526,388" href="http://##l0">
+			<area onmouseover="change_imagen('11')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="542,397, 542,390, 559,390, 559,408, 553,408, 557,402, 556,395, 553,391, 546,392, 542,397" href="http://##l1">
+			<area onmouseover="change_imagen('11')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="542,397, 546,392, 553,391, 556,395, 557,402, 553,408, 547,408, 542,402, 542,397" href="http://##l1">
+			<area onmouseover="change_imagen('11')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="542,402, 547,408, 542,408, 542,402" href="http://##l1">
+			<area onmouseover="change_imagen('12')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="638,551, 638,556, 633,556, 638,551" href="http://##l12">
+			<area onmouseover="change_imagen('12')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="622,551, 628,556, 622,556, 622,551" href="http://##l12">
+			<area onmouseover="change_imagen('12')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="633,540, 638,540, 638,546, 633,540" href="http://##l12">
+			<area onmouseover="change_imagen('12')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="627,540, 633,540, 638,546, 638,551, 633,556, 628,556, 622,551, 622,546, 627,540" href="http://##l12">
+			<area onmouseover="change_imagen('12')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="627,540, 622,546, 622,540, 627,540" href="http://##l12">
+			<area onmouseover="change_imagen('13')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="432,350, 432,355, 427,355, 432,350" href="http://##l3">
+			<area onmouseover="change_imagen('13')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="432,345, 432,350, 427,355, 421,355, 421,354, 416,350, 417,344, 422,340, 427,340, 432,345" href="http://##l3">
+			<area onmouseover="change_imagen('13')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="432,345, 427,340, 422,340, 417,344, 416,350, 421,354, 421,355, 415,355, 415,338, 432,338, 432,345" href="http://##l3">
+			<area onmouseover="change_imagen('14')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="439,401, 439,406, 434,406, 439,401" href="http://##l4">
+			<area onmouseover="change_imagen('14')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="424,401, 429,406, 424,406, 424,401" href="http://##l4">
+			<area onmouseover="change_imagen('14')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="434,390, 439,390, 439,396, 434,390" href="http://##l4">
+			<area onmouseover="change_imagen('14')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="429,390, 434,390, 439,396, 439,401, 434,406, 429,406, 424,401, 424,396, 429,390" href="http://##l4">
+			<area onmouseover="change_imagen('14')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="429,390, 424,396, 424,390, 429,390" href="http://##l4">
+			<area onmouseover="change_imagen('15')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="421,421, 421,426, 416,426, 421,421" href="http://##l5">
+			<area onmouseover="change_imagen('15')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="406,421, 411,426, 406,426, 406,421" href="http://##l5">
+			<area onmouseover="change_imagen('15')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="416,411, 421,411, 421,416, 416,411" href="http://##l5">
+			<area onmouseover="change_imagen('15')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="411,411, 416,411, 421,416, 421,421, 416,426, 411,426, 406,421, 406,416, 411,411" href="http://##l5">
+			<area onmouseover="change_imagen('15')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="411,411, 406,416, 406,411, 411,411" href="http://##l5">
+			<area onmouseover="change_imagen('16')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="458,467, 458,472, 453,472, 458,467" href="http://##l6">
+			<area onmouseover="change_imagen('16')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="442,467, 448,472, 442,472, 442,467" href="http://##l6">
+			<area onmouseover="change_imagen('16')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="458,462, 458,467, 453,472, 448,472, 442,467, 442,462, 443,462, 447,457, 454,457, 458,462" href="http://##l6">
+			<area onmouseover="change_imagen('16')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="458,462, 454,457, 447,457, 443,462, 442,462, 442,455, 458,455, 458,462" href="http://##l6">
+			<area onmouseover="change_imagen('17')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="488,447, 493,451, 499,451, 504,447, 504,453, 488,453, 488,447" href="http://##l7">
+			<area onmouseover="change_imagen('17')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="504,441, 504,447, 499,451, 493,451, 488,447, 488,441, 489,441, 493,437, 500,437, 504,441" href="http://##l7">
+			<area onmouseover="change_imagen('17')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="504,441, 500,437, 493,437, 489,441, 488,441, 488,435, 504,435, 504,441" href="http://##l7">
+			<area onmouseover="change_imagen('18')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="604,483, 604,489, 598,489, 604,483" href="http://##l8">
+			<area onmouseover="change_imagen('18')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="588,483, 593,489, 588,489, 588,483" href="http://##l8">
+			<area onmouseover="change_imagen('18')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="598,473, 604,473, 604,478, 598,473" href="http://##l8">
+			<area onmouseover="change_imagen('18')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="593,473, 598,473, 604,478, 604,483, 598,489, 593,489, 588,483, 588,478, 593,473" href="http://##l8">
+			<area onmouseover="change_imagen('18')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="593,473, 588,478, 588,473, 593,473" href="http://##l8">
+			<area onmouseover="change_imagen('19')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="507,534, 507,539, 502,539, 507,534" href="http://##l9">
+			<area onmouseover="change_imagen('19')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="491,534, 496,539, 491,539, 491,534" href="http://##l9">
+			<area onmouseover="change_imagen('19')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="507,528, 507,534, 502,539, 496,539, 491,534, 491,528, 492,528, 496,524, 503,524, 507,528" href="http://##l9">
+			<area onmouseover="change_imagen('19')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="507,528, 503,524, 496,524, 492,528, 491,528, 491,522, 507,522, 507,528" href="http://##l9">
+			<area onmouseover="change_imagen('20')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="228,265, 228,270, 223,270, 228,265" href="http://##20">
+			<area onmouseover="change_imagen('20')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="212,265, 217,270, 212,270, 212,265" href="http://##20">
+			<area onmouseover="change_imagen('20')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="223,255, 228,255, 228,260, 223,255" href="http://##20">
+			<area onmouseover="change_imagen('20')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="217,255, 223,255, 228,260, 228,265, 223,270, 217,270, 212,265, 212,260, 217,255" href="http://##20">
+			<area onmouseover="change_imagen('20')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="217,255, 212,260, 212,255, 217,255" href="http://##20">
+			<area onmouseover="change_imagen('21')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="427,646, 432,650, 439,650, 443,646, 443,653, 427,653, 427,646" href="http://##l21">
+			<area onmouseover="change_imagen('21')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="438,636, 443,636, 443,641, 438,636" href="http://##l21">
+			<area onmouseover="change_imagen('21')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="433,636, 438,636, 443,641, 443,646, 439,650, 432,650, 427,646, 427,641, 433,636" href="http://##l21">
+			<area onmouseover="change_imagen('21')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="433,636, 427,641, 427,636, 433,636" href="http://##l21">
+			<area onmouseover="change_imagen('22')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="119,136, 124,140, 130,141, 135,136, 135,143, 119,143, 119,136" href="http://##l22">
+			<area onmouseover="change_imagen('22')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="130,126, 135,126, 135,131, 130,126" href="http://##l22">
+			<area onmouseover="change_imagen('22')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="124,126, 130,126, 135,131, 135,136, 130,141, 124,140, 119,136, 119,131, 124,126" href="http://##l22">
+			<area onmouseover="change_imagen('22')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="124,126, 119,131, 119,126, 124,126" href="http://##l22">
+			<area onmouseover="change_imagen('23')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="304,339, 309,343, 316,343, 320,339, 320,345, 304,345, 304,339" href="http://##l23">
+			<area onmouseover="change_imagen('23')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="320,333, 320,339, 316,343, 309,343, 304,339, 304,333, 305,333, 309,329, 316,329, 320,333" href="http://##l23">
+			<area onmouseover="change_imagen('23')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="320,333, 316,329, 309,329, 305,333, 304,333, 304,327, 320,327, 320,333" href="http://##l23">
+			<area onmouseover="change_imagen('24')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="667,673, 667,678, 667,678, 664,682, 660,684, 653,681, 652,675, 656,669, 661,667, 667,673" href="http://##l24">
+			<area onmouseover="change_imagen('24')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="667,673, 661,667, 656,669, 652,675, 653,681, 660,684, 664,682, 667,678, 667,678, 667,684, 650,684, 650,667, 667,667, 667,673" href="http://##l24">
+			<area onmouseover="change_imagen('25')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="669,564, 677,570, 685,564, 685,571, 669,571, 669,564" href="http://##l25">
+			<area onmouseover="change_imagen('25')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="685,559, 685,564, 677,570, 669,564, 669,559, 670,559, 674,554, 680,555, 685,559" href="http://##l25">
+			<area onmouseover="change_imagen('25')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="685,559, 680,555, 674,554, 670,559, 669,559, 669,553, 685,553, 685,559" href="http://##l25">
+			<area onmouseover="change_imagen('26')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="431,247, 436,247, 436,248, 440,250, 442,252, 442,258, 438,262, 431,263, 426,258, 426,252, 431,247" href="http://##l26">
+			<area onmouseover="change_imagen('26')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="426,258, 431,263, 438,262, 442,258, 442,265, 426,265, 426,258" href="http://##l26">
+			<area onmouseover="change_imagen('26')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="436,247, 442,247, 442,252, 440,250, 436,248, 436,247" href="http://##l26">
+			<area onmouseover="change_imagen('26')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="431,247, 426,252, 426,247, 431,247" href="http://##l26">
+			<area onmouseover="change_imagen('27')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="436,278, 432,281, 429,283, 422,281, 420,275, 424,268, 429,266, 436,273, 436,278" href="http://##l27">
+			<area onmouseover="change_imagen('27')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="436,273, 429,266, 424,268, 420,275, 422,281, 429,283, 432,281, 436,278, 436,284, 419,284, 419,266, 436,266, 436,273" href="http://##l27">
+			<area onmouseover="change_imagen('28')" onmouseout="hide_imagen()"  shape="rect" alt="" coords="130,205, 145,222" href="http://##l27">
+			<area onmouseover="change_imagen('28')" onmouseout="hide_imagen()"  shape="rect" alt="" coords="686,513, 704,529" href="http://dfdsaa">
+			<area onmouseover="change_imagen('29')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="348,477, 348,471, 352,467, 357,465, 363,469, 363,475, 360,480, 355,482, 348,477" href="http://##l29">
+			<area onmouseover="change_imagen('29')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="348,477, 355,482, 360,480, 363,475, 363,469, 357,465, 352,467, 348,471, 348,465, 364,465, 364,483, 348,483, 348,477" href="http://##l29">
+			<area onmouseover="change_imagen('30')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="147,381, 147,390, 130,390, 130,383, 134,387, 140,389, 142,386, 145,385, 145,382, 147,381" href="http://##l30">
+			<area onmouseover="change_imagen('30')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="147,379, 147,381, 145,382, 145,385, 142,386, 140,389, 134,387, 130,383, 130,378, 130,378, 135,373, 142,374, 147,379" href="http://##l30">
+			<area onmouseover="change_imagen('30')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="147,379, 142,374, 135,373, 130,378, 130,378, 130,372, 147,372, 147,379" href="http://##l30">
+			<area onmouseover="change_imagen('00')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="395,346, 400,357, 393,361, 385,363, 378,362, 381,354, 388,350, 395,346" href="http://##lplaza">
+			<area onmouseover="change_imagen('00')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="375,363, 379,367, 375,367, 375,363" href="http://##lplaza">
+			<area onmouseover="change_imagen('00')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="403,360, 403,367, 385,367, 394,364, 403,360" href="http://##lplaza">
+			<area onmouseover="change_imagen('00')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="397,343, 403,343, 403,354, 400,348, 397,343" href="http://##lplaza">
+			<area onmouseover="change_imagen('00')" onmouseout="hide_imagen()"  shape="rect" alt="" coords="375,343,403,367" href="http://##lplaza">
+			<area onmouseover="change_imagen('00')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="394,343, 387,347, 380,350, 376,357, 375,357, 375,343, 394,343" href="http://##lplaza">
+			<area onmouseover="change_imagen('3D')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="65,689, 9,689, 9,630, 65,630, 65,689">
+		</map>	<br />
+		<div id="content">
+			<p>En esta sección presento un mapa dinámico donde puedes conocer los diferentes monumentos que componen la ciudad y parajes singulares así como otras instalaciones.<br/>
+			Si pasas el raton sobre cualquiera de los lugares de interés señalados en el mapa podras ver el lugar en cuestión.</p>
+		</div>
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>
+</html>

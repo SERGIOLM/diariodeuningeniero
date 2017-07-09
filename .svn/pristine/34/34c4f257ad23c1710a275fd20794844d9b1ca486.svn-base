@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Stratford Upon Avon Shakespeare, visit stratford upon avon " />
+	<meta name="description" content="My little stay Stratford Upon Avon"/>
+	<link href="css/styles.css" rel="stylesheet"  intype="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<title>Diary of an engineer - Blog - Stratford Upon Avon 2013 - Web Site By Sergio Lopez Design</title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_viajar.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a>Work abroad</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+	</div>
+	<div id="wrapper2">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_uk_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>
+				<li><a href="country_uk_en.html"><span class="segundo"><i class="icon icon-road"></i></span>Country</a>
+					<ul>
+						<li><a>London</a></li>
+					</ul></li>
+				<li><a href="work_uk_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>
+				<li><a href="house_uk_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>
+				<li><a href="idiom_uk_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>
+				<li><a href="transport_uk_en.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transport</a></li>
+				<li><a >						<span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>
+					<ul>
+						<li><a href="banks_uk_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>
+						<li><a href="markets_uk_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_uk_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>
+						<li><a href="health_uk_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="social_uk_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+						<li><a href="tourism_uk_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>
+				<li><a href="transfer_uk_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Leave</a></li>
+			</ul>
+		</div>
+		<div id="banner">
+			<a href="main_uk_en.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_uk.jpg" alt=”banner_emprender” /></a><br />
+		</div>
+	</div>
+	<div id="langue">
+		<a href="blog_stratford_uk_es.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="england_uk_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+	</div>
+	<div id="top_sidebar_london">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<a class="twitter-timeline" href="https://twitter.com/diariodesergi" data-widget-id="736325529834532864">Tweets por el @diariodesergi.</a>
+	</div>
+	<div id="content">		
+		<h1>My short experience at Stratford Upon Avon</h1>
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/lake_stratford.jpg" alt="frescos"  />
+
+			<p>	<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/church_stratford.jpg" alt="frescos"  />
+			In June 2013 he arrived to Stratford to work in a small local company specializing in the design and manufacture of electronic control components.
+			It was a pretty idyllic place where many families are going to spend the weekends, with a huge lake and many woods around.
+			The houses are quite small and there are numerous huge mansions in the area. It is 30 km far from Birmingham, the second largest city in the country after London. <br /> <br />
+
+			It is the typical postcard town that one gets when one speaks about the old England, local people are quite pleasant and have a high standard of living.
+			The city is a symbol in England as it is Shakespeare´s birthplace of , the most famous English playwright of all time. <br />
+			The town has about 20,000 population but has a national tourism especially with what there are always people in the streets.
+			The streets are well-kept and there are numerous souvenir shops. The food and overall  sold there was quite expensive. <br /> <br />
+			<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/lake2_stratford.jpg" alt="frescos"  />
+			<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/circuits_stratford.jpg" alt="frescos"  />
+			There I lived while I was working with a Nepalese engineer raised in Belgium very kind and polite.
+			I learned a lot from the culture they have there since I asked them but his mentality was more of Europe and I would say more like the Spaniards than the Belgians. <br />
+			I was living in a restaurant in the city called The Food Of Love run by Englishmen of Greek origin. They did us a favor to settle in as all the hostels were busy and the rents were high.
+			A two room flat was about a thousand pounds a month, even being a small town. <br /> <br />
+			In the image on the right I show one of the circuits with which I was working in the small company where I worked those days.
+			In the studio we were paying 600 pounds, expensive but very central. There I met the son of the owner, a very nice boy that we had as a neighbor. <br /> <br />
+			In a city like this it was frequent to find performances in the parks on Hamlet or other works of Shakespeare since it was one of the most important schools of theater of the country.
+
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/theatre_stratford.jpg" alt="frescos"  /><br />
+			<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/gabriell_stratford.jpg" alt="frescos"  />
+
+			I just went out 3 weekends there, and I found some locals with enough party to be a small town, where the drinks were much cheaper than in London.
+			I found it quite surprising, to have a free bar for only 15 pounds.
+			On Sundays I had a market in the town center and on the weekend I also used to visit the nearby cities like Birmingham and Coventry where I could play football.<br /> <br />
+			At that time I was studying English to do the IETLS and preparing interviews where in one of them I got a better job to go to Fleet and work in NSN (Nokia Solutions Networks). <br /> <br /><p/>
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio Lopez Martinez                                                 CONTACT <a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

@@ -1,0 +1,275 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="move into London, travel London, London train, taxi London, bus london" />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<style type="text/css">
+	    table 
+	    {
+			table-layout: auto;	    
+			border:2px solid black;
+			border-collapse:separate;
+			border-spacing:5px;
+			width:95%;
+			height:auto;
+			font-size:medium;
+			font-family: verdana, sans-serif;
+			margin-bottom:5px;
+			text-align:center;	       
+	     }
+	</style>
+	<title>Diary of an engineer - Living in London - Transport - Web Site By Sergio Lopez Design</title>
+
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_viajar.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a href="main_guadalajara_en.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>	
+				<li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>		
+			</ul>
+		</div>	
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_uk_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>	
+				<li><a href="country_uk_en.html"><span class="segundo"><i class="icon icon-road"></i></span>Country</a>
+					<ul>
+						<li><a href="country_london_uk_en.html"><span class="primero"><i class="icon icon-office"></i></span>London</a></li>
+					</ul></li>									
+				<li><a href="work_uk_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>	
+				<li><a href="house_uk_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>	
+				<li><a href="idiom_uk_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>	
+				<li><a>Transport</a></li>	
+				<li><a><span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>					
+					<ul>
+						<li><a href="banks_uk_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>						
+						<li><a href="markets_uk_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_uk_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>						
+						<li><a href="health_uk_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="social_uk_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>						
+						<li><a href="tourism_uk_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>								
+				<li><a href="transfer_uk_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>							
+			</ul>	
+		</div>						
+		<div id="banner">
+			<a href="main_uk_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_uk.jpg" alt=”banner_emprender” /></a><br />
+		</div>	
+	</div>
+	<div id="langue">
+		<a href="transport_uk_es.html"><img  class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img  class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="transport_uk_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+	</div>
+	<div id="top_sidebar_ext">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<a class="twitter-timeline" href="https://twitter.com/diariodesergi" data-widget-id="736325529834532864">Tweets por el @diariodesergi.</a>
+	</div>
+
+	<div id="content">
+		<h1>Flights</h1>
+			<p>In England public transport is the best option due to the high traffic on roads and lack of parking areas in the big towns. Roads are not that good as in other countries like
+			spain and the public automobiles are most of them old as train and bus. However the timetable for travel between little towns is high and the frecuency range is extended.</p><br /><br />
+
+			For fly to the UK there are all these companies:<br />
+
+			<table >
+			<tbody>
+				<tr class="color">
+                    <th>COMPANY</th>
+                    <th>LOGO</th><th>SERVICE AND FEEDBACK</th>
+                </tr>
+				<tr>
+					<th><a href="http://www.ryanair.com/es">Ryanair</a></th>
+                    <td><a href="http://www.ryanair.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Ryanair_logo_2013(1).svg/1280px-Ryanair_logo_2013(1).svg.png" alt=”transport_banner1” /></a></td>
+                    <td>It is one which has the ticket more competitive in any date while the accomodation on the jet is not the best. His main connection is Stanted, airport to 60 km 
+                    to London, therefore you should catch a additional bus.</td>
+   				</tr>
+				<tr>
+                    <th><a href="http://www.easyjet.com/es">easyJet</a></th>
+                    <td><a href="http://www.easyjet.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EasyJet_logo.svg/512px-EasyJet_logo.svg.png" alt=”transport_banner2” /></a></td>                        
+                    <td>As Ryanair has tickets very competitives even though more expensive but in my opinion has a better service. It has connection with Gatwick, Stanted y Lutton. 
+                    Since Gatwick there is direct train for a price not more than 7 pounds.</td>
+                </tr>
+				<tr>
+                    <th><a href="http://www.iberia.com/">Iberia</a></th>
+                    <td><a href="http://www.iberia.com/"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Iberia_%282013%29.svg/400px-Iberia_%282013%29.svg.png" alt=”transport_banner3” /></a></td>                        
+                    <td>Spanish company with tickets more expensive than the others but if you take in time is not that bad, si no es como un 33% superior a sus rivales pero la habitabilidad es mejor.</td>
+                </tr>
+				<tr>
+                    <th><a href="http://www.vueling.com/es">Vueling</a></th>
+                    <td><a href="http://www.ryanair.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_Vueling.svg/1250px-Logo_Vueling.svg.png" alt=”transport_banner4” /></a></td>                        
+                    <td>It has a lot of flights and with medium prices. It has connection with Heathrow.</td>
+                </tr>
+				<tr>
+                    <th><a href="https://www.norwegian.com/es/">Norwegian</a></th>
+                    <td><a href="https://www.norwegian.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/en/0/09/Norwegianairshuttlelogo2013.png" alt=”transport_banner5” /></a></td>                        
+                    <td>A new company with flights direct to Gatwick.</td>
+                </tr>
+				<tr>
+                    <th><a href="http://www.monarch.es/">Monarch</th>
+                    <td><a href="http://www.monarch.es/"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/MonarchAirlinesNew.svg/512px-MonarchAirlinesNew.svg.png" alt=”transport_banner6” /></a></td>
+                    <td>British company specialized in charter flights. Prices more competitive than Iberia or British Airwais. </td>
+                </tr>
+				<tr>
+                    <th><a href="http://www.britishairways.com/">British Airwais</a></th>
+                    <td><a href="http://www.britishairways.com/"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/British_Airways_Logo.svg/300px-British_Airways_Logo.svg.png" alt=”transport_banner7” /></a></td>                        
+                    <td>The more important british company, same category as Iberia regarding prices and confort.</td>
+                </tr>
+			</tbody>
+        	</table>
+		<br />            	
+		<h1>Travel to London</h1>
+				<p>London has one of the underground networks more extended and biggest of the world and under it they pass through daily millions of people. Moreover is the first tube worldwide.<br />		
+				All the tube links are respectevely in bus. Buses in London are very popular and they are a simbol of the town. They are renewed through the time. Nevertherless most of the remain
+				this old sign of identity. To know more about the different trajects you can read on the website of the government:</p>
+				<a href="https://tfl.gov.uk/ ">https://tfl.gov.uk/</a>	
+			<h2>Metro - tubeLondon</h2>
+				<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/transport_uk/oyster_card.png" alt=”transport1” />							
+				<p>The tube is very useful but expensive. Weekly tickets of two areas cost around £40 and montly around £120. Single ticket is about £ 2.3 with the Oyster card.
+				This card cost £5 and you can charge in any station. The £5 are like a deposit, so if you return the card day yo came back Spain finally you will recover the money.
+				For tube. and bus you can us the Oyster Card. There here is a link with maps related to train and tube</p><br />	
+				<a href="http://mapa-metro.com/es/Inglaterra/Londres/Londres-Underground-mapa.htmhttp://mapa-metro.com/es/Inglaterra/Londres/Londres-Underground-mapa.htm">Lineas de metro en Londres</a><br />				
+				<a href="http://londonmap360.com/london-train-map">http://londonmap360.com/london-train-map</a>	
+			<h2>Taxi</h2>
+				<p>Taxi in London is a medium very used to the others and it is popular also. All taxi models are similar and they follow the same old line with black color. Most of them go
+				with some advertisements over the bodywork. They are made for travel comfortely and they can travel 5 people easily with big space for the luggage.
+				They one of the mediums for travel more used and sometimes it is moneymaker than other travel transport, depending of the number of people onboard.
+				After 1am tube is closed so it could be also the only medium for travel apart the bus.<br />					
+				The rate are related to the distance and timetable you take the taxi between other factors. Next I show a table with these rates:</p>	
+				<table >
+				<tbody>
+					<tr class="color">
+                        <th>Rate x mile</th>
+                        <th>RATE 1</th>
+                        <th>RATE 2</th>
+                        <th>RATE 3</th>
+                    </tr>
+					<tr>
+                        <th>1 mile</th>
+                        <td>£4,20 – £6,20</td>
+                        <td>£4,60 – £7,40</td>
+                        <td>£8,00 – £11,00</td>
+                    </tr>
+					<tr>
+                        <th>2 miles</th>
+                        <td>£6,60 – £9,40</td>
+                        <td>£7,20 – £10,80	</td>
+                        <td>£8,00 – £11,00</td>
+                    </tr>
+					<tr>
+                        <th>4 miles</th>
+                        <td>£11 – £15</td>
+                        <td>£13 – £18</td>
+                        <td>£15 – £19</td>
+                    </tr>
+					<tr>
+                        <th>6 miles</th>
+                        <td>£14 – £20</td>
+                        <td>£18 – £22</td>
+                        <td>£21 – £24</td>
+                    </tr>
+					<tr>
+                        <th>Airport</th>
+                        <td>£40 – £70	</td>
+                        <td>£40 – £70	</td>
+                        <td>£40 – £70	</td>
+                    </tr>                    
+				</tbody>
+            	</table>
+				<br />	
+				<ul style="list-style-type:circle">				
+					<li>Rate 1 : Monday to Friday - 6h -20h</li>
+					<li>Rate 2 : Monday to Friday - 20h -22h</li>
+					<li>Rate 3 : Monday to Friday- 22h -6h + Festivos</li>
+				</ul>
+				<br />	
+				<h3>Supplements</h3>
+				<ul style="list-style-type:circle">	
+					<li>Phone reservation:          Max £1</li>
+					<li>Pick up on Heathrow :    			£3</li>
+					<li>Pay with card:             	Max £1</li>
+				</ul>					
+				<br />						
+				<h3>Mobile apps to take a taxi</h3>
+				<ul style="list-style-type:circle">						
+					<li>Hailo</li>
+					<li>ComCab</li>
+					<li>Gett</li>
+					<li>Radio Taxis</li>
+					<li>Addison Lee</li>
+					<li>Climate Cars Ltd</li>
+					<li>Dial a Cab<br /></li>
+				</ul>							
+		<h1>Travel inside England</h1>
+
+			<p>For travel arund England you have three options. Use your own car, travel by bus or by train. Bus use to be about a 335 cheaper than train. 
+			Biggest bus company is<a href="http://www.nationalexpress.com/">NationalExpress</a>.<br />					
+			Best option for travel long distances is train, though in my opinion for moving between London and a town, bus depending of how far it is from the bus station could be a better option, <br />
+			<img class="horiz_big" src="https://farm8.staticflickr.com/7757/18229551259_70d8e88b64_o.png" alt=”transport2” /><br />											
+			Official website of train is <a href="www.nationalrail.co.uk">NationalRail</a>.
+			In United Kindom companies of train are privates and each area of the country is from one or from other. 
+			Network map could get in the next link:<br />					
+			Some of them are: <br />	
+			</p>
+				<ul style="list-style-type:circle">	
+					<li></li>	
+					<li><a href="http://www.southernrailway.com/"><img class="left_b" src="http://www.southernrailway.com/graphics/southern.gif" alt=”house_banner2” /></a><br /></li>	
+					<li><a href="http://www.southwesttrains.co.uk/"><img class="left_b" src="http://www.southwesttrains.co.uk/images/logo.gif" alt=”house_banner2” /></a><br /></li>	
+					<li><a href="http://www.northernrail.org/"><img class="left_b" src="http://www.northernrail.org/travel/images/layout/logo_northern_2012.png" alt=”house_banner2” /></a><br /></li>	
+					<li><a href="http://www.chilternrailways.co.uk/"><img class="left_b" src="http://www.railsaver.co.uk/images/operators/Chiltern_Railways/Chiltern_Railway_Logo_ICO.jpg" alt=”house_banner2” /></a><br /></li>	
+					<li><a href="http://www.thameslinkrailway.com/"><img class="left_b" src="http://www.thameslinkrailway.com/graphics/logo2.png" alt=”house_banner2” /></a><br /></li>	
+				</ul>			
+			<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/transport_uk/networkrail_card.jpg" alt=”transport3” />						
+			<p>If you go travel a lot for one one area only maybe you could get the disccounts of the area. For that you need to ask for the Network Railcard and you could save until a 33% and if you
+			are a student less than 25 years old you could have even a 50% discount.
+			This card expire in 1 year and his cost is £30 so that in a traject of  30 km, that is about £20 go and return if you do the traject 4 times you will save the cost of the card.				
+			</p>				
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div>
+</body>
+</html>
+

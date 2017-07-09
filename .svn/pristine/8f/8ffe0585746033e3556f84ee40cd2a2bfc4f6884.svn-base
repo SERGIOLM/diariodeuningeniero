@@ -1,0 +1,216 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="move in france, travel to france, go to paris, taxis in france, visit france" />
+	<meta name="description" content="Guide for travel in France." />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<style type="text/css">
+	    table 
+	    {
+			table-layout: auto;	    
+			border:2px solid black;
+			border-collapse:separate;
+			border-spacing:5px;
+			width:95%;
+			height:auto;
+			font-size:medium;
+			font-family: verdana, sans-serif;
+			margin-bottom:5px;
+			text-align:center;	       
+	     }
+	</style>
+	<title>Diary of an engineer - Living in France - Transport - Web Site By Sergio Lopez Design  </title>
+
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_viajar.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a>Work abroad</a></li>
+				<li><a href="main_guadalajara_en.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>
+				<li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+	</div>
+	<div id="wrapper2">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_fr_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>
+				<li><a href="country_fr_en.html"><span class="segundo"><i class="icon icon-road"></i></span>Country</a>
+					<ul>
+						<li><a href="country_paris_fr_en.html"><span class="primero"><i class="icon icon-office"></i></span>Paris</a></li>
+						<li><a href="country_toulouse_fr_en.html"><span class="segundo"><i class="icon icon-office"></i></span>Toulouse</a></li>
+					</ul></li>
+				<li><a href="work_fr_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>
+				<li><a href="house_fr_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>
+				<li><a href="idiom_fr_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>
+				<li><a>Transport</a></li>
+				<li><a><span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>
+					<ul>
+						<li><a href="banks_fr_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>
+						<li><a href="markets_fr_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_fr_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>
+						<li><a href="health_fr_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="social_fr_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+						<li><a href="tourism_fr_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>
+				<li><a href="transfer_fr_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>
+			</ul>
+		</div>
+		<div id="banner">
+			<a href="main_fr_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fr.jpg" alt=”banner_emprender” /></a><br />
+		</div>
+	</div>
+	<div id="langue">
+		<a href="transport_fr_es.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="transport_fr_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+	</div>
+	<div id="top_sidebar_paris">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<a class="twitter-timeline" href="https://twitter.com/diariodesergi" data-widget-id="736325529834532864">Tweets por el @diariodesergi.</a>
+	</div>
+
+	<div id="content">
+		<h1>Flights</h1>
+			<p>For travel to France there are some companies:</p>
+
+			<table >
+			<tbody>
+				<tr class="color">
+                    <th>COMPANY</th>
+                    <th>LOGO</th><th>SERVICE AND FEEDBACK</th>
+                </tr>
+				<tr>
+					<th><a href="http://www.ryanair.com/es">Ryanair</a></th>
+                    <td><a href="http://www.ryanair.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Ryanair_logo_2013(1).svg/1280px-Ryanair_logo_2013(1).svg.png" alt=”transport_banner1” /></a></td>
+                    <td>It is one which has the ticket more competitive in any date while the accomodation on the jet is not the best. His main connection is Beauvais, airport to 60 km
+						to Paris, therefore you should catch a additional bus.</td>
+   				</tr>
+				<tr>
+                    <th><a href="http://www.easyjet.com/es">easyJet</a></th>
+                    <td><a href="http://www.easyjet.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EasyJet_logo.svg/512px-EasyJet_logo.svg.png" alt=”transport_banner2” /></a></td>                        
+                    <td>As Ryanair has tickets very competitives even though more expensive but in my opinion has a better service.</td>
+                </tr>
+				<tr>
+                    <th><a href="http://www.iberia.com/">Iberia</a></th>
+                    <td><a href="http://www.iberia.com/"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Iberia_%282013%29.svg/400px-Iberia_%282013%29.svg.png" alt=”transport_banner3” /></a></td>                        
+                    <td>Spanish company with tickets more expensive than the others but if you take in time is not that bad, si no es como un 33% superior a sus rivales pero la habitabilidad es mejor.</td>
+                </tr>
+				<tr>
+                    <th><a href="http://www.vueling.com/es">Vueling</a></th>
+                    <td><a href="http://www.ryanair.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_Vueling.svg/1250px-Logo_Vueling.svg.png" alt=”transport_banner4” /></a></td>                        
+                    <td>It has a lot of flights and with medium prices.</td>
+                </tr>
+				<tr>
+                    <th><a href="https://www.norwegian.com/es/">Norwegian</a></th>
+                    <td><a href="https://www.norwegian.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/en/0/09/Norwegianairshuttlelogo2013.png" alt=”transport_banner5” /></a></td>                        
+                    <td>A new company with headquarters on Nowrwy who connect nordic countries with other countries of Europe.</td>
+                </tr>
+				<tr>
+                    <th><a href="http://www.airfrance.fr/">Air France</a></th>
+                    <td><a href="http://www.airfrance.fr/"><img class="left_b3" src="http://www.aviationexplorer.com/Airline_Logos/Air_France_Airlines_Logo.gif" alt=”transport_banner7” /></a></td>
+                    <td>The more important French company, same category as Iberia regarding prices and confort.</td>
+                </tr>
+			</tbody>
+        	</table>
+		<br />    
+			<br />		
+		<p>France due to his high number of quality roads and the big number of places to visit in his big territory compare to others countries of Europe is a good place to rent a car. In terms of monuments
+			and extension is comparable to Spain, but in my opinion has his beauty concentred in some towns, not as Spain which is a place with a descentralization in terms of monumental towns, nature places and enjoy sites.
+			Public transport is expensive in Paris but in the rest of towns use to be cheaper and if you use some kind of discounts if you are planinng to do life there it is the best option.</p>
+
+		<h1>Underground - Towns</h1>
+			<p>Actually France has 6 underground lines. This make it the second country with more towns with underground lines in Europe. <br />
+			
+			Underground in Paris started at 1900 and since then it has done nothing but than increased. It is the transport more used in the capital and to go to the center town is the best option.
+			The price per traject smaller than London. It cost 1.8 euros per 2.4 pounds of London and you have the possibility to has a 10 ticket for 14.1 euros. This tickets could be transfered to other person, different
+			of London ticket who are assigned to the personal card (Oyster card). It could be used to move in bus or tram but you cannot change trains with same ticket. Toulouse ticket has a usage of 1 hour since
+			you use the first kind of transport and you can change from bus to underground for this hour.<br /><br />
+			
+			Underground lines and his map are descript well in this page:</p>
+			<ul style="list-style-type:circle">				
+	            <li><a href="http://mapa-metro.com/es/Francia/Paris/Paris-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Paris/Paris-Metro-mapa.htm">París.</a></li>
+	            <li><a href="http://mapa-metro.com/es/Francia/Lille/Lille-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Toulouse/Lille-Metro-mapa.htm">Lille.</a></li>
+	            <li><a href="http://mapa-metro.com/es/Francia/Lyon/Lyon-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Toulouse/Lyon-Metro-mapa.htm">Lyon.</a></li>	
+	            <li><a href="http://mapa-metro.com/es/Francia/Rennes/Rennes-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Toulouse/Rennes-Metro-mapa.htm">Rennes.</a></li>	
+	            <li><a href="http://mapa-metro.com/es/Francia/Rouen/Rouen-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Toulouse/Rouen-Metro-mapa.htm">Rouen.</a></li>	           	
+	            <li><a href="http://mapa-metro.com/es/Francia/Toulouse/Toulouse-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Toulouse/Toulouse-Metro-mapa.htm">Toulouse.</a></li>	
+            </ul>	
+			<img class="horiz_big" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Carte_M%C3%A9tro_de_Paris.jpg" alt=”transport1” /><br /><br />			
+			
+			<h2>Taxi</h2>
+				<p>Taxi in France is a kind of transport very used as the others and in Paris is very important due to the number of passengers and tourists.
+				<br />					
+				Costs depend of factors such as distance and the time.
+				Price for go from the airport <strong>Charles de Gaulle </strong>  to the town center is about <strong> 50 euros</strong>  and 35 euros from Orly airport.</p>
+				
+			
+				<br />						
+				<h3>Taxi companies in Paris and phone number.</h3>
+				<ul style="list-style-type:circle">						
+					<li>Taxi G7:		+33 (0) 147 394 739</li>
+					<li>Aero Taxi:		+33 (0) 147 390 147</li>
+					<li>Alpha Taxi:		+33 (1) 145 858 585</li>
+					<li>Taxi Bleus :	+33 (0) 891 701 010</li>
+				</ul><br />	<br /><br />						
+		<h1>Travel in France by train</h1>
+
+			<p>Train in France is nationalized as the energy and other things and the company is the <a href="http://www.sncf.com/fr/trains/http://www.sncf.com/fr/trains/">SNCF </a> as in Spain is the <b>RENFE</b>.
+			There are three kind of trains in terms of service and speed.</p>
+				<ul style="list-style-type:circle">						
+					<li>Intercite: Town connections</li>
+					<li>TER:	   Connection between big towns (regions, like Talgo in Spain)</li>
+					<li>TGV:	   French high speed (like AVE in Spain)</li>
+					<li>OUIGO:	   High speed low cost.</li>
+				</ul>
+		<h1>Travel in France by bus</h1>
+		<a href="https://www.tisseo.fr/"><img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/cards_fr/tisseo_card.jpg" alt=”tisseo_card”></a>
+		<p>Public transport in France is very useful and very cheap. I recommend a lot to use, because the bus arrive on good time. All towns have kind of bus system.
+			In my case i was in Toulouse and I charge my card for 10 times for not more than 10 euros.
+			It was for the bus and the metro, like in big towns where you can use indifferent and you have 1 hour maximum to use it since you enter at first.</p><br />
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Desgined by Sergio Lopez Martinez                                                 CONTACTO <a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div>
+</body>
+</html>
+

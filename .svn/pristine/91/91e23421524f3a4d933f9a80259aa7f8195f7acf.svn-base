@@ -1,0 +1,182 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_emprender.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="resumen economico 2016, hechos relevantes finanzas 2016" />
+	<meta name="description" content="Blog de diario de un ingeniero, economia en 2016"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<title>Diario de un Ingeniero - Blog - - Economía 2016 - Web Site By Sergio Lopez Design </title>
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+		function change_image( id )
+		{
+			$( '#Europe' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/' + id + '.png');
+
+		}
+		function hide_image()
+		{
+			$( '#Europe' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/Europe.png');
+		}
+		function change_banner( id )
+		{
+			$( '#banner_main' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_' + id + '.jpg');
+			$( '#country_sel' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/banners/' + id + '_select.jpg');
+		}
+		function hide_banner( id )
+		{
+			$( '#banner_main' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fuera_de_tu_pais.jpg');
+			$( '#country_sel' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/banners/non_select.jpg');
+		}
+
+
+		function cargar_imagenes( imagenes ) {
+			$( imagenes ).each( function () {
+				$( '<img/>' )[ 0 ].src = this;
+			});
+		}
+		cargar_imagenes([
+				'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/Spain.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/England.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/Belgium.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/France.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/banner/emprender_fr.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/banner/emprender_uk.jpg'
+		]);
+	</script>
+
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_markets.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="tercero"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="cuarto"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+	</div>
+	<div id="langue_europe" >
+		<a><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a href="blog_eco2016_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<a href="main_blog_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/back.jpg" alt=”BACK” /></a>
+		</div>
+	<div id="top_sidebar_blog">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+	</div>
+	<div id="content-pre">
+		<h1 style="color:saddlebrown;   -webkit-text-fill-color: white;-webkit-text-stroke-color: black;-webkit-text-stroke-width: 1px; font-size:44px;  text-align: center;">Resumen 2016</h1>
+		<br /><br /><br />
+	</div>
+
+	<div id="content">
+
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_eco2016_resumeyear_es.html">Repaso del año</text_banner></a>
+				<a href="blog_eco2016_resumeyear_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/tira_resume2016.jpg"  alt="resume2016"  /></a>
+				<h5>Repaso de los eventos que han marcado este año.</h5>
+				<h6>2 Enero 2017</h6>
+			</div>
+		</div>
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_eco2016_itareferendum_es.html">Referendum en Italia</text_banner></a>
+				<a href="blog_eco2016_itareferendum_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/tira_referendumITA.jpg"  alt="referendumITA"  /></a>
+				<h5>El no al referendum de Mateo Renzi casi paso inadvertido en los mercados pero la situación en Italia es preocupante.</h5>
+				<h6>2 Enero 2017</h6>
+			</div>
+		</div>
+		<br /><br />
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_eco2016_FEDrateschanges_es.html">La FED sube tipos de nuevo</text_banner></a>
+				<a href="blog_eco2016_FEDrateschanges_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/tira_FED.jpg"  alt="FED_interest_rates"  /></a>
+				<h5>La FED, cuyo presidenta es Yellen, subio tipos del 0.5 al 0.75 y pronostica 3 subidas más en 2017.</h5>
+				<h6>2 Enero 2017</h6>
+			</div>
+		</div>
+		<br /><br />
+
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_eco2016_UEbankproblems_es.html">Problemas en bancos europeos</text_banner></a>
+				<a href="blog_eco2016_UEbankproblems_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/tira_bankrupt.jpg"  alt="bank_Eu_crisis"  /></a>
+				<h5>Los problemas en los bancos europeos aun son constantes y darán mucho que hablar ya que la deuda que sostienen es impagable.</h5>
+				<h6>2 Enero 2017</h6>
+			</div>
+		</div>
+		<br /><br />
+
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_eco2016_usaelections_es.html">Elecciones USA</text_banner></a>
+				<a href="blog_eco2016_usaelections_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/tira_usaelections2016.jpg"  alt="usaelections2016"  /></a>
+				<h5>Trump ganó las elecciones de USA contra todo pronóstico. Sin embargo los mercados al final se lo tomaron bastante bien.</h5>
+				<h6>2 Enero 2017</h6>
+			</div>
+		</div>
+		<br /><br />
+
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_eco2016_brexit_es.html">Referendum en Reino Unido</text_banner></a>
+				<a href="blog_eco2016_brexit_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/tira_brexit.jpg"  alt="referendumUK"  /></a>
+				<h5>En Junio el Brexit triunfo en Gran Bretaña. Las consecuencias aún son inciertas pero los indices europeos bajaron a mínimos de 2013.</h5>
+				<h6>2 Enero 2017</h6>
+			</div>
+		</div>
+		<br /><br />
+
+		<div id="content-box-grey">
+			<div id="content-box-blue">
+				<text_banner><a href="blog_eco2016_petrol_es.html">Crisis en la OPEP</a></text_banner>
+				<a href="blog_eco2016_petrol_es.html"><img class="blog_banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/blog/tira_petrol.jpg"  alt="petrol_crisis"  /></a>
+				<h5>A principios de 2016 el petróleo descendio a valores no vistos en una decada. Esto acabo golpeando los mercados.</h5>
+				<h6>2 Enero 2017</h6>
+			</div>
+		</div>
+	</div>
+
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Desgined by Sergio Lopez Martinez                                                 CONTACTO <a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

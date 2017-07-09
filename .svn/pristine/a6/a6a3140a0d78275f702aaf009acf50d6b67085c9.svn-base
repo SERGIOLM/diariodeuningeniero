@@ -1,0 +1,80 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diary of an engineer, live in France, french health system, health system in france, health in france, go doctor france" />
+	<meta name="description" content="french health system, rights and duties."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<title>Diary of an engineer - Live in France - Health - Web Site By Sergio Lopez Design</title>
+</head>
+<body>
+	<div id="topnav">
+		<div id="wrapper">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a>Work abroad</a></li>
+				<li><a href="main_guadalajara_en.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>
+				<li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>
+	<div id="wrapper2">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_fr_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>
+				<li><a href="country_fr_es.html"><span class="segundo"><i class="icon icon-road"></i></span>Territorio</a>
+					<ul>
+						<li><a href="toulouse_fr_es.html"><span class="primero"><i class="icon icon-office"></i></span>Toulouse</a></li>
+					</ul></li>
+				<li><a href="work_fr_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>
+				<li><a href="house_fr_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>
+				<li><a href="idiom_fr_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>
+				<li><a href="transport_fr_en.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transport</a></li>
+				<li><a><span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>
+					<ul>
+						<li><a href="banks_fr_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>
+						<li><a href="markets_fr_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_fr_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>
+						<li><a>Health</a></li>
+						<li><a href="social_fr_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+						<li><a href="tourism_fr_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>
+				<li><a href="transfer_fr_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>
+			</ul>
+		</div>
+	<div id="banner">
+			<a href="main_fr_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fr.jpg" alt=”banner_emprender” /></a><br />	
+			<a href="health_fr_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>	
+			<a href="health_fr_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>	
+			<!--<a href="health_fr_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+		</div>	
+	</div>		
+	<div id="content">
+		<h1>Health public system in France</h1>
+			<a href="http://www.nhs.uk/"><img class="right_b2" src="https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub-bootstrap/files/images/Logo-securite-sociale.jpg" alt=”health_banner1” /></a>
+			<p>Health system in france called <a href="http://www.securite-sociale.fr/">Securite Sociale</a> is in charge of give health coberture to all person who lives in France. This service is not free always,
+			so the patient need to pay sometimes. That is free is the hospitals and ambulance services. The french health system is one of the most valuables systems of the world, like the spanish. It is memorable
+			than a lot of spanish and nurses or health personal go to work to north of franche because there is a lack of doctors there. French doctors use to go to south where the quality of life is much better.<br /><br />
+			<img class="right_small" src="http://ielanguages.com/documents/cartevitale.jpg" alt=”health1” />	
+			Once you are register on the system Sécurité sociale they will give you a green card or a "carte vitale" equal to the health spanish card.
+			Medical consultation in France are paid opposite to spanish system. The price is symbolic if you compare with the price the state spend in that and avoid unnecessary visits to doctors.
+			A health consultation could be around 30 euros. Medication are included in the price of the visit.<br /><br />
+			Health french system has private assistance than it is done in specialiced centers or clinics and the public is in the hospitals like in Spain.<br /><br />
+			If you are member of the european union you can register in the french health system without any problem but you lose the spanish rights. Also if you are student you can ask for a special cover with
+			better prices.	<br /></p>
+			<img class="horiz_medium" src="http://ichef-1.bbci.co.uk/news/660/media/images/74165000/jpg/_74165365_015118584-1.jpg" alt=”health1” />		
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>

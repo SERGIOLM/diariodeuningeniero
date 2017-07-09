@@ -1,0 +1,96 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Stratford Upon Avon ciudad de Shakespeare, que ver en Stratford Upon Avon " />
+	<meta name="description" content="Mi corta estancia en Stratford Upon Avon"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+
+	<title>Diario de un Ingeniero - Blog - Stratford - Web Site By Sergio Lopez Design </title>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_uk_es.html"><span class="primero"><i class="icon icon-home"></i></span>INICIO</a></li>	
+				<li><a href="country_uk_es.html"><span class="segundo"><i class="icon icon-road"></i></span>Territorio</a>	
+					<ul>
+						<li><a>London</a>
+					</ul></li>									
+				<li><a href="work_uk_es.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Trabajar</a></li>	
+				<li><a href="house_uk_es.html"><span class="cuarto"><i class="icon icon-office"></i></span>Vivienda</a></li>	
+				<li><a href="idiom_uk_es.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Idioma</a></li>	
+				<li><a href="transport_uk_es.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transporte</a></li>	
+				<li><a >						<span class="septimo"><i class="icon icon-spoon-knife"></i></span>Vivir</a>					
+					<ul>
+						<li><a href="banks_uk_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Bancos</a></li>
+						<li><a href="markets_uk_es.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermercados</a></li>
+						<li><a href="telecoms_uk_es.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telefonía</a></li>
+						<li><a href="health_uk_es.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Salud</a></li>
+						<li><a href="social_uk_es.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>						
+						<li><a>Tourism</a></li>
+					</ul></li>								
+				<li><a href="transfer_uk_es.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transferir $</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>							
+			</ul>	
+		</div>						
+		<div id="banner">
+			<a href="main_uk_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_uk.jpg" alt=”banner_emprender” /></a><br />	
+			<a href="blog_stratford_uk_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>
+			<a href="blog_stratford_uk_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>
+			<!--<a href="country_london_uk_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+		</div>	
+	</div>		
+	<div id="content">		
+		<h1>Mi corta experiencia en Stratford Upon Avon</h1>
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/lake_stratford.jpg" alt="frescos"  />
+
+			<p>	<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/church_stratford.jpg" alt="frescos"  />
+			En Junio de 2013 llegue a Stratford para trabajar en una pequeña empresa local especializada en el diseño y fabricación de componentes electronicos de control.
+			Era un sitio bastante ídilico donde muchas familias van a pasar los fines de semana, con un lago enorme y con muchos bosques alrededor. Las casas son bastante bajas y hay
+			numerosas mansiones enormes por la zona. Esta a 30 km de Birmingham, la segunda ciudad con más población del país despues de Londres. </br> </br>
+			Es la típica ciudad de postal que a uno se le queda cuando se habla de la antigua Inglaterra, la gente autoctona es bastante agradabe y tienen un nivel de vida elevado.
+			La ciudad es un símbolo en Inglaterra ya que es el sitio donde nacio y se crío Shakespeare, el dramaturgo ingles más famoso de todos los tiempos.</br>
+			El pueblo tiene cerca de 20.000 habitantes pero cuenta con un turismo nacional sobre todo con lo que siempre hay gente por las calles.
+			Las calles están muy cuidadas y existe numerosas tiendas de recuerdos. La comida y en general todo lo que se vendía alli era bastante caro. </br> </br>
+			<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/lake2_stratford.jpg" alt="frescos"  />
+			<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/circuits_stratford.jpg" alt="frescos"  />
+			Ahi estuve viviendo mientras estaba trabajando con un ingeniero nepali críado en Bélgica muy amable y educado. Aprendí bastante de la cultura que tienen allí ya que le pregunte pero
+			la mentalidad que tenía era más bien de Europa y yo diría mas parecida a los españoles que a los belgas.</br>
+			Estuve viviendo en un restaurante de la ciudad que se llamaba The Food Of Love regentado con unos ingleses de origen griego. Nos hicieron un favor para instalarnos ya que todos los hostales
+			estaban ocupados y los alquileres son altisimos. Un piso de apenas dos habitaciones puede suponer cerca de mil libras al mes, siendo un pequeño pueblo.</br></br>
+			En la imagen de la derecha muestro uno de los circuitos con los que estuve trabajando en la pequeña empresa donde trabajaba aquellos días.
+			En el estudio en el que estabamos pagabamos 600 libras, caro pero muy centrico. Alli conocí al hijo del dueño, un chico muy majo que teniamos de vecino de habitación.</br> </br>
+			En una ciudad como esta era frecuente encontrarte actuaciones en los parques sobre Hamlet u otras obras de Shakespeare ya que se encontraba una de las escuelas de teatro más importantes del país.
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/theatre_stratford.jpg" alt="frescos"  /></br>
+			<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/stratford/gabriell_stratford.jpg" alt="frescos"  />
+			Apenas sali 3 fines de semana por alli, y me parecio algunos locales con bastante fiesta para ser el pequeño pueblo que parecía ser, donde las consumiciones eran mucho más barato que en Londres.
+			Me pareció bastante sorprendente, tener una barra libre por apenas 15 libras.
+			Los domingos contaba con un mercado en pleno centro y el fin de semana aprovechaba además para visitar las ciudades aledañas como Birmingham y Coventry donde pude jugar además al futbol en
+			un par de ocasiones.</br> </br>
+			En esa época estuve estudiando ingles para realizar el IETLS y preparando entrevistas donde en una de ellas consegui un trabajo mejor para ir a Fleet y trabajar en NSN (Nokia Solutions Networks). </br> </br><p/>
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>

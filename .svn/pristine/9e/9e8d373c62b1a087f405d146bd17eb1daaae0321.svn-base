@@ -1,0 +1,133 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="go outside in London, night at London, monuments in london, society in england, leisure in england" />
+	<meta name="description" content="Brithish live style, leisure and london night."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+	</script>
+
+	<title>Diary of an engineer - Living in England - Country - London - Web Site By Sergio Lopez Design </title>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a>Work abroad</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>			
+				<li><a href="main_uk_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>	
+				<li><a href="country_uk_en.html"><span class="segundo"><i class="icon icon-road"></i></span>Country</a>
+					<ul>
+						<li><a>London</a></li>
+					</ul></li>									
+				<li><a href="work_uk_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>	
+				<li><a href="house_uk_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>	
+				<li><a href="idiom_uk_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>	
+				<li><a href="transport_uk_en.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transport</a></li>
+				<li><a >						<span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>					
+					<ul>
+						<li><a href="banks_uk_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>							
+						<li><a href="markets_uk_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_uk_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>							
+						<li><a href="health_uk_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="social_uk_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>						
+						<li><a href="tourism_uk_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>								
+				<li><a href="transfer_uk_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Leave</a></li>							
+			</ul>		
+		</div>						
+		<div id="banner">
+			<a href="main_uk_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_uk.jpg" alt=”banner_emprender” /></a><br />	
+			<a href="country_london_uk_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>
+			<a href="country_london_uk_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>
+			<!--<a href="country_london_uk_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+		</div>	
+	</div>		
+	<div id="content">
+		<h1>Largest city in Europe</h1>
+			<p>London is the capital of England and the UK and the most populous city in Europe.
+			Located on the banks of the Thames was founded by the Romans with the name of Londinium two thousand years ago.
+			It is a reference global city, finance, arts, entertainment, media, tourism, transport.
+			London transport is a global leader, with an extensive underground network, the oldest in Europe and a very high flow of visitors having 5 airports nearby. </br>
+
+			<img class="horiz_big2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/london/thamesis.jpg"  alt="thamesis."  /></br>
+			It coexists a lot of people from diverse backgrounds and cultures where more than two thirds speak two or more languages.
+			The city has 9 million inhabitants in the center (to zone 3) and about 12 and 14 million around the London area.</p></br>
+
+		<h1>History</h1>
+			<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/london/londinum.jpg"  alt="londinium"  />
+			<p>The origin of the name is uncertain but London comes from the Roman Londinium and may come from the way the river.
+
+			Passing the fifth century London was abandoned and years after that became a mere Anglo-Saxon settlement with about 12,000 inhabitants.</br>
+			In the tenth century London was the city largest in the island of Great Britain but was still not the capital that fell on Winchester.</br>
+			In the eleventh century after the construction of Westminster Abbey London began charging relevance and consecrated as the center of national government.</br>
+			After the Tower of London, Westminster Palace would be built. Around the twelfth century London would surpass 100,000. </br> </br>
+			<img class="horiz_big2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Map_of_London%2C_1300.svg/1080px-Map_of_London%2C_1300.svg.png"  alt="london_medieval_map"  />
+
+			In the sixteenth century London city would be Catholic to Protestant, Anglican in particular, religion founded by Henry VII and double the number of inhabitants due to the great immigration from Europe.
+			These population increases would be diminished with the plagues that beset Europe and that London would not come out unscathed.
+			Around 1750 Buckingham Palace would be built by King George III of that time, the residence of the present Queen of England, Elizabeth II.</br></br>
+
+			In the nineteenth century, London became a benchmark of global city being the capital of the British Empire and the world's largest city, which would record until 1925 when cities
+			US outstrip that figure. In London the industrial revolution began building a vast network of railways managed to reduce traffic in	the city.
+			Due to the conquests and discoveries of the British Empire have taken away a lot of jewelry, art and archaeological remains that would rise much more.
+			London became one of the world leaders in terms of research and science, universities were related world long before the United States, with Oxford and Cambridge to the head, which is
+			far from London no more than 100 miles. </br> </br>
+
+			Since World War II the population had decreased significantly from 9 to 7 million, but over the years its population has been increasing and in the last five years, with focus
+			European immigration, particularly from eastern countries like Poland following the increase in countries of the European Union ..</p></br></br>
+
+		<h1>Financial capital of Europe</h1>
+			<p>London is the capital of the European finance and a place where the headquarters of major banks and European companies.
+			The central area is what is called The City, FTSE100 index is which  most volume moves across the continent followed bye the German DAX.
+			Recently the number of skyscrapers in the City has increased significantly.
+			In 2007 the skyscraper known as the Shard was built, walk to London Bridge, the highest in Europe with 306 meters high and 72 floors.</br></br>
+			<img class="horiz_big2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/london/city.jpg"  alt="city"  />
+
+		<h1>Great museums</h1>
+		<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/london/museums.jpg"  alt="museums"  />
+		<p>London has many unique museums in the world.
+		The most famous British Museum with a collection of works of art and relics from all cultures and civilizations shown in the superior picture.</br></br>
+		The Archaeological Museum with one of the largest collections dinosaurs and fossils in the world. It has also a extended collection of the animal and botanical world and  as well as minerals and meteorites, below picture.</br></br></br>
+		Complete the round the Tate Museum with a large collection of modern art, and the Maritime Museum or War with a major exhibition of what happened in the Second World War.</p>
+
+		<h1>London monumental</h1>
+		<p>	<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/london/parlament.jpg"  alt="parlament"  />
+		London has several architectural gems, although almost all of the last 600 years because of that fortified medieval town barely tower king and part of the wall remains.
+		St. Paul's Cathedral and Westminster Abbey are those part of the London charm and the famous Parliament and curious clock tower in the world and inspired several films and novels like Sherlock Holmes.
+		It also has magnificent famous parks in the world as Hyde Park or Regent's Park where is the London zoo and botanical park a few years ago was the best in the world.
+		Besides these two centuries has other buildings like Albert Hall and some other neoclassical building as the Guild Hall in the heart of London.</p></br></br>
+
+		<h1>Cosmopolitan city</h1>
+		<p><img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/london/camden.jpg"  alt="camden"  />
+		London is home to many cultures and lifestyles, and there is great social inequality among the poorest who can work in the center but live in the suburbs and richer than even making fortunes can
+		not make ends meet because of the high cost of leisure in general, which can be a 500% more than a city like Madrid.</br></br>
+		But wages are not 5 times but maybe about 3 times more for the same position.
+		Only those who work in the City really have enough salary to afford every whim in central London, where a measly A1 renting a room of 40 square meters can be about 3000 pounds a month.
+		In the center inhabit different communities with different religions or social groups. The best example is Camden Town, a place full tourist district of different shops and where typical food is served from anywhere on the continent.</p></br></br>
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>

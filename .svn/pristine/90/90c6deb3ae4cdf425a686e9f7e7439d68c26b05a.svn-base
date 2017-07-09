@@ -1,0 +1,124 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_emprender.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diary of an engineer, sergio lopez martinez" />
+	<meta name="description" content="Author´s biography"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<title>Diario de un Ingeniero - Sobre mi -- Web Site By Sergio Lopez Design</title>
+</head>
+
+<!-- SCRIPTS REDES SOCIALES. -->
+<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+<script src="https://apis.google.com/js/platform.js" async defer>
+	{lang: 'es'}
+</script>
+<script type="text/javascript">
+	window.___gcfg = {lang: 'es'};
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/platform.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+<script>
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}}(document, 'script', 'twitter-wjs');
+</script>
+<script type="text/javascript">
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){js=d.createElement(s);
+			js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_main2.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>	
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="tercero"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a>Sobre mi</a></li>		
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+	</div>		
+	<div id="wrapper3">		
+		<div id="topnav">
+			<ul>
+				<li><a href="guada_provincia_es.html"><span class="primero"><i class="icon icon-facebook2"></i></span><i class="icon icon-facebook"></i></a></li>
+				<li><a href="guada_provincia_es.html"><span class="segundo"><i class="icon icon-google2"></i></span><i class="icon icon-google"></i></a></li>
+				<li><a href="guada_provincia_es.html"><span class="tercero"><i class="icon icon-linkedin2"></i></span><i class="icon icon-linkedin"></i></a></li>
+				<li><a href="guada_provincia_es.html"><span class="cuarto"><i class="icon icon-mail3"></i></span><i class="icon icon-mail2"></i></a></li>
+			</ul>
+			<br/><br/><br/><br/><br/><img class=blog_banner2" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/about_me.jpg" border="0" alt=" photo sobre_mi.jpg"/>
+		</div>
+	</div>
+	<div id="langue2">
+		<a href="aboutme_es.html"><img  class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="aboutme_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>-->
+	</div>
+	<div id="top_sidebar_ext">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+        <a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+	</div>
+
+	<div id="content">
+		<h2>Sergio López Martínez</h2><br/>
+		<h4> Nacido en Madrid, ha vivido gran parte de su vida en Guadalajara, ciudad que conoce a la perfección.
+			Estudio en el colegio público Alcarria y mas tarde en el instituto público Liceo Caracense del cual se habla en este sitio web en la sección de Guadalajara, ya que es un edificio con mucha historia.<br /><br />
+			<img  class="left_b" src="https://www.uah.es/export/sites/uah/.galleries/imagenes-estructura/logopie.png" border="0" alt="logo UAH"/>
+
+			In <strong> 2009 </strong> he will be graduated at University of Alcalá, <strong> Technical Engineering of Telecommunications in Electronic Systems </strong> and then the <strong> Official Master in Advanced Electronic Systems </strong> finishing in The year <strong> 2011 </strong>. <br/> <br/>
+			He worked for the University of Alcalá for a year and a half grace to a scholarship and a internship as research staff in the last year of the Master..<br/>
+
+			<img  class="left_b" src="http://www.indizze.com/sites/default/files/imagecache/logo_pagina/logos-empresa/pw84sel.gif" border="0" alt="logo SELEKRON"/>
+			Interseap was about adaptation of a complete project on Virtex 5 design with the schemas of the final project master to an Spartan 6 design, FPGA of lower cost and size that would meet and exceed the demands of the client. <br/>
+
+
+			While he was in the internship he received another from the city of Guadalajara to collaborate in Selekron, a local company specialized in electronic control equipment with presence in different projects of well-known Spanish companies.<br/><br/>
+
+			At the end of both scholarships he embarked on a journey through Europe beginning in France. Toulouse was the start point, capital of the European aeronautics industry.
+			He was taking a course in the French Alliance to improve the French acquired years before in the Official School of Languages to achieve to get a job.<br/>
+			<img  class="left_b" src="https://upload.wikimedia.org/wikipedia/fr/2/24/Adrexo_2013_(logo).png" border="0" alt="logo ADREXO"/>
+			After completing the first courses he started working in a local logistics company, Adrexo, while continuing to improve French and studying English in some free courses in the area. <br/> <br/>
+			At the end of the year and seeing that getting a qualified job was quite difficult for someone with so little experience decided to take the route to a more dynamic country where change jobs was the order of the day. <br/> <br/>
+
+			<img  class="left_b" src="http://logok.org/wp-content/uploads/2015/01/Nokia-Siemens-Networks-logo.png" border="0" alt=" logo NSN"/>
+			In February of <strong> 2012 </strong> he landed in England where he began to learn English in free courses of the state or bookshops of the area, as well as in parks, associations and some payment academy in the area.
+			After four months getting great skill with the language he got a first job at an electronic components factory in the central part of England.
+			A couple of months later he would sign up for NSN (Nokia Siemens Networks). <br/> <br/>
+			In NSN worked on the adaptation of a new radio module for all the BTSs maintaining all the improvements of the last designs doubling the capacity of band. At <strong> end of 2014 </strong> the company informs that it will move
+			The project to India for its new strategic plan in which were reducing costs, offering various options to move people of the department.</ br><br/>
+
+			<img  class="left_b" src="http://www.vectorlogo.es/wp-content/uploads/2015/02/logo-vector-indra.jpg" border="0" alt=" logo INDRA"/>
+			In <strong> 2015 </strong> he returned to Spain and was working at Indra as a software development engineer adapting an earlier design to comply with new regulations and add certain functionalities,
+			testing tasks and documentation of technical specifications as well as the inclusion of new SCADAS for the client. <br/> <br/>
+
+			<img  class="left_b" src="http://www.vectorlogo.es/wp-content/uploads/2015/11/logo-vector-ceoe.jpg" border="0" alt=" logo CEOE"/>
+			In <strong> 2016 </strong> began a course of computer security of 500 hours as well as the creation of this website that you can now contemplate. The course offers a rather general approach but in turn
+			Practical use of different security tools to control the traffic that can enter and exit on a network and as with more sophisticated tools that depart almost all of Kali Linux, a system
+			Operative quite similar to Ubuntu focused on these topics.
+			Also he learnt the analysis of data when receiving an attack or how to hide vulnerabilities in packages or to discover those packages. <br/> <br/>
+
+			<img  class="left_b" src="http://logok.org/wp-content/uploads/2014/04/Orange-logo.png" border="0" alt=" logo ORANGE"/>
+			At the end of the course they  will offer a internship at a well known company in Guadalajara, Orange and end up hiring him as a technical support telephone operator where I acquired social and commercial skills through customer service. <br/>
+			After completing the internships and completing the work before new orange marketing campaign, the temporary contract ends and he again is looking for a new job.<br/><br/></h4>
+	</div>
+	<div id="leftside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>
+</html>

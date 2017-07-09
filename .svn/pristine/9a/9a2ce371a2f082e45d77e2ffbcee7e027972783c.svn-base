@@ -1,0 +1,175 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="conocer Toulouse, visitar Toulouse, turismo en Toulouse, monumentos en Toulouse" />
+	<meta name="description" content="Toulouse, capital de la aeronautica de Europa."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<!-- SCRIPT estadisticas -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90367288-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<title>Diario de un Ingeniero - Emprender en Francia - Territorio - Toulouse - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_travel.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a>Work abroad</a></li>
+				<li><a href="main_guadalajara_en.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>
+				<li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+	</div>
+	<div id="wrapper2">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_fr_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>
+				<li><a href="country_fr_en.html"><span class="segundo"><i class="icon icon-road"></i></span>Country</a>
+					<ul>
+						<li><a href="country_paris_fr_en.html"><span class="primero"><i class="icon icon-office"></i></span>Paris</a></li>
+						<li><a>Toulouse</a></li>
+					</ul></li>
+				<li><a href="work_fr_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>
+				<li><a href="house_fr_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>
+				<li><a href="idiom_fr_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>
+				<li><a href="transport_fr_en.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transport</a></li>
+				<li><a >						<span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>
+					<ul>
+						<li><a href="banks_fr_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>
+						<li><a href="markets_fr_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_fr_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>
+						<li><a href="health_fr_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="social_fr_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+						<li><a href="tourism_fr_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>
+				<li><a href="transfer_fr_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Leave</a></li>
+			</ul>
+		</div>
+		<div id="banner">
+			<a href="main_fr_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_uk.jpg" alt=”banner_emprender” /></a><br />
+		</div>
+	</div>
+	<div id="langue">
+		<a href="country_toulouse_fr_es.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+	</div>
+	<div id="social_widget_s" >
+		<div class="fb-send" data-href="www.diariodeuningeniero.com/country_toulouse_fr_en.html"></div>
+		<a href="http://twitter.com/home?status=Toulouse+www.diariodeuningeniero.com/country_toulouse_fr_en.html"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-twitter.png"></a>
+		<a href="whatsapp://send?text=www.diariodeuningeniero.com/country_toulouse_fr_en.html" data-text="Toulouse-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-whatsapp.png"></a>
+	</div>
+	<div id="top_sidebar_paris">
+		<div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div>
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/">Diariodeuningeniero</a></blockquote></div>
+		<br /><br /><br /><br /><br /><br />
+		<div class="fb-follow" data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<a href="https://transferwise.com/u/1bbfd"><img  src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/transferwise.jpg"  alt="transferwise"/></a>
+	</div>
+
+	<div id="content">
+		<h1>An european town</h1>
+		<img class="right_medium" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/toulouse_fr/canal_view.jpg" border="0" alt=" canal_view"/>
+		<p> Toulouse also called Toulouse in antiquity is the most populated French city closest to Spain.
+		At present, the city has become a veritable European metropolis comparable with Lyon, Marseille, Frankfurt or Dublin.
+		More than a metropolis, Toulouse consolidates itself as a technopolis specialized in aeronautics, the aerospace industry, telecommunications and the medical sector.<br />
+		It has 1.3 million inhabitants and is one of the fastest growing in France, both in population and in industries and services.
+		It is also called the pink city by the color of the old buildings, made with bricks. <br />
+		The climate is one of the best in France, so it is the destination of many French people from more northern areas who are looking for a place to work with more quality of life. </p>
+
+		<h1>History</h1>
+		<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/toulouse_fr/capitolio.jpg" border="0" alt=" capitolio"/>
+		<p>City of Roman origin, already has a history of more than 2000 years. Although a settlement had already existed for many centuries before.
+		In Toulouse pre-Roman lived Gallic towns, Volks Tectosabios.
+		It was the capital of the Visigoths, those who stayed in our country in the fifth century.
+		Later they would be of the Franks that would occupy the city by many centuries avoiding that the Arabs extended by Europe.
+		It was also the city where Protestant religions differed from those of Northern Europe of the Catholic religion.
+		Due to these struggles the south of France that until century XIII was independent of France fused with him and adopted its language and customs.
+		Toulouse university was founded in 1300, one of the oldest in France. <br /> <br />
+		It was the place where Napoleon lost his last battle against Marshal Wellington.
+		In the twentieth century it was the site of the aviation armaments industry in World War II. </p>
+
+
+		<h1>Capital of Europe's aeronautics</h1>
+		<p>Toulouse has been an important city in this industry since the beginning of the 19th century when most of the industries in this sector are established there.
+		Most of the first engineers and inventors were working in this city, like Clément Ader.
+		The whole industry expands to the west of Blagnac airport, to Colombiers, a city that is striking with Toulouse. <br />
+		Toulouse stands out as well as aeronautics and the aerospace industry in telecommunications and the medical sector.
+		This economic dynamism (high employment growth) entails a strong demographic increase, which leads to a profound variation of its infrastructures, dwellings and industries.
+		Indeed, Toulouse is the European capital of aeronautics and space industries, but continues to diversify especially in the field of medical research.
+		In it are the main quarters of AIRBUS, part of EADS that is dedicated mainly to the design and manufacture of airplanes.
+		It is where the world's largest AIRBUS commercial airplane, A380. Its parts arrive from another larger plane, Beluga aircraft.</p>
+
+
+		<h1>A monumental town</h1>
+		<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/toulouse_fr/jacobinos.jpg" border="0" alt="jacobinos"/>
+		<p>Toulouse has many vestiges of the past. The most important is the Capitol, the city hall and downtown.
+		It has a cathedral, the one of Saint Etienne one of the most important of the region along with the one of Albi.
+		Also emphasize the convents of the Augustinians and the one of Les Jacobinnes. The historic center houses has a large number of ancient churches of more than 500 years,
+		all with the characteristic brick that gives fame to the flame pink city.
+		The most emblematic buildings are Matabieu train station and the surroundings, Halle aux grains concert hall.
+		If you are there you cannot miss sights of Toulouse on the other side of La Garona, river that crosses Toulouse,
+		It is mandatory also a walking or a boat trip through the canals of Toulouse, the Midi canal and the Brienne canal.</p>
+
+		<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/toulouse_fr/parks.jpg" border="0" alt=" parks_toulouse"/></a>
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio López Martínez                        <a href="avisolegal_en.html">Legal Advisor</a>                       CONTACT<a href="contactme_en.html"><span class="primero"><i class="icon icon-mail2"></i></span></a></p>
+	</div> 
+</body>
+</html>

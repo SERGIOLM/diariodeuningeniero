@@ -1,0 +1,222 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="rio mesa senderismo, ruta por jaraba" />
+	<meta name="description" content="Ruta por el rio Mesa en el termino de la provincia de  Zaragoza"/>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<script type="text/javascript" src="jquery-latest.js"></script>
+	<script type="text/javascript">
+
+		var index = 0;
+		/*Array con las imagenes que se iran mostrando en la web*/
+		/*Funcion para cambiar la imagen*/
+		function change_imagen(id)
+		{
+			$( '#topo' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/' + id + '.jpg');
+		}
+		function hide_imagen()
+		{
+			$( '#topo' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_mesa.jpg');
+		}
+
+		function cargar_imagenes( imagenes ) {
+			$( imagenes ).each( function () {
+				$( '<img/>' )[ 0 ].src = this;
+			});
+		}
+
+		 var title_image_ocejon=new Array(
+
+		);
+
+		var imagenes_mesa=new Array(
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa1.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa2.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa3.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa4.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa5.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa6.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa7.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa8.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa9.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa10.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa11.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa12.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa13.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa14.jpg',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa15.jpg'
+
+		);
+		function rotarImagenesUp()
+		{
+			index++;
+			if(index==15) index=14;
+			document.getElementById("imagen2").src=imagenes_mesa[index];
+			//document.getElementById("imagen").title=title_image_ocejon[index];
+		}
+
+		function rotarImagenesDown(id)
+		{
+			if(index==0) index=1;
+			index--;
+			document.getElementById("imagen2").src=imagenes_mesa[index];
+			//document.getElementById("imagen").title=title_image_ocejon[index];
+		}
+	</script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<title>Diario de un Ingeniero - Conoce mi ciudad - Senderismo en Guadalajara - Rio Mesa - Web Site By Sergio Lopez Design</title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_gu_meseta.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="cuarto"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_guadalajara_es.html"><span class="primero"><i class="icon icon-home"></i></span>INICIO</a></li>	
+				<li><a href="guada_provincia_es.html"><span class="segundo"><i class="icon icon-earth"></i></span>Provincia</a></li>
+				<li><a href="guada_ciudad_es.html"><span class="tercero"><i class="icon icon-office"></i></span>Ciudad</a></li>
+				<li><a href="guada_historia_es.html"><span class="cuarto"><i class="icon icon-bookmarks"></i></span>Historia</a>
+					<ul>
+						<li><a href="guada_historia_I_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Origen sI-XIV</a></li>
+						<li><a href="guada_historia_II_es.html"><span class="segundo"><i class="icon icon-paste"></i></span>Apogeo s.XIV-XVI</a></li>
+						<li><a href="guada_historia_III_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Declive s.XVII-XIX</a></li>						
+						<li><a href="guada_historia_IV_es.html"><span class="cuarto"><i class="icon icon-paste"></i></span>Resurgir s.XX</a></li>
+						<li><a href="guada_historia_V_es.html"><span class="quinto"><i class="icon icon-paste"></i></span>Hoy s.XXI</a></li>
+					</ul></li>						
+				<li><a href="guada_senderismo_es.html"><span class="quinto"><i class="icon icon-road"></i></span>Senderismo</a>
+					<ul>
+						<li><a href="guada_saguila_es.html">Aguila y Peña Hueva</a></li>					
+						<li><a href="guada_socejon_es.html">Ocejon</a></li>
+						<li><a>Lobo</a></li>
+						<li><a href="guada_shundido_es.html">Hundido de Armallones</a></li>						
+						<li><a>Mesa</a></li>
+						<li><a href="guada_salarilla_es.html">Muela_alarilla</a></li>
+						<li><a href="guada_saltotajo_es.html">Piragüismo en el Alto Tajo</a></li>
+						<li><a href="guada_spietajo_es.html">Tajo y barranco Hoz</a></li>																			
+					</ul></li>					
+				<li><a href="guada_gastronomia_es.html"><span class="sexto"><i class="icon icon-spoon-knife"></i></span>Gastronomia</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>						
+			</ul>	
+		</div>						
+		<div id="banner">
+			<img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/alpiedelameseta.png" alt="banner"/><br />
+		</div>	
+	</div>
+	<div id="langue">
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a href="guada_smesa_en.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="guada_smesa_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>-->
+	</div>
+	<div id="social_widget_s" >
+		<a href="http://twitter.com/home?status=[TITLE]+[URL]"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-twitter.png"></a>
+		<a href="twitter.com/home?status=[TITLE]+[URL]"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-fb.png"></a>
+		<a href="whatsapp://send?text= main_blog_es.html" data-action="share/whatsapp/share"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-whatsapp.png"></a>
+	</div>
+
+	<div id="content-pre">
+		<h1>Ruta por las hoces del rio Mesa</h1>
+		<img class="horiz_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_mesa.jpg" id="topo" width="600"  alt="mapa_mesa">
+	    <img class="meseta" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa1.jpg" id="imagen2" alt="img_mesa"   >
+	</div>
+	<div id="controles">	
+		<i class="icon icon-arrow-left" onmousedown="rotarImagenesDown()"></i>
+		<i class="icon icon-pause2" onmousedown="act_rotarImagenes('0')"></i>
+		<i class="icon icon-play3" onmousedown="act_rotarImagenes('1')"></i>
+		<i class="icon icon-arrow-right" onmousedown="rotarImagenesUp()"></i><br /><br />
+	</div>
+	<div id="top_sidebar_gu_region">
+		<div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/">Diariodeuningeniero</a></blockquote></div>
+		<div class="fb-follow" data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<div class="fb-page" data-href="https://www.facebook.com/Vendetta-Guadalajara-255002697976444/?fref=ts" data-width="150" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
+
+	</div>
+
+	<div id="content">		    
+		<p>La provincia de Guadalajara no tiene nada que envidiar a otras provincias de España. En ella podemos encontrar maravillas de la naturaleza que poca gente conoce.
+		La parte este es bastante desconocida para la mayoria de los españoles y alberga unos de los mejores tesoros en cuanto a parajes senderistas se refiere. En el siguiente mapa presento el 
+		indice general de rutas senderistas que voy a explicar en mi website donde podreis encontrar informacion veraz de como superar estos desafios. 
+		Las hay de todos los niveles y estan marcadas en diferentes colores dependiendo de la dificultad entrañada.<br/><br/>
+		
+		Si pulsas en el mapa podras ve las rutas expuestas que yo mismo he realizado.
+		Si pulsas <a onmouseover="change_imagen('guada_topocomarcas')" onmouseout="hide_imagen()">aqui </a>veras el mapa topografico clasificado por las zonas de la provincia.<br/><br/>
+	    <img class="meseta_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa2.jpg" alt="img_mesa2"   >
+	    <img class="meseta_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa3.jpg" alt="img_mesa3"   >
+
+		Esta ruta teoricamente se encuentra en la provincia de Zaragoza pero ha sido incluida por estar pegando con Guadalajara, justo pasado el barranco de Valdelobos.
+		Se parte del pueblo de Jaraba, aparcando el coche en las proximidades de un santuario que esta empotrado contra la montaña como se muestra en una
+		de las fotos subidas. Este punto es el origen de la ruta en la que subiremos por la senda y bordearemos todo el barranco para luego bajar y hacer la misma ruta.
+		Este camino es circular y el desnivel maximo es de 300 metros. Este santuario es solo accesible los martes, con visita guiada.
+		En el transcurso de la ruta podremos observar en paneles informativos las diferentes etapas en la formacion de estos extraños surcos y observar pinturas rupestres
+		y corrales antiguos de pastores. <br/>
+		<img class="meseta_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa9.jpg" alt="img_mesa9"   >
+		<img class="meseta_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/mesa/mesa14.jpg" alt="img_mesa14"   ><br/>
+		Justo en los alrededores del santuario se puede observar en muchas ocasiones el vuelo del buitre leonado, especie endémica de esta zona, como se puede observar
+		en la foto.<br/>
+		El tiempo ideal para realizarla es primavera, cuando disponemos de una temperatura no superior a los 25 grados. Nosotros la hicimos en el mes de Abril
+		y aun tan temprana fecha el sol pegaba bastante. Es recomendable llevar crema solar ya que esta zona es bastante arida, de ahi que se llame La Hoz Seca del rio Mesa. <br/></p>
+	</div>
+	<div id="footer2">
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_s-xclick">
+			<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIHNwYJKoZIhvcNAQcEoIIHKDCCByQCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYCJWOBmP2PSeQUuCLZzV0ogY1+lvD2pEbBmQ9NZDYIdtjZsXgFX4IaNpJ4Llva1ueG9M9mDoSvKT7mCNNK+GaMfROuLgOmRZYuEmeyAnEceYqNvjo15XZPgU9QrvstxzUtwC/0G3uX8vkFZir3Lc+QfUxO4b8OH9Uyc93HP93mrHTELMAkGBSsOAwIaBQAwgbQGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQIz121zkyrUz2AgZDzRnAbgq6k/+aDI4ilFQaoIHk09dsaxSp7lIy6nAwfDD+DGE9MGW23qGC/RMG0KfwexRT98iTNKP1wqsAmBjMwRZF0xuQcQd95hYz4sjjZjgShRZ9JVJBciEQTPuJrI9r3SqoiVAu4Z/lQfPhlDa2xMGjjGGwQgDCVaQFzV3uqwvrlZ6gh/EzdHG44SXq8yiugggOHMIIDgzCCAuygAwIBAgIBADANBgkqhkiG9w0BAQUFADCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wHhcNMDQwMjEzMTAxMzE1WhcNMzUwMjEzMTAxMzE1WjCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMFHTt38RMxLXJyO2SmS+Ndl72T7oKJ4u4uw+6awntALWh03PewmIJuzbALScsTS4sZoS1fKciBGoh11gIfHzylvkdNe/hJl66/RGqrj5rFb08sAABNTzDTiqqNpJeBsYs/c2aiGozptX2RlnBktH+SUNpAajW724Nv2Wvhif6sFAgMBAAGjge4wgeswHQYDVR0OBBYEFJaffLvGbxe9WT9S1wob7BDWZJRrMIG7BgNVHSMEgbMwgbCAFJaffLvGbxe9WT9S1wob7BDWZJRroYGUpIGRMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbYIBADAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4GBAIFfOlaagFrl71+jq6OKidbWFSE+Q4FqROvdgIONth+8kSK//Y/4ihuE4Ymvzn5ceE3S/iBSQQMjyvb+s2TWbQYDwcp129OPIbD9epdr4tJOUNiSojw7BHwYRiPh58S1xGlFgHFXwrEBb3dgNbMUa+u4qectsMAXpVHnD9wIyfmHMYIBmjCCAZYCAQEwgZQwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tAgEAMAkGBSsOAwIaBQCgXTAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0xNzAxMTUyMTAzMzNaMCMGCSqGSIb3DQEJBDEWBBRwSsBf/JOvSXvPOFNLM4t9SsxDLDANBgkqhkiG9w0BAQEFAASBgDhqx9rw0N7DNV4zNcRsYRULgTFtVL0VfoNPKpuXIC9VKrBb5owrU+HIpnhzsrYUpqzsjjDHrxldCJtJc0L7HbLa8qe/BgOuoAO1wzq1sbc8QIVYKySJ7Me93gfgm44MY5YnQxsB8MORifLWlFNWWYjQsCMofpY3TNOuld0IdG9O-----END PKCS7-----">
+			<input type="image" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/paypal_donation.jpg"  name="submit" alt="PayPal - The safer, easier way to pay online!" height="30px" width="120px" align="center">
+		</form>
+	</div> 
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio Lopez Martinez                                    CONTACTO<a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

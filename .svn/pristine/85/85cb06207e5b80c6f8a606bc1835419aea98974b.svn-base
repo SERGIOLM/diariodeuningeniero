@@ -1,0 +1,102 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diario de un ingeniero, emprender en Francia, origen y bandera francia, organizacion territorial en francia, regiones en francia, tiempo en francia,
+									 horas de sol en francia, climatologia en francia" />
+	<meta name="description" content="Descripcion de Francia como pais, clima y organizacion territorial." />
+	<link rel="icon" type="image/png" href="favicons/favicon_emprender.png" />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+	
+	<title>Diario de un Ingeniero - Emprender en Francia - Francia - Web Site By Sergio Lopez Design </title>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>	
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_fr_es.html"><span class="primero"><i class="icon icon-home"></i></span>INICIO</a></li>	
+				<li><a>Territorio</a></li>					
+				<li><a href="work_fr_es.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Trabajar</a></li>	
+				<li><a href="house_fr_es.html"><span class="cuarto"><i class="icon icon-office"></i></span>Vivienda</a></li>	
+				<li><a href="idiom_fr_es.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Idioma</a></li>	
+				<li><a href="transport_fr_es.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transporte</a></li>	
+				<li><a >							<span class="septimo"><i class="icon icon-spoon-knife"></i></span>Vivir</a>					
+					<ul>
+						<li><a href="banks_fr_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>					
+						<li><a href="markets_fr_es.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_fr_es.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>						
+						<li><a href="health_fr_es.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="fun_fr_es.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>						
+						<li><a href="tourism_fr_es.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>								
+				<li><a href="transfer_fr_es.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transferir $</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>							
+			</ul>	
+		</div>						
+		<div id="banner">
+			<a href="main_fr_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fr.jpg" alt=”banner_emprender” /></a><br />	
+			<a href="country_fr_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>	
+			<a href="england_fr_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>	
+			<a href="england_fr_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				
+		</div>	
+	</div>		
+	<div id="content">
+		<h1>Origen y bandera</h1>		
+			<p>La bandera francesa es la mezcla de los colores representativos de la ciudad de París, el rojo y el azul y de la casa real, el blanco. Esta bandera tiene su origen en la 
+			toma de la bastilla en 1789 al comenzar la revolución francesa. Hasta aquel momento las banderas oficiales eran las de la monarquía absoluta francesa : flores de lis sobre fondo blanco o azul.</p> 
+			<img class="horiz_medium" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/country_fr/france_flag_history.jpg" alt=”france_flag_history” />	<br />
+		
+		<h1>Organiacion Territorial</h1>				
+			<p>Francia es el pais con mas superficie de la union europea y debe su nombre a los francos, pueblo que derroto a los romanos y que se quedo 
+			con este territorio, antigua Galia denominada por los romanos.<br /><br /> 
+			Francia es la sexta economía mundial y una de las naciones con más influencia del mundo, miembro del G5 y con capacidad núclear. El francés su lengua es hablada por cerca de 500 millones de personas debido
+			a su predominio en todo el norte de Africa, la lengua de la economía y los negocios como la denominan allí.<br /><br />
+			Francia esta dividida administrativamente en regiones.	</p><br />
+			<img class="right_medium2" src="http://www.france-pub.com/maps/regions-towns-800-13.jpg" alt=”france_territory” />					
+			<img class="right_medium2" src="http://www.cartesfrance.fr/cartes/carte-france-region.gif" alt=”france_territory2” />		
+			<p>Francia esta dividida actualmente en 13 regiones habiendo cambiado administrativamente en 2014 bajando desde 23. Las regiones se dividen a su vez en departamentos siendo 96.
+			Estos departamentos se dividen en distritos, los cuales lo hacen en cantones, siendo la unidad m{as pequeña la comuna (arrondissements).<br /><br /> 
+			Tiene un nivel de vida elevado (IDH: 22°) correspondiente a la escala de paises del primer mundo y su economia es la segunda mas potente de la union europea por detras
+			de Alemania. Sin embargo en los ultimos tiempos se ha registrado un nivel de desempleo superior a la media, y va en ascenso.
+			
+			Es el quinto con mayor PIB y la renta per capita es de 40.000 euros, ocupando el puesto 11 en el mundo.</p>
+			
+			<img class="horiz_medium" src="http://ntafs.fr/sites/ntafs.fr/files/images/carte-france-departements-alpha-120406.png" alt=”france_territory3” />	<br />	<br />			
+		<h1>Clima</h1>
+			<p>El clima en Francia es variado dependiendo de la ciudad donde vivas. Se pueden diferencia cuatro tipos de clima, Atlantico al norte y noroeste, continental al oeste, de montaña por la zona de l
+			los Alpes, y mediterraneo al sur y sudeste.<br /><br />
+			Por lo general vivir en Paris y alrededores es muy parecido a vivir en Londres o en Belgica o Holanda. Llueve mucho y esta tres de cada 4 dias nublado. La diferencia con el sur es abismal, siendo el
+			sur muy parecido a vivr en el norte de España o en cataluña si estas en la costa (La Cote dAzure).
+			
+			Yo de hecho cuando estuve en Toulouse recuerdo que a partir de Mayo ya casi todos los dias eran buenos, salvo alguna semana de lluvias, y hasta mediados de Septiembre no volvio a llover. Hubo dias de
+			verano que la sensacion de calor era muy parecida a la de España en Junio con temperaturas que algun dia rondaron los 35 grados de maxima. Ademas la sensacion de ahogo en verano no era la misma aunque
+			tampoco era tan suave como la que pueda hacer en el norte de España. Y hasta mediados de octubre no volvio a hacer frio. Siendo un pais con cuatro estaciones bien diferenciadas a diferencia de España que se 
+			estan convirtiendo en dos con el paso de los años. El oeste tambien esta bastante bien por debajo de Bretaña.<br /><br />
+			En el siguiente mapa se observa como la diferencia de vivir en el sur y en el norte es de tener el doble de horas de sol al año de media, una diferencia que seria algo parecido a comparar zonas del interior
+			del pais Vasco con zonas del sur de Andalucia.<p>
+			<img class="horiz_medium" src="http://www.fao.org/ag/AGp/agpc/doc/Counprof/France/pics_extra/fig9_x.jpg" alt=”france_territory4” />	<br />				
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>
+</html>

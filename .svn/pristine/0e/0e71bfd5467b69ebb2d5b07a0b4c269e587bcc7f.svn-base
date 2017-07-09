@@ -1,0 +1,202 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diario de un ingeniero, emprender en Francia, turismo en Francia, ciudades que visitar en Francia, visitar londres" />
+	<meta name="description" content="Lista de ciudades a visitar y principales monumentos en Francia"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+	var index = 0;
+	var activated = 0;
+	function change_image( id )
+	{
+	    $( '#France' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/' + id + '.png');
+	}
+	function hide_image()
+	{
+	    $( '#France' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/France.png');
+	}   
+    /*Funcion para cambiar la imagen*/
+
+
+	function cargar_imagenes( imagenes ) {
+	    $( imagenes ).each( function () {
+	        $( '<img/>' )[ 0 ].src = this;
+	    });
+	}
+	cargar_imagenes([
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris.png',
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Lyon.png',
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Nantes.png',
+	        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Toulouse.png'
+	]);
+
+ 	var title_image_Paris=new Array(
+        'El Arco del triunfo',
+        'La Magdalena',
+        'El Panteon de Francia',
+        'Los Invalidos',
+        'Sagrado Corazon',
+        'Notre Dame',      
+        'Santa Clotilda',
+        'La Santa Capilla',
+        'El Louvre',
+        'El molino Rojo',  
+        'Monmartre',    
+        'La defense',    
+        'La torre Eiffel',    
+        'arco del triunfa'                                                                                             
+    );
+    
+	var imagenes_Paris=new Array(
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-Arc%20du%20trioumphe.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-La%20Magdeleine.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-Pantheon.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-Les%20invalides.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-Sacre%20Coeur.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-La%20Notre%20Dame.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-Sainte%20Clothilde.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-Sainte%20Chapelle.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-Le%20Louvre.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-Moulin%20Rouge.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-Monmartre.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-La%20Defense.jpg', 
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-Tour%20Eiffel.jpg'        
+    );
+   
+    
+ 	var imagenes_Toulouse=new Array(
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Toulouse/Toulouse-Le%20Capitoile.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Toulouse/Toulouse-Le%20Capitoile2.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Toulouse/Toulouse-Le%20Capitoile3.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Toulouse/Toulouse-Les%20Agustinians.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Toulouse/Toulouse-Les%20Jacobins.jpg',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Toulouse/Toulouse-St%20Etienne.jpg', 
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Toulouse/Toulouse-San%Pierre.jpg',  
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Toulouse/Toulouse-Parc.jpg',  
+        'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Toulouse/Toulouse-La%20Ramene.jpg'                            
+    );
+  
+ 
+/*   function rotarImagenes()
+    { 
+        index++;
+        if(index==11) {index=0;   
+        
+		document.getElementById("imagen").src=imagenes_Paris[index];
+		document.getElementById("imagen").title=title_image_Paris[index];
+    }      
+    function act_rotarImagenes(act)
+    {    
+	    if(activated==0)
+	    {
+	        if(act=1) 
+	        {
+	        	setInterval(rotarImagenes(),2000); 
+	        	activated=1;
+	        }
+	        else     
+			{       
+				activated=0;
+	    	}
+	    } 
+    }  */ 
+    function rotarImagenesUp()
+    {
+        index++;
+        if(index==13) index=12;   	           
+        document.getElementById("imagen").src=imagenes_Paris[index];
+ 		document.getElementById("imagen").title=title_image_Paris[index];
+  }
+	
+    function rotarImagenesDown()
+    {
+        if(index==0) index=1; 
+        index--;      
+	        	document.getElementById("imagen").src=imagenes_Paris[index];
+	 			document.getElementById("imagen").title=title_image_Paris[index];
+   }
+	</script>
+
+
+	<title>Diario de un Ingeniero - Emprender en Francia - Turismo - Web Site By Sergio Lopez Design </title>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_fr_es.html"><span class="primero"><i class="icon icon-home"></i></span>INICIO</a></li>	
+				<li><a href="country_fr_es.html"><span class="segundo"><i class="icon icon-road"></i></span>Territorio</a></li>					
+				<li><a href="work_fr_es.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Trabajar</a></li>	
+				<li><a href="house_fr_es.html"><span class="cuarto"><i class="icon icon-office"></i></span>Vivienda</a></li>	
+				<li><a href="idiom_fr_es.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Idioma</a></li>	
+				<li><a href="transport_fr_es.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transporte</a></li>	
+				<li><a ><span class="septimo"><i class="icon icon-spoon-knife"></i></span>Vivir</a>
+					<ul>
+						<li><a href="banks_fr_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Bancos</a></li>
+						<li><a href="markets_fr_es.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermercados</a></li>
+						<li><a href="telecoms_fr_es.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telefonia</a></li>
+						<li><a href="health_fr_es.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Salud</a></li>
+						<li><a href="fun_fr_es.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+						<li><a>Turismo</a></li>
+					</ul></li>								
+				<li><a href="transfer_fr_es.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transferir $</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>							
+			</ul>	
+		</div>						
+		<div id="banner">
+			<a href="main_fr_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fr.jpg" alt=”banner_emprender” /></a><br />	
+			<a href="tourism_fr_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>	
+			<a href="tourism_fr_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>
+			<!--<a href="tourism_fr_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>-->
+			<a href="https://www.facebook.com/Diariodeuningeniero-643060745845646"><span class="primero"><i class="icon icon-facebook"></i></span></a>	
+			<a href="https://plus.google.com/116656792808510192540"><span class="segundo"><i class="icon icon-google"></i></span></a>
+			<a href="guada_provincia_es.html"><span class="tercero"><i class="icon icon-linkedin2"></i></span></a>
+			<a href="guada_provincia_es.html"><span class="cuarto"><i class="icon icon-mail2"></i></span></a>			
+		</div>	
+	</div>	
+	<div id="slides">	
+<!--		<img class="horiz_slides"  src="" id="imagen"alt="banner"/>	
+-->	</div>		
+	<div id="pre-content">	
+	
+		<img src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/France.png"  id="France" width="450"  alt="" usemap="#France_Map">	
+	    <img class="right_big2" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_fr/tourism_fr/Paris/Paris-Arc%20du%20trioumphe.jpg" id="imagen" alt="imagen" title=""  >	
+	
+	<map name="France_Map">
+			<area onmouseover="change_image('Paris')" onmouseout="hide_image('Paris')" shape="rect" alt="" coords="202,99,226,126" href="gfds">
+			<area onmouseover="change_image('Lyon')" onmouseout="hide_image('Lyon')" shape="rect" alt="" coords="277,224,301,249" href="lyon">
+			<area onmouseover="change_image('Toulouse')" onmouseout="hide_image('Toulouse')" shape="rect" alt="" coords="184,332,204,354" href="toulouse">
+			<area onmouseover="change_image('Nantes')" onmouseout="hide_image('Nantes')" shape="rect" alt="" coords="80,167,115,187" href="http://nantes">
+		</map>	
+	</div>
+	<div id="controles">	
+		<i class="icon icon-arrow-left" onmousedown="rotarImagenesDown()"></i>
+		<i class="icon icon-pause2" onmousedown="act_rotarImagenes('0')"></i>
+		<i class="icon icon-play3" onmousedown="act_rotarImagenes('1')"></i>
+		<i class="icon icon-arrow-right" onmousedown="rotarImagenesUp()"></i>	
+	</div>	
+
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>

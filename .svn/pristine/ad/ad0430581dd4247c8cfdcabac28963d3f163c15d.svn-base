@@ -1,0 +1,179 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diario de un ingeniero, emprender en Francia, moverse en Paris, viajar en Paris, viajar en Francia, trenes en francia
+									taxis en Francia" />
+	<meta name="description" content="Guia para viajar dentro de Francia." />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<style type="text/css">
+	    table 
+	    {
+			table-layout: auto;	    
+			border:2px solid black;
+			border-collapse:separate;
+			border-spacing:10 px;
+			width:100%;
+			height:auto;
+			font-size:medium;
+			font-family:arial;
+			margin-bottom:5px;
+			text-align:center;	       
+	     }
+	</style>
+	<title>Diario de un Ingeniero - Emprender en Francia - Transporte - Web Site By Sergio Lopez Design </title>	
+</head>
+
+<body>	
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>	
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_fr_es.html"><span class="primero"><i class="icon icon-home"></i></span>INICIO</a></li>	
+				<li><a href="country_fr_es.html"><span class="segundo"><i class="icon icon-road"></i></span>Territorio</a></li>					
+				<li><a href="work_fr_es.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Trabajar</a></li>	
+				<li><a href="house_fr_es.html"><span class="cuarto"><i class="icon icon-office"></i></span>Vivienda</a></li>	
+				<li><a href="idiom_fr_es.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Idioma</a></li>	
+				<li><a>Transporte</a></li>	
+				<li><a ><span class="septimo"><i class="icon icon-spoon-knife"></i></span>Vivir</a>					
+					<ul>
+						<li><a href="banks_fr_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Bancos</a></li>
+						<li><a href="markets_fr_es.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermercados</a></li>
+						<li><a href="telecoms_fr_es.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telefonia</a></li>
+						<li><a href="health_fr_es.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Salud</a></li>
+						<li><a href="fun_fr_es.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+						<li><a href="tourism_fr_es.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Turismo</a></li>
+					</ul></li>								
+				<li><a href="transfer_fr_es.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transferir $</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>						
+			</ul>	
+		</div>						
+		<div id="banner">
+			<a href="main_fr_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fr.jpg" alt=”banner_emprender” /></a><br />	
+			<a href="transport_fr_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>	
+			<a href="transport_fr_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>	
+			<!--<a href="transport_fr_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+		</div>	
+	</div>		
+	<div id="content">
+		<h1>Vuelos</h1>
+		<p>Para volar a Francia existen multitud de compañías que ahora enumero:</p>
+
+		<table >
+			<tbody>
+			<tr class="color">
+				<th>COMPAÑIA</th>
+				<th>LOGO</th><th>SERVICIO Y VALORACION</th>
+			</tr>
+			<tr>
+				<th><a href="http://www.ryanair.com/es">Ryanair</a></th>
+				<td><a href="http://www.ryanair.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Ryanair_logo_2013(1).svg/1280px-Ryanair_logo_2013(1).svg.png" alt=”transport_banner1” /></a></td>
+				<td>La que cuenta con el billete mas competitivo en cualquier fecha, si bien la habitabilidad en el avión no es la mejor.
+					Su conexión principal es Beauvais, aeropuerto a 60km de Londres por lo que deberás coger un autocar adicional.</td>
+			</tr>
+			<tr>
+				<th><a href="http://www.easyjet.com/es">easyJet</a></th>
+				<td><a href="http://www.easyjet.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EasyJet_logo.svg/512px-EasyJet_logo.svg.png" alt=”transport_banner2” /></a></td>
+				<td>Como Ryanair cuenta con billetes bastante asequibles si bien algo mas caro pero a mi modo de ver es mejor servicio.</td>
+			</tr>
+			<tr>
+				<th><a href="http://www.iberia.com/">Iberia</a></th>
+				<td><a href="http://www.iberia.com/"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Iberia_%282013%29.svg/400px-Iberia_%282013%29.svg.png" alt=”transport_banner3” /></a></td>
+				<td>Compañía española con billetes a buen precio siempre que este reservado con tiempo, si no es como un 33% superior a sus rivales pero la habitabilidad es mejor.</td>
+			</tr>
+			<tr>
+				<th><a href="http://www.vueling.com/es">Vueling</a></th>
+				<td><a href="http://www.ryanair.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_Vueling.svg/1250px-Logo_Vueling.svg.png" alt=”transport_banner4” /></a></td>
+				<td>Bastantes vuelos y con unos precios medios.</td>
+			</tr>
+			<tr>
+				<th><a href="https://www.norwegian.com/es/">Norwegian</a></th>
+				<td><a href="https://www.norwegian.com/es"><img class="left_b3" src="https://upload.wikimedia.org/wikipedia/en/0/09/Norwegianairshuttlelogo2013.png" alt=”transport_banner5” /></a></td>
+				<td>Compañía nueva con sede central en noruega y aeropuertos principales en los países nórdicos, Finlandia, Suecia y Dinamarca.</td>
+			</tr>
+			<tr>
+				<th><a href="http://www.airfrance.fr/">Air France</a></th>
+				<td><a href="http://www.airfrance.fr/"><img class="left_b3" src="http://www.aviationexplorer.com/Airline_Logos/Air_France_Airlines_Logo.gif" alt=”transport_banner7” /></a></td>
+				<td>La compañía francesa por excelencia, parecida a Iberia en cuanto a precios y confort.
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<br />
+		<br />
+		<p>Francia debido a su red de carreteras cantidad de carreteras es buen sitio para alquilar coche. El transporte público entre ciudades es algo caro a mi modo de ver pero el transporte urbano suele
+			ser algo asequible cuando se compran bonos mensuales.</p>
+
+		<h1>Metro - Ciudades con metro</h1>
+		<p>En Francia hay 6 ciudades con líneas de metro. Esto la hace el segundo país con más ciudades con líneas de metro de Europa. <br />
+
+			EL metro en Paris fue inaugurado en 1900 y desde entonces no ha hecho más que crecer. Es el medio más utilizado en la capital y para ir al centro la mejor opción.
+			El precio del billete es bastante inferior que el de Londres donde aquí cuesta 1.80 euros el billete sencillo en Londres vale
+			2.40 libras y tienes la posibilidad de conseguir billetes de 10 como Madrid al precio de 14.1€.
+			Estos billetes son transferibles, es decir, con el mismo billete pueden pasar varias personas a la vez a diferencia del reino unido con la tarjeta
+			Oyster. Al igual que muchos sitios se puede usar esta tarjeta para autobús y tranvía pero no se puede hacer transbordo.
+			En Toulouse en cambio el billete cuenta 1 hora a partir del desplazamiento y puedes usar todo tipo de medio de transportes.<br /><br />
+
+			Las líneas de metro y su mapa se describen bien en esta página :</p>
+		<ul style="list-style-type:circle">
+			<li><a href="http://mapa-metro.com/es/Francia/Paris/Paris-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Paris/Paris-Metro-mapa.htm">París.</a></li>
+			<li><a href="http://mapa-metro.com/es/Francia/Lille/Lille-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Toulouse/Lille-Metro-mapa.htm">Lille.</a></li>
+			<li><a href="http://mapa-metro.com/es/Francia/Lyon/Lyon-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Toulouse/Lyon-Metro-mapa.htm">Lyon.</a></li>
+			<li><a href="http://mapa-metro.com/es/Francia/Rennes/Rennes-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Toulouse/Rennes-Metro-mapa.htm">Rennes.</a></li>
+			<li><a href="http://mapa-metro.com/es/Francia/Rouen/Rouen-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Toulouse/Rouen-Metro-mapa.htm">Rouen.</a></li>
+			<li><a href="http://mapa-metro.com/es/Francia/Toulouse/Toulouse-Metro-mapa.htmhttp://mapa-metro.com/es/Francia/Toulouse/Toulouse-Metro-mapa.htm">Toulouse.</a></li>
+		</ul>
+		<img class="horiz_big" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Carte_M%C3%A9tro_de_Paris.jpg" alt=”transport1” /><br /><br />
+
+		<h2>Taxi</h2>
+		<p>El taxi en Paris es uno de los métodos más utilizados debido a la saturación de pasajeros y turistas que atraviesan esta ciudad diariamente. Paris tiene los índices más altos de contaminación
+			de toda Europa y no es rara la vez que ha habido alerta debido a multitud de casos de urgencias por problemas respiratorios.
+			<br />
+			Las tarifas dependen entre otros factores de la distancia y el horario que se tome el taxi. También depende del número de personas y del equipaje transportado.
+			El precio de ir desde el aeropuerto <strong>Charles de Gaulle al centro</strong>  es de unos <strong> 50 euros</strong>  y 35 para el aeropuerto de Orly.</p>
+
+
+		<br />
+		<h3>Compañias de taxi en Paris y teléfono</h3>
+		<ul style="list-style-type:circle">
+			<li>Taxi G7:      +33 (0) 147 394 739</li>
+			<li>Aero Taxi:    +33 (0) 147 390 147</li>
+			<li>Alpha Taxi:       +33 (1) 145 858 585</li>
+			<li>Taxi Bleus :   +33 (0) 891 701 010</li>
+		</ul><br />    <br /><br />
+		<h1>Viajar por Francia en tren </h1>
+
+		<p>El tren en Francia es un bien del estado y la compañía es la <a href="http://www.sncf.com/fr/trains/http://www.sncf.com/fr/trains/">SNCF </a>.
+			Existen tres tipos de trenes en funcion del tipo de servicio y rapidez.</p>
+		<ul style="list-style-type:circle">
+			<li>Intercite: Conexión entre ciudades (cercanias)</li>
+			<li>TER:      Conexión entre grandes ciudades (regional, como talgo)</li>
+			<li>TGV:      Alta velocidad francesa (como el AVE)</li>
+			<li>OUIGO:    Alta velocidad a bajo precio </li>
+		</ul>
+
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div>
+</body>
+</html>
+

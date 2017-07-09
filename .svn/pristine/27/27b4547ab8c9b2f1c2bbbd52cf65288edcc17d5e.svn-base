@@ -1,0 +1,156 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="increase interest rates fed 2016, increase interest rates usa 2016" />
+	<meta name="description" content="Analysis increase rates by FED of USA in 2016"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+	</script>
+	<!-- SCRIPTS ADD DEGIRO. -->
+	<script>
+		/*Array con las imagenes que se iran mostrando en la web*/
+		var imagenes=new Array(
+				'http://i235.photobucket.com/albums/ee43/Sergio22/banners/degiro_vertical.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/banners/degiro_vertical2.png'
+		);
+
+		/*Funcion para cambiar la imagen*/
+		function rotarImagenes()
+		{
+			// obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+			var index=Math.floor((Math.random()*imagenes.length));
+
+			// cambiamos la imagen
+			document.getElementById("degiro").src=imagenes[index];
+		}
+
+		/*Función que se ejecuta una vez cargada la página*/
+		onload=function()
+		{
+			// Cargamos una imagen aleatoria
+			rotarImagenes();
+
+			// Indicamos que cada 5 segundos cambie la imagen
+			setInterval(rotarImagenes,5000);
+		}
+	</script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<!-- SCRIPT estadisticas -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90367288-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<title>Diary of an engineer - Diary of an engineer - Economics 2016 - Increase rates by FED of USA - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_markets.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a href="main_en.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Work abroad</a></li>
+				<li><a href="main_guadalajara_en.html"><span class="tercero"><i class="icon icon-office"></i></span>Know my town</a></li>
+				<li><a href="aboutme_en.html"><span class="cuarto"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+	</div>
+	<div id="langue_europe" >
+		<a href="blog_eco2016_FEDrateschanges_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<a href="blog_eco2016_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-back.jpg" alt=”BACK” /></a>
+	</div>
+	<div id="social_widget" >
+		<div class="fb-send" data-href="www.diariodeuningeniero.com/blog_eco2016_FEDrateschanges_en.html"></div>
+		<a href="http://twitter.com/home?status=Increase rates by FED+www.diariodeuningeniero.com/blog_eco2016_FEDrateschanges_en.html"><img class="icono" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-twitter.png"></a>
+		<a href="whatsapp://send?text=www.diariodeuningeniero.com/blog_eco2016_FEDrateschanges_en.html" data-text="Increase rates by FED-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-whatsapp.png"></a>
+	</div>
+	<div id="top_sidebar_blog">
+		<div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/">Diariodeuningeniero</a></blockquote></div>
+		<div class="fb-follow" data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<a href="https://www.degiro.es/amigo-invita-amigo/empezar-a-invertir.html?id=3OGJ8RBP&referral_name=SERGIO%20L%C3%93PEZ%20MART%C3%8DNEZ"><img class="degiro"  src="" id="degiro" alt="banner"/></a>
+		<a href="https://transferwise.com/u/1bbfd"><img  src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/transferwise.jpg"  alt="transferwise"/></a>
+	</div>
+	<div id="content-pre-blog">
+		<h1 style="color:saddlebrown;   -webkit-text-fill-color: white;-webkit-text-stroke-color: black;-webkit-text-stroke-width: 1px; font-size:32px;  text-align: center;">Increase rates by FED</h1>
+		<br /><br /><br />
+	</div>
+
+	<div id="content">
+		<h1>Monetary policy projection ECB and FED 2017</h1>
+		<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_evo_rate_interests.jpg" alt=”evo_rate_interests” />
+		<p>In December 2015 we see the first US rate rise in 10 years. It was a minimal climb but it carried a very powerful message inside, the end of a cycle.
+		In the chart on the right you can see the evolution of the types of the 3 strongest currencies in the world, the dollar, the euro and the pound.
+		It is appreciated how the euro always goes behind the changes of the American currency, like 2 years behind.
+		Since the European market the last century has been subordinate to what happens in the United States, always on a par.
+		So although the measure does not affect us we can always see where we will go in a matter of time.<br /><br />
+
+		Due to the growth of the American economy it was almost obligatory that rise, even could be done before but by precaution was postponed.
+		It came from the <strong> prediction of two to three uploads this year </strong>.
+		However <strong> only a rise has been made this year due to global instability with everything that happened in Brexit especially and the uncertainty of the American elections </strong>.
+		A premature rise without knowing the outcome of the Brexit could have shot the dollar against the euro in a disproportionate way and have increased the volatility of the markets.
+		This <strong> is not what the market likes so it is postponed </strong>.<br /><br />
+
+		So in <strong> December this year Yellen </strong>, the president of the Fed, announced the <strong> increase of another 0.25% in the types </strong> and remarked that <strong> next year there will be 3 uploads </strong>.
+		These 3 rises were not expected by the market and had not been discounted which made the dollar rise even more.
+		It was also noticed in the market of the gold metal and the silver, lowering its value around 4% in just 2 days. <br />
+		In the chart we can see the contrast of the dollar index with respect to gold at the time of the announcement. <br />
+		<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_FED_DolarVsOro_30m.jpg" alt=”FED_DolarVsOro_30m” /><br />
+
+		The biggest <strong> gold mining companies </strong> were Barrick Gold, Kinross Co, GoldCorp, Alamos GLD, or smaller ones that lost 10% in two days.
+		Banks in turn reacted on the upside. In the big indexes these changes hardly noticed since it was discounted for some time.
+
+		I predict that next year there will be three climbs and one of them, possibly the last one, will be half a point with which will <strong>rise a point in total in 2017</strong>.</p>
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio López Martínez                        <a href="avisolegal_en.html">Legal Advisor</a>                       CONTACT<a href="contactme_en.html"><span class="primero"><i class="icon icon-mail2"></i></span></a></p>
+	</div> 
+</body>
+</html>

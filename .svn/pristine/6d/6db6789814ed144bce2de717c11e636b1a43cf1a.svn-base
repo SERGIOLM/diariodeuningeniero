@@ -1,0 +1,205 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="information to foreign people england, travel to england, travel to united kingdom" />
+		<meta name="description" content="Pagina principal de emprender en inglaterra"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<style type="text/css">
+		/* Tabla   */	    
+	    table 
+	    {
+	       border:2px solid black;
+	       border-collapse:separate;
+	       border-spacing:1px;
+	       width:95%;
+	       height:auto;
+	       font-size:medium;
+	       font-family:arial;
+	       margin-bottom:5px;
+	       text-align:center;	       
+	     }
+	    tr.color {	background-color:navy;  					 }
+	    th, td {	display:table-cell; border:2px solid black;  }
+	</style>
+	<script>
+		/*Array con las imagenes que se iran mostrando en la web*/
+		var imagenes=new Array(
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/home_uk/main1_uk.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/home_uk/main2_uk.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/home_uk/main3_uk.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/home_uk/main4_uk.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/home_uk/main5_uk.jpg'
+		);
+		/*Funcion para cambiar la imagen*/
+		function rotarImagenes()
+		{
+			// obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+			var index=Math.floor((Math.random()*imagenes.length));
+
+			// cambiamos la imagen
+			document.getElementById("imagen").src=imagenes[index];
+		}
+		/*Función que se ejecuta una vez cargada la página*/
+		onload=function()
+		{
+			// Cargamos una imagen aleatoria
+			rotarImagenes();
+
+			// Indicamos que cada 5 segundos cambie la imagen
+			setInterval(rotarImagenes,5000);
+		}
+    </script>
+
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+
+	<title>Diario de un Ingeniero - Emprender en Inglaterra - Inicio - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_viajar.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a href="main_guadalajara_en.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>	
+				<li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>		
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a>HOME</a></li>	
+				<li><a href="country_uk_en.html"><span class="segundo"><i class="icon icon-road"></i></span>Country</a>
+					<ul>
+						<li><a href="country_london_uk_en.html"><span class="primero"><i class="icon icon-office"></i></span>London</a></li>
+					</ul></li>									
+				<li><a href="work_uk_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>
+				<li><a href="house_uk_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>	
+				<li><a href="idiom_uk_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>	
+				<li><a href="transport_uk_en.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transporte</a></li>	
+				<li><a><span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>					
+					<ul>
+						<li><a href="banks_uk_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>						
+						<li><a href="markets_uk_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_uk_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>						
+						<li><a href="health_uk_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="social_uk_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>						
+						<li><a href="tourism_uk_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>								
+				<li><a href="transfer_uk_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>							
+			</ul>
+		</div>
+		<div id="banner">
+			<a href="main_uk_en.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_uk.jpg" alt=”banner_emprender” /></a><br />
+		</div>	
+	</div>
+	<div id="langue">
+		<a href="main_uk_es.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="main_uk_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+	</div>
+	<div id="slides">	
+		<img class="horiz_slides"  src="" id="imagen"alt="banner"/>	
+	</div><br />
+	<div id="top_sidebar_london">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+	</div>
+
+
+	<div id="content">
+		<p>This is the section about England, a country north to Spain where use to rain a lot and with a history very cross with our country.<br />
+		<p>According with the requirements to go to live to a country it has a good punctuation to start a new adventure, settling there.</p>
+		<table >
+		<tbody>
+			<tr class="color">
+                <th>Punctuation</th>
+                <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th>
+            </tr>
+			<tr>
+                <th style="width:300px">Jobs*</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td>
+			</tr>
+			<tr>
+                <th>Language</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td>                        
+            </tr>
+			<tr>
+                <th>Expenses**</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td>
+            </tr>
+			<tr>
+                <th>Country economy***</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td>
+            </tr>
+			<tr>
+                <th>Supermakets****</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td>
+            </tr>
+			<tr>
+                <th>Leisure and culture</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td>
+            </tr>
+			<tr>
+                <th>Sport</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td>
+            </tr>
+			<tr>
+                <th>People mentality*****</th>
+                <td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td>
+            </tr>
+			<tr>
+                <th>Weather</th>
+                <td class="p"></td><td class="p"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td>
+            </tr>                    
+		</tbody>
+    	</table>
+        <p style="font-style:italic">		
+        <ul>
+	        <li>*Demand of jobs and unemployment level.</li>
+	        <li>** Flats price, transport and food.</li>  
+			<li>***Currency, interest rates.</li>  
+			<li>****Easyness to find familiar food.</li>
+			<li>*****About local population</li>
+		</ul> 			 		
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Desgined by Sergio Lopez Martinez                                                 CONTACTO <a href="guada_provincia_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

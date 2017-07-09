@@ -1,0 +1,146 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diario de un ingeniero de vuelta a España" />
+	<meta name="description" content="Vuelta a España y trabajo en Indra."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<!-- SCRIPTS ADD DEGIRO. -->
+	<script>
+		/*Array con las imagenes que se iran mostrando en la web*/
+		var imagenes=new Array(
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/degiro_vertical.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/degiro_vertical2.png'
+		);
+
+		/*Funcion para cambiar la imagen*/
+		function rotarImagenes()
+		{
+			// obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+			var index=Math.floor((Math.random()*imagenes.length));
+
+			// cambiamos la imagen
+			document.getElementById("degiro").src=imagenes[index];
+		}
+
+		/*Función que se ejecuta una vez cargada la página*/
+		onload=function()
+		{
+			// Cargamos una imagen aleatoria
+			rotarImagenes();
+
+			// Indicamos que cada 5 segundos cambie la imagen
+			setInterval(rotarImagenes,5000);
+		}
+	</script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<!-- SCRIPT estadisticas -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90367288-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<title>Diario de un Ingeniero - Blog - De vuelta a España - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/fondo_gu_wall.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper_europe">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a>
+					<ul>
+						<li><a href="main_uk_es.html">Inglaterra</a></li>
+						<li><a href="main_fr_es.html">Francia</a></li>
+					</ul>
+				</li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>
+	</div>
+	<div id="banner_blog">
+		<div id="logo">
+			<img   class="logo" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<a><img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a href="blog_backspain_es_en.html"><img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<a href="whatsapp://send?text= www.diariodeuningeniero.com/blog_backspain_es_es.html" data-text="Vuelta a España-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono_s" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-whatsapp.png"></a>
+		<div class="fb-send" data-href="www.diariodeuningeniero.com/blog_backspain_es_es.html"></div>
+	</div>
+	<div id="top_sidebar_blog">
+		<div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/">Diariodeuningeniero</a></blockquote></div>
+		<div class="fb-follow" data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+	</div>
+	<div id="content">	<br />
+		<h1>Vuelta a España</h1>
+			<p>En 2015 volví a España donde estuve trabajando en Indra durante un año.
+				Después estaría realizando un curso de seguridad informática avanzado y trabajando como operador de telefonía en mi ciudad.</p>
+
+		<h2>Trabajo en Indra</h2>
+			<p>A finales de 2014 disponiendo de varios meses para buscar trabajo ofrecido por Nokia, y recibiendo varias ofertas en Reino Unido decidió volver a España para trabajar cerca del lugar de residencia, en Indra, en Torrejón de Ardoz.<br />
+			El proyecto trataba sobre implementación de un sistema de localización de aviones, ADSB implementado en 2007 para cierto tipo de radares. Desarrollo de algoritmos y programación de DSPs.
+			Al terminar el proyecto la empresa decidió prescindir de sus servicios, debido en parte al nuevo plan estratégico y a otros factores.
+			Esta empresa cuenta con un gran potencial en cuestión de gente muy buena en su campo, y gran potencial debido a la gran cartera de clientes de diversos países y al gran apoyo estatal.<br />
+			Sin embargo la organización y gestión no fue lo más acertada, por ello cuenta con un plan estratégico desde 2014 de reducción de costes y personal con un cambio de dirección que está haciendo las cosas bastante bien.<br />
+			Aun así creo que en un futuro tendrá un balance positivo y las condiciones mejorarán.<br /><br /></p>
+
+
+		<h2>Certificado profesional de seguridad Informática</h2>
+			<p>Tras terminar mi contrato temporal en Indra obtuve plaza en mi ciudad para la impartición de un curso sobre seguridad informática.
+				Uno de los sectores con más proyección de futuro y con mayor crecimiento en el mundo de la tecnología.
+				En España está empezando a despegar aunque muchas empresas todavía piensan que son ajenos a los ataques desde la red y no son conscientes del riesgo que implica tener datos
+				en servidores sin ningún tipo de protección, ya sea un cortafuegos o filtros o sistemas de detección de intrusiones.<br /><br /></p>
+
+		<h2>Trabajando como teleoperador en Orange</h2>
+			<p>En Agosto de 2016 comencé mi curso de seguridad en la empresa Orange en Guadalajara y empecé a trabajar más tarde en soporte técnico para clientes.<br /><br /></p>
+
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Diseñada por Sergio López Martínez                        <a href="avisolegal_es.html">Aviso Legal</a>                       CONTACTO<a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a></p>
+	</div> 
+</body>
+</html>

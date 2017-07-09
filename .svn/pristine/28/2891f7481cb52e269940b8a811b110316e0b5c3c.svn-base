@@ -1,0 +1,227 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="origen y bandera inglaterra, organizacion territorial en inglaterra, regiones en inglaterra, tiempo en inglaterra, horas de sol en inglaterra, climatologia en inglaterra" />
+	<meta name="description" content="Descripcion de Inglaterra como pais, clima y organizacion territorial." />
+	<link rel="icon" type="image/png" href="favicons/favicon_emprender.png" />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+	<script type="text/javascript" src="jquery-latest.js"></script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<!-- SCRIPT estadisticas -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90367288-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<title>Diario de un Ingeniero - Emprender en Inglaterra - Inglaterra - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_travel.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_uk_es.html"><span class="primero"><i class="icon icon-home"></i></span>INICIO</a></li>	
+				<li><a>Territorio</a>		
+					<ul>
+						<li><a href="country_london_uk_es.html"><span class="primero"><i class="icon icon-office"></i></span>London</a></li>
+					</ul></li>															
+				<li><a href="work_uk_es.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Trabajar</a></li>	
+				<li><a href="house_uk_es.html"><span class="cuarto"><i class="icon icon-office"></i></span>Vivienda</a></li>	
+				<li><a href="idiom_uk_es.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Idioma</a></li>	
+				<li><a href="transport_uk_es.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transporte</a></li>	
+				<li><a ><span class="septimo"><i class="icon icon-spoon-knife"></i></span>Vivir</a>
+					<ul>
+						<li><a href="banks_uk_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Bancos</a></li>
+						<li><a href="markets_uk_es.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermercados</a></li>
+						<li><a href="telecoms_uk_es.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telefonía</a></li>
+						<li><a href="health_uk_es.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Salud</a></li>
+						<li><a href="social_uk_es.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+						<li><a href="tourism_uk_es.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Turismo</a></li>
+					</ul></li>								
+				<li><a href="transfer_uk_es.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transferir $</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>							
+			</ul>	
+		</div>						
+		<div id="banner">
+			<a href="main_uk_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_uk.jpg" alt=”banner_emprender” /></a><br />
+		</div>	
+	</div>
+	<div id="langue">
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a href="country_uk_en.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+	</div>
+	<div id="social_widget_s" >
+		<div class="fb-send" data-href="www.diariodeuningeniero.com/country_uk_es.html"></div>
+		<a href="http://twitter.com/home?status=Inglaterra como pais+www.diariodeuningeniero.com/country_uk_es.html"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-twitter.png"></a>
+		<a href="whatsapp://send?text=www.diariodeuningeniero.com/country_uk_es.html" data-text="Inglaterra como pais-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-whatsapp.png"></a>
+	</div>
+	<div id="top_sidebar_london">
+		<div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div>
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/">Diariodeuningeniero</a></blockquote></div>
+		<br /><br /><br /><br /><br /><br />
+		<div class="fb-follow" data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<a href="https://transferwise.com/u/1bbfd"><img  src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/transferwise.jpg"  alt="transferwise"/></a>
+	</div>
+
+	<div id="content">
+		<h1>Origen y bandera</h1>
+
+		<p> <a href="#" class="tooltip" title="tooltip">Reino Unido<img src="http://cdn21.merca20.com/wp-content/uploads/2014/09/Sin-t%C3%ADtulo2.jpg" alt="historia_flag_uk" /></a>
+			es un estado unitario formado por cuatro naciones: Escocia, Gales, Inglaterra e Irlanda del Norte.<br /></p>
+		<p>En el presente sitio web hago referencia al Reino Unido en las banderas pero mi enfoque va orientado principalmente a
+			Inglaterra y en muchos casos también a Londres, pero las grandes ciudades tienen también bastante parecido en muchos aspectos.</p> <br /><br />
+		<img class="right_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/uk_map_flags.jpg" alt=”country_uk_1” />
+		<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/uk_map_nations.png" alt=”country_uk_2” /><br />
+		<h1>Organización Territorial</h1>
+		<p>Inglaterra tiene una organización territorial en forma de regiones. Que a su vez se dividen en condados (counties), distritos (districts) y parroquias (councils).</p>
+		<img class="right_small" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/uk_map_regions.gif" alt=”country_uk_3” />
+		<ul class="list_range_first" title="People with type one.">
+			<li><p>Gran Londres, Greater London:</p>
+				<ul>
+					<li>Gran Londres </li></ul>
+			<li><p>Sudeste de Inglaterra, South East England:</p>
+				<ul>
+					<li>Oxfordshire</li>
+					<li>Buckinhamshire</li>
+					<li>Middleset</li>
+					<li>Berkshire</li>
+					<li>Hampshire</li>
+					<li>Surrey</li>
+					<li>Sussex</li>
+					<li>Kent</li></ul>
+			<li><p>Sudoeste de Inglaterra, South West England:</p>
+				<ul>
+					<li>Cornwall</li>
+					<li>Devon</li>
+					<li>Somerset</li>
+					<li>Devon</li>
+					<li>Gloucestershire</li>
+					<li>Witshire</li></ul>
+				<img class="right_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/country_uk/eng_map_counties.jpg" alt=”country_uk_4” />
+			<li><p>Midlands del Oeste, West Midlands:</p>
+				<ul>
+					<li>Shropshire</li>
+					<li>Staffordshire</li>
+					<li>Herefordshire</li>
+					<li>Warwickshire</li>
+					<li>Gloucestershire</li>
+					<li>Witshire</li></ul>
+
+			<li><p>Noroeste de Inglaterra, North West England:</p>
+				<ul>
+					<li>Cumberland</li>
+					<li>Westmorland</li>
+					<li>Lancashire</li>
+					<li>Cheshire</li></ul>
+			<li><p>Nordeste de Inglaterra, North East England:</p>
+				<ul>
+					<li>Northumberland</li>
+					<li>Durham</li></ul>
+			<li><p>Yorkshire y Humber, Yorkshire and the Humber:</p>
+				<ul>
+					<li>Yorkshire</li></ul>
+			<li><p>Midlands Oriental, East Midlands:</p>
+				<ul>
+					<li>Derbishire</li>
+					<li>Nottinghamshire</li>
+					<li>Linclinshire</li>
+					<li>Leicestershire</li>
+					<li>Rutland</li>
+					<li>Northamptonshire</li></ul>
+			<li><p>Este de Inglaterra, East of England:</p>
+				<ul>
+					<li>Norflik</li>
+					<li>Sufflik</li>
+					<li>Essex</li>
+					<li>Cambridgeshire</li>
+					<li>Bedfordshire</li>
+					<li>Hertfordshire</li>
+					<li>Huntingdonshire</li> </ul>
+		</ul><br /><br />
+		<h1>Clima</h1>
+		<p>La climatología en el Reino Unido es bastante homogénea en cuanto a partes del país, si bien en el interior, zonas de cerca de Birmingham los las temperaturas pueden tener un tono algo más continental que el resto.
+			Las lluvias son generales durante todo el año, y las temperaturas suaves debido a que no hay más de 200 km al mar desde cualquier punto del país.
+			Las temperaturas van desde los 10 bajo cero a los 25 grados. Muchas veces en cuanto baja de cero grados la probabilidad de nieve aumenta sobre todo por el norte, aunque no nieva mucho.
+			En cuanto a la situación general es bastante impredecible ya que cualquier día puede llover o hacer sol, incluso en la misma semana puede haber muchos chubascos y luego un día que haga un día
+			estupendo.<br /><br />
+
+			En mi estancia en el sur no vi nevar ningún día salvo 3 días en navidad. En el norte debido a las pocas horas de luz en el invierno las posibilidades de actividades al aire libre son limitadas.
+			Por ello si piensas en ir a vivir a Inglaterra te recomendaría que aprovechases los días que salga el sol.<br /><br /><p>
+
+		<p>En las siguientes imágenes muestro el porcentaje de tiempo con lluvia con respecto a la media, en el que se puede ver que en el sur y especialmente en el sudeste es donde más llueve al año.
+			También el número de horas de sol al año observando que es incluso mayor que en el norte de Francia en zonas del sur de Inglaterra mientras que en el norte es como cuatro veces inferior a lo que podemos
+			disfrutar en España.<p>
+		<img class="right_medium" src="https://metofficenews.files.wordpress.com/2011/06/sunshine_average_1971-2000_17.gif" alt=”country_uk_5” />
+		<img class="right_medium" src="https://metofficenews.files.wordpress.com/2015/09/2015_9_rainfall_anomaly_1981-2010.gif" alt=”country_uk_6” />__
+	</div>
+	<div id="footer2">
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_s-xclick">
+			<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIHNwYJKoZIhvcNAQcEoIIHKDCCByQCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYCJWOBmP2PSeQUuCLZzV0ogY1+lvD2pEbBmQ9NZDYIdtjZsXgFX4IaNpJ4Llva1ueG9M9mDoSvKT7mCNNK+GaMfROuLgOmRZYuEmeyAnEceYqNvjo15XZPgU9QrvstxzUtwC/0G3uX8vkFZir3Lc+QfUxO4b8OH9Uyc93HP93mrHTELMAkGBSsOAwIaBQAwgbQGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQIz121zkyrUz2AgZDzRnAbgq6k/+aDI4ilFQaoIHk09dsaxSp7lIy6nAwfDD+DGE9MGW23qGC/RMG0KfwexRT98iTNKP1wqsAmBjMwRZF0xuQcQd95hYz4sjjZjgShRZ9JVJBciEQTPuJrI9r3SqoiVAu4Z/lQfPhlDa2xMGjjGGwQgDCVaQFzV3uqwvrlZ6gh/EzdHG44SXq8yiugggOHMIIDgzCCAuygAwIBAgIBADANBgkqhkiG9w0BAQUFADCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wHhcNMDQwMjEzMTAxMzE1WhcNMzUwMjEzMTAxMzE1WjCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMFHTt38RMxLXJyO2SmS+Ndl72T7oKJ4u4uw+6awntALWh03PewmIJuzbALScsTS4sZoS1fKciBGoh11gIfHzylvkdNe/hJl66/RGqrj5rFb08sAABNTzDTiqqNpJeBsYs/c2aiGozptX2RlnBktH+SUNpAajW724Nv2Wvhif6sFAgMBAAGjge4wgeswHQYDVR0OBBYEFJaffLvGbxe9WT9S1wob7BDWZJRrMIG7BgNVHSMEgbMwgbCAFJaffLvGbxe9WT9S1wob7BDWZJRroYGUpIGRMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbYIBADAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4GBAIFfOlaagFrl71+jq6OKidbWFSE+Q4FqROvdgIONth+8kSK//Y/4ihuE4Ymvzn5ceE3S/iBSQQMjyvb+s2TWbQYDwcp129OPIbD9epdr4tJOUNiSojw7BHwYRiPh58S1xGlFgHFXwrEBb3dgNbMUa+u4qectsMAXpVHnD9wIyfmHMYIBmjCCAZYCAQEwgZQwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tAgEAMAkGBSsOAwIaBQCgXTAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0xNzAxMTUyMTAzMzNaMCMGCSqGSIb3DQEJBDEWBBRwSsBf/JOvSXvPOFNLM4t9SsxDLDANBgkqhkiG9w0BAQEFAASBgDhqx9rw0N7DNV4zNcRsYRULgTFtVL0VfoNPKpuXIC9VKrBb5owrU+HIpnhzsrYUpqzsjjDHrxldCJtJc0L7HbLa8qe/BgOuoAO1wzq1sbc8QIVYKySJ7Me93gfgm44MY5YnQxsB8MORifLWlFNWWYjQsCMofpY3TNOuld0IdG9O-----END PKCS7-----">
+			<input type="image" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/paypal_donation.jpg"  name="submit" alt="PayPal - The safer, easier way to pay online!" height="30px" width="120px" align="center">
+		</form>
+	</div> 
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio Lopez Martinez                                    CONTACTO<a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

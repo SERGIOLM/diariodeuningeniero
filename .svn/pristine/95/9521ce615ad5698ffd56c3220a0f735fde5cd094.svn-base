@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Know Guadalajara, Guadalajara history, arabic Guadalajara, medieval Guadalajara, roman guadalajara, arriaca, carae guadalajara,
+	arab bridge guadalajara, guadalajara century VII, Guadalajara century I, gastronomy, trekking" />
+	<meta name="description" content="Guadalajara, una ciudad diferente."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<script>
+    /*Array con las imagenes que se iran mostrando en la web*/
+    var imagenes=new Array(
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_original.png',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_flash.png',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_poster.png',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_mosaico.png'        
+    );
+    /*Funcion para cambiar la imagen*/
+    function rotarImagenes()
+    {
+        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+        var index=Math.floor((Math.random()*imagenes.length));
+ 
+        // cambiamos la imagen
+        document.getElementById("imagen").src=imagenes[index];
+    }
+    /*Función que se ejecuta una vez cargada la página*/
+    onload=function()
+    {
+        // Cargamos una imagen aleatoria
+        rotarImagenes();
+ 
+        // Indicamos que cada 5 segundos cambie la imagen
+        setInterval(rotarImagenes,5000);
+    }
+	</script>
+	<title>Diario de un Ingeniero - Conoce mi ciudad - Main Guadalajara - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body>
+
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon address-book"></i></span>Diary of an engineer</a></li>
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Work abroad</a></li>
+				<li><a>Know my town</a></li>
+				<li><a href="aboutme_es.html"><span class="cuarto"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a>INICIO</a></li>	
+				<li><a href="guada_provincia_es.html"><span class="segundo"><i class="icon icon-earth"></i></span>Region</a></li>
+				<li><a href="guada_historia_es.html"><span class="tercero"><i class="icon icon-bookmarks"></i></span>History</a>
+					<ul>
+						<li><a href="guada_historia_I_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Origin sI-XIV</a></li>
+						<li><a href="guada_historia_II_es.html"><span class="segundo"><i class="icon icon-paste"></i></span>Apogee s.XIV-XVI</a></li>
+						<li><a href="guada_historia_III_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Fall s.XVII-XIX</a></li>
+						<li><a href="guada_historia_IV_es.html"><span class="segundo"><i class="icon icon-paste"></i></span>Reborn s.XX</a></li>
+						<li><a href="guada_historia_V_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Today s.XXI</a></li>
+					</ul></li>						
+				<li><a href="guada_senderismo_es.html"><span class="cuarto"><i class="icon icon-road"></i></span>Trekking</a></li>
+				<li><a href="guada_gastronomia_es.html"><span class="quinto"><i class="icon icon-spoon-knife"></i></span>Gastronomy</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>
+			</ul>	
+		</div>						
+		<div id="banner">
+			<img class="banner" src="" id="imagen"alt="banner"/><br />							
+			<a href="main_guadalajara_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>	
+			<a href="main_guadalajara_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>	
+			<a href="main_guadalajara_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				
+		</div>	
+	</div>
+	<div id="content">
+		<p>This chapter i will tell how is the town where I am grown. How it is and how it was, his Como es y como fue, its strengths and weaknesses and what it does an interesting town since different points of view.
+
+		It is detached in different chapters that i consider more demanded.</p>
+		<ul style="list-style-type:circle">		
+			<li>Region :  where it will be detailed the background  where it is and his geographical situation inside Spain. Also the villages more importants in the region and those most prominent by tourism,
+				history or events and festivities.</li>
+
+			<li>History : Here there is explained the origin of the town and the development along the centuries.</li>
+			<li>Trekking : It is shown some routes with great landscapes where you can enjoy the nature, some unknown even by the local population of the region.</li>
+			<li>Gastronomy : They are enumerated the typical products of the area.</li>
+		</ul>				
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>
+</html>

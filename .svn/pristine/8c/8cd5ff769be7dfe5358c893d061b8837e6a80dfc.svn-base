@@ -1,0 +1,173 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Fleet united kingdom town, fleet a town to live in" />
+	<meta name="description" content="Fleet experience."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+	</script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<!-- SCRIPT estadisticas -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90367288-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<title>Diary of an engineer - Blog - Fleet 2013 - Web Site By Sergio Lopez Design</title>
+</head>
+
+<body style="background: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/fondo_travel.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a href="main_en.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Work abroad</a>
+					<ul>
+						<li><a href="main_uk_en.html">England</a></li>
+						<li><a href="main_fr_en.html">France</a></li>
+					</ul>
+				</li>
+				<li><a href="main_guadalajara_en.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>
+				<li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+	</div>
+	<div id="wrapper2">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_uk_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>
+				<li><a href="country_uk_en.html"><span class="segundo"><i class="icon icon-road"></i></span>Country</a>
+					<ul>
+						<li><a>London</a></li>
+					</ul></li>
+				<li><a href="work_uk_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>
+				<li><a href="house_uk_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>
+				<li><a href="idiom_uk_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>
+				<li><a href="transport_uk_en.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transport</a></li>
+				<li><a >						<span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>
+					<ul>
+						<li><a href="banks_uk_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>
+						<li><a href="markets_uk_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_uk_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>
+						<li><a href="health_uk_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="social_uk_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+						<li><a href="tourism_uk_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>
+				<li><a href="transfer_uk_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Leave</a></li>
+			</ul>
+		</div>
+		<div id="banner">
+			<a href="main_uk_es.html"><img class="banner" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/emprender_uk.jpg" alt=”banner_emprender” /></a><br />
+		</div>	
+	</div>
+	<div id="langue">
+		<a href="blog_fleet_uk_es.html"><img class="flag" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="england_uk_fr.html"><img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+	</div>
+	<div id="social_widget_s" >
+		<div class="fb-send" data-href="www.diariodeuningeniero.com/blog_fleet_uk_en.html"></div>
+		<a href="http://twitter.com/home?status=Fleet´s time+www.diariodeuningeniero.com/blog_fleet_uk_en.html"><img class="icono_s" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-twitter.png"></a>
+		<a href="whatsapp://send?text=www.diariodeuningeniero.com/blog_fleet_uk_en.html" data-text="Fleet´s time-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono_s" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-whatsapp.png"></a>
+	</div>
+	<div id="top_sidebar_london">
+		<div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div>
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/">Diariodeuningeniero</a></blockquote></div>
+		<br /><br /><br /><br /><br /><br />
+		<div class="fb-follow" data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<a href="https://transferwise.com/u/1bbfd"><img  src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/transferwise.jpg"  alt="transferwise"/></a>
+	</div>
+	<div id="content">
+		<h1>Fleet´s time</h1>
+			<h2>City with the highest quality of life in the UK</h2>
+				<p>It is a small town in the district of Hampshire famous for having the largest sharp sweet lake in England.
+				<img  class="horiz_big" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/country_uk/fleet_uk/fleet6.jpg" border="0" alt=" photo fleet6.jpg"/>
+				Fleet is rated as one of the best cities to live in the UK, having the award in recent editions by the Halifax Quality of Life study.</p>
+
+			<h2>Work in Fleet</h2>
+				<p>I was working at NSN which is located in Ancells Park Businees Park, next to big technology companies like Anite or British Telecom.
+				It is a city that has 2 large business areas and focused on the technology sector the majority. <br/> <br/>
+				<img  class="horiz_big" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/country_uk/fleet_uk/fleet2.jpg" border="0" alt=" photo fleet2.jpg"/><br />
+				It should be noted that most of the people who work there are foreigners or people far away from England.
+				This is because britihs usually guide their career more financially and they usually prefer to work in London where people earn more money.
+				In NSN I work in the adaptation of a new radio module for all the BTS  maintaining all the improvements of the last designs doubling the capacity of band.
+				At the end of 2014 the company informs that they will move the project to India for its new strategic plan in which costs were being reduced, offering various options to move the people of the department. <br /> <br />
+
+				Even so few were those who accepted mobility in England and almost null those who went to the new site.
+				Both Nokia Networks and Ericsson are currently threatened to disappear, due to the strong push of Hawei, so they both sold their share Mobile.
+				Only maintained the station where there is a greater margin of profits and have proceeded to relocate the companies outside Europe, keeping the necessary personnel, commercial, sales and
+				Logistics, management and design of architectures and leaving the manufacturing part and also design in recent times to emerging countries that can compete with China's prices.
+				Nokia was in fact the last to succumb to the drag of China with its Lumia phones, but at the end the reality can with the utopia and it had to disappear.</p>
+
+			<h2>Fleet´s life</h2>
+				<p>Fleet is not a town that has many things to do, I was living a year and a half but after a month and I had the best view.
+				However it is well connected with London by train and road, making it a very attractive town since you have a great peace and you can have London within easy reach.
+				The only bad thing is the cost of traveling by train to London which even with the discount cards goes for about 20 pounds round trip, being 45 km far from the city.
+
+				As soon as I arrived I got a second hand bike and grace to it I could move easily.
+				Remember that in any town or town in England however small sites are usually quite far away since they are cities that extend in surface, formed by many small houses with great gardens, and with few towers in height.
+				In Fleet the maximum there were 3 plants. <br /> <br />
+				I was living the first months with a Chinese woman and an American, and I was accustomed to dealing with people from other countries although in this case I had some problems around.
+				At the same time I was expanding my circle of friends in the city that basically were people of my age of my work.
+				My friends were from Southern Europe like me, Italian, Greek and Spanish. <br />
+				Later he would change house and share flat with an Indian and an Indian, and later with a Nigerian.
+				All engineers but educated in his country except the Indian who for his English and his way of speaking, it looks like he was British.
+				In this last house apart from learning many things like in the previous houses I was quite good because of the open mentality of these people.
+				I remember going to play soccer every Sunday with my roommates and being long afternoons.
+				There almost all football fields are grassy because due to constant rains they don´t need maintenance.</p>
+				<img  class="horiz_big" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/country_uk/fleet_uk/fleet4.jpg" border="0" alt=" photo fleet4.jpg"/><br />
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio López Martínez                        <a href="avisolegal_en.html">Legal Advisor</a>                       CONTACT<a href="contactme_en.html"><span class="primero"><i class="icon icon-mail2"></i></span></a></p>
+	</div> 
+</body>
+</html>

@@ -1,0 +1,172 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="share an apartment in france, share a flat in france, rent an apartment in france" />
+	<meta name="description" content="Guide to find an apartment or a flat in France, or to find flatmates"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<title>Diary of an engineer - Living in France - House - Web Site By Sergio Lopez Design </title>
+
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_viajar.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a>Work abroad</a></li>
+				<li><a href="main_guadalajara_en.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>
+				<li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>	
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_fr_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>
+				<li><a href="country_fr_en.html"><span class="segundo"><i class="icon icon-road"></i></span>Country</a>
+					<ul>
+						<li><a href="country_paris_fr_en.html"><span class="primero"><i class="icon icon-office"></i></span>Paris</a></li>
+						<li><a href="country_toulouse_fr_en.html"><span class="segundo"><i class="icon icon-office"></i></span>Toulouse</a></li>
+					</ul></li>
+				<li><a href="work_fr_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>
+				<li><a>House</a></li>
+				<li><a href="idiom_fr_en.html"><span class="quinto"><i class="icon icon-bubbles"></i></span>Language</a></li>
+				<li><a href="transport_fr_en.html"><span class="sexto"><i class="icon icon-airplane"></i></span>Transport</a></li>
+				<li><a><span class="septimo"><i class="icon icon-spoon-knife"></i></span>Life</a>
+					<ul>
+						<li><a href="banks_fr_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>
+						<li><a href="markets_fr_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a href="telecoms_fr_en.html"><span class="tercero"><i class="icon icon-phone"></i></span>Telecom</a></li>
+						<li><a href="health_fr_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="social_fr_en.html"><span class="quinto"><i class="icon icon-wrench"></i></span>Social</a></li>
+						<li><a href="tourism_fr_en.html"><span class="sexto"><i class="icon icon-glass2"></i></span>Tourism</a></li>
+					</ul></li>
+				<li><a href="transfer_fr_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>
+			</ul>
+		</div>						
+		<div id="banner">
+			<a href="main_uk_es.html"><img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/emprender_fr.jpg" alt=”banner_emprender” /></a><br />
+		</div>	
+	</div>
+	<div id="langue">
+		<a href="house_fr_es.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="main_fr_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+	</div>
+	<div id="top_sidebar_paris">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<a class="twitter-timeline" href="https://twitter.com/diariodesergi" data-widget-id="736325529834532864">Tweets por el @diariodesergi.</a>
+	</div>
+
+	<div id="content">
+		<h1>A place for live</h1>
+		<h1>Research of a residential area</h1>
+			<p>This part is more important even that the selection of the country in terms of the daily life because sometimes changing of neighbourhood sometimes give you the sensation
+			than you are changing to a completely different country. In France normally difficult neighborhoods are isolated from the rest of the town and if they are in the center of the town are very
+			surveilled as Marseille, but it is necessary look in internet to match this neighborhood with the help of google maps : features of the place, parks, kind of buildings, etc.<br />
+			Also you should look if there is a lot of traffic or noise and night life around the area, depending of what we are looking for and contrast the opinions with the rest of the neighbours before rent.
+
+			<p>Firstly before arrive to the town is find a hostel, to start to find a apartment. For that it must check places in website. In addition to look the opinnions and choose an option not very expensive because
+			sometimes find the house and flatmates it is not something easy and takes time.
+
+			For find the right hostel I recommend the next website: <a href="http://www.hostelworld.com/hostels/Paris">www.hostelworld.co.uk</a> ,
+			it has a lot of valorations than it will help you to choose for one or another place.</p>
+			<a href="www.hostelworld.co.uk"><img class="house_left_small" src="http://www.hostelconference.com/static/images/hostelworld_logo.png" alt=”house_banner1” /></a>
+			
+			<p>You should look the distance to the commercial centers or restaurants and the amount of them.
+			If there is not a lot and the neighbourhood is a medium profile the prices will be highs because is is not competition in this sector.</p>
+			<p>Look that next point will be to make a list of apartments to visit and create the corresponding diary. This diary wont be over hte 6 daily apartments because you could not match correctly.
+			There are so much details to observe that it will be difficult to memorise.	</p>
+
+		<h1>Share an apartment</h1>
+			<img class="right_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/house_uk/house_living.jpg" alt=”house_living1” />
+
+			<p>In the case you will try the election of sharing an apartment, than I consider the best option if you are new and alone there because if you rent you should have a compromise with the landlord
+			to stay 6 months at least.  Best option is do it with local people of the country than can guide you in a lot of aspects as shopping, find courses or jobs, night parties...
+			Furthermore you will improve the language with less effort.
+			Choose people with a similar profile to us will be also a good option. It could help to find the some things we are looking for and we can live more relaxed and comfortable.</p><br />
+			<p>A mixture of nationalities will be better also because you could learn about different points of view and know new cultures. You could expand your mind a lot in different ways and earn experience
+			for all aspects of the life. Even taking the house only as a place to sleep it will affect you and you never will know how much time you will be at the house.</p>
+			<img class="right_big"  src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/house_uk/house_living_cartoon.jpg" alt=”house_living2” />
+			<p>For that a recommendable website is :<a href="http://www.appartager.com/">www.appartager.com</a> </p>
+			<a href="http://www.appartager.com/"><img class="left_b2" src="http://img.erm-assets.com/images/FR/r_logo.png" alt=”house_banner2” /></a>	
+			<br />		
+			<p>However you always could find in other websites than get a phone o contact a person could be for free as <a href="https://www.leboncoin.fr/">www.leboncoin.fr</a> or<a href="https://www.leboncoin.fr/">vivastreet.com</a></p><br />
+			<a href="https://www.leboncoin.fr/"><img class="left_b2" src="http://www.jpsquad.com/occasions/logo_leboncoin_jps.png" alt=”house_banner2” /></a>	<br />	
+			<a href="http://www.vivastreet.com/"><img class="left_b2" src="http://media-eu.viva-images.com/vivastreet_cl/home/images/logo_cl.png" alt=”house_banner2” /></a><br />	<br /><br /><br />	
+		<h1>Rent an apartment</h1>
+			<p>When you are choosing an apartment it is necessary to lok some factors regardless of the area and the price and squaring with price :</p>
+			<img class="right_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/house_uk/house_price.jpg" alt=”house_living3” />
+			<ul style="list-style-type:circle">	
+			<li><p>Age of the build and furniture.</p></li>
+			<li><p>Inclusion of different king of tax or bills as garbage collection, community, TV or local taxes.</p></li>
+			<li><p>Energy efficiency, look material of the windows or glasses wih the the exterior, avoid low or last flats.</p></li>
+			<li><p>Neighbours and kind of people of it in general.</p></li></ul>
+			
+			<p>	For rent aparments the website more important is the next: <a href="http://www.seloger.com/">www.seloger.com//</a><br /></p>
+			<a href="http://www.seloger.com/"><img class="left_b2" src="http://www.affiches-parisiennes.com/content/images/2013/04/15/1824/seloger-logo.jpg" alt=”house_banner3” /></a>	
+			<br />
+			<p>To fix our camp base we hould have in account distances to :</p>
+			<ul style="list-style-type:square">	
+				<li><p>Comercial centers, bigs as smalls.</p></li>
+				<li><p>Night areas, if you are near maybe you wiil have noises problems, and if it is very far of same place and we are people who like leave weekends to take something maybe it wont be best option.</p></li>
+				<li><p>Public parks and tree areas in the case of be a big town than allow us to breath better and meet new people.</p></li>
+				<li><p>Sport installations and gym areas where you could know new people without sacrifice entertainment or hobby.
+				This point is very important and it is neccesary not forget because in case you have flatmates with not the same hobbies you could find a person with same interests as you in the area.</p></li>
+			</ul><br />		
+						
+			<p>All this you should be the least committed with the price we are looking for. Best it is always adjust the price with our research but adding a additional 25% to the maximum price available,
+			because it could be apartment which fill all our requirements and leave our price range. Sometimes the prices have included a % of negotiation where you could adjust after that in the price range.
+			By this way if they are expensive and they are there yet it could be because they don't have enough visits and if the room is there a lot of time without be renting the landlord will be more flexible and
+			generous to the time to negotiate.	</p>
+			<p>Normally the landlords exige a deposit than never will exceed the month and half of the price of renting. With that we should pay the day of enter as maximum twice and half the rent apartment taking in acount the price
+			of the present month. Most of the countries the landlors are very exigent with that and even if the rules are less kind to the landlord it is something we must take attention if we don´t like to start with problems.
+
+			Appearances lie and lot of times so you never get carried away by first feelings about the landlords because starting is always the same and he will seem nice but he could always do something bad in the moment
+			you don't think about and you will pay something you don't have broken</p>
+			<p>When you will leave the apartment most of the times the contracts are between equals and nothing is official it should be recommendable speak about that one month before. Sometimes landlord try
+			to steal at last moment with any excuse. If we don't trust enough we could resist the maximum time without pay to rent the deposit and maybe we dont pay for two weeks until they say to us to left the house.
+			This wey maximum they steal us will be two weeks.</p>
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio Lopez Martinez                                                 CONTACT <a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

@@ -1,0 +1,372 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="tourism in England, towns to visit in England, visit London, monuments in London" />
+	<meta name="description" content="List of towns to visit and main monuments in England"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+		var index0 = 0;
+		var index1 = 0;
+		var index2 = 0;
+		var index3 = 0;
+		var index4 = 0;
+		var activated = 0;
+		var image_title="hola";
+		var ciudad =1;
+		function change_image( id )
+		{
+			$( '#England' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/tourism_uk/' + id + '.png');
+		}
+		function hide_image()
+		{
+			$(https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/et.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/England.png');
+		}
+		function cargar_imagenes( imagenes ) {
+			$( imagenes ).each( function () {
+				$( '<img/>'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/[
+				'http://https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/er_uk/tourism_uk/Lhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/ms/ee43/Sergio22/ehttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/://i235.photobuckhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/uk/Manchester.phttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs//Sergio22/emprhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/235.photobucket.chttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/ristol.png',
+				https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs//emprender_uk/tourism_uk/Oxford.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/Cambridge.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/Salisbury.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/StratfordUponAvon.png'
+		]);
+
+		var title_image_London=new Array(
+			'Henry VII castle and the City',
+			'England parliament',
+			'London Bridge',
+			'Buckingham Palace',
+			'Albert Hall',
+			'TownHall of London Bridge district',
+			'Westminster Abbady',
+			'Westminster Abbady',
+			'St Paul Cathedral (catholic)',
+			'Westminster Cathedral (anglican)',
+			'Brithish Museum',
+			'Natural History Museum',
+			'War Museum',
+			'Maritim Museum',
+			'Maritim Museum',
+			'Crystal Palace Park',
+			'Leadenhall Market',
+			'Portobello Carnival, end of August'
+		);
+		var title_image_Birmingham=new Array(
+			'Bull of Birmingham',
+			'St Martin Church',
+			'Townhall',
+			'Victory Square'
+		);
+		var title_image_Oxford=new Array(
+			'Racing channel of ships in Oxford',
+			'Main church of Oxford',
+			'Oxford university college',
+			'Christ church college Oxford University, "Harry Potter Magic school"'
+		);
+		var title_image_Stratford=new Array(
+			'THe food of Love, restaurant of mhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/ouse',
+			'Stratford Upon Avon https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/_image_Salisbury=new Array(
+		https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/athedral, Cloister',
+			'Salisbury Chttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/new Array(
+			'http://i235.photobucket.chttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/ondon/London-The%20City.jpg',
+			'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/tourism_uk/Londohttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/ket.com/albums/ee43/Sergio22/emprender_ukhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/		'http://i235.photobucket.com/albums/ee43https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/uckingham%20Palace.jpg',
+			'hhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/mprender_uk/tourism_uk/London/London-Albert%https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/ms/ee43/Sergio22/emprender_uk/tourismhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/photobucket.com/albums/ee43/Sergio22/emprender_uhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/pg',
+			'http://i235.photobucket.https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/London/London-Westminster%20Abbady2.https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs//Sergio22/emprender_uk/tourism_uk/Lonhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/ucket.com/albums/ee43/Sergio22/emprendhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/edral.jpg',
+			'http://i235.photobuckhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/uk/London/London-British%20Museum.jpg',
+https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/o22/emprender_uk/tourism_uk/London/London-National%20Natural%20Museum.jpghttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/rgio22/emprender_uk/tourism_uk/Lohttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/otobucket.com/albums/ee43/Sergio22/emprendhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/g',
+			'http://i235.photobucket.com/albumshttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/don-Maritim%20Museum.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergiohttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/20Museum2.jpg',
+			'http://i235.phttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/tourism_uk/London/London-Cristalhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/lbums/ee43/Sergio22/emprendehttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/Lohttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/Birmingham=new Array(
+			'http://i235.photobucket.com/albums/ee43/Sergihttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/-Bull.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/Church.jpg',
+			'http://i235.photobucket.com/albums/eehttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/rmingham-Main%20Square.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/Bihttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/magenes_Oxford=new Array(
+			'http:/https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/der_uk/tourism_uk/Oxford/Oxford-canalhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/ums/ee43/Sergio22/emprender_uk/tourism_uk/Oxford/Oxford-Main_Church.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/Oxford/Oxford-College.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/Oxford/Oxford-Christ%20Church%20College.jpg'
+		);
+		var imagenes_Stratford=new Array(
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/StratfordUponAvon/Stratford%20Upon%20Avon-The%20Food%20of%20Love.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/StratfordUponAvon/Stratford%20Upon%20Avon-Shakespeare%20House2.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/StratfordUponAvon/Stratford%20Upon%20Avon-Canal.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/StratfordUponAvon/Stratford%20Upon%20Avon-Shakespeare%20House.jpg'
+		);
+		var imagenes_Salisbury=new Array(
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/Salisbury/Salisbury-Cathedral.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/Salisbury/Salisbury-Cathedral2.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/emprender_uk/tourism_uk/Salisbury/Salisbury-Cathedral3.jpg'
+		);
+
+
+
+
+	/*    function rotarImagenes(id)
+		{
+			index++;
+			if(index==11) {index=0;
+
+			document.getElementById("imagen").src=imagenes_London[index];
+			document.getElementById("imagen").title=title_image_London[index];
+		}
+		function act_rotarImagenes(id,act)
+		{
+			if(activated==0)
+			{
+				if(act=1)
+				{
+					setInterval(rotarImagenes(id),2000);
+					activated=1;
+				}
+				else
+				{
+					activated=0;
+				}
+			}
+		}
+	*/
+		function rotarImagenesUp(id)
+		{
+			if(index0==19) index0=18;
+			if(index1==4) index1=3;
+			if(index2==4) index2=3;
+			if(index3==4) index3=3;
+			if(index4==3) index4=2;
+			switch(id) {
+				case '0':
+					break;
+				case 'London':
+					ciudad=1;
+					break;
+				case 'Birmingham':
+					ciudad=2;
+					break;
+				case 'Oxford':
+					ciudad=3;
+					break;
+				case 'Stratford':
+					ciudad=4;
+					break;
+				case 'Salisbury':
+					ciudad=5;
+					break;
+			}
+			if(ciudad==1)
+			{
+				document.getElementById("imagen").src=imagenes_London[index0];
+				document.getElementById("imagen").title=title_image_London[index0];
+				index0++;
+			}
+			if(ciudad==2)
+			{
+				document.getElementById('imagen').src=imagenes_Birmingham[index1];
+				document.getElementById("imagen").title=title_image_Birmingham[index1];
+				index1++;
+			}
+			if(ciudad==3)
+			{
+				document.getElementById("imagen").src=imagenes_Oxford[index2];
+				document.getElementById("imagen").title=title_image_Oxford[index2];
+				index2++;
+			}
+			if(ciudad==4)
+			{
+				document.getElementById("imagen").src=imagenes_Stratford[index3];
+				document.getElementById("imagen").title=title_image_Stratford[index3];
+				index3++;
+			}
+			if(ciudad==5)
+			{
+				document.getElementById("imagen").src=imagenes_Salisbury[index4];
+				document.getElementById("imagen").title=title_image_Salisbury[index4];
+				index4++;
+			}
+		}
+
+		function rotarImagenesDown(id)
+		{
+			if(index0==0) index0=1;
+			if(index1==0) index1=1;
+			if(index2==0) index2=1;
+			if(index3==0) index3=1;
+			if(index4==0) index4=1;
+			switch(id) {
+				case '0':
+					break;
+				case 'London':
+					ciudad=1;
+					break;
+				case 'Birmingham':
+					ciudad=2;
+					break;
+				case 'Oxford':
+					ciudad=3;
+					break;
+				case 'Stratford':
+					ciudad=4;
+					break;
+				case 'Salisbury':
+					ciudad=5;
+					break;
+			}
+			if(ciudad==1)
+			{
+				index0--;
+				document.getElementById("imagen").src=imagenes_London[index0];
+				document.getElementById("imagen").title=title_image_London[index0];
+
+			}
+			if(ciudad==2)
+			{
+				index1--;
+				document.getElementById("imagen").src=imagenes_Birmingham[index1];
+				document.getElementById("imagen").title=title_image_Birmingham[index1];
+			}
+			if(ciudad==3)
+			{
+				index2--;
+				document.getElementById("imagen").src=imagenes_Oxford[index2];
+				document.getElementById("imagen").title=title_image_Oxford[index2];
+
+			}
+			if(ciudad==4)
+			{
+				index3--;
+				document.getElementById("imagen").src=imagenes_Stratford[index3];
+				document.getElementById("imagen").title=title_image_Stratford[index3];
+			}
+			if(ciudad==5)
+			{
+				index4--;
+				document.getElementById("imagen").src=imagenes_Salisbury[index4];
+				document.getElementById("imagen").title=title_image_Salisbury[index4];
+			}
+		}
+	</script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<!-- SCRIPT estadisticas -->
+	<shttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90367288-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<title>Diary of an engineer - Living in England - Tourism - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/fondo_travel.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a>Work abroad</a></li>
+				<li><a href="main_guadalajara_en.html"><span class="segundo"><i class="icon icon-office"></i></span>Know my town</a></li>
+				<li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>		
+			</ul>
+		</div>	
+		<div id="logo">
+			<img   class="logo" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a href="main_uk_en.html"><span class="primero"><i class="icon icon-home"></i></span>HOME</a></li>	
+				<li><a href="country_uk_en.html"><span class="segundo"><i class="icon icon-road"></i></span>Country</a>
+					<ul>
+						<li><a href="country_london_uk_en.html"><span class="primero"><i class="icon icon-office"></i></span>London</a></li>
+					</ul></li>									
+				<li><a href="work_uk_en.html"><span class="tercero"><i class="icon icon-hammer"></i></span>Work</a></li>	
+				<li><a href="house_uk_en.html"><span class="cuarto"><i class="icon icon-office"></i></span>House</a></li>	
+		https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/nto"><i class="icon icon-bubbles"></i></span>Language</a></li>
+				<li><a href="transport_uk_en.html"><span class="sexto"><ihttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs//a></li>
+				<li><a><span class="septimohttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/e</a>
+					<ul>
+						<li><a href="banks_uk_es.html"><span class="primero"><i class="icon icon-wrench"></i></span>Banks</a></li>						
+						<li><a href="markets_uk_en.html"><span class="segundo"><i class="icon icon-cart"></i></span>Supermarkets</a></li>
+						<li><a hrhttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/ class="icon icon-phone"></i></span>Telecom</a></li>
+						<li><a href="health_uk_en.html"><span class="cuarto"><i class="icon icon-wrench"></i></span>Health</a></li>
+						<li><a href="sociahttps://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/ icon-wrench"></i></span>Social</a></li>
+						<li><a>Tourism</a></li>
+https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/_uk_en.html"><span class="octavo"><i class="icon icon-coin-pound"></i></span>Transfer $</a></li>
+				https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/i class="icon icon-exit"></i></span>Close</a></li>
+			</ul>	
+		</div>						
+		<div id="banner">
+			<a href="main_uk_es.html"><img class="banner" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/emprender_uk.jpg" alt=”banner_emprender” /></a><br />
+		</div>	
+	</div>
+	<div id="langue">
+		<a href="tourism_uk_es.html"><img class="flag" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+	</div>
+	<div id="social_widget_s" >
+		<div class="fb-send" data-href="www.diariodeuningeniero.com/tourism_uk_en.html"></div>
+		<a href="http://twitter.com/home?status=Tourism in England+www.diariodeuningeniero.com/tourism_uk_en.html"><img class="icono_s" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-twitter.png"></a>
+		<a href="whatsapp://send?text= www.diariodeuningeniero.com/tourism_uk_en.html" data-text="Tourism in England-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono_s" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-whatsapp.png"></a>
+	</div>
+
+	<div id="slides">	
+	</div>		
+	<div id="content-pre">
+		<img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/tourism_uk/England.png"  id="England" width="450"  alt="" usemap="#England_Map">
+	    <img class="tourism_uk" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/emprender_uk/tourism_uk/London/London-The%20City.jpg" id="imagen" alt="imagen" title="La city"  >
+	
+	<map name="England_Map">
+			<area onmouseover="change_image('London')" 				onmouseout="hide_image()" onmousedown="rotarImagenesUp('London')"  shape="rect" alt="" coords="325,420,370,445">
+			<area onmouseover="change_image('Manchester')" 			onmouseout="hide_image()" shape="rect" alt="" coords="210,230,240,250" >
+			<area onmouseover="change_image('Birmingham')"  		onmouseout="hide_image()" onmousedown="rotarImagenesUp('Birmingham')" shape="rect" alt="" coords="235,315,265,345" >
+			<area onmouseover="change_image('StratfordUponAvon')" 	onmouseout="hide_image()" onmousedown="rotarImagenesUp('Stratford')" shape="rect" alt="" coords="252,362,272,382">
+			<area onmouseover="change_image('Bristol')"  			onmouseout="hide_image()" shape="rect" alt="" coords="196,420,216,435" href="">
+			<area onmouseover="change_image('Salisbury')"  			onmouseout="hide_image()" onmousedown="rotarImagenesUp('Salisbury')" shape="rect" alt="" coords="230,458,250,478" >
+			<area onmouseover="change_image('Liverpool')"  			onmouseout="hide_image()" shape="rect" alt="" coords="170,236,200,256" >
+			<area onmouseover="change_image('Oxford')"   			onmouseout="hide_image()" onmousedown="rotarImagenesUp('Oxford')" shape="rect" alt="" coords="265,400,282,418" >
+			<area onmouseover="change_image('Cambridge')"  			onmouseout="hide_image()"  shape="rect" alt="" coords="333,325,352,355" >
+		</map>	
+	</div>
+	<div id="controles">	
+		<i class="icon icon-arrow-left" onmousedown="rotarImagenesDown('0')"></i>
+		<i class="icon icon-pause2" onmousedown="act_rotarImagenes('0')"></i>
+		<i class="icon icon-play3" onmousedown="act_rotarImagenes('1')"></i>
+		<i class="icon icon-arrow-right" onmousedown="rotarImagenesUp('0')"></i>
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio López Martínez                        <a href="avisolegal_en.html">Legal Advisor</a>                       CONTACT<a href="contactme_en.html"><span class="primero"><i class="icon icon-mail2"></i></span></a></p>
+	</div> 
+</body>

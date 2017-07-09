@@ -1,0 +1,152 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="eleciones en estados unidos 2016, victoria de trump en 2016, analisis indices trump 2016, analisis mercado elecciones trump, analisis mercado elecciones 2016" />
+	<meta name="description" content="Analisis de la reaccion del mercado a la victoria de trump en las elecciones de estados unidos 2016"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+	</script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<title>Diario de un Ingeniero - Blog - Analisis economia 2016 - Elecciones USA - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_markets.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+<div id="wrapper">
+	<div id="topnav">
+		<ul>
+			<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+			<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+			<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>
+			<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>
+		</ul>
+	</div>
+	<div id="logo">
+		<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+	</div>
+</div>
+<div id="langue_europe" >
+	<a><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+	<a  href="blog_eco2016_usaelections_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+	<a href="blog_eco2016_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/back.jpg" alt=”BACK” /></a>
+</div>
+<div id="top_sidebar_blog">
+	<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+	<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+	<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+</div>
+<div id="content-pre">
+	<h1 style="color:saddlebrown;   -webkit-text-fill-color: white;-webkit-text-stroke-color: black;-webkit-text-stroke-width: 1px; font-size:31px;  text-align: center;">Elecciones en EE.UU.</h1>
+	<br /><br /><br />
+</div>
+
+	<div id="content">
+		<h1>El Trumpazo</h1>
+			<img class="right_small2"	src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Trump_%26_Clinton.jpg/640px-Trump_%26_Clinton.jpg" />
+			<p>Este año teníamos una cita bien marcada, no era otra que las elecciones de los Estados Unidos el 8 de Noviembre, el primer martes después del primer lunes de noviembre.
+			En este caso los actores principales eran Hillary Clinton, la favorita, por el bando demócrata y Donald Trump por el bando republicano.
+			No ha habido unas elecciones que hayan generado tanta expectación en el marco internacional. Esto es así debido a la gran diferencia de la visión y a la forma de ser de los dos candidatos. <br /> <br />
+
+
+			Por un lado <strong>Hillary Clinton</strong>, primera mujer que se presenta a presidente en la historia de Estados Unidos, con una larga historia en la política americana.
+			Es bastante culta e inteligente, y domina bien la esfera internacional.
+			Siendo además del ala más moderada del partido demócrata y habiendo tenido que ceder a los partidarios del otro candidato por el partido demócrata	para conseguir aunar seguidores.
+			Por ello en estas elecciones era garante de continuar con el estado de bienestar, con aquellas medidas como la extensión del seguro médico a más estadounidenses, el famoso Obamacare y de seguir una estrategia pacificadora en la escena internacional.
+			Además es defensora del medio ambiente, promoviendo las energías renovables y quería también empezar a gastar en infraestructuras para conseguir despertar en cierta medida el sector industrial. <br /><br />
+
+			Por otra parte <strong>Donald Trump</strong>, un multibillonario con un pasado muy polémico en los medios de comunicación, debido a contar con numerosas empresas e influencia en muchos sectores.
+			De un pensamiento un tanto nostálgico para muchos americanos, ya que es partidario de hacer una política que no encaja y tendría un coste económico muy alto para el mundo de hoy en día, donde está todo conectado y globalizado.<br />
+			Sus ideas son la recuperación del centro de Estados Unidos, el despertar de las empresas industriales y del sector energético y poder competir con otros gigantes como China o Rusia en esos sectores.
+			Cosa imposible debido a los costes y salarios mucho más altos en USA. Sin embargo, debido a su tono más sincero y con un lenguaje mucho más sencillo y atractivo para los estadounidenses menos culturizados ha calado con gran fuerza.
+			Eso junto a la idea de que Estados Unidos está controlado por burócratas que solo piensan en sus bolsillos y ataques a la burguesía de Washington le ha hecho ganar mucha popularidad.<br />
+			Da la <strong> paradoja de que él es uno de los que más se ha beneficiado durante años de ese sistema que tanto crítica</strong> y además haciendo mala praxis de lo que se exige a aquellos que se benefician del sistema.
+			Ya que ha evadido impuestos y está en numerosos juicios con gran parte de sus empresas.
+			De hecho<strong> tras la victoria electoral aún tiene que comparecer en más de 300 juicios</strong>.<br /><br />
+
+			Sin embargo al igual que en el Brexit el resultado fue aquel que nadie venía venir, y<strong> Trump ganó por goleada a Clinton quien no tardo en reconocer la derrota</strong> y tratar de limar asperezas.
+			Esto es así porque Estados Unidos no se puede permitir tener a la población dividida y más con dos candidatos tan dispares.
+			Así Trump también hizo lo suyo, descartando gran parte de sus medidas más polémicas y rebajando hasta donde podía llegar en otras.<br /><br />
+			Las medidas más polémicas que sustituyo o elimino fueron las siguientes:</p>
+			<ul>
+				<li>La construcción de un muro en la frontera de Mexico al final sera sustituida por una valla y será una ampliación a la anterior valla que se hizo con Obama.</li>
+				<li>La deportación masiva de indocumentados será al final de aquellos que tengan antecedentes, 3 millones sobre los 11 millones previstos.</li>
+				<li>La demanda contra Hillary al final no lo llevará a cabo.</li>
+				<li>Poner grandes aranceles a aquellas empresas que produzcan fuera del país no será efectuada.</li>
+				<li>Obligar a miembros de la OTAN a pagar a Estados Unidos por sus servicios.</li>
+				<li>Eliminar el ObamaCare, es decir quitar el seguro médico a los más desfavorecidos.</li>
+			</ul>
+			<p>Otras mediadas que serán realizadas en el mandato de Trump serán las siguientes:</p>
+			<ul>
+				<li>Aumentar el gasto de infraestructuras en medio billón de dólares para relanzar la industria americana.</li>
+				<li>Bajar los impuestos en casi todos los tramos, limitando el máximo a un 33 %.</li>
+				<li>Rebajar el papel internacional de USA y centrarse más en las políticas del interior, eso sin dejar su política antiterrorista ya que ha fijado la eliminación del ISIS este año.</li>
+				<li>Salir del TPP, Trans-Pacific Partnership, tratado de libre comercio con los países del Pacífico y realizar pactos bilaterales.</li>
+				<li>Aumentar sus lazos con Israel y hacer grandes concesiones con los sionistas.</li>
+				<li>Beneficiar a las industrias siderúrgicas y petroleras del país.</li>
+				<li>Crear un nuevo arancel a los productos provenientes de China (todavía está por ver la cuantía.</li>
+			</ul>
+		<p>Tras el final del escrutinio el resultado dio como vencedor a Trump. Estados clave para su victoria fueron <strong>Michigan</strong> donde gano contra pronóstico.<br />
+		Nunca en los últimos 20 años había ganado un candidato republicano en este estado. Y es que la crisis no ha afectado en todos los estados por igual y en Michigan existen demasiadas desigualdades.<br />
+		De hecho fue ahi donde Trump cerro su campaña. Otros estados donde siempre ha estado el triunfo del candidato vencedor han sido <strong>Ohio, Floria y Pennsylvania</strong>.
+		Pues bien en estos tres estados también gano Trump. En Pennsilvania al igual que en Michigan por un estrechisimo margén.<br />
+		Cabe recalcar que <strong>el voto popular lo gano Clinton</strong> de ahí todavía <strong>más mérito la victoria de Trump que supo jugar bien sus cartas</strong>, y del equipo de campaña más bien.	<br />
+		<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_usaelectionsresults_map.jpg" alt=”usaelectionsresults_map” /><br />
+
+		A partir de las 3 de la madrugada hora española ya Donald Trump encabezaba las apuestas para ganar y el mercado no lo asimilo al principio.
+		Eso se pudo ver perfectamente en el mercado de divisas y en metales preciosos.
+		En la campaña debido a la incertidumbre el dolar llego a bajar hasta los 1.11:1 USD/EUR y segun Trump iba viendose	vencedor el dolar perdido posiciones bajando hasta 1.13:1 USD/EUR.
+		Tras el pánico vendedor el dolar fue ganando margen hasta que la euforia llego a los mercado acabando en 1:108 con un diferencial de un 3.5% como se ve en el gráfico.
+		Unas sesiones más tarde el dolar tocaría maximos históricos desde el nacimiento del euro llegando a 1:10.04 muy próximos a la paridad.	<br /><br />
+		<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_EUR_USD_1D.jpg" alt=”EUR_USD_1D” /><br />
+		El oro empezo a subir su cotización pero no llego tan alto como cuando el Brexit así como el indice de volatilidad. <br />
+		<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_VIX_1D.jpg" alt=”VIX_1D” /><br />
+
+		Los <strong>principales índices europeos abrieron con grandes caídas</strong> pero poco a poco fueron remontando puestos alientados por las compras ya que unas elecciones de USA no pueden afectarnos tanto como la separación del Reino Unido.
+		Así pues cuando Trump salió retractandose de algunas medidas a la mañana siguiente en USA y Clinton pidiendo unidad, las bolsas empezaron a remontar y en concreto la americana. <br /><br />
+		En Estados Unidos los valores que habían favorecido a Trump en la campaña y sobre todo los valores industriales que veían a Trump como una oportunidad de despegar ya que estos ultimos años ha sido donde más desempleo ha habido.
+		<strong>Empresas del sector industrial, mineras y acereras</strong> así como las empresas farmacéuticas que han tenido unos años muy malos con Obama debido a las limitaciones y al alto control por parte del gobierno.<br /><br />
+		En contra energías renovables y el sector tecnológico tras los discursos de Trump en los que se encoraba a que trajeran sus productos a Estados Unidos o sufrirían con medidas adicionales.
+		Como estos dos tipos de empresas cotizan en diferentes índices se vio una desigualdad muy grande entre el Nasdaq que casi acabo plano y el Dow Jones que consiguio llegar a máximos históricos.
+		En el <strong>índice del NASDAQ hay un elipse verde</strong>  donde se puede observar como el Nasdaq sufrió <strong>una fuerte caída en la apertura</strong>.<br />
+
+		En el siguiente gráfico apreciamos que ocurrió con los índices el día de las elecciones:<br />
+		<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_usaelections_1h.jpg" alt=”usaelections_1h” /><br />
+		Varias sesiones más tarde el Nasdaq también subiría y ambos indices ahora mismo estan en<strong> máximos históricos</strong>.<br />
+		Si bien al principio tras la victoria de Trump parecía que todo se iba a desplomar rápidamente todo se recuperó y los todo giro al alza.
+
+		Además ha habido cierto rally en las materias primas ya que se prevé fuertes inversiones en infraestructuras para el próximo año.</p>
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Desgined by Sergio Lopez Martinez                                                 CONTACTO <a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

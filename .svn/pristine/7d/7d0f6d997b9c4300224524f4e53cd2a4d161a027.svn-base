@@ -1,0 +1,176 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Infantado Palace Guadalajara, Santa Maria guadalara, modern guadalajara spain, aquatic center guadalajara,
+	guadalajara example of town, guadalajara century XXI" />
+	<meta name="description" content="Guadalajara history, century XXI. Guadalajara, a special town, a modern and innovative town."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+
+	<script>
+		/*Array con las imagenes que se iran mostrando en la web*/
+		var imagenes=new Array(
+			'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_sepia.png',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_bn.png'
+		);
+		/*Funcion para cambiar la imagen*/
+		function rotarImagenes()
+		{
+			// obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+			var index=Math.floor((Math.random()*imagenes.length));
+
+			// cambiamos la imagen
+			document.getElementById("imagen").src=imagenes[index];
+		}
+		/*Función que se ejecuta una vez cargada la página*/
+		onload=function()
+		{
+			// Cargamos una imagen aleatoria
+			rotarImagenes();
+
+			// Indicamos que cada 5 segundos cambie la imagen
+			setInterval(rotarImagenes,5000);
+		}
+	</script>
+
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<title>Diary of an engineer - Know my town - History V - Web Site By Sergio Lopez Design.</title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_gu_wall.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a href="main_en.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Work abroad</a></li>
+				<li><a>Know my town</a></li>
+				<li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+	</div>
+	<div id="wrapper2">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_guadalajara_en.html"><span class="primero"><i class="icon icon-home"></i></span>Home</a></li>
+				<li><a href="guada_provincia_en.html"><span class="segundo"><i class="icon icon-earth"></i></span>Region</a></li>
+				<li><a href="guada_ciudad_en.html"><span class="tercero"><i class="icon icon-office"></i></span>Town</a></li>
+				<li><a href="guada_historia_en.html"><span class="cuarto"><i class="icon icon-bookmarks"></i></span>History</a>
+					<ul>
+						<li><a href="guada_historia_I_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Origin sI-XIV</a></li>
+						<li><a href="guada_historia_II_en.html"><span class="segundo"><i class="icon icon-paste"></i></span>Splendor s.XIV-XVI</a></li>
+						<li><a href="guada_historia_III_en.html"><span class="tercero"><i class="icon icon-paste"></i></span>Fall s.XVII-XIX</a></li>
+						<li><a href="guada_historia_IV_en.html"><span class="cuarto"><i class="icon icon-paste"></i></span>Reborn s.XX</a></li>
+						<li><a>Today s.XXI</a></li>
+					</ul></li>
+				<li><a href="guada_senderismo_en.html"><span class="quinto"><i class="icon icon-road"></i></span>Trekking</a></li>
+				<li><a href="guada_gastronomia_en.html"><span class="sexto"><i class="icon icon-spoon-knife"></i></span>Gastronomy</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>
+			</ul>
+		</div>
+		<div id="banner">
+			<img class="banner" src="" id="imagen"alt="banner"/><br />
+		</div>	
+	</div>
+	<div id="langue">
+		<a href="guada_historia_V_es.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="guada_historia_V_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+	</div>
+	<div id="top_sidebar_gu_ciudad">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<a class="twitter-timeline" href="https://twitter.com/diariodesergi" data-widget-id="736325529834532864">Tweets por el @diariodesergi.</a>
+	</div>
+
+	<div id="content">	
+		<h1>Guadalajara nowadays</h1>
+			<p>Turistic level monuments more asked in Guadalajara are <strong>Infantado Palace and Santa María co-cathedral</strong>.</p>
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyV/h5_i1_Palacio_del_Infantado.jpg" alt="photo h5_i1_Palacio_del_Infantado.jpg"/>
+			<figure><figcaption>Infantado Palace, backyard and paintures  in the place where even yet are there.</figcaption></figure>
+
+			<p>There are a lot as a big number of churchs in the center of the town with lot of history and famous parks that has been presents last times of the Guadalajara history where you can enjoy walking like
+			Concordia and San Roque parks.</p>
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyV/h5_i2_Santa Maria.jpg" alt="photo h5_i2_Santa Maria.jpg"/>
+			<figure><figcaption>Santa María Co-Cathedral , altarpiece (recently restored) right</figcaption></figure>
+			<p>There are also many palaces, although most are not open to the public and are part of institutional buildings, banks or private property.
+
+			<br /><br />Besides today it has plenty of groomed areas where they contrast the old areas to new areas such as Alamín ravine, the quarterdeck area and walk across Henares river.
+			These areas can be enjoyed on foot but also by bike through the bike path established in recent years.
+
+			<br /><br />Other places of interest are Cotilla Palace, Antonio Mendoza palace (IES Caracense today) or Sevillano Duquesa Pantheon.</p>
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyV/h5_i5_AyuntamientoGuadalajara_sXXI_2.jpg" alt="photo h5_i5_AyuntamientoGuadalajara_sXXI_2.jpg"/>
+			<figure><figcaption>Town Hall Guadalajara square.</figcaption></figure>
+			
+			<p>Nowadays Guadalajara is becoming more nationally recognized. They are trying to recover abandoned or forgotten places as the Alcazar.
+				Thanks to the efforts of local authorities has recently restored the ancient crypt of the Dukes of Infantado, and performed a program of tourism more attractive to the public.
+				Even a new part of the Arab bridge at the end of the second bridge was discovered when they were building a road to clear the traffic jam between francisco Aritio and Fontanar road was discovered.
+				First round and the bridge was completed when Mayor Jesus Alique was ruling, a stage characterized by the rise of brick, where the city of Guadalajara was commanded by construction more than by citizens.
+				The next mayor froze the second roundabout that had served to decrease even more the traffic jam there and it is yet for build. I hope it will be soon.</p>
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyV/h5_i6_Puentes_Henares.jpg" alt="photo h5_i6_Puentes_Henares.jpg"/>
+			<figure><figcaption>Arab Bridge (sup.) And new bridge over Henares river</figcaption></figure>
+			<p>Recently it has been rebuild Francisco Aritio street, one of the fundamental pillars of Guadalajara where it is the train station. Although for my mind have created numerous speed bumps and roundabouts narrow not too streamline the traffic
+			and the absence of trees it does not fair.
+			<br /><br />Real estate boom of recent years has meant that the city almost double its length reaching almost Taracena and annexing neighborhoods that until recently were some distance from the town center as Valdenoches or Iriepal.
+			The crisis has not gone unnoticed in Guadalajara where many from Guadalajara have had to emigrate to other countries due to little interest in the various local and national organizations in promoting employment in the region,
+			It is currently more than 20% from Guadalajara in unemployment. The large estate had a field day in these years are possessors with financial institutions of a large part of the new buildings of the city, having completely depopulated neighborhoods.
+			They have built numerous sports facilities, from an indoor pool, a football stadium, and extended like San Jose to happen to have two indoor pools, an aquatic center (public and private concession regime) sports
+			and a multipurpose palace where many national and international events are held.</p>
+
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyV/h5_i7_Centro_Acuatico_Aguas_Vivas.jpg" alt="photo h5_i7_Centro_Acuatico_Aguas_Vivas.jpg"/>
+			<figure><figcaption>Barranco del Alamin and tunnel of Aguas Vivas, aquatic center at the bottom next to the multipurpose palace.</figcaption></figure>
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyV/h5_i8_collagesupera.jpg" alt="photo h5_i8_collagesuperas.jpg"/>
+			<figure><figcaption>Facilities Guadalajara Aquatic Center, opened in 2015.</figcaption></figure>
+			<p>Guadalajara has been noteworthy only in futsal whose club spent several years in the first division to have a second club football and handball team first.
+			And is that they have improved their facilities in recent years, more for the money contributed by the board of communities by the city and which I believe is above what a city of similar population deserves,
+			but everything is for Guadalajara and its inhabitants;)..	</p>
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyV/h5_i9_Santo Domingo.jpg" alt="photo h5_i9_Santo Domingo.jpg"/>
+			<figure><figcaption>Santo Domingo square, neuralgic town center</figcaption></figure>
+			
+			<p>It is also a city with a lot of traffic, although it has made an effort to manage this and increase parking spaces but is not enough and there are still problems.
+			There has been an attempt to establish a system of rental bikes like other Spanish cities, but due to the physiognomy of the city and the somewhat traditional mentality of the people of Guadalajara and the management of it has failed,
+			counting on an extensive bike path that borders the city for leisure use.
+
+			<br /><br />So Guadalajara is an example of innovative and high quality of life, but due to the current Spanish situation and the lack of interest by the regional authorities there are projects that have been rejected
+			as the expansion of the industrial areas or the inclusion of a university campus near the train station that could give life to a city that continues to grow old,
+			having lost indigenous population has been displaced populations closer to Madrid and others who have migrated to other parts of Spain or Europe to find a job.
+			This has been offset by a flow of people of Madrid in the years of high cost of housing and a greater number of immigrants who still today are not a significant percentage.</p>
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Desgined by Sergio Lopez Martinez                                                 CONTACTO <a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="visitar guadalajara españa, guadalajara medieval, carae guadalajara, gastronomia guadalajara, senderismo guadalajara" />
+	<meta name="description" content="Guadalajara, una ciudad diferente."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<script>
+		/*Array con las imagenes que se iran mostrando en la web*/
+		var imagenes=new Array(
+			'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_original.png',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_flash.png',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_poster.png',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_mosaico.png'
+		);
+		/*Funcion para cambiar la imagen*/
+		function rotarImagenes()
+		{
+			// obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+			var index=Math.floor((Math.random()*imagenes.length));
+
+			// cambiamos la imagen
+			document.getElementById("imagen").src=imagenes[index];
+		}
+		/*Función que se ejecuta una vez cargada la página*/
+		onload=function()
+		{
+			// Cargamos una imagen aleatoria
+			rotarImagenes();
+
+			// Indicamos que cada 5 segundos cambie la imagen
+			setInterval(rotarImagenes,5000);
+		}
+	</script>
+
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+
+	<title>Diario de un Ingeniero - Conoce mi ciudad - Main Guadalajara - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_gu_wall.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon address-book"></i></span>Diario de un Ingeniero</a></li>	
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="cuarto"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+	</div>		
+	<div id="wrapper2">		
+		<div id="topnav">
+			<ul>
+				<li><a>INICIO</a></li>
+				<li><a href="guada_provincia_es.html"><span class="segundo"><i class="icon icon-earth"></i></span>Provincia</a></li>
+				<li><a href="guada_ciudad_es.html"><span class="tercero"><i class="icon icon-office"></i></span>Ciudad</a></li>
+				<li><a href="guada_historia_es.html"><span class="cuarto"><i class="icon icon-bookmarks"></i></span>Historia</a>
+					<ul>
+						<li><a href="guada_historia_I_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Origen sI-XIV</a></li>
+						<li><a href="guada_historia_II_es.html"><span class="segundo"><i class="icon icon-paste"></i></span>Apogeo s.XIV-XVI</a></li>
+						<li><a href="guada_historia_III_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Declive s.XVII-XIX</a></li>						
+						<li><a href="guada_historia_IV_es.html"><span class="cuarto"><i class="icon icon-paste"></i></span>Resurgir s.XX</a></li>
+						<li><a href="guada_historia_V_es.html"><span class="quinto"><i class="icon icon-paste"></i></span>Hoy s.XXI</a></li>
+					</ul></li>						
+				<li><a href="guada_senderismo_es.html"><span class="quinto"><i class="icon icon-road"></i></span>Senderismo</a></li>
+				<li><a href="guada_gastronomia_es.html"><span class="sexto"><i class="icon icon-spoon-knife"></i></span>Gastronomia</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>						
+			</ul>	
+		</div>						
+		<div id="banner">
+			<img class="banner" src="" id="imagen"alt="banner"/><br />
+		</div>	
+	</div>
+	<div id="langue">
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a href="main_guadalajara_en.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="main_guadalajara_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+	</div>
+	<div id="top_sidebar_gu_ciudad">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like1&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+	</div>
+
+	<div id="content">
+		<p>En este apartado contare como es la ciudad donde he crecido. Como es y cómo fue, sus virtudes y defectos y que es lo que la hacen una ciudad interesante desde muchos puntos de vista.
+
+			Está dividido todo en los siguientes apartados que yo considero más demandados.</p>
+		<ul style="list-style-type:circle">
+			<li>Territorio : Donde se detallara en el marco donde se encuentra y su situación geográfica dentro de España. También los municipios importantes de la provincia y aquellos que destacan
+				bien por el turismo, por la historia o por eventos o festividades.</li>
+			<li>Historia : Aquí se explicara el origen de la ciudad y el desarrollo de la misma con el paso de los siglos.</li>
+			<li>Senderismo :  Se mostraran algunas rutas con grandes paisajes donde poder disfrutar de la naturaleza, muchas desconocidas incluso para la población residente en la provincia.</li>
+			<li>Gastronomía : Se enumeraran los productos típicos de la zona..</li>
+		</ul>
+		<p>Si quieres tener un guia cuando vayas a conocer Guadalajara envia un correo a <strong>diariodeuningeniero@gmail.com</strong> y podremos concertar una fecha.
+		El pago se realizara mediante una donacion via paypal para reserva y en mano el dia de la visita.
+		El precio del guia no superara los 3 euros por persona para una visita de 3 horas.</p>
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Desgined by Sergio Lopez Martinez                                                 CONTACTO <a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

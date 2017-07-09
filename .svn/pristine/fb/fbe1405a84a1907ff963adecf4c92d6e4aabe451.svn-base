@@ -1,0 +1,161 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Infantado palace, carlos V guadalajara, caracense liceo guadalajara,
+	century XIV guadalajara, guadalajara century XV" />
+	<meta name="description" content="Guadalajara history, centuries XIV a XVI. golden age of Guadalajara."/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+
+	<script>
+		/*Array con las imagenes que se iran mostrando en la web*/
+		var imagenes=new Array(
+			'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_sepia.png',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_bn.png'
+		);
+		/*Funcion para cambiar la imagen*/
+		function rotarImagenes()
+		{
+			// obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+			var index=Math.floor((Math.random()*imagenes.length));
+
+			// cambiamos la imagen
+			document.getElementById("imagen").src=imagenes[index];
+		}
+		/*Función que se ejecuta una vez cargada la página*/
+		onload=function()
+		{
+			// Cargamos una imagen aleatoria
+			rotarImagenes();
+
+			// Indicamos que cada 5 segundos cambie la imagen
+			setInterval(rotarImagenes,5000);
+		}
+	</script>
+
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};		
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+		fjs.parentNode.insertBefore(js,fjs);
+		}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){js=d.createElement(s);
+		js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>		
+	<title>Diary of an engineer - Know my town - History II - Web Site By Sergio Lopez Design</title>
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a href="main_en.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Work abroad</a></li>
+				<li><a>Know my town</a></li>
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>
+	<div id="wrapper2">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_guadalajara_en.html"><span class="primero"><i class="icon icon-home"></i></span>Home</a></li>
+				<li><a href="guada_provincia_en.html"><span class="segundo"><i class="icon icon-earth"></i></span>Region</a></li>
+				<li><a href="guada_ciudad_en.html"><span class="tercero"><i class="icon icon-office"></i></span>Town</a></li>
+				<li><a href="guada_historia_en.html"><span class="cuarto"><i class="icon icon-bookmarks"></i></span>History</a>
+					<ul>
+						<li><a href="guada_historia_I_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Origin sI-XIV</a></li>
+						<li><a>Splendor s.XIV-XVI</a></li>
+						<li><a href="guada_historia_III_en.html"><span class="tercero"><i class="icon icon-paste"></i></span>Fall s.XVII-XIX</a></li>
+						<li><a href="guada_historia_IV_en.html"><span class="cuarto"><i class="icon icon-paste"></i></span>Reborn s.XX</a></li>
+						<li><a href="guada_historia_V_en.html"><span class="quinto"><i class="icon icon-paste"></i></span>Today s.XXI</a></li>
+					</ul></li>
+				<li><a href="guada_senderismo_en.html"><span class="quinto"><i class="icon icon-road"></i></span>Trekking</a></li>
+				<li><a href="guada_gastronomia_en.html"><span class="sexto"><i class="icon icon-spoon-knife"></i></span>Gastronomy</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>
+			</ul>
+		</div>
+		<div id="banner">
+			<img class="banner" src="" id="imagen"alt="banner"/><br />						
+			<a href="guada_historia_II_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>	
+			<a href="guada_historia_II_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>	
+			<!--<a href="guada_historia_II_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+		</div>	
+	</div>
+	<div id="top_sidebar_ext">
+		<iframe src="http://widgetsplus.com:8080/84035.htm" width="225" height="252" style="padding:0; margin:0; overflow:hidden;"></iframe><br /><br />
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<a class="twitter-timeline" href="https://twitter.com/diariodesergi" data-widget-id="736325529834532864">Tweets por el @diariodesergi.</a>		
+	</div>
+
+	<div id="content_ext">	
+		<h1>Golden times of Guadalajara, centuries XIV -XVI, </h1>
+			<h2>Guadalajara on Catholics Kings times</h2>
+			<p>This period is clearly marked by the influence of Cardinal Mendoza and his clan in which accumulate great political power.
+			This power was got by the help of the wars in which embarked Castilla, as the taking of Granada and some more campaigns in the kingdom of Carlos V and Felipe II.
+			At this time the city changes its face completely, appearing multitude of palaces and stately homes due to the large number of nobles that inhabit it.
+			Proof of this is <strong> The Palace of the Infantado </strong> lifted at this time and attributable to the great power of Mendoza,
+			plus the expulsion of the Jews in Spain will help to change the city pretty much.</p>
+
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyII/h2_c1_Infantado_serie.jpg" alt="h2_c1_Infantado_serie.jpg"/>
+			<figure><figcaption>Infantado Palace around s.XVI - (.. Inf Right) Front (. Sup left), patio (. Sup right), top floor patio (.. Inf left) and Hunterss floor  (.. Inf right)</figcaption></figure>
+			
+			<img class="right_medium" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyII/h2_i1_Palacio_Antonio_Mendoza.jpg" alt="h2_i1_Palacio_Antonio_Mendoza.jpg"/>	
+
+			<p>Opposite the church of Santa Maria's palace <strong> Cardinal Mendoza (Pedro de Mendoza) </ strong>, building disappeared and was one of the reference works of the Renaissance city in Spain would be.
+			Near the <strong> was his nephew, Antonio de Mendoza </ strong>, currently preserved that functions as a secondary school, Liceo Caracense, as seen in the image on the right.
+			At his death he was bequeathed to her niece would turn the palace into a convent, and which would be built next to the chapel. In the remains buried and left his name as convent chapel piety (img right).</p>
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyII/h2_c2_Palacio_Mendoza_detalles.jpg" alt="h2_c2_Palacio_Mendoza_detalles.jpg"/>
+			<figure><figcaption>Piedad Chapel beside the palace of A.Mendoza (left), cover and patio palace by 1940 (abjo right).</figcaption></figure>
+
+			<p>It is noteworthy that this palace now houses the famous shield of Emperor Charles of Habsburg who originally was a symbol of subjugation in the Castilian cities that opposed certain taxes.
+			This I did in the war of the villagers in the region of Castilla lost their privileges by Carlos V, as he is known because of his title of emperor,
+			only king in Spain holder of that title bought by gold of America, buying the votes to Netherlands dukes and small states of Germany nobles.</p><br /><br />
+			
+			<img class="right_medium" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyII/h2_i2_Palacio_Mendoza_Escudo_CarlosV.jpg" alt="h2_i2_Palacio_Mendoza_Escudo_CarlosV.jpg"/>
+			<p>This shield was initially placed on the door of the Alcazar which is where the revolt started in the fifteenth century and where they were executed instigators.
+			The best example of this shield is in La Puerta Bisagra in Toledo, a city that starred the biggest uprising against Carlos V and where he would seat his residence finally.
+			Later after the destruction of the palace would be placed in <strong> Door Guadalajara Market </strong> that was in the present place of Santo Domingo.
+			Once destroyed the walls in the eighteenth century to expand the city was kept in the Convent of Mercy to be protected from future events.
+			Thanks to that today is preserved in very good condition and can be observed by the tourists who know their location.</p>
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyII/h2_p1_Guadalajara_XVI_2.jpg" alt="h2_p1_Guadalajara_XVI_2.jpg"/><br /><br />
+			<img class="right_medium" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyII/h2_i3_SanFrancisco_Fuerte2.jpg" alt="h2_i3_SanFrancisco_Fuerte2.jpg"/>
+			
+			<p>Of all the ancestral palaces of the Mendoza family, alone will remain as the palace Infantado and <strong> Palace of Don Antonio de Mendoza </strong>.
+			It should be noted that to save the remains of all this dynasty of dukes and honor them was built a pantheon.
+			This is in <strong> the church of San Francisco </strong>, place of great events in the city of Guadalajara that was built around the year 1200 for the Order of the Knights Templar.
+			After a serious fire restored by <strong> Don Diego Hurtado de Mendoza </strong>, first Duke of Infantado who later responsible maintenance to his lineage and centuries later said pantheon would be built.
+			This pantheon bears a strong resemblance to that of the kings of the Escorial Royal Monastery, although its dimensions are much smaller.
+			After the taking of Guadalajara by the French around the year 1808 will be desecrated and severely damaged.
+			It has recently been restored by an amount that was near the million euros and the remains of the Dukes who were moved to the <strong> Pastrana Palace </strong> have been returned to his original site.<br />
+
+			<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/guada_history/guada_historyII/h2_c2_SanFranciscoCripta.jpg" alt="h2_c2_SanFranciscoCripta.jpg"/>
+			<figure><figcaption>Dukes of Infantado Crypt before (sup.) And after restoration (inf.) </figcaption> </figure>
+			<p> This fact is recently done to increase tourism in a city that has suffered an unfortunate chain of disasters to urban level, wars and interested performances throughout its history.
+			Although hard to believe most have been in last two centuries.</p>
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>

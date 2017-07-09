@@ -1,0 +1,193 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="trekking in guadalajara, paths for trekking guadalajara spain, nature in guadalajara, region guadalajara spain" />
+	<meta name="description" content="My trekking places in Guadalajara region"/>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<script type="text/javascript" src="jquery-latest.js"></script>
+		<script type="text/javascript">
+		var rain_act=0;
+		/*Array con las imagenes que se iran mostrando en la web*/
+		/*Funcion para cambiar la imagen*/
+		function change_imagen(id)
+		{
+			$( '#topo' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_' + id + '.jpg');
+		}
+		function hide_imagen()
+		{
+			$( '#topo' ).attr( 'src', 'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_senderismo.jpg');
+		}
+
+		function cargar_imagenes( imagenes ) {
+			$( imagenes ).each( function () {
+				$( '<img/>' )[ 0 ].src = this;
+			});
+		}
+		cargar_imagenes([
+			'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_senderismojpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_topocomarcas.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_hundido.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_lobo.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_mesa.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_ocejon.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_tajo.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_alarilla.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_poveda.jpg',
+			'http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_hundido.jpg'
+		]);
+	</script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<!-- SCRIPT estadisticas -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90367288-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<title>Diary of an engineer - Know my town - Trekking in Guadalajara - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_gu_meseta.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_en.html"><span class="primero"><i class="icon icon-paste"></i></span>Diary of an engineer</a></li>
+				<li><a href="main_en.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Work abroad</a>
+					<ul>
+						<li><a href="main_uk_en.html">England</a></li>
+						<li><a href="main_fr_en.html">France</a></li>
+					</ul>
+				</li>
+				<li><a>Know my town</a></li>
+				<li><a href="aboutme_en.html"><span class="tercero"><i class="icon icon-profile"></i></span>About me</a></li>
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+	</div>
+	<div id="wrapper2">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_guadalajara_en.html"><span class="primero"><i class="icon icon-home"></i></span>Home</a></li>
+				<li><a href="guada_provincia_en.html"><span class="segundo"><i class="icon icon-earth"></i></span>Region</a></li>
+				<li><a href="guada_ciudad_en.html"><span class="tercero"><i class="icon icon-office"></i></span>Town</a></li>
+				<li><a href="guada_historia_en.html"><span class="cuarto"><i class="icon icon-bookmarks"></i></span>History</a>
+				<li><a><span class="quinto"><i class="icon icon-road"></i></span>Trekking</a>
+					<ul>
+						<li><a href="guada_saguila_en.html">Aguila y Peña Hueva</a></li>
+						<li><a href="guada_socejon_en.html">Ocejon</a></li>
+						<li><a>Lobo</a></li>
+						<li><a href="guada_shundido_en.html">Hundido de Armallones</a></li>
+						<li><a href="guada_smesa_en.html">Mesa</a></li>
+						<li><a href="guada_salarilla_en.html">Muela_alarilla</a></li>
+						<li><a href="guada_saltotajo_en.html">Kayaking at Alto Tajo</a></li>
+						<li><a href="guada_spietajo_en.html">Tajo, puente San Pedro</a></li>
+					</ul></li>					
+				<li><a href="guada_gastronomia_en.html"><span class="sexto"><i class="icon icon-spoon-knife"></i></span>Gastronomy</a></li>
+				<li><a href="main_en.html"><span class="noveno"><i class="icon icon-exit"></i></span>Close</a></li>
+			</ul>	
+		</div>						
+		<div id="banner">
+			<img class="banner" src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/alpiedelameseta.png" alt="banner"/><br />
+		</div>	
+	</div>
+	<div id="langue">
+		<a href="guada_senderismo_es.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="guada_senderismo_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+	</div>
+	<div id="social_widget_s" >
+		<div class="fb-send" data-href="www.diariodeuningeniero.com/guada_senderismo_en.html"></div>
+		<a href="http://twitter.com/home?status=Trekking - Guadalajara+www.diariodeuningeniero.com/guada_senderismo_en.html"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-twitter.png"></a>
+		<a href="whatsapp://send?text= www.diariodeuningeniero.com/guada_senderismo_en.html" data-text="Trekking - Guadalajara-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono_s" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-whatsapp.png"></a>
+	</div>
+
+	<div id="content-pre">
+		<img src="http://i235.photobucket.com/albums/ee43/Sergio22/guada/rutas/guada_senderismo.jpg"   id="topo"   alt="" usemap="#GuadaTopo_Map">
+		<map name="GuadaTopo_Map">
+			<area onmouseover="change_imagen('hundido')" onmouseout="hide_imagen('hundido')"  shape="rect" alt="" coords="464,302,536,362" href="guada_shundido_es.html">
+			<area onmouseover="change_imagen('ocejon')" onmouseout="hide_imagen('ocejon')"  shape="rect" alt="" coords="101,101,167,141" href="guada_socejon_es.html">
+			<area onmouseover="change_imagen('lobo')" onmouseout="hide_imagen('lobo')"  shape="rect" alt="" coords="47,60,111,105">
+			<area onmouseover="change_imagen('mesa')" onmouseout="hide_imagen('mesa')"  shape="rect" alt="" coords="740,137,779,183" href="guada_smesa_es.html">
+			<area onmouseover="change_imagen('mesa')" onmouseout="hide_imagen('mesa')"  shape="rect" alt="" coords="797,113,845,183" href="guada_smesa_es.html">
+			<area onmouseover="change_imagen('mesa')" onmouseout="hide_imagen('mesa')"  shape="rect" alt="" coords="800,90,845,109" href="guada_smesa_es.html">
+			<area onmouseover="change_imagen('mesa')" onmouseout="hide_imagen('mesa')"  shape="rect" alt="" coords="740,90,845,183" href="guada_smesa_es.html">
+			<area onmouseover="change_imagen('mesa')" onmouseout="hide_imagen('mesa')"  shape="rect" alt="" coords="740,90,772,126" href="guada_smesa_es.html">
+			<area onmouseover="change_imagen('aguila')" onmouseout="hide_imagen('aguila')"  shape="rect" alt="" coords="182,387,198,407" href="guada_saguila_es.html">
+			<area onmouseover="change_imagen('aguila')" onmouseout="hide_imagen('aguila')"  shape="rect" alt="" coords="214,380,234,407" href="guada_saguila_es.html">
+			<area onmouseover="change_imagen('aguila')" onmouseout="hide_imagen('aguila')"  shape="rect" alt="" coords="195,365,234,376" href="guada_saguila_es.html">
+			<area onmouseover="change_imagen('aguila')" onmouseout="hide_imagen('aguila')"  shape="rect" alt="" coords="182,365,234,407" href="guada_saguila_es.html">
+			<area onmouseover="change_imagen('aguila')" onmouseout="hide_imagen('aguila')"  shape="rect" alt="" coords="182,365,193,384" href="guada_saguila_es.html">
+			<area onmouseover="change_imagen('tajo')" onmouseout="hide_imagen('tajo')"  shape="rect" alt="" coords="618,314,685,354" href="guada_spietajo_es.html">
+			<area onmouseover="change_imagen('tajo')" onmouseout="hide_imagen('tajo')"  shape="rect" alt="" coords="618,313,686,354" href="guada_spietajo_es.html">
+			<area onmouseover="change_imagen('tajo')" onmouseout="hide_imagen('tajo')"  shape="rect" alt="" coords="618,339,641,354" href="guada_spietajo_es.html">
+			<area onmouseover="change_imagen('poveda')" onmouseout="hide_imagen('tajo')"  shape="rect" alt="" coords="680,385,725,430" href="guada_saltotajo_es.html">
+			<area onmouseover="change_imagen('alarilla')" onmouseout="hide_imagen('alarilla')"  shape="rect" alt="" coords="161,210,207,249" href="guada_salarilla_es.html">
+	</map>	<br />
+	</div>
+	<div id="content">
+		<p>Region of Guadalajara has nothing to envy to other provinces of Spain. Here we can find wonders of nature that few people know.
+		The eastern part is quite unknown for most of the Spanish and has some of the best treasures as nature places.
+		In the map below I present the general index of hiking trails that will explain in my website where you will find truthful information as to overcome these challenges.
+		There are all levels and are marked in different colors depending on the difficulty entailed either.<br /><br />
+
+		If you click on the map you can see the exposed routes that I have done.
+		If you press <a onmouseover="change_imagen('guada_topocomarcas')" onmouseout="hide_imagen()"> here </a> you will see the topographic map classified by the areas of the region.</p>
+		<ul>
+			<li><a onmouseover="change_imagen('aguila')" href="guada_saguila_es.html">Ruta al pico Aguila y Peña Hueva</a></li>
+			<li><a onmouseover="change_imagen('ocejon')" href="guada_socejon_es.html">Ruta al pico Ocejon</a></li>
+			<li><a onmouseover="change_imagen('lobo')">Ruta al pico Lobo</a></li>
+			<li><a onmouseover="change_imagen('hundido')" href="guada_shundido_es.html">Ruta del Hundido de Armallones</a></li>
+			<li><a onmouseover="change_imagen('tajo')" href="guada_spietajo_es.html">Ruta por el barranco de la Hoz y bajada al Tajo</a></li>
+			<li><a onmouseover="change_imagen('alarilla')" href="guada_salarilla_es.html">Ruta a la muela de Alarilla</a></li>
+			<li><a onmouseover="change_imagen('mesa')" href="guada_smesa_es.html">Ruta por las Hoces del rio Mesa, Jaraba</a></li>
+			<li><a onmouseover="change_imagen('poveda')" href="guada_saltotajo_es.html">Piraguas en el Alto Tajo</a></li>
+		</ul>
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio López Martínez                        <a href="avisolegal_en.html">Legal Advisor</a>                       CONTACT<a href="contactme_en.html"><span class="primero"><i class="icon icon-mail2"></i></span></a></p>
+	</div> 
+</body>
+</html>

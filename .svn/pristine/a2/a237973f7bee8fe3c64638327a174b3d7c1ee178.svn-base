@@ -1,0 +1,272 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="robots" content="index, follow" />
+    <meta name="keywords" content="invertir dinero, administrar capital, regalar dinero a los bancos, invertir oro plata diamantes, bitcoin buena rentabilidad, estrategias de inversion largo plazistas" />
+    <meta name="description" content="Argumentacion de porque no dejar nuestro dinero en el banco"/>
+    <link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+    <script type="text/javascript">
+    </script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    <!-- SCRIPTS ADD DEGIRO. -->
+    <script>
+        /*Array con las imagenes que se iran mostrando en la web*/
+        var imagenes=new Array(
+                'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/degiro_vertical.png',
+                'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/degiro_vertical2.png'
+        );
+
+        /*Funcion para cambiar la imagen*/
+        function rotarImagenes()
+        {
+            // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+            var index=Math.floor((Math.random()*imagenes.length));
+
+            // cambiamos la imagen
+            document.getElementById("degiro").src=imagenes[index];
+        }
+
+        /*Función que se ejecuta una vez cargada la página*/
+        onload=function()
+        {
+            // Cargamos una imagen aleatoria
+            rotarImagenes();
+
+            // Indicamos que cada 5 segundos cambie la imagen
+            setInterval(rotarImagenes,5000);
+        }
+    </script>
+    <!-- SCRIPTS REDES SOCIALES. -->
+    <!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+    <div id="fb-root"></div>
+    <script>
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <script src="https://apis.google.com/js/platform.js" async defer>
+        {lang: 'es'}
+    </script>
+    <script type="text/javascript">
+        window.___gcfg = {lang: 'es'};
+        (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/platform.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+    </script>
+    <script>
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+            if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+                fjs.parentNode.insertBefore(js,fjs);
+            }}(document, 'script', 'twitter-wjs');
+    </script>
+    <script type="text/javascript">
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+            if(!d.getElementById(id)){js=d.createElement(s);
+                js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+    <!-- SCRIPT estadisticas -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-90367288-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <title>Diario de un Ingeniero - Blog - Dejar parado el capital - Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/fondo_markets.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+<div id="wrapper">
+    <div id="topnav">
+        <ul>
+            <li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+            <li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a>
+                <ul>
+                    <li><a href="main_uk_es.html">Inglaterra</a></li>
+                    <li><a href="main_fr_es.html">Francia</a></li>
+                </ul>
+            </li>
+            <li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>
+            <li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>
+        </ul>
+    </div>
+    <div id="logo">
+        <img   class="logo" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+    </div>
+</div>
+<div id="langue_europe" >
+    <a><img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+    <a  href="blog_why_not_banks_en.html"><img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+    <a href="main_blog_es.html"><img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-back.jpg" alt=”BACK” /></a>
+</div>
+<div id="social_widget" >
+    <div class="fb-send" data-href="www.diariodeuningeniero.com/blog_why_not_banks_es.html"></div>
+    <a href="http://twitter.com/home?status=Elecciones en EE.UU. 2016+blog_why_not_banks_es.html"><img class="icono" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-twitter.png"></a>
+    <a href="whatsapp://send?text= www.diariodeuningeniero.com/blog_why_not_banks_es.html" data-text="Elecciones en EE.UU.2016-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-whatsapp.png"></a>
+</div>
+<div id="top_sidebar_blog">
+    <div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div>
+    <div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/">Diariodeuningeniero</a></blockquote></div>
+    <div class="fb-follow" data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div>
+    <a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+    <!-- DIARIO1 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:160px;height:600px"
+         data-ad-client="ca-pub-8000076722057083"
+         data-ad-slot="3242933255"></ins>
+    <a href="https://transferwise.com/u/1bbfd"><img  src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/transferwise.jpg"  alt="transferwise"/></a>
+</div>
+<div id="content-pre-blog">
+    <h1 style="color:saddlebrown;   -webkit-text-fill-color: white;-webkit-text-stroke-color: black;-webkit-text-stroke-width: 1px; font-size:31px;  text-align: center;">Guardar dinero en el banco, un error muy comun.</h1>
+    <br /><br /><br />
+</div>
+
+<div id="content">
+    <h1>¿Qué supone tener nuestro dinero en el banco?</h1>
+    <p>Tener nuestro capital en un depósito bancario es una decisión buena cuando la economía del país va en retroceso pero la divisa que soporta el país depende de la economía de otros países.
+        Es el caso por ejemplo de la situación española al explotar la burbuja del ladrillo, donde estaba empezando a haber deflación y el euro cobraba más fuerza así como la política del banco central europeo era de rebajar tipos gradualmente hasta que llegaron a 0.<br /><br />
+        En el caso actual tener nuestro capital en un depósito bancario es dar alas a los bancos, ya que ahora mismo la situación es completamente diferente a hace 10 años. <br /><br />
+        El riesgo de una crisis económica en la unión europea es cada vez más lejano y parece que va cobrando cuerpo un crecimiento económico sostenido.
+        <strong>Justo después de la crisis en 2009, el riesgo era muy alto </strong> si bien ya había pasado lo peor y con las bolsas tan en mínimos lo más  <strong>recomendable hubiera sido poner nuestro dinero en bolsa </strong>.
+        Dice el refrán, cuando cunde el pánico y saltan las alarmas hay que tener el radar para comprar y cuando la situación sea buena tenerlo para recoger beneficios.
+        <a href="blog_best_inverter_keys_es.html">Todo esto lo hablo en el hilo de las claves del buen inversor.</a><br /><br />
+
+        Soltada esta parrafada, lo importante es tener clara la idea de que igual que tenemos nuestro dinero en euros en nuestro caso, podríamos tener nuestro capital en otra divisa.
+        Aunque lo deseable siempre es mover el dinero a sitios donde se este generando riqueza.<br /><br />
+        <img class="right_small2"  src="https://www.oroyfinanzas.com/files/2011/07/scrooge.jpg" />
+        Si fuéramos como el Tío Gilito acumulando dólares lo único que haríamos a la larga es perder dinero ya que el dólar se va depreciando con el tiempo.
+        Sin embargo los materiales preciosos mantienen su valor ya que tienen suben también con la inflación por lo que mantienen el precio.<br />
+        Por eso si las monedas fueran de oro real tendrían un valor añadido al nominal como metales preciosos lo que lo hacen mantener o subir el precio con el tiempo.
+        El euro al igual que el dólar, por suerte es bastante estable,  y si bien lleva años a la deriva lo mejor esta por llegar, ya que queda poco tiempo para que empiece la escalada de tipos y la revalorización con respecto a las demás divisas.<br /><br />
+        Digo esto porque existen muchisimas divisas y hay países donde si la gente tuviese su dinero solo en la moneda local podrían haberlo perdido todo. El caso de Venezuela y de muchos países africanos.
+        Pero allí en esos países se preocupan más por estas cosas y no viven como en Europa donde no creemos que pueda suceder esto. <br /><br />
+
+        Pero que ocurre si el precio del dinero pasa a va valer más con respecto a los demás bienes por una subida de tipos de interés.
+
+        Dicho esto, <strong>¿qué son los tipos de interés?</strong>.<br /><br />
+
+        Los tipos de interés se modulan en función de la tasa de inflación.
+        El tipo de interés real es la rentabilidad nominal o tasa de interés nominal de un activo descontando la pérdida de valor del dinero a causa de la inflación.
+        Su valor aproximado puede obtenerse restando la tasa de inflación al tipo de interés nominal.
+        Por lo tanto el tipo de interés nominal, que es el que aparece habitualmente como cantidad de interés en los créditos, incluiría tanto la tipo de interés real como tasa de inflación.
+        Cuando el tipo de interés nominal es igual a la tasa de inflación, el prestamista no obtiene ni beneficio ni pérdida, y el valor devuelto en el futuro es igual al valor del dinero en el presente. <br /><br />
+
+        El prestamista gana cuando el tipo de interés es alto y la inflación muy baja o inexistente.
+        Una tasa de inflación superior al tipo de interés nominal implica un tipo de interés real negativo y, como consecuencia, una rentabilidad negativa para el prestamista o inversor.
+
+        Desde el punto de vista de la política monetaria del Estado, una tasa de interés alta incentiva el ahorro y una tasa de interés baja incentiva el consumo.
+        Esta es la razón por lo que en Europa tras la crisis y el bajo desempleo, las familias cuentan con menos poder adquisitivo y les resulta más difícil gastar.
+        Por ello y para que no vaya afectando rápidamente a todos los sectores el banco central tiene que incentivar el consumo por lo que baja los tipos.
+        Con eso el dinero empieza a valer menos y todo en general reduce su valor real con lo que el que pierde tras estas medidas artificiales de los bancos es los que poseen el capital.<br /><br />
+        Sin embargo los salarios también se reducen porque los beneficios de las empresas disminuyen llevando a un nuevo equilibrio.
+        Por contra, al empezar a realizarse estas medidas aquellos bienes globales finitos como los materiales, en concreto los metales preciosos suben de valor con respecto a las divisas.
+        De ahí la intervención estatal sobre los tipos de interés a fin de fomentar ya sea el ahorro o la expansión, de acuerdo a objetivos macroeconómicos generales.<br /><br />
+
+        Mucha gente solo le importa cuánto gana sin saber que los euros o el dinero es algo subjetivo que depende de muchos factores.
+        No es lo mismo 1 dólar hace 20 años que hoy en día. Evidentemente el dólar ha perdido valor con el tiempo, así como una onza de oro en los 90s con una onza de oro actual.
+        Por lo que además de tener nuestro dinero en euros, bien podríamos tenerlo en otra divisa o en otro metal precioso, oro, plata, diamantes.</p>
+        <ul>
+            <li>El oro en la actualidad es muy utilizado en la industria tecnológica porque muchos componentes electrónicos lo requieren, por lo que no es solo utilizado como bien de lujo o decoración. </li>
+            <li>La plata es más utilizada que el oro debido a sus propiedades conductoras que la hacen el rey en este campo. </li>
+            <li>Los diamantes son finitos y su valor es mucho más estable que estos otros dos metales ya que su revalorización es continua. </li>
+        </ul>
+
+        <p>A continuación mostrare un gráfico aclaratorio comparando estos metales con otras divisas o bienes materiales a lo largo del tiempo.
+        <img  class="horiz_big" src="http://marketdemons.com/wp-content/uploads/2017/05/Silver47small.png" /><br />
+        Como se puede ver la plata esta ahora mismo consolidando valores y siguiendo patrones de otras crisis económicas deducir que va a estar mucho tiempo estable en esos valores.
+        En mi opinión todavía le queda por corregir en los próximos dos años para estabilizarse en torno a los 12$.
+        <img  class="horiz_big" src="https://www.dvddiamonds.com/wp-content/uploads/Diamond-Price-Chart-1300x700.png" /><br /><br />
+        En el caso de los diamantes la tendencia alcista es impoluta y seguirán subiendo durante bastante tiempo.<br />
+
+        <strong>Hablemos del oro.</strong><br /><br />
+        En los 90s la diferencia entre el coste de producción y el coste nominal era bastante baja teniendo una rentabilidad bastante baja.
+        Sin embargo en los últimos años ha asistido a un boom acabando al dar por finalizada la crisis. En el momento de estabilización de precios y de ajuste de tasas empezó a corregir valor hasta el
+        rango de los 1200 dólares que cotiza actualmente.
+        El coste actual de producción es en torno a los 800 dólares con lo que es realmente rentable su producción. A continuación muestro un gráfico que compara el coste de producción con el valor del oro.
+        De esta manera se ve también que a medida que aumenta su valor cuesta más extraerlo pero el diferencial de beneficio aumenta.<br />
+        <img  src="http://therealasset.co.uk/wp-content/uploads/2011/09/Gold-Mulligan-VI.jpg"/><br />
+        <img  src="https://smaulgld.com/wp-content/uploads/2014/11/Gold-mining-costs.png"/><br />
+        En temporadas económicas favorables la inversión en oro es un error ya que al revalorizarse las demás divisas y generar interés el oro pierde valor ya que sólo sube por el mero hecho de subir la inflación.
+        Si bien en todo el mercado los metales preciosos se ajustan a mercado antes de que se produzcan los eventos y la especulación es bastante elevada.<br /><br />
+
+        <img class="right_small2" src="http://www.zerohedge.com/sites/default/files/images/user3303/imageroot/2017/01/03/20170104_BTCGOLD.jpg"/>
+        Ademas de todo esto debemos hacer mención especial a las <strong>criptomonedas </strong>que bien merecería un hilo completo para hablar de ellas.
+        Actualmente la más famosa es el Bitcoin que tras un impulso inicial en 2010 no ha vuelto aparecer con fuerza hasta 2016.
+        Ahora mismo está cobrando especial protagonismo debido a las enormes subidas registradas en los primeros meses de 2017.
+        A la derecha adjunto un grafico del Bitcoin en comparación con el oro en dólares reciente.<br /><br />
+
+        Además del Bitcoin existen numerosas criptomonedas que corrigen errores del Bitcoin como el espacio de las transacciones que en el caso del Bitcoin es enorme.
+        Las más famosas son <strong>Ethereum y Ardor</strong>, que desde Febrero de este año <strong>se han revalorizado más de un 1000%</strong>, pasando de los 10$ a los 250$ en estos momentos.
+        Este espacio que traza todos los movimientos desde el origen sin una buena optimización acabara por destronar al Bitcoin como criptodivisa en el futuro.<br /><br />
+
+        Dicho esto, <strong>¿cual es la mejor manera de que nuestras rentas salvadas no pierdan valor con el paso de los tiempos?</strong>
+        La mejor respuesta sería tener un equilibrio en lo que tenemos salvado, y no meter todo en el mismo saco. Al igual que en el hilo de las claves del buen inversor es no invertir en la distribución de nuestro capital en
+        diferentes sectores y deslocalizando estas inversiones para minimizar riesgos por zona en el caso de nuestro capital real iría por el mismo sentido.
+        Con esto también decir que no es verdad que el oro se revalorice por encima del dólar salvo cuando lleguen eventos adversos.
+        Así que lo recomendable es no exceder un 10% de nuestro capital en metales preciosos y cuando se revaloricen por ciclos económicos malos vender es la mejor opción.
+        Ya que si el oro hoy vale 3 veces más dólares que hace 30 años pero el dólar vale también casi 3 veces menos con lo que más o menos se ha mantenido estable.
+        Cuando los bancos dan intereses por nuestro dinero los bancos los dan realmente porque ellos están ganando más con ello.
+        Por lo que realmente aunque pensemos que estemos ganando un 2%-5% actual la verdad es que estamos perdiendo dinero.
+        Esto ocurrirá en pocos años en cuanto suban tipos. Actualmente, el dinero vale menos y además los precios están subiendo con lo que estamos perdiendo capital año a año.<br /><br />
+
+        Y las empresas que recibirán créditos con más facilidad también es un punto a tener en cuenta si bien donde menos invertiría sería en empresas que lleven una deuda alta con el tiempo difícil de bajar ya que los beneficios serán reducidos considerablemente.
+        Las empresas que no hayan hecho bien los deberes en materia financiera corren el riesgo en verse arrastradas por subidas de tipos.
+        También afecta a aquellos que tengan una hipoteca dependiente de los tipos de interés como es la tasa del Euribor, con lo que pueden verse perjudicadas.
+        Si bien las casas dependiendo de donde estén ubicadas pueden ganar valor ante ciclos económicos buenos.<br /><br />
+
+        Otra materia es aquel que invierte su dinero en <strong>una hipoteca, ¿es realmente buen negocio?</strong><br /><br />
+
+        Dependiendo de la cuantía de la hipoteca o préstamo bancario, y de donde se haya comprado puede ser una buena opción.
+        Más si se está viviendo con anterioridad en una vivienda que no es nuestra. Muchos piensan, mejor que pagar al propietario me hago yo propietario y pago al banco y por lo menos el dinero va a la casa.
+        Esto no es del todo cierto, ya que hay que tener en cuenta la política monetaria que va a haber y si la zona donde hemos comprado va a ser más demandada en el futuro.
+        Aparte de esto habrá que añadir el interés que vayamos a pagar al banco con los años que puede llegar a superar el 100% de lo que valía la casa en un principio, (si bien el dinero habrá tenido su revalorización con el tiempo).
+        <br /><br />
+
+        Desde mi punto de vista, en España tras el pinchazo del precio de la vivienda, pocos sitios se han revalorizado por encima de lo que lo han hecho otros sectores de la economía.
+        Aunque esta subida se debe en gran medida a la depreciación exagerada de inmuebles que tienen un valor intrínseco por la zona donde están.
+        La vivienda para mí es un bien básico que todos deberíamos poder tener acceso y que hay que valorar a la hora de escoger un trabajo u no.
+        Mucha gente, peca de inocentes al pensar que el trabajo es para toda la vida, salvo que sea un puesto de funcionario. Por lo que comprar una vivienda es más un tema de inversión.<br /><br />
+
+        <img class="right_small2"  src="https://staticbl.bkmcdn.com/finanzas/wp-content/uploads/2012/03/PER1.jpg" />
+        Un punto de vista a la hora de comprar también muy determinante es comparar los precios de los alquileres con los de la compra de viviendas.
+        Si están muy desajustados a favor de la compra quizás esta sea lo adecuado aunque hay que ver hacia donde están girando.
+        Ahora mismo debido al pinchazo de la burbuja se están poniendo las cosas más a favor de la compra.
+        Si quieres pagar una hipoteca o si quieres pagar un alquiler e invertir el capital algo diferente.
+        Actualmente el precio de las casas se está revalorizando en torno a un 5% de media en las grandes ciudades.<br /><br />
+
+        Yo en el caso de realizar esta transacción importante, tendría más de la mitad preparado para pagar, y lo haría en algo que no esté sobrevalorado en momento de compra.
+        Un dato realmente interesante para saber cómo están las cosas seria comparar el IPC con el precio de la vivienda actual.
+        En el siguiente grafico podemos observar como en 2015 ya se establecio el suelo y se corrigio toda la burbuja previa.
+        <img class="horiz_big"  src="http://www.precioviviendamadrid.com/wp-content/uploads/2015/02/Evoluci%C3%B3n-precios-Espa%C3%B1a.png" /><br />
+        Si la zona donde se encuentra el entorno de trabajo no da opciones asequibles, y el precio del alquiler supera el 30% el salario quizás lo lógico es buscar un trabajo en otra zona.
+        No ver barbaridades como se han hecho en torno a Madrid, comprando inmuebles por unos valores que rozaban el salario medio de 30 años debido a que los alquileres llegaban a rondar el 80% de los sueldos.<br /><br />
+        A veces es mejor saber un poco de economía antes de trabajar, o tener sentido común, cosa que en nuestra sociedad está en declive, de ahí lo que va sucediendo.
+        Se han visto caso de gente que les salía negativo el retorno tras el trabajo, contabilizando gastos globales.<br /></p>
+
+    <h1>Conclusión</h1>
+        <p>Las empresas lo están haciendo en torno a un 20% de media en bolsa y las divisas todavía no han empezado a despegar.
+        Los bancos en estos últimos dos años han subido casi un 100% en valor en bolsa desde mínimos (tras la crisis económica del petróleo a principios de 2015).<br /><br />
+        A pesar de esa subida de 100% es cierto que hace 4 años estaban a niveles actuales, y <strong>yo estimo que dentro de 3 años se volverán a revalorizar otro 100% hasta llegar a máximos históricos</strong>.<br /><br />
+        Por lo tanto para mí la inversión más segura es tener una gran parte de cartera en acciones de bancos, aunque no a los valores actuales ya que volverán a corregir próximamente.<br />
+        Cuando <strong>el IBEX se acerque a los 10.300 puntos buen momento de entrada</strong>, 15% de retroceso de Fibonacci.</p>
+</div>
+<div id="footer">
+    <p>&copy;  Copyright 2016 - Diseñada por Sergio López Martínez                        <a href="avisolegal_es.html">Aviso Legal</a>                       CONTACTO<a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a></p>
+</div> 
+</body>
+</html>

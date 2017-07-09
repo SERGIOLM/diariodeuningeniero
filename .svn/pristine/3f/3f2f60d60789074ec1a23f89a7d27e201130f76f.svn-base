@@ -1,0 +1,164 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="subida de tipos fed 2016, analisis tras subida tipos fed" />
+	<meta name="description" content="Analisis de la subida de tipos por parte de la reserva federal de usa"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript">
+	</script>
+	<!-- SCRIPTS ADD DEGIRO. -->
+	<script>
+		/*Array con las imagenes que se iran mostrando en la web*/
+		var imagenes=new Array(
+				'http://i235.photobucket.com/albums/ee43/Sergio22/banners/degiro_vertical.png',
+				'http://i235.photobucket.com/albums/ee43/Sergio22/banners/degiro_vertical2.png'
+		);
+
+		/*Funcion para cambiar la imagen*/
+		function rotarImagenes()
+		{
+			// obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+			var index=Math.floor((Math.random()*imagenes.length));
+
+			// cambiamos la imagen
+			document.getElementById("degiro").src=imagenes[index];
+		}
+
+		/*Función que se ejecuta una vez cargada la página*/
+		onload=function()
+		{
+			// Cargamos una imagen aleatoria
+			rotarImagenes();
+
+			// Indicamos que cada 5 segundos cambie la imagen
+			setInterval(rotarImagenes,5000);
+		}
+	</script>
+	<!-- SCRIPTS REDES SOCIALES. -->
+	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://apis.google.com/js/platform.js" async defer>
+		{lang: 'es'}
+	</script>
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'es'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}}(document, 'script', 'twitter-wjs');
+	</script>
+	<script type="text/javascript">
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+				js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	<!-- SCRIPT estadisticas -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90367288-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<title>Diario de un Ingeniero - Blog - Analisis economia 2016 - Subida de tipos FED -Web Site By Sergio Lopez Design </title>
+</head>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_markets.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="segundo"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a href="aboutme_es.html"><span class="tercero"><i class="icon icon-profile"></i></span>Sobre mi</a></li>		
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+	</div>
+	<div id="langue_europe" >
+		<a><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a href="blog_eco2016_FEDrateschanges_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<a href="blog_eco2016_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-back.jpg" alt=”BACK” /></a>
+	</div>
+	<div id="social_widget" >
+		<a href="http://twitter.com/home?status=[TITLE]+[URL]"><img class="icono" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-twitter.png"></a>
+		<a href="twitter.com/home?status=[TITLE]+[URL]"><img class="icono" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-fb.png"></a>
+		<a href="whatsapp://send?text= main_blog_es.html" data-action="share/whatsapp/share"><img class="icono" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/icon-whatsapp.png"></a>
+	</div>
+	<div id="top_sidebar_blog">
+		<div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/">Diariodeuningeniero</a></blockquote></div>
+		<div class="fb-follow" data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+		<a href="https://www.degiro.es/amigo-invita-amigo/empezar-a-invertir.html?id=3OGJ8RBP&referral_name=SERGIO%20L%C3%93PEZ%20MART%C3%8DNEZ"><img class="degiro"  src="" id="degiro" alt="banner"/></a>
+		<a href="https://transferwise.com/u/1bbfd"><img  src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/transferwise.jpg"  alt="transferwise"/></a>
+	</div>
+	<div id="content-pre-blog">
+		<h1 style="color:saddlebrown;   -webkit-text-fill-color: white;-webkit-text-stroke-color: black;-webkit-text-stroke-width: 1px; font-size:32px;  text-align: center;">Subida tipos de la FED</h1>
+		<br /><br /><br />
+	</div>
+
+	<div id="content">
+		<h1>Proyección política monetaria BCE y FED 2017</h1>
+		<img class="right_small2" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_evo_rate_interests.jpg" alt=”evo_rate_interests” />
+		<p>En diciembre del año 2015 contemplamos la primera subida de tipos de USA en 10 años. Fue una subida mínima pero llevaba un mensaje muy potente en su interior, el del fin de un ciclo.
+		En el gráfico de la derecha se pude ver la evolución de los tipos de las 3 divisas más fuertes del mundo, el dolar, el euro y la libra.
+		Se aprecia como el euro siempre va por detras de los cambios de la divisa estadounidense, como 2 años retrasadas.
+		Ya que el mercado europeo el úlitmo siglo ha estado subordinado a lo que pasa en Estados Unidos, siempre a la par.
+		Por eso aunque la medida no nos afecta siempre se puede ver hacia donde iremos nosotros en cuestión de tiempo.<br /><br />
+
+		Debido al crecimiento de la economía estadounidense era casi obligatorio esa subida, incluso se pudo hacer antes pero por precaución se pospuso.
+		Venía de la mano de la predicción <strong>de dos a tres subidas este año</strong>.
+		Sin embargo<strong> sólo se ha realizado una subida este año debido a la inestabilidad global con todo lo sucedido en el Brexit sobre todo y la incertidumbre de las elecciones americanas</strong>.<br /><br />
+
+		Una subida prematura sin saber el resultado del Brexit podría haber disparado el dólar contra el euro de una manera desproporcionada y haber aumentado la volatilidad de los mercados.
+		Esto <strong>no es lo que le gusta al mercado así que se pospuso</strong>.<br /><br />
+
+		Así pues en <strong>diciembre de este año Yellen</strong>, la presidenta de la FED, anuncio el<strong> incremento de otro 0.25% en los tipos</strong> y remarco que <strong>el año que viene habrá 3 subidas</strong>.
+		Estas 3 subidas no eran esperada por el mercado y no se había descontado lo que hizo subir el dólar todavía más.
+		También se notó en el mercado del metal dorado y de la plata, bajando su valor entorno a un 4% en apenas 2 días. <br />
+		En la gráfica podemos ver la contraposición del índice dolar con respecto al oro en el momento del anuncio.<br />
+		<img class="horiz_big" src="http://i235.photobucket.com/albums/ee43/Sergio22/eco/eco_FED_DolarVsOro_30m.jpg" alt=”FED_DolarVsOro_30m” /><br />
+
+		Las <strong>más damnificadas fueron las grandes compañías mineras de oro</strong> como Barrick Gold, Kinross Co, GoldCorp, Alamos GLD, u otras más pequeñas que llegaron a perder un 10% en dos días.
+		Los bancos en cambio reaccionaron al alza. En los grandes índices estos cambios apenas se notaron ya que estaba descontado desde hace tiempo.
+
+		Pronostico que el año que viene habrá tres subidas y una de ellas, posiblemente la última, sea de medio punto con lo que <strong>se subirá un punto en total en 2017</strong>.</p>
+	</div>
+	<div id="footer2">
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_s-xclick">
+			<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+			<input type="image" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/paypal_donation.jpg"  name="submit" alt="PayPal - The safer, easier way to pay online!" height="30px" width="120px" align="center">
+		</form>
+	</div> 
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio Lopez Martinez                                    CONTACTO<a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

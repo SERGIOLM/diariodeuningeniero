@@ -1,0 +1,131 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_emprender.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Contactar diario de un ingeniero" />
+	<meta name="description" content="Contacto con el autor de diario de un ingeniero"/>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<title>Diario de un Ingeniero - Contacto -- Web Site By Sergio Lopez Design</title>
+</head>
+<style type="text/css">
+/* Centre the form within the page */
+	form {		margin:0 auto;		width:459px;	}
+
+	/* Style the text boxes */
+	input, textarea {
+		width:500px;
+		height:27px;
+		background:#efefef;
+		border:1px solid #dedede;
+		padding:10px;
+		margin-top:3px;
+		font-size:0.9em;
+		color:#3a3a3a;
+	}
+input:focus, textarea:focus {
+	border:1px solid #97d6eb;
+}
+
+label {
+	display:block;
+	margin-top:1px;
+	letter-spacing:2px;
+}
+	textarea {
+	height:213px;
+	background:url(images/textarea-bg.jpg) right no-repeat #efefef;
+	}
+</style>
+
+<!-- SCRIPTS REDES SOCIALES. -->
+<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+<script src="https://apis.google.com/js/platform.js" async defer>
+	{lang: 'es'}
+</script>
+<script type="text/javascript">
+	window.___gcfg = {lang: 'es'};
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/platform.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+<script>
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}}(document, 'script', 'twitter-wjs');
+</script>
+<script type="text/javascript">
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){js=d.createElement(s);
+			js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+
+<body style="background: url('http://i235.photobucket.com/albums/ee43/Sergio22/banners/fondo_blog1.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="tercero"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a>Sobre mi</a></li>		
+			</ul>
+		</div>
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+
+
+	</div>		
+	<div id="wrapper3">		
+		<div id="topnav">
+			<ul>
+				<li><a href="guada_provincia_en.html"><span class="primero"><i class="icon icon-facebook2"></i></span><i class="icon icon-facebook"></i></a></li>
+				<li><a href="guada_provincia_en.html"><span class="segundo"><i class="icon icon-google2"></i></span><i class="icon icon-google"></i></a></li>
+				<li><a href="guada_provincia_en.html"><span class="tercero"><i class="icon icon-linkedin2"></i></span><i class="icon icon-linkedin"></i></a></li>
+				<li><a href="guada_provincia_en.html"><span class="cuarto"><i class="icon icon-mail3"></i></span><i class="icon icon-mail2"></i></a></li>
+			</ul>
+			<br/><br/><br/><br/><br/><img class=blog_banner2" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/about_me.jpg" border="0" alt=" photo sobre_mi.jpg"/>
+		</div>
+	</div>
+	<div id="langue2">
+		<a><img  class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a href="contactme_en.html"><img class="flag" src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<!--<a href="aboutme_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>-->
+	</div>
+	<div id="top_sidebar_blog">
+		<iframe src="http://widgetsplus.com:8080/88122.htm" width="160" height="420" style="padding:0; margin:0; overflow:hidden;" frameborder="0"></iframe>
+		<iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo urlencode(get_permalink($post->ID)); ?>&layout=standard&show_faces=false&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:25px"></iframe>
+		<a href="https://twitter.com/diariodesergi" class="twitter-follow-button" data-show-count="false">Follow @diariodesergi</a>
+	</div>
+	<div id="content">
+		<br/>
+		<p>Si quieres ponerte en contacto con el autor y mandar alguna anotación, sugerencia o crítica :</p>
+		<form>
+
+			<p>Nombre</p>
+			<input name="Nombre" placeholder="Escribe aquí">
+
+			<p>Mail</p>
+			<input name="email" type="email" placeholder="Escribe aquí">
+
+			<p>Mensaje</p>
+			<textarea name="Mensaje" placeholder="Escribe aquí"></textarea>
+
+
+			<input id="submit" name="submit" type="submit" onclick="this.disabled=true; this.value='ESPERA SENTADO...';"    value="Submit">
+
+		</form>
+	</div>
+	<div id="leftside">
+	</div>
+	<div id="footer">
+		<p>&copy;  Copyright 2016 - Designed by Sergio Lopez Martinez                                                 CONTACTO <a href="contactme_es.html"><span class="primero"><i class="icon icon-mail2"></i></span></a><a href="guada_provincia_es.html"></a></p>
+	</div> 
+</body>
+</html>

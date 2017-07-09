@@ -1,0 +1,115 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_guada.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diario de un ingeniero, conocer Guadalajara, historia de Guadalajara, Guadalajara en España" />
+	<meta name="description" content="Pagina principal de conoce guadalajara, historia de una ciudad"/>	
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<script>
+    /*Array con las imagenes que se iran mostrando en la web*/
+    var imagenes=new Array(
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_sepia.png',
+        'http://i235.photobucket.com/albums/ee43/Sergio22/banners/banner_guada_bn.png'       
+    );
+    /*Funcion para cambiar la imagen*/
+    function rotarImagenes()
+    {
+        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+        var index=Math.floor((Math.random()*imagenes.length));
+ 
+        // cambiamos la imagen
+        document.getElementById("imagen").src=imagenes[index];
+    } 
+    /*Función que se ejecuta una vez cargada la página*/
+    onload=function()
+    {
+        // Cargamos una imagen aleatoria
+        rotarImagenes();
+ 
+        // Indicamos que cada 5 segundos cambie la imagen
+        setInterval(rotarImagenes,5000);
+    }
+	</script>
+	<title>Diario de un Ingeniero - Conoce mi ciudad - Historia - Web Site By Sergio Lopez Design </title>
+</head>
+
+
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon address-book"></i></span>Diario de un Ingeniero</a></li>
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a>Conoce mi ciudad</a></li>
+				<li><a href="aboutme_es.html"><span class="cuarto"><i class="icon icon-profile"></i></span>Sobre mi</a></li>
+			</ul>
+		</div>
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+	</div>
+	<div id="wrapper2">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_guadalajara_es.html"><span class="primero"><i class="icon icon-home"></i></span>INICIO</a></li>
+				<li><a href="guada_provincia_es.html"><span class="segundo"><i class="icon icon-earth"></i></span>Provincia</a></li>
+				<li><a href="guada_historia_es.html"><span class="tercero"><i class="icon icon-bookmarks"></i></span>Historia</a>
+					<ul>
+						<li><a href="guada_historia_I_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Origen sI-XIV</a></li>
+						<li><a href="guada_historia_II_es.html"><span class="segundo"><i class="icon icon-paste"></i></span>Apogeo s.XIV-XVI</a></li>
+						<li><a href="guada_historia_III_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Declive s.XVII-XIX</a></li>
+						<li><a href="guada_historia_IV_es.html"><span class="segundo"><i class="icon icon-paste"></i></span>Resurgir s.XX</a></li>
+						<li><a href="guada_historia_V_es.html"><span class="tercero"><i class="icon icon-paste"></i></span>Hoy s.XXI</a></li>
+					</ul></li>
+				<li><a href="guada_senderismo_es.html"><span class="cuarto"><i class="icon icon-road"></i></span>Senderismo</a></li>
+				<li><a href="guada_gastronomia_es.html"><span class="quinto"><i class="icon icon-spoon-knife"></i></span>Gastronomia</a></li>
+				<li><a href="main_es.html"><span class="noveno"><i class="icon icon-exit"></i></span>Salir</a></li>
+			</ul>
+		</div>
+		<div id="banner">
+			<img class="banner" src="" id="imagen"alt="banner"/><br />							
+			<a href="guada_historia_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>	
+			<a href="guada_historia_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>	
+			<!--<a href="guada_historia_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				-->
+		</div>	
+	</div>
+	<div id="content">
+		<p>En este apartado pasare a hacer repaso en la historia y fisionomía de una ciudad que a todos los españoles nos suena familiar pero que poca gente ha recorrido.</p>
+		<ul>
+			<li><a href="guada_historia_I_es.html">Origen sI-XIV</a><br />
+				Hago un recorrido histórico desde el nacimiento de la ciudad, el primer asentamiento romano y como evoluciono con la conquista de los árabes.
+			</li>
+			<li><a href="guada_historia_II_es.html">Apogeo s.XIV-XVI</a>
+				La época dorada de Guadalajara donde gobernaban la ciudad los Duques del Infantado. Una dinastía larga que tiene su origen en la ayuda de un Diego Hurtado
+				de Mendoza. Un noble castellano que hizo una notable labor en la lucha contra los árabes, estando en la batalla de Aljubarrota de la mano del rey Juan I de castilla.
+				Fue nombrado almirante de castilla y primer miembro del linaje de los Mendoza que obtendrá el título de duques del infantado con los Reyes Católicos, siendo el inicio de la época gloriosa de la ciudad.
+			</li>
+			<li><a href="guada_historia_III_es.html">Declive s.XVII-XIX</a><br />
+				En este capitulo repaso el advenimiento de la peor época de Guadalajara, donde el despoblamiento y la huida de los nobles alcarreños a la capital, Madrid, propicio el abandono de la ciudad y de la mayoría de los palacios. Así como numerosas guerras que hicieron meya en el patrimonio artístico monumental de Guadalajara.
+			</li>
+			<li><a href="guada_historia_IV_es.html">Resurgir s.XX</a>
+				A partir del siglo XIX la ciudad fue adquiriendo cierto vigor de épocas pasadas. Repaso la evolución desde esas fechas pasando por la guerra civil española donde
+				otra vez más la mala suerte jugo una mala pasada a Guadalajara, perdiendo numerosos edificios y llegando incluso a incendiar el símbolo de la ciudad, el Palacio del Infantado.
+			</li>
+			<li><a href="guada_historia_V_es.html">Hoy s.XXI</a>
+				En este último apartado hablo de la ciudad de Guadalajara del presente actual donde gracias a las instituciones se ha modernizado la ciudad y se le ha dotado de infraestructuras que muchas ciudades gustarían poseer. Guadalajara va de la mano de la vanguardia siendo una de las pocas ciudades que crea más riqueza de la que destruye, teniendo en los últimos años superávit pese a haber como en otras ciudades algunas obras de dudosa procedencia, pero siendo muchísimo menores los casos que la mayor parte de ciudades del panorama español.
+				Además cuenta con muy buenos clubes deportivos y patrocinio a estos eventos siendo a mi entender excelente en comparación con la población que cuenta.
+			</li>
+		</ul>
+
+	</div>	
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+		</div> 
+</body>
+
+</html>
+

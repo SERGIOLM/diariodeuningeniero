@@ -1,0 +1,68 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="favicons/favicon_emprender.png" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Diario de un ingeniero, sobre el autor de diario" />
+	<meta name="description" content="Biografia del autor"/>	
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
+	<title>Diario de un Ingeniero - Sobre mi -- Web Site By Sergio Lopez Design</title>
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="topnav">
+			<ul>
+				<li><a href="main_blog_es.html"><span class="primero"><i class="icon icon-paste"></i></span>Diario de un Ingeniero</a></li>	
+				<li><a href="main_es.html"><span class="segundo"><i class="icon icon-airplane"></i></span>Trabajar fuera</a></li>
+				<li><a href="main_guadalajara_es.html"><span class="tercero"><i class="icon icon-office"></i></span>Conoce mi ciudad</a></li>	
+				<li><a>Sobre mi</a></li>		
+			</ul>
+		</div>	
+
+		<div id="logo">
+			<img   class="logo" src="http://i235.photobucket.com/albums/ee43/Sergio22/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+		</div>
+		<div id="social-media">
+		</div>
+
+	</div>		
+	<div id="wrapper3">		
+		<div id="topnav">
+			<ul>
+				<li><a href="guada_provincia_es.html"><span class="primero"><i class="icon icon-facebook2"></i></span><i class="icon icon-facebook"></i></a></li>	
+				<li><a href="guada_provincia_es.html"><span class="segundo"><i class="icon icon-google2"></i></span><i class="icon icon-google"></i></a></li>
+				<li><a href="guada_provincia_es.html"><span class="tercero"><i class="icon icon-linkedin2"></i></span><i class="icon icon-linkedin"></i></a></li>
+				<li><a href="guada_provincia_es.html"><span class="cuarto"><i class="icon icon-mail3"></i></span><i class="icon icon-mail2"></i></a></li>															
+	
+			</ul>
+		</div>						
+		<div id="banner">
+			<br /><br /><br /><br /><a href="aboutme_es.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/spa.jpg" alt=”ESP_LANGUAGUE” /></a>	
+			<a href="aboutme_en.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/eng.jpg" alt=”ENG_LANGUAGUE” /></a>	
+			<a href="aboutme_fr.html"><img src="http://i235.photobucket.com/albums/ee43/Sergio22/icons/fr.jpg" alt=”FR_LANGUAGUE” /></a>				
+		</div>	
+	</div>	
+	<div id="content">
+		<h1>Sergio López Martínez</h1>
+		<p>	Nacido en Madrid en el año 1985, ha vivido gran parte de su vida en Guadalajara, ciudad que conoce a la perfección.
+		Estudio en el colegio público Alcarria y mas tarde en el instituo público Liceo Caracense del cual se habla en este sitio web en la seccion de Guadalajara, ya que es un edificio con mucha historia.<br /><br />
+		En el año 2003 estudio en la Universidad de Alcala, Ingeniería Tecnica de Telecomunicaciones en Sistemas Electronicos y seguidamente el Máster Oficial en Sistemas Electrónicos Avanzados finalizando en el año 2011.
+		Trabajó a en la Universidad de Alcala durante una año y medio gracias a la obtención de una beca de formación y tambien como personal investigador en el último año del Master.<br /><br />
+		
+		En el año 2011 comenzo su viaje por Europa primero en el sur de Francia, viviendo en Toulouse casi 1 año y más tarde en el sur de Inglaterra donde estuvo viviendo en Londres durante 8 meses y en otras partes de Inglaterra trabajando en 
+		una compañia conocida como es Nokia Networks, realizando labores analíticas sobre sw de las BTSs y adaptando nuevo SW con la inclusión de nuevos módulos.
+		
+		En 2015 se paso un año colaborando para Indra Sistemas, empresa Española en estado de restructuración debido a diferentes errores de gestión.
+		
+		</p>		 
+	</div>
+	<div id="rightside">
+	</div>
+	<div id="footer">
+		<p>&copy;Copyright 2016 Sergio Lopez Martinez</p>
+	</div> 
+</body>
+</html>
