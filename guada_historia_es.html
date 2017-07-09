@@ -10,29 +10,29 @@
 	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
 	<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">	
 	<script>
-    /*Array con las imagenes que se iran mostrando en la web*/
-    var imagenes=new Array(
-        'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/banner_guada_sepia.png',
-        'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/banner_guada_bn.png'
-    );
-    /*Funcion para cambiar la imagen*/
-    function rotarImagenes()
-    {
-        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
-        var index=Math.floor((Math.random()*imagenes.length));
- 
-        // cambiamos la imagen
-        document.getElementById("imagen").src=imagenes[index];
-    } 
-    /*Función que se ejecuta una vez cargada la página*/
-    onload=function()
-    {
-        // Cargamos una imagen aleatoria
-        rotarImagenes();
- 
-        // Indicamos que cada 5 segundos cambie la imagen
-        setInterval(rotarImagenes,5000);
-    }
+		/*Array con las imagenes que se iran mostrando en la web*/
+		var imagenes=new Array(
+			'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/banner_guada_sepia.png',
+			'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/banner_guada_bn.png'
+		);
+		/*Funcion para cambiar la imagen*/
+		function rotarImagenes()
+		{
+			// obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+			var index=Math.floor((Math.random()*imagenes.length));
+
+			// cambiamos la imagen
+			document.getElementById("imagen").src=imagenes[index];
+		}
+		/*Función que se ejecuta una vez cargada la página*/
+		onload=function()
+		{
+			// Cargamos una imagen aleatoria
+			rotarImagenes();
+
+			// Indicamos que cada 5 segundos cambie la imagen
+			setInterval(rotarImagenes,5000);
+		}
 	</script>
 	<!-- SCRIPTS REDES SOCIALES. -->
 	<!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
