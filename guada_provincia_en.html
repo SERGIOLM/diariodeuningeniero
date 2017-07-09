@@ -15,10 +15,10 @@
 		var rain_act=0;
 		/*Array con las imagenes que se iran mostrando en la web*/
 		var imagenes=new Array(
-			'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/banner_guada_original.png',
-			'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/banner_guada_flash.png',
-			'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/banner_guada_poster.png',
-			'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/banner_guada_mosaico.png'
+			'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/banner_guada_original.png',
+			'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/banner_guada_flash.png',
+			'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/banner_guada_poster.png',
+			'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/banner_guada_mosaico.png'
 		);
 		/*Funcion para cambiar la imagen*/
 		function change_imagen( id )
@@ -26,16 +26,16 @@
 			if(id=='guada_provincia') rain_act=0;
 
 			if(rain_act==0)	{
-			$( '#guada' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/' + id + '.png');
+			$( '#guada' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/' + id + '.png');
 			if(id=='guada_rain') rain_act=1;		}
 
 			else{
 			if(id=='guada_rain') id='guada';
-			$( '#guada' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/' + id + 'Rain.png');	}
+			$( '#guada' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/' + id + 'Rain.png');	}
 		}
 		function hide_imagen()
 		{
-			$( '#guada' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/comarcas_guada.png');
+			$( '#guada' ).attr( 'src', 'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/comarcas_guada.png');
 		}
 
 		function rotarImagenes()
@@ -60,19 +60,19 @@
 			});
 		}
 		cargar_imagenes([
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/comarcas_guada.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/guada_provincia.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/Alcarria.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/Campina.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/Serrania.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/AltoTajo.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/SenorioMolina.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/guada_rain.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/AlcarriaRain.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/CampinaRain.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/SerraniaRain.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/AltoTajoRain.png',
-				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/SenorioMolinaRain.png'
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/comarcas_guada.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/guada_provincia.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/Alcarria.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/Campina.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/Serrania.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/AltoTajo.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/SenorioMolina.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/guada_rain.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/AlcarriaRain.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/CampinaRain.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/SerraniaRain.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/AltoTajoRain.png',
+				'https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/SenorioMolinaRain.png'
 		]);
 	</script>
 	<!-- SCRIPTS REDES SOCIALES. -->
@@ -121,7 +121,7 @@
 	</script>
 </head>
 
-<body 	style="background: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/fondo_gu_meseta.jpg') no-repeat center center fixed;
+<body 	style="background: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/fondo_gu_meseta.jpg') no-repeat center center fixed;
 -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;">
 	<div id="wrapper">
 		<div id="topnav">
@@ -138,7 +138,7 @@
 			</ul>
 		</div>
 		<div id="logo">
-			<img   class="logo" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
+			<img   class="logo" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/LOGO_diariodeuningeniero.png" alt=”Logo” />
 		</div>
 	</div>		
 	<div id="wrapper2">		
@@ -165,17 +165,17 @@
 		</div>	
 	</div>
 	<div id="langue">
-		<a href="guada_provincia_es.html"><img class="flag" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
-		<a><img class="flag" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
+		<a href="guada_provincia_es.html"><img class="flag" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/icons/sp.jpg" alt=”ESP_LANGUAGUE” /></a>
+		<a><img class="flag" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/icons/en0.jpg" alt=”ENG_LANGUAGUE” /></a>
 	</div>
 	<div id="social_widget_s" >
 		<div class="fb-send" data-href="www.diariodeuningeniero.com/guada_provincia_en.html"></div>
-		<a href="http://twitter.com/home?status=Region of Guadalajara+www.diariodeuningeniero.com/guada_provincia_en.html"><img class="icono_s" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-twitter.png"></a>
-		<a href="whatsapp://send?text= www.diariodeuningeniero.com/guada_provincia_en.html" data-text="Region of Guadalajara-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono_s" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/icons/icon-whatsapp.png"></a>
+		<a href="http://twitter.com/home?status=Region of Guadalajara+www.diariodeuningeniero.com/guada_provincia_en.html"><img class="icono_s" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/icons/icon-twitter.png"></a>
+		<a href="whatsapp://send?text= www.diariodeuningeniero.com/guada_provincia_en.html" data-text="Region of Guadalajara-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono_s" src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/icons/icon-whatsapp.png"></a>
 	</div>
 
 	<div id="pre-content">
-		<img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/provincia/comarcas_guada.png"   id="guada"   alt="" usemap="#Guada_Map">
+		<img src="https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/provincia/comarcas_guada.png"   id="guada"   alt="" usemap="#Guada_Map">
 
 		<map name="Guada_Map">
 			<area  onmouseover="change_imagen('Alcarria')" onmouseout="hide_imagen('Alcarria')"  shape="poly" alt="" coords="235,695, 120,695, 120,582, 120,469, 129,469, 137,467, 141,470, 147,469, 155,477, 163,485, 160,498, 160,514, 161,529, 181,531, 186,541, 190,552, 185,561, 182,572, 185,582, 180,591, 173,598, 168,606, 167,617, 167,627, 164,631, 162,636, 163,643, 169,647, 182,630, 199,618, 203,624, 204,633,

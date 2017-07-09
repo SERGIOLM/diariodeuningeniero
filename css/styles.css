@@ -320,7 +320,7 @@ code, pre		{ background-color:#FF9; padding: 2px 0px; margin: 4px 25px;
     z-index: 1;
     opacity: 0.6;
 	background-color: transparent;
-    background-image: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/guada/gastronomia/Guada_map.png');
+    background-image: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/guada/gastronomia/Guada_map.png');
     background-repeat: no-repeat;
 	}		
 #content h1		{ margin: 20px 0 20px 0; font-size:32px; border-bottom:1px  #cccccc solid;}
@@ -336,7 +336,7 @@ code, pre		{ background-color:#FF9; padding: 2px 0px; margin: 4px 25px;
 #submit {
 	width:127px;
 	height:38px;
-	background:url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/submit_button2.png');
+	background:url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/submit_button2.png');
 	text-indent:-9999px;
 	border:none;
 	margin-top:20px;
@@ -351,15 +351,15 @@ code, pre		{ background-color:#FF9; padding: 2px 0px; margin: 4px 25px;
 #top_sidebar_blog{ opacity:0.9; float:right;width :14.5%; padding: 9px;   position: relative; right: 120px; top: -10px; background-color: black; border-style: ridge; padding-bottom:2%; 			}
 
 #top_sidebar_gu_region{ float:right;width :14.5%; padding: 5px;   position: relative; right: 110px; top: -10px; background-color: transparent; border-style: ridge; padding-bottom:2%;
-	background-image: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/sidebar_region.png'); 	}
+	background-image: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/sidebar_region.png'); 	}
 
 #top_sidebar_gu_ciudad{ float:right;width :14.5%; padding: 5px;   position: relative; right: 110px; top: -30px; background-color: burlywood; border-style: ridge; padding-bottom:1%;
-	background-image: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/sidebar_guada.png'); 	}
+	background-image: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/sidebar_guada.png'); 	}
 
 #top_sidebar_london{ float:right;width :15.5%; padding: 5px;   position: relative; right: 110px; top: -40px; background-color: transparent; border-style: ridge; padding-bottom:3%;
-	background-image: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/sidebar_london.png'); 	}
+	background-image: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/sidebar_london.png'); 	}
 #top_sidebar_paris{ float:right;width :14.5%; padding: 5px;   position: relative; right: 110px; top: -40px; background-color: transparent; border-style: ridge; padding-bottom:0%;
-	background-image: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/gh-pages/imgs/banners/sidebar_paris.png'); 	}
+	background-image: url('https://raw.githubusercontent.com/SERGIOLM/diariodeuningeniero/master/imgs/banners/sidebar_paris.png'); 	}
 
 
 
