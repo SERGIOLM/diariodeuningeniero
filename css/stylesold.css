@@ -92,16 +92,16 @@ img.tourism_fr		{ width:40%; height:400px; float: right; position:relative; top:
 img.tourism_uk		{ width:55%; height:530px; float: right; position:relative; top:20px;}
 img.meseta_small { width: 44%; float: right;	}
 
-img.right_small { width: 30%; float: right;	}
-img.right_small2 { width: 400px; height:250px; float : right;	}
+img.right_s { width: 30%; float: right;	}
+img.right_s { width: 400px; height:250px; float : right;	}
 img.right_medium{ width: 45%; float : right; }
 img.right_big{ width: 60%; float : right;	}
 
 
 img.horiz_map   { width: 800px;  left:5%;position:relative; }
 img.horiz_slides{ width: 900px; height: 500px;position: relative;alignment-adjust:middle;float: none; background-color: transparent;  }
-img.horiz_big	{ width: 800px; float : none;}
-img.horiz_big2	{ width: 700px; height:450px; float : none;	left:5%; }
+img.center_l	{ width: 800px; float : none;}
+img.center_l2	{ width: 700px; height:450px; float : none;	left:5%; }
 img.blog_banner	{ width: 830px; height:100px; position:relative; right:20px	}
 img.blog_banner2	{ width: 800px; height:10%; position:relative; right:20px; 	}
 
