@@ -1,16 +1,14 @@
 
 /* Global */
 html  { }
-body  {overflow-x: hidden; 
+body  {  }
 
-}
+h1,h2,h3,h4 { margin-bottom: .5rem; display: block}
+
   /* Tables */
 table, tr, th, td,  { margin: 20px; padding: 20px;
   border: 10px; border-collapse: collapse; border-spacing: 0; vertical-align: baseline; background: transparent;
   font-family: verdana, sans-serif; font-size:100%;      }
-
-
-
 
 table       {  width:100%; }
 table .p    {  background-color:green;    }
@@ -20,6 +18,42 @@ tr        { }
 .even     { background-color: #fff;     }
 th        { font-weight:      bold;     }
 thead, th { background-color: #ccc; }
+
+  /* WIKILOC MAPS */
+
+.ekko-lightbox-container{
+  max-width:  400px;
+  height: 200px;  
+}
+/*.modal-dialog{
+  max-width:  400px;
+  height: 200px;
+}
+
+.ekko-lightbox-item fade in show{
+    max-width:  400px;
+    height: 200px;  
+}
+
+.modal-megamenu {
+    width:40%;
+    height:80%;
+}*/
+
+.modal-body {
+    max-width:  400px;
+    max-height:200px;
+    overflow:auto;
+}
+/*
+.ekko-lightbox.modal.fade.in div.modal-dialog{
+max-width:20%;
+}
+.mfp-iframe-holder .mfp-iframe-holder .mfp-content {
+line-height: 0;
+width: 100%;
+max-width: 90% !important;
+}*/
 
   /* Images */
 
