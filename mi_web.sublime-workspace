@@ -7,6 +7,13 @@
 	},
 	"buffers":
 	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -69,6 +76,17 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_tourism_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_tourism_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_alarilla_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_provincia_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_senderismo_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_pietajo_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_ocejon_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_mesa_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_altotajo_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_hundido_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_aguila_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_banks_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transport_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_transport_es.html",
@@ -88,7 +106,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/css/style_s.css",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_alarilla_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_social_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_telecoms_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags/emprender/select_menu/England.png",
@@ -138,8 +155,36 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -220,7 +265,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 50.0,
+	"side_bar_width": 228.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
