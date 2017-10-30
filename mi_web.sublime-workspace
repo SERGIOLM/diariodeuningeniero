@@ -8,10 +8,19 @@
 	"buffers":
 	[
 		{
-			"file": "avisolegal_es.html",
+			"file": "blog_01_en.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 41624,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog_01_es.html",
+			"settings":
+			{
+				"buffer_size": 41951,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -78,6 +87,18 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_best_inverter_keys_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_why_not_banks_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_trescantos_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_stratford_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_firsttrip_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_london_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_blog_info_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_es_backspain_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_banks_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/avisolegal_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_provincia_es.html",
 		"/C/Users/Sergio/Documents/repository - copia/guada_gastronomia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_gastronomia_es.html",
@@ -101,7 +122,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_altotajo_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_hundido_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_aguila_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_banks_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transport_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_transport_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_work_es.html",
@@ -118,13 +138,11 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_health_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_toulouse_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_social_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_telecoms_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags/emprender/select_menu/England.png",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_health_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_transfer_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_es_backspain_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_fr_toulouse_es.html",
 		"/C/Users/Sergio/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
 		"/C/Users/Sergio/AppData/Roaming/Sublime Text 3/Packages/User/openinbrowser.sublime-settings"
@@ -135,9 +153,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 104.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -145,6 +164,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"p>",
+			"<a class=\"nav-link\" href=\"#\">Mi Blog<span class=\"sr-only\">(current)</span></a>",
+			"blog",
 			"guada_back",
 			"Guada_Map",
 			"3D",
@@ -161,6 +183,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"<a class=\"nav-link\" href=\"blog_01_es.html\">Mi Blog</a>"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -176,11 +199,41 @@
 			[
 				{
 					"buffer": 0,
-					"file": "avisolegal_es.html",
+					"file": "blog_01_en.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 41624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14114,
+								14114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog_01_es.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41951,
 						"regions":
 						{
 						},
@@ -198,10 +251,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1.0,
+						"translation.y": 3534.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -284,7 +337,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 265.0,
+	"side_bar_width": 121.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
