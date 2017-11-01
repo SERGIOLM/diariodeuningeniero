@@ -8,19 +8,28 @@
 	"buffers":
 	[
 		{
-			"file": "blog_01_en.html",
+			"file": "blog17_es_canarias_es.html",
 			"settings":
 			{
-				"buffer_size": 41624,
+				"buffer_size": 32107,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "blog_01_es.html",
+			"file": "css/style_s.css",
 			"settings":
 			{
-				"buffer_size": 41951,
+				"buffer_size": 7439,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog17_es_trescantos_es.html",
+			"settings":
+			{
+				"buffer_size": 22284,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -76,6 +85,7 @@
 	[
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/css",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/css/demo-files",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags/emprender",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags/emprender/select_menu",
@@ -87,65 +97,134 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/css/styles.css",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_trescantos_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_idiom_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_toulouse_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/css/style_s.css",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_idiom_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_house_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_fleet_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_brexit_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_FEDrateschanges_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_itareferendum_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_petrol_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_UEbankproblems_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_usaelections_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_year_review_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_best_inverter_keys_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_why_not_banks_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_trescantos_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_stratford_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_firsttrip_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_london_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_blog_info_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_es_backspain_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_banks_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/avisolegal_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_provincia_es.html",
-		"/C/Users/Sergio/Documents/repository - copia/guada_gastronomia_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_gastronomia_es.html",
-		"/C/Users/Sergio/Documents/repository - copia/guada_ciudad_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_year_review_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_01_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_ciudad_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_gastronomia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_1_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_i_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_5_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_historia_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/css/style_s.css",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_4_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_2_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_tourism_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_tourism_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_3_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_4_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_5_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_i_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_provincia_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_aguila_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_alarilla_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_senderismo_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_pietajo_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_ocejon_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_mesa_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_altotajo_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_hundido_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_aguila_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transport_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_transport_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_work_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_markets_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_idiom_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_idiom_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_country_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_house_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_house_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_work_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_social_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_health_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_toulouse_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_mesa_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_ocejon_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_pietajo_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_senderismo_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_banks_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_paris_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_health_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_markets_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_social_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_telecoms_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_tourism_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transfer_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transport_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_work_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_banks_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_country_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_country_london_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_health_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_house_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_markets_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_social_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_telecoms_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags/emprender/select_menu/England.png",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_health_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_tourism_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_transfer_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_fr_toulouse_es.html",
-		"/C/Users/Sergio/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
-		"/C/Users/Sergio/AppData/Roaming/Sublime Text 3/Packages/User/openinbrowser.sublime-settings"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_transport_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_work_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/aboutme_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog16_fr_toulouse_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog16_uk_fleet_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog16_uk_stratford_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog17_es_canarias_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog17_es_firsttrip_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog17_es_trescantos_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog_01_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco16_brexit_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco16_FEDrateschanges_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco16_itareferendum_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco16_petrol_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco16_UEbankproblems_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco16_usaelections_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco16_year_review_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco17_best_inverter_keys_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco17_why_not_banks_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco17_year_review_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco_01_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_ciudad_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_gastronomia_es .html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_h_1_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_h_2_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_h_3_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_h_4_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_provincia_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_s_aguila_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_s_alarilla_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_s_altotajo_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_s_hundido_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_s_mesa_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_s_ocejon_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_s_pietajo_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_senderismo_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/index.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_fr_banks_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_fr_country_paris_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_fr_house_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_fr_idiom_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_fr_markets_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_fr_social_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_fr_telecoms_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_fr_tourism_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_fr_transfer_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_banks_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_country_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_country_london_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_health_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_house_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_idiom_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_markets_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_social_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_telecoms_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_tourism_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_transfer_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_transport_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_stratford_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_canarias_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_firsttrip_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/aboutme_es.html"
 	],
 	"find":
 	{
@@ -164,6 +243,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"                        <h6 class=\"heading7\">ULTIMOS POSTS</h6>",
 			"p>",
 			"<a class=\"nav-link\" href=\"#\">Mi Blog<span class=\"sr-only\">(current)</span></a>",
 			"blog",
@@ -183,6 +263,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"                        <h6 class=\"heading7\">ULTIMOS POSTS</h6>\n                        <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>    ",
+			"                        <h6 class=\"heading7\">ULTIMOS POSTS</h6>\n                          <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>  ",
 			"<a class=\"nav-link\" href=\"blog_01_es.html\">Mi Blog</a>"
 		],
 		"reverse": false,
@@ -199,29 +281,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "blog_01_en.html",
+					"file": "blog17_es_canarias_es.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 41624,
+						"buffer_size": 32107,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14114,
-								14114
+								18427,
+								18427
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 4180.0,
+						"translation.y": 4073.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -229,19 +309,49 @@
 				},
 				{
 					"buffer": 1,
-					"file": "blog_01_es.html",
+					"file": "css/style_s.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 41951,
+						"buffer_size": 7439,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1764,
+								1764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "blog17_es_trescantos_es.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6243,
+								6140
 							]
 						],
 						"settings":
@@ -251,10 +361,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3534.0,
+						"translation.y": 1197.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -337,7 +447,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 121.0,
+	"side_bar_width": 293.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
