@@ -64,12 +64,12 @@ img.logo_s        { max-height:50px; border:0; float:right;}
 
 img.left_xs  { max-width: 250px; max-height: 120px; float: left; margin: 5px; }
 img.right_xs  { max-width: 400px; max-height: 150px; float: right; margin: 10px; }
-img.right_s  { max-width:  400px; max-height: 250px; float: right; margin: 10px;	}
-img.right_l  { max-height: 600px; float: right; margin: 10px; }
+img.right_s  { max-width:  400px; max-height:300px;  float: right; margin: 10px;	}
+img.right_l  { max-height: 400px; float: right; margin: 10px; }
 
 img.central_m      { max-width: 300px; height: auto; margin: 10px; horiz-align: center;}
 
-img.central_l	{ max-width: 900px; max-height:500px; margin: 10px; float:center; }
+img.central_l	{ width:auto; max-height:500px; margin: 10px; horiz-align: center; }
 
 
 .card_h{
@@ -239,7 +239,7 @@ img.portada      { max-height:200px; border:0; }
   }*/
 
   .sidebar-offcanvas {
-    left: -140%; /* 12 columns */
+    left: -131%; /* 12 columns */
   }
 
 /*  .sidebar-offcanvas {

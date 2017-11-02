@@ -8,28 +8,31 @@
 	"buffers":
 	[
 		{
-			"file": "blog17_es_canarias_es.html",
-			"settings":
-			{
-				"buffer_size": 32107,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/style_s.css",
-			"settings":
-			{
-				"buffer_size": 7439,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "blog17_es_trescantos_es.html",
 			"settings":
 			{
-				"buffer_size": 22284,
+				"buffer_size": 22760,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog_01_es.html",
+			"settings":
+			{
+				"buffer_size": 42590,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n/* Global */\nhtml  { }\nbody  {  }\n\nh1,h2,h3,h4 { margin-bottom: .5rem; display: block}\n\n  /* Tables */\ntable, tr, th, td,  { margin: 20px; padding: 20px;\n  border: 10px; border-collapse: collapse; border-spacing: 0; vertical-align: baseline; background: transparent;\n  font-family: verdana, sans-serif; font-size:100%;      }\n\ntable       {  width:100%; }\ntable .p    {  background-color:green;    }\ntable .n    {  background-color:red;    }\ntr        { }\n.odd      { background-color: #eee;     }\n.even     { background-color: #fff;     }\nth        { font-weight:      bold;     }\nthead, th { background-color: #ccc; }\n\n  /* WIKILOC MAPS */\n\n.ekko-lightbox-container{\n  max-width:  400px;\n  height: 200px;  \n}\n/*.modal-dialog{\n  max-width:  400px;\n  height: 200px;\n}\n\n.ekko-lightbox-item fade in show{\n    max-width:  400px;\n    height: 200px;  \n}\n\n.modal-megamenu {\n    width:40%;\n    height:80%;\n}*/\n\n.modal-body {\n    max-width:  400px;\n    max-height:200px;\n    overflow:auto;\n}\n/*\n.ekko-lightbox.modal.fade.in div.modal-dialog{\nmax-width:20%;\n}\n.mfp-iframe-holder .mfp-iframe-holder .mfp-content {\nline-height: 0;\nwidth: 100%;\nmax-width: 90% !important;\n}*/\n\n  /* Images */\niframe.right_s  { max-width:  600px; max-height: 600px; float: right; margin: 10px;  }\nimg.icono\t\t  { max-height:50px; border:0;}\nimg.icono_s\t      { max-height:30px; border:0;}\nimg.icono_f       { max-height:60px; border:0; margin-right: 10px;}\nimg.logo_s        { max-height:50px; border:0; float:right;}\n\nimg.left_xs  { max-width: 250px; max-height: 120px; float: left; margin: 5px; }\nimg.right_xs  { max-width: 400px; max-height: 150px; float: right; margin: 10px; }\nimg.right_s  { max-width:  400px; max-height:300px;  float: right; margin: 10px;\t}\nimg.right_l  { max-height: 400px; float: right; margin: 10px; }\n\nimg.central_m      { max-width: 300px; height: auto; margin: 10px; horiz-align: center;}\n\nimg.central_l\t{ width:auto; max-height:500px; margin: 10px; horiz-align: center; }\n\n\n.card_h{\n  z-index: 2;\n  padding-bottom: 0px;\n  position: absolute;\n  vertical-align: middle;\n  top: 0px; left: 0px; right: 1px;\n  width:100%;\n  margin-right: auto;\n  object-fit: contain;\n}\n\n.card_f{\n  z-index: 2;\n  padding-bottom: 0px;\n  position: absolute;\n  vertical-align: middle;\n  bottom: 0px; left: 0px;\n  width:100%;\n  margin-right: auto;\n  object-fit: contain;\n}\n\n.card_d{\n  margin-bottom: 0px;\n  padding-left: 20px;\n  padding-top:30px;\n}\n\n.card_button_h{\n  float:right;\n  position:relative;\n}\n\n.card_button_f{\n  z-index: 3;\n  position:absolute;\n  bottom:5px; right: 5px;\n}\n\n.card_space_s{\n  z-index: 2;\n  position:relative;\n  min-height:180px;\n}\n\n.card_space{\n  z-index: 0;\n  position:relative;\n  min-height:400px;\n}\n\n.navbar {\n  background-color: #170078;\n}\n.navbar .navbar-brand {\n  color: #ecf0f1;\n}\n.navbar .navbar-brand:hover,\n.navbar .navbar-brand:focus {\n  color: #1aff00;\n}\n.navbar .navbar-text {\n  color: #ecf0f1;\n}\n.navbar .navbar-nav .nav-link {\n  color: #ecf0f1;\n  border-radius: .25rem;\n  margin: 0 0.25em;\n}\n.navbar .navbar-nav .nav-link:not(.disabled):hover,\n.navbar .navbar-nav .nav-link:not(.disabled):focus {\n  color: #1aff00;\n}\n.navbar .navbar-nav .dropdown-menu {\n  background-color: black;\n  border-color: darkgrey;\n}\n.navbar .navbar-nav .dropdown-menu .dropdown-item {\n  color: #ecf0f1;\n}\n.navbar .navbar-nav .dropdown-menu .dropdown-item:hover,\n.navbar .navbar-nav .dropdown-menu .dropdown-item:focus,\n.navbar .navbar-nav .dropdown-menu .dropdown-item.active {\n  color: #1aff00;\n  background-color: darkgrey;\n}\n.navbar .navbar-nav .dropdown-menu .dropdown-divider {\n  background-color: slategrey;\n}\n.navbar .navbar-nav .nav-item.active .nav-link,\n.navbar .navbar-nav .nav-item.active .nav-link:hover,\n.navbar .navbar-nav .nav-item.active .nav-link:focus,\n.navbar .navbar-nav .nav-item.show .nav-link,\n.navbar .navbar-nav .nav-item.show .nav-link:hover,\n.navbar .navbar-nav .nav-item.show .nav-link:focus {\n  color: #1aff00;\n  background-color: darkslategray;\n}\n.navbar .navbar-toggle {\n  border-color: dimgray;\n}\n.navbar .navbar-toggle:hover,\n.navbar .navbar-toggle:focus {\n  background-color: darkslategrey;\n}\n.navbar .navbar-toggle .navbar-toggler-icon {\n  color: #ecf0f1;\n}\n.navbar .navbar-collapse,\n.navbar .navbar-form {\n  border-color: #ecf0f1;\n}\n.navbar .navbar-link {\n  color: #ecf0f1;\n}\n.navbar .navbar-link:hover {\n  color: #1aff00;\n}\n\n\n@media (max-width: 767px) {\n  .navbar .navbar-nav .open .dropdown-menu .dropdown-item {\n    color: #ecf0f1;\n  }\n  .navbar .navbar-nav .open .dropdown-menu .dropdown-item:hover,\n  .navbar .navbar-nav .open .dropdown-menu .dropdown-item:focus {\n    color: #1aff00;\n  }\n  .navbar .navbar-nav .open .dropdown-menu .dropdown-item.active {\n    color: #1aff00;\n    background-color: #0083ff;\n  }\n}\n\nimg.icono\t\t{ height:60px; border:0; }\nimg.icono_s\t\t{ height:30px; border:0; right: -120px}\n\nimg.portada      { max-height:200px; border:0; }\n\n\n/*\n * Off Canvas\n * --------------------------------------------------\n */\n\n@media screen and (max-width: 767px) {\n  .row-offcanvas {\n    position: relative;\n    -webkit-transition: all .25s ease-out;\n    -o-transition: all .25s ease-out;\n    transition: all .25s ease-out;\n  }\n\n  .row-offcanvas-left {\n    left: 0;\n  }\n\n/*  .sidebar-offcanvas {\n    right: -100%; !* 12 columns *!\n  }*/\n\n\n/*  .sidebar-offcanvas {\n    right: -50%; !* 6 columns *!\n  }*/\n\n  .sidebar-offcanvas {\n    left: -140%; /* 12 columns */\n  }\n\n/*  .sidebar-offcanvas {\n    left: -50%; !* 6 columns *!\n  }*/\n\n\n  .row-offcanvas-left.active {\n    left: 60%; /* 6 columns */\n  }\n\n  .sidebar-offcanvas {\n    position: absolute;\n    top: 0;\n    width: 100%; /* 6 columns */\n  }\n}\n/*\n.scrollspy-example {\n\tposition: relative;\n\theight: 200px;\n\tmargin-top: .5rem;\n\toverflow: auto;\n}\n*/\n\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,300);\nfooter { background-color:#0c1a1e; min-height:150px; font-family: 'Open Sans', sans-serif; }\n.footerleft { margin-top:20px; padding:0 36px; }\n.logofooter { margin-bottom:10px; font-size:25px; color:#fff; font-weight:700;}\n\n.footerleft p { color:#fff; font-size:12px !important; font-family: 'Open Sans', sans-serif; margin-bottom:15px;}\n.footerleft p i { width:20px; color:#999;}\n\n\n.paddingtop-bottom {  margin-top:50px;}\n.footer-ul { list-style-type:none;  padding-left:0px; margin-left:2px;}\n.footer-ul li { line-height:29px; font-size:12px;}\n.footer-ul li a { color:#a0a3a4; transition: color 0.2s linear 0s, background 0.2s linear 0s; }\n.footer-ul i { margin-right:10px;}\n.footer-ul li a:hover {transition: color 0.2s linear 0s, background 0.2s linear 0s; color:#ff670f; }\n\n.social:hover {\n  -webkit-transform: scale(1.1);\n  -moz-transform: scale(1.1);\n  -o-transform: scale(1.1);\n}\n\n\n\n\n.icon-ul { list-style-type:none !important; margin:0px; padding:0px;}\n.icon-ul li { line-height:75px; width:100%; float:left;}\n.icon { float:left; margin-right:5px;}\n\n\n.copyright { min-height:40px; background-color:#000000;}\n.copyright p { text-align:left; color:#FFF; padding:10px 0; margin-bottom:0px;}\n.heading7 { font-size:21px; font-weight:700; color:#d9d6d6; margin-bottom:22px;}\n.post p { font-size:12px; color:#FFF; line-height:20px;}\n.post p span { display:block; color:#8f8f8f;}\n.bottom_ul { list-style-type:none; float:right; margin-bottom:0px;}\n.bottom_ul li { float:left; line-height:40px;}\n.bottom_ul li:after { content:\"/\"; color:#FFF; margin-right:8px; margin-left:8px;}\n.bottom_ul li a { color:#FFF; font-size:12px;}",
+			"file": "css/style_s.css",
+			"file_size": 7440,
+			"file_write_time": 131541248724036888,
+			"settings":
+			{
+				"buffer_size": 7440,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -93,20 +96,19 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags/emprender/wa_uk/idiom",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags/logos",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags/logos/banks",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags/logos/markets"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags/logos/markets",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/imags/logos/transport"
 	],
 	"file_history":
 	[
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/css/styles.css",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_trescantos_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_idiom_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_toulouse_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/css/style_s.css",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_idiom_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_idiom_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_trescantos_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_fr_toulouse_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_house_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_fleet_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_best_inverter_keys_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_canarias_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_brexit_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_FEDrateschanges_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_itareferendum_es.html",
@@ -114,9 +116,9 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_UEbankproblems_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_usaelections_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_year_review_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_best_inverter_keys_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_why_not_banks_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_year_review_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_01_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_01_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_ciudad_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_gastronomia_es.html",
@@ -140,7 +142,10 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_banks_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_paris_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_toulouse_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_health_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_house_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_idiom_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_main_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_markets_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_social_es.html",
@@ -155,6 +160,7 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_country_london_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_health_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_house_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_markets_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_social_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_telecoms_es.html",
@@ -169,6 +175,7 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog17_es_canarias_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog17_es_firsttrip_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog17_es_trescantos_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog_01_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/blog_01_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco16_brexit_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco16_FEDrateschanges_es.html",
@@ -180,6 +187,7 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco17_best_inverter_keys_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco17_why_not_banks_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco17_year_review_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco_01_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/eco_01_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_ciudad_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/gu_gastronomia_es .html",
@@ -220,15 +228,11 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_telecoms_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_tourism_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_transfer_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_transport_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_stratford_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_canarias_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_firsttrip_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/aboutme_es.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/wa_uk_transport_es.html"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -243,6 +247,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"                    <div class=\"col-md-3 col-sm-6 paddingtop-bottom hidden-md-down\">",
 			"                        <h6 class=\"heading7\">ULTIMOS POSTS</h6>",
 			"p>",
 			"<a class=\"nav-link\" href=\"#\">Mi Blog<span class=\"sr-only\">(current)</span></a>",
@@ -263,6 +268,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"                    <div class=\"col-md-3 col-sm-6 paddingtop-bottom\">",
 			"                        <h6 class=\"heading7\">ULTIMOS POSTS</h6>\n                        <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>    ",
 			"                        <h6 class=\"heading7\">ULTIMOS POSTS</h6>\n                          <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>  ",
 			"<a class=\"nav-link\" href=\"blog_01_es.html\">Mi Blog</a>"
@@ -276,82 +282,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "blog17_es_canarias_es.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 32107,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								18427,
-								18427
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 4073.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/style_s.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7439,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1764,
-								1764
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 969.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "blog17_es_trescantos_es.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 22284,
+						"buffer_size": 22760,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6243,
-								6140
+								9947,
+								9947
 							]
 						],
 						"settings":
@@ -361,10 +309,70 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1197.0,
+						"translation.y": 1710.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog_01_es.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8363,
+								8363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1938.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style_s.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5381,
+								5380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4275.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -447,7 +455,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 293.0,
+	"side_bar_width": 295.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
