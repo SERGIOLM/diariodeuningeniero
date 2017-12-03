@@ -17,15 +17,12 @@
     </head>
     <body>
         <header>
-            <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse ">
+            <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top">
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
-                <img  class="img-fluid hidden-lg-up" src="imags/banners/wa_fr_es_mv.jpg" alt=”Logo” />
-                <div class="container-fluid  img-fluid  hidden-lg-up row" style="height: 30px;">
-                    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault2" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                    </button>
+                <img  class="img-fluid hidden-lg-up" style="min-height:60px" src="imags/banners/wa_fr_es_mv.jpg" alt=”Logo” />
+                <div class="container-fluid  img-fluid  hidden-lg-up row" style="height: 40px;">                    
                     <a class="navbar-brand" href="blog_01_es.html">Blog</a>
                     <a class="btn btn-primary navbar-toggler navbar-toggler-left hidden-lg-up" type="button" data-toggle="offcanvas"  aria-controls="sidebar"
                         aria-expanded="false" aria-label="Toggle navigation" style="height:30px;  top:1%; left:1%; position:fixed; z-index:6;" >
@@ -40,7 +37,7 @@
                             <a class="nav-link" href="blog_01_es.html">Mi Blog</a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="wa_main_es" id="dropdown01" data-toggle="dropdown" aria-expanded="false">Emprender fuera</a>
+                            <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-expanded="false">Emprender fuera</a>
                             <div class="dropdown-menu" aria-labelledby="dropdown01">
                                 <a class="dropdown-item" href="wa_uk_main_es.html">Inglaterra</a>
                                 <a class="dropdown-item" href="wa_fr_main_es.html">Francia</a>
@@ -60,13 +57,14 @@
                     </ul>
                 </div>
             </nav>
-            <div class="container-fluid  hidden-md-down "
+            <div class="container-fluid  hidden-md-down"
                 style="
                 background-size: cover;
-                background:url('imags/banners/wa_fr_es.jpg') center no-repeat"
+                background:url('imags/banners/wa_fr_es.jpg') center no-repeat; margin-top:50px;"
                 >
-                <a><img src="imags/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a><br>
+                <a><img src="imags/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
                 <a href="wa_fr_country_paris_en.html"><img src="imags/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+				<br><br><br>
             </div>
             <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse">
                 <div class="collapse navbar-collapse" id="navbarsExampleDefault2">
@@ -85,7 +83,7 @@
                         <li class="nav-item"><a class="nav-link" href="wa_fr_idiom_es.html">Idioma</a></li>
                         <li class="nav-item"><a class="nav-link" href="wa_fr_transport_es.html">Transporte</a></li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="gu_historia_es.html" id="dropdown11" data-toggle="dropdown" aria-expanded="false">Vivir</a>
+                            <a class="nav-link dropdown-toggle" id="dropdown11" data-toggle="dropdown" aria-expanded="false">Vivir</a>
                             <div class="dropdown-menu" aria-labelledby="dropdown01">
                                 <a class="dropdown-item" href="wa_fr_banks_es.html">Bancos</a>
                                 <a class="dropdown-item" href="wa_fr_markets_es.html">Supermercados</a>
@@ -100,11 +98,14 @@
                 </div>
             </nav>
         </header>
-        <div id="inicial" class="row row-offcanvas row-offcanvas-left" style="top:40px; margin-bottom: -150px;">
+        <div class="container-fluid  hidden-lg-up"
+             <br><br><br><br><br><br>
+        </div>		
+        <div id="inicial" class="row row-offcanvas row-offcanvas-left" style="margin-bottom: -150px; margin-top:0px;">
             <a href="#inicial"><img class="hidden-md-down" style="height:60px;  bottom:10%; right:25%; position:fixed; z-index:6;" src="imags/icons/arrow.png"></a>
             <a href="#inicial"><img class="hidden-lg-up"   style="height:30px;  bottom:5%;  right:5%;  position:fixed; z-index:6;" src="imags/icons/arrow.png"></a>
-            <div class=" col-10 col-lg-9 offset-lg-1 col-md-9 col-xs-12">
-                <div class="col-lg-12 col-sm-12 row" style="margin-bottom: 150px; text-align:justify;">
+            <div class="col-10 col-lg-10 col-sm-10 col-xs-12">
+                <div class="offset-1 col-lg-11 col-sm-11 row" style="margin-bottom: 150px; text-align:justify; ">
                     <h1>Capital del Turismo Mundial</h1>
                     
                         <p><img class="img-fluid right_s" src="imags/emprender/wa_fr/country/paris/monumental.jpg" border="0" alt=" canal_view"/>
@@ -161,8 +162,7 @@
                 </div>
             </div>
             <div class="col-2 col-lg-2 col-md-2 sidebar-offcanvas" id="sidebar">
-                <div class="sidebar-module sidebar-module-inset ">
-                    <div class="sidebar-module bg-inverse text-left"  >
+                <div class="sidebar-module bg-inverse text-left"  >
                         <a href="http://www.feedvalidator.org/check.cgi?url=http%3A//www.diariodeuningeniero.com/rss/general_rss.xml"><img src="https://www.feedvalidator.org/images/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
                         <br>
                         <div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div><br>
@@ -223,10 +223,11 @@
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 paddingtop-bottom">
-                        <div class="fb-page" data-href="https://www.facebook.com/facebook" data-tabs="timeline" data-height="300" data-small-header="false" style="margin-bottom:15px;" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-                            <div class="fb-xfbml-parse-ignore">
-                                <blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/Diariodeuningeniero-643060745845646/">Facebook</a></blockquote>
-                            </div>
+                        <div class="fb-page"
+                            data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/"
+                            data-width="380"
+                            data-hide-cover="false"
+                            data-show-facepile="false">
                         </div>
                     </div>
                 </div>
@@ -235,7 +236,7 @@
         <div class="wrapper hidden-lg-up"  id="social_footer" style=" position:fixed; height:60px; bottom: 0; right:60px; margin-bottom: 0; padding-top:20px; transition: height 0.3s linear 0s, padding 0.3s linear 0s; overflow:hidden;">
             <div class="fb-send icono" data-href="www.diariodeuningeniero.com/wa_fr_country_paris_es.html"></div>
             <a href="rss/general_rss.xml"><img class="icono align-content-end" src="imags/icons/icon-rss.png"></a>
-            <a href="http://twitter.com/home?status=Paris by diariodeuningeniero+www.diariodeuingeniero.com/wa_fr_country_paris_es.html"><img class="icono float-right" src="imags/icons/icon-twitter.png"></a>
+            <a href="http://twitter.com/home?status=Paris by diariodeuningeniero+www.diariodeuningeniero.com/wa_fr_country_paris_es.html"><img class="icono float-right" src="imags/icons/icon-twitter.png"></a>
             <a href="whatsapp://send?text= www.diariodeuningeniero/wa_fr_country_paris_es.html" data-text="Paris by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono float-right" src="imags/icons/icon-whatsapp.png"></a>
         </div>
         <!-- footer start from here-->
