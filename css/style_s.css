@@ -5,6 +5,7 @@ body  {  }
 
 h1,h2,h3,h4 { margin-bottom: .5rem; display: block}
 
+
   /* Tables */
 table, tr, th, td,  { margin: 20px; padding: 20px;
   border: 10px; border-collapse: collapse; border-spacing: 0; vertical-align: baseline; background: transparent;
@@ -20,7 +21,6 @@ th        { font-weight:      bold;     }
 thead, th { background-color: #ccc; }
 
   /* WIKILOC MAPS */
-
 .ekko-lightbox-container{
   max-width:  400px;
   height: 200px;  
@@ -239,7 +239,7 @@ img.portada      { max-height:200px; border:0; }
   }*/
 
   .sidebar-offcanvas {
-    left: -140%; /* 12 columns */
+    left: -50%; /* 12 columns */
   }
 
 /*  .sidebar-offcanvas {
@@ -248,7 +248,7 @@ img.portada      { max-height:200px; border:0; }
 
 
   .row-offcanvas-left.active {
-    left: 60%; /* 6 columns */
+    left: 50%; /* 6 columns */
   }
 
   .sidebar-offcanvas {
