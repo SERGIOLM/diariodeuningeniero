@@ -13,8 +13,7 @@
         <title>Diario de un Ingeniero - Conoce Gran Canaria - Senderismo - Web Site By Sergio Lopez Design </title>
         <link href="css/style_s.css" rel="stylesheet" type="text/css" media="screen">
         <!-- Bootstrap core CSS -->
-        <!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet"> -->
-        <link href="C:\Users\Sergio\Documents\Mis sitios web\bootstrap-4.0.0-alpha.6\css\bootstrap.min.css" rel="stylesheet">
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.2.0/ekko-lightbox.min.css" rel="stylesheet">
         <link href="css/style_s.css" rel="stylesheet" type="text/css" media="screen">
     </head>
@@ -40,7 +39,7 @@
                 <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="blog_01_es.html">Mi Blog</a>
+                            <a class="nav-link" href="blog_02_es.html">Mi Blog</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-expanded="false">Emprender fuera</a>
@@ -111,13 +110,13 @@
                 </div>
             </nav>
         </header>
-        <div id="inicial" class="row row-offcanvas row-offcanvas-left" style="top:40px; margin-bottom: 0px;">
+        <div id="inicial" class="row row-offcanvas row-offcanvas-left" style="top:40px; ">
             <a href="#inicial"><img class="hidden-md-down" style="height:60px;  bottom:10%; right:25%; position:fixed; z-index:6;" src="imags/icons/arrow.png"></a>
             <a href="#inicial"><img class="hidden-lg-up"   style="height:30px;  bottom:5%;  right:5%;  position:fixed; z-index:6;" src="imags/icons/arrow.png"></a>
             <div class="col-12 col-lg-9 offset-lg-1 col-md-9 col-xs-12">
                 <div class="col-lg-12 col-sm-12 row" style="margin-bottom: 20px;">
                      <div class=" hidden-md-down">            
-                        <img style="text-align: center;" src="imags/gran_canaria/senderismo/mapas/gc_senderismo.jpg"   id="topo"   alt="" usemap="#CanariaTopo_Map">
+                        <img src="imags/gran_canaria/senderismo/mapas/gc_senderismo.jpg"   id="topo"   alt="" usemap="#CanariaTopo_Map">
                         <map name="CanariaTopo_Map">
                         <area onmouseover="change_imagen('maspalomas')" onmouseout="hide_imagen('')" shape="poly" alt="" coords="356,672, 359,671, 363,673, 364,671, 367,668, 371,670, 373,671, 378,668, 383,668, 389,666, 390,660, 385,662, 382,666, 379,666, 378,664, 382,656, 385,653, 389,654, 393,651, 398,648, 400,651, 399,654, 395,655, 404,656, 399,659, 397,664, 396,668, 394,676, 390,680, 382,681,
                         380,682, 359,682,
@@ -139,11 +138,10 @@
                         558,79, 563,72, 570,66,
                         571,58, 571,43, 572,38, 574,38" href="gc_s_confital_es.html">
                         </map>
-                    </div><br />                 
+                    </div>                
                     <div class="hidden-lg-up">
                         <img class="img-fluid" src="imags/gran_canaria/senderismo/mapas/gc_senderismo.jpg" id="topo" alt="" usemap="#CanariaTopo_Map">
                     </div>
-                    <h1>Introducción</h1>
                     	<p>La isla de Gran Canaria es muy heterogenea en relieves y terrenos. En pocos kilometros puede cambiar completamente el paisaje y la climatología, además de alternar llanos y montañas rapidamente. 
                         En el siguiente mapa expongo varias rutas para hacer en la isla y diferentes fotos del trayecto.<br>
                         Las hay de todos los niveles y están marcadas en diferentes colores dependiendo de la dificultad entrañada.
@@ -160,7 +158,6 @@
                             <li><a onmouseover="change_imagen('maspalomas')" href="gc_s_maspalomas_es.html"> Entre dunas, Maspalomas
                             <li><a onmouseover="change_imagen('guigui')" href="gc_s_guigui_es.html">         Camino a la playa de Guïguï</a></li>
                         </ul>
-                    </div>
                 </div>
             </div>
             <div class="col-2 col-lg-2 col-md-2 sidebar-offcanvas" id="sidebar">
@@ -253,11 +250,11 @@
         <script type="text/javascript">
         function change_imagen(id)
         {
-        $( '#topo' ).attr( 'src', 'imags/guada/senderismo/mapas/gu_s_' + id + '.jpg');
+        $( '#topo' ).attr( 'src', 'imags/gran_canaria/senderismo/mapas/gc_s_' + id + '.jpg');
         }
         function hide_imagen()
         {
-        $( '#topo' ).attr( 'src', 'imags/guada/senderismo/mapas/guada_senderismo.jpg');
+        $( '#topo' ).attr( 'src', 'imags/gran_canaria/senderismo/mapas/gc_senderismo.jpg');
         }
         </script>
         <!-- Initialize Bootstrap functionality
