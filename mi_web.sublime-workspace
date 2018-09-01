@@ -8,28 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "css/style_s.css",
+			"file": "eco17_year_review_es.html",
 			"settings":
 			{
-				"buffer_size": 7425,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "eco_01_es.html",
-			"settings":
-			{
-				"buffer_size": 39689,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "eco_01_en.html",
-			"settings":
-			{
-				"buffer_size": 39574,
+				"buffer_size": 23788,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -89,134 +71,134 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_canarias_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_trescantos_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_ulpgc_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_ies_rincon_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_ciudad_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_historia_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_gastronomia_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_1_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_2_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_3_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_4_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_5_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_i_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_provincia_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_altotajo_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_work_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_fleet_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_london_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_stratford_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_canarias_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_firsttrip_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/ca_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_gastronomia_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_isla_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_agaete_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_aguimes_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_arucas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_brigida_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_firgas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_galdar_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_palmas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_tejeda_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_teror_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_lindice_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_brigidateror_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_charco_azul_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_confital_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guayadeque_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_sindice_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_aguila_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_alarilla_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_hundido_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_mesa_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_ocejon_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_pietajo_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_sindice_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_banks_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_paris_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_toulouse_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_health_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_health_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_house_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_idiom_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_markets_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_social_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_telecoms_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_tourism_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transfer_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transport_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_work_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_main_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_banks_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_country_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_country_london_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_health_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_house_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_idiom_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_markets_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_social_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_telecoms_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_tourism_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_transfer_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_transport_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_work_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/aboutme_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/avisolegal_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_petrol_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_usaelections_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_usaelections_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_year_review_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_year_review_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_best_inverter_keys_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_best_inverter_keys_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_why_not_banks_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_why_not_banks_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_year_review_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_es_backspain_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_es_backspain_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_es_launch_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_es_launch_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_fr_toulouse_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_fr_toulouse_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_fleet_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_fleet_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_london_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_london_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_stratford_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_stratford_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_canarias_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_canarias_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_firsttrip_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_firsttrip_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_trescantos_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_trescantos_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_canarias_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_ies_rincon_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_canarias_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_ulpgc_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_ulpgc_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_brexit_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_brexit_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_FEDrateschanges_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_FEDrateschanges_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_itareferendum_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_itareferendum_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_petrol_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_work_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/css/style_s.css",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/aboutme_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/aboutme_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/avisolegal_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/avisolegal_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_ies_rincon_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_ies_rincon_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/ca_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_UEbankproblems_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_UEbankproblems_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_year_review_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_01_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_01_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_gastronomia_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_gastronomia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_historia_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_historia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_isla_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_isla_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_agaete_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_agaete_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_aguimes_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_aguimes_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_arucas_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_arucas_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_brigida_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_brigida_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_firgas_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_firgas_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_galdar_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_galdar_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_palmas_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_palmas_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_tejeda_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_tejeda_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_teror_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_teror_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_lindice_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_lindice_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_main_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_brigidateror_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_brigidateror_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_charco_azul_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_charco_azul_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_confital_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_confital_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guayadeque_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guayadeque_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_sindice_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_sindice_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_ciudad_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_ciudad_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_gastronomia_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_gastronomia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_1_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_1_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_2_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_2_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_3_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_4_en.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_3_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_4_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_4_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_5_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_5_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_i_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_i_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_main_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_provincia_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_provincia_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_aguila_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_aguila_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_alarilla_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_alarilla_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_altotajo_en.html"
 	],
 	"find":
 	{
@@ -235,6 +217,27 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\t            </div>  \n\t            <div class=\"hidden-lg-up\">  \n\t                <br><br><br>  ",
+			"                        <div class=\"logofooter\"> Logo</div>",
+			"        <!-- Placed at the end of the document so the pages load faster -->\n        <!-- Placed at the end of the document so the pages load faster -->",
+			"        <footer>\n            <div class=\"container\"  style=\" padding-top: 0; margin-bottom: 0\">",
+			"\t            <div class=\"hidden-md-down\"> \t\n\t\t\t\t\t<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t                <!-- HORIZONTA_GRANDE -->\n\t                <ins class=\"adsbygoogle\"\n\t                     style=\"display:inline-block;width:728px;height:90px\"\n\t                     data-ad-client=\"ca-pub-8000076722057083\"\n\t                     data-ad-slot=\"1958507219\"></ins>\n\t                <script>\n\t                (adsbygoogle = window.adsbygoogle || []).push({});\n\t                </script> \n\t\t\t\t</div>\n\t\t\t\t<div class=\"hidden-lg-up\">  \n\t                <br><br><br>  \n\t                <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t                <!-- HORIZONTAL_PEQUENIO -->\n\t                <ins class=\"adsbygoogle\"\n\t                     style=\"display:inline-block;width:320px;height:100px\"\n\t                     data-ad-client=\"ca-pub-8000076722057083\"\n\t                     data-ad-slot=\"6771850198\"></ins>\n\t                <script>\n\t\t                (adsbygoogle = window.adsbygoogle || []).push({});\n\t\t                </script>\n\t\t            </div>    \n\t\t\t\t</div>   \n\t\t\t</div>",
+			"\t                (adsbygoogle = window.adsbygoogle || []).push({});\n\t                </script>\n\t            </div>    \n\t\t\t</div>",
+			"        </header>\n\t\t<a href=\"#inicial\"><img class=\"hidden-md-down\" style=\"height:60px;  bottom:10%; right:15%; position:fixed; z-index:6;\" src=\"imags/icons/arrow.png\"></a>\n",
+			"        <div id=\"inicial\" class=\"row row-offcanvas row-offcanvas-left\" style=\"top:150px; margin-bottom: 100px;\">  ",
+			"            <div class=\"col-10 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px;\">",
+			"hidden-mg-down",
+			"hidden-lg-down",
+			"            <div class=\"container-fluid  hidden-lg-down\"",
+			"            <div class=\"col-10 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px; padding-left: 50px; text-align:justify;\">   \t\t\t\t\n",
+			"            <div class=\"col-12 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px;\">   ",
+			"hidden-md",
+			"            <div class=\"col-10 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px; padding-left: 50px;\">   \t\t\t\t\n",
+			"<div class=\"col-2 col-lg-2 col-md-2  sidebar-offcanvas\" id=\"sidebar\" style=\"margin-top:0px; margin-left:30px; \">",
+			"div class=\"col-10 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px;",
+			"div class=\"col-12 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px;",
+			"div class=\"col-12 col-lg-8 col-md-8 col-xs-12\" style=\"right:5px;",
+			"<div class=\"col-10 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px; ",
 			"<a class=\"nav-link\" href=\"#\">My Blog<span class=\"sr-only\">(current)</span></a>",
 			"<a class=\"nav-link\" href=\"#\">Mi Blog<span class=\"sr-only\">(current)</span></a>",
 			"<a class=\"nav-link\" href=\"blog_01_en.html\">My Blog</a>",
@@ -293,6 +296,26 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\t            </div>  \n\t            <div class=\"hidden-lg-up\">",
+			"                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>",
+			"        <!-- Placed at the end of the document so the pages load faster -->",
+			"        <footer>\n            <div class=\"container\" style=\"padding-top: 0; margin-top:-240px\">",
+			"\t\t            <div class=\"hidden-md-down\"> \t\n\t\t\t\t\t\t<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t\t                <!-- HORIZONTA_GRANDE -->\n\t\t                <ins class=\"adsbygoogle\"\n\t\t                     style=\"display:inline-block;width:728px;height:90px\"\n\t\t                     data-ad-client=\"ca-pub-8000076722057083\"\n\t\t                     data-ad-slot=\"1958507219\"></ins>\n\t\t                <script>\n\t\t                (adsbygoogle = window.adsbygoogle || []).push({});\n\t\t                </script> \n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"hidden-lg-up\">  \n\t\t                <br><br><br>  \n\t\t                <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t\t                <!-- HORIZONTAL_PEQUENIO -->\n\t\t                <ins class=\"adsbygoogle\"\n\t\t                     style=\"display:inline-block;width:320px;height:100px\"\n\t\t                     data-ad-client=\"ca-pub-8000076722057083\"\n\t\t                     data-ad-slot=\"6771850198\"></ins>\n\t\t                <script>\n\t\t                (adsbygoogle = window.adsbygoogle || []).push({});\n\t\t                </script>\n\t\t            </div>    \n\t\t\t\t</div>   \n\t\t\t</div>",
+			"\t\t                (adsbygoogle = window.adsbygoogle || []).push({});\n\t\t                </script>\n\t\t            </div>    \n\t\t\t\t</div>   \n\t\t\t</div>",
+			"        </header>\n\t\t<div class=\"hidden-lg-up\" style=\"margin-top:150px;\">\n\t\t</div>\n\t\t<a href=\"#inicial\"><img class=\"hidden-md-down\" style=\"height:60px;  bottom:10%; right:15%; position:fixed; z-index:6;\" src=\"imags/icons/arrow.png\"></a>\n",
+			"        <div id=\"inicial\" class=\"row row-offcanvas row-offcanvas-left\" style=\"margin-bottom: 100px;\">  ",
+			"            <div class=\"col-10 col-lg-8 col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px; text-align:justify;\">",
+			"hidden-md-down",
+			"            <div class=\"container-fluid  hidden-mg-down\"\n",
+			"            <div class=\"col-10 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px; text-align:justify;\">   \t\t\t\t\n\t\t\n",
+			"            <div class=\"col-10 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px; text-align:justify;\">   \t\t\t\t\n",
+			"hidden-lg",
+			"            <div class=\"col-10 col-lg-8 col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px; padding-left: 50px; text-align:justify;\">   \t\t\t\t\n",
+			"<div class=\"col-2 col-lg-2 col-md-2 hidden-lg-down\" style=\"margin-left:30px; \">",
+			"div class=\"col-10 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px;",
+			"div class=\"col-12 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px;",
+			"div class=\"col-12 col-lg-8 col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px;",
+			"<div class=\"col-10 col-lg-8  col-md-8 col-xs-12\" style=\"right:5px; padding-left: 50px;",
 			"<a class=\"nav-link\" href=\"blog_02_es.html\">My Blog</a>",
 			"<a class=\"nav-link\" href=\"blog_02_es.html\">Mi Blog</a>",
 			"<a class=\"nav-link\" href=\"blog_02_en.html\">My Blog</a>",
@@ -330,441 +353,16 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "css/style_s.css",
+					"file": "eco17_year_review_es.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7425,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5499,
-								5499
-							]
-						],
-						"settings":
-						{
-							"SL.13.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										5387,
-										5388
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										5351,
-										5352
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										5520,
-										5521
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										5485,
-										5486
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4158.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "eco_01_es.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 39689,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								14049,
-								14049
-							]
-						],
-						"settings":
-						{
-							"SL.14.region_keys":
-							[
-							],
-							"SL.17.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14045,
-										14048
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										12407,
-										12410
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5802.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "eco_01_en.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 39574,
+						"buffer_size": 23788,
 						"regions":
 						{
 						},
@@ -777,102 +375,11 @@
 						],
 						"settings":
 						{
-							"SL.15.region_keys":
-							[
-							],
-							"SL.16.region_keys":
+							"SL.254.region_keys":
 							[
 							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
-							],
 							"bracket_highlighter.locations":
 							{
 								"close":
@@ -905,71 +412,71 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 846.0,
+						"translation.y": 2933.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1011,6 +518,10 @@
 		"height": 133.0
 	},
 	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
 	{
 		"height": 0.0
 	},
