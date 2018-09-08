@@ -119,7 +119,7 @@ img.central_l	  { width:auto; max-height:500px; margin: 10px; horiz-align: cente
 .card_space{
   z-index: 0;
   position:relative;
-  min-height:400px;
+  min-height:200px;
 }
 
 .navbar {

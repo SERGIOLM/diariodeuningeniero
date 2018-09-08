@@ -13,15 +13,15 @@
         <title>Diary of an engineer - Main - Web Site By Sergio Lopez Design </title>
         <link href="css/style_s.css" rel="stylesheet" type="text/css" media="screen">
         <!-- Bootstrap core CSS -->
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet">    
-    </head>
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet">
+	</head>
     <body>
         <header>
             <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top ">
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
-                <img  class="img-fluid hidden-lg-up" src="imags/banners/diariodeuningeniero_es.jpg" alt=”Logo” />
+                <img  class="img-fluid hidden-lg-up" src="imags/banners/diariodeuningeniero_es_mv.jpg" alt=”Logo” />
                 <div class="container-fluid  img-fluid  hidden-lg-up row" style="height: 40px;">                    
                     <a class="navbar-brand" href="eco_01_es.html">ECO Blog</a>
                     <a class="btn btn-primary navbar-toggler navbar-toggler-left hidden-lg-up" type="button" data-toggle="offcanvas"  aria-controls="sidebar"
@@ -29,7 +29,7 @@
                         <span class="navbar-toggler-icon"></span>
                     </a>
                     <a><img class="offset-1 icono_s" src="imags/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
-                    <a href="blog_01_en.html"><img class="icono_s" src="imags/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+                    <a href="blog_02_en.html"><img class="icono_s" src="imags/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
                 </div>
                 <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                     <ul class="navbar-nav mr-auto">
@@ -61,17 +61,18 @@
 
                 style="
                 background-size: cover;
-                background:url('imags/banners/diariodeuningeniero_es.jpg') center no-repeat; margin-top:60px;margin-bottom:5px;"
+                background:url('imags/banners/diariodeuningeniero_es.jpg') center no-repeat; margin-top:50px;"
                 >
                 <a><img src="imags/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a><br>
-                <a href="blog_01_en.html"><img src="imags/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+                <a href="blog_02_en.html"><img src="imags/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
             </div>
             <div class="container-fluid">
-                <div id="myCarousel" class="carousel slide bg-inverse hidden-lg-up" style="max-height: 500px; margin-bottom: -25px; margin-top:80px"  data-ride="carousel">
+                <div id="myCarousel" class="carousel slide bg-inverse hidden-md-up" style="max-height: 500px; margin-bottom:10px; margin-top:80px"  data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#myCarousel" data-slide-to="0" class=""></li>
                         <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
                         <li data-target="#myCarousel" data-slide-to="2" class=""></li>
+                        <li data-target="#myCarousel" data-slide-to="3" class=""></li>                        
                     </ol>
                     <div class="carousel-inner" role="listbox">
                         <div class="carousel-item">
@@ -95,19 +96,13 @@
                         <span class="carousel-control-next-icon"></span>
                         <span class="sr-only">Next</span>
                     </a>
-                </div>
-                <div class="container-fluid hidden-md-down row" style="margin-bottom: -150px;" >
-                    <img class="portada col-lg-3 img-fluid" src="imags/Main/mi_ciudad.jpg" alt="mi_ciudad">
-                    <img class="portada col-lg-3 img-fluid" src="imags/Main/mi_pueblo.jpg" alt="mi_pueblo">
-                    <img class="portada col-lg-3 img-fluid" src="imags/Main/canarias.jpg" alt="canarias">
-                    <img class="portada col-lg-3 img-fluid" src="imags/Main/rutas_senderistas.jpg" alt="rutas_senderistas">
-                </div><br><br><br>
+                </div>                                  
             </div>
         </header>
         <a href="#inicial"><img class="hidden-md-down" style="height:60px;  top:700px; right:25%; position:fixed; z-index:6;" src="imags/icons/arrow.png"></a>
         <a href="#inicial"><img class="hidden-lg-up"   style="height:30px;  top:700px; right:5%;  position:fixed; z-index:6;" src="imags/icons/arrow.png"></a>
-        <div id="inicial" class="row row-offcanvas row-offcanvas-left" style="top:-140px; margin-bottom: -150px;">            
-            <div class="col-lg-0 col-md-0  sidebar-offcanvas" id="sidebar" style="margin-top:90px; margin-left:30px; ">
+        <div id="inicial" class="row row-offcanvas row-offcanvas-left" style="top:0px; margin-bottom: -300px;">            
+            <div class="col-lg-0 col-md-0 col-sm-0  sidebar-offcanvas" id="sidebar" style="margin-top:10px; margin-left:30px; ">
                 <div class="sidebar-module text-left"  >
                     <a href="http://www.feedvalidator.org/check.cgi?url=http%3A//www.diariodeuningeniero.com/rss/general_rss.xml"><img src="https://www.feedvalidator.org/images/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
                     <br />
@@ -124,153 +119,156 @@
                     </script>
                 </div>
             </div>  
-            <div class="col-12 col-lg-8 col-md-8 col-xs-12" style="left:-12px; padding-right:12px; text-align:justify;">           
-                <div class="card-deck card_d">
-                    <div class="col-12 col-lg-11 col-sm-12  col-md-12 card text-left"
-                        style="margin-top:10px; margin-bottom:20px; max-width : 750px; top:50px;
+         
+            <div class="col-12 col-lg-9 col-md-8 col-xs-12" style="text-align:justify; top:5px;">    
+                <div class="card-deck">
+                    <div class="card mb-4"
+                        style="height:280px; 
                         background: url(imags/blog/ies_rincon.jpg) top center scroll;">
-                        <div id="image11">
+                        <div id="image6">
                             <div class="card-header card_h">
-                                <h4 class="card-title">Comenzando las prácticas<button type="button" class="btn btn-info btn-sm card_button_h">1 Marzo 2018</button></h4>
+                                <h4 class="card-title">Con las prácticas<button type="button" class="btn btn-info btn-sm card_button_h">1 Marzo 2018</button></h4>
                             </div>
                             <div class="card_space"></div>
-                            <div class="card-footer card_f hidden-md-down" id="card_body11" >
-                                Al finalizar febrero acabe todas las materias relacionadas con la especialidad y comence a realizar las practicas en uno de los centros mas importantes de la capital, el IES Rincon que alberga junto al IES ...
-                            </div>
-                            <div class="card-footer card_f hidden-lg-up" id="card_body11" >
-                                 Al finalizar febrero acabe las materias relacionadas con la especialidad y comence a realizar...
+                            <div class="card-footer card_f" id="card_body6" >
+                                Al finalizar febrero acabe todas las las materias relacionadas con la especialidad y ...
                             </div>
                         </div>
-                        <a id="button11" href="blog18_es_ies_rincon_es.html" class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image11')" onmouseout="change_imagen2('image11')" data-target="#image9">Leer más</a>
-                    </div>
-                    <div class="col-12 col-lg-11 col-sm-12  col-md-12 card text-left"
-                        style="margin-top:10px; margin-bottom:20px; max-width : 750px; top:50px; ;
+                        <a id="button6" href="blog18_es_ies_rincon_es.html" class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image6')" onmouseout="change_imagen2('image6')" data-target="#image6">Leer más</a>
+                    </div>   
+                    <div class="card mb-4 text-left"
+                        style="height:280px;
                         background: url(imags/blog/ulpgc_tafira.jpg)  top center scroll">
-                        <div id="image10">
+                        <div id="image5">
                             <div class="card-header card_h">
                                 <h4 class="card-title">Cambio de Campus<button type="button" class="btn btn-info btn-sm card_button_h">11 Noviembre 2017</button></h4>
                             </div>
                             <div class="card_space"></div>
-                            <div class="card-footer card_f hidden-md-down" id="card_body10" >
-                                A partir de mediados de Noviembre cambie de campus. Al campus situado en Tafira Baja donde se encuentran la mayoría de las facultades. En concreto mi especialidad, Tecnología, estaba en la facultad de Ciencias del Mar ...
-                            </div>
-                            <div class="card-footer card_f hidden-lg-up" id="card_body10" >
-                                A partir de mediados de Noviembre cambie de campus. Al campus situado en Tafira Baja donde se encuentran ...
+                            <div class="card-footer card_f" id="card_body5" >
+                                A partir de mediados de Noviembre me moví al campus de Tafira Baja donde se encuentra la ...
                             </div>
                         </div>
-                        <a id="button10" href="blog18_es_ulpgc_es.html"  class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image10')" onmouseout="change_imagen2('image10')" data-target="#image8">Leer más</a>
+                        <a id="button5" href="blog18_es_ulpgc_es.html"  class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image5')" onmouseout="change_imagen2('image5')" data-target="#image5">Leer más</a>
                     </div>
-                </div>                
-                <div class="card-deck card_d">
-                    <div class="col-12 col-lg-11 col-sm-12  col-md-12 card text-left"
-                        style="margin-top:10px; margin-bottom:20px; max-width : 750px; top:50px;
+                    <div class="w-100 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
+                    <div class="w-100 d-none d-md-block d-lg-none"><!-- wrap every 2 on md--></div>
+                     <div class="card mb-4 text-left"
+                        style="height:280px;
                         background: url(imags/blog/ulpgc_magisterio.jpg) top center scroll;">
-                        <div id="image9">
+                        <div id="image4">
                             <div class="card-header card_h">
                                 <h4 class="card-title">Estudiando en la ULPGC<button type="button" class="btn btn-info btn-sm card_button_h">1 Noviembre 2017</button></h4>
                             </div>
                             <div class="card_space"></div>
-                            <div class="card-footer card_f hidden-md-down" id="card_body9" >
-                                Tras haber obtenido plaza en la universidad de las palmas finalice mi relación con Siemens y me desplace a Las Palmas como tenía previsto a principios del año para estudiar el Master de Formación del Profesorado ...
-                            </div>
-                            <div class="card-footer card_f hidden-lg-up" id="card_body9" >
-                                Tras haber obtenido plaza en la universidad de las palmas finalice mi relación con Siemens  ...
+                            <div class="card-footer card_f" id="card_body4" >
+                                Tras haber obtenido plaza en la en la universidad de las palmas finalice mi relación con Siemens ...
                             </div>
                         </div>
-                        <a id="button9" href="blog18_es_canarias_es.html" class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image9')" onmouseout="change_imagen2('image9')" data-target="#image9">Leer más</a>
-                    </div>
-                    <div class="col-12 col-lg-11 col-sm-12  col-md-12 card text-left"
-                        style="margin-top:10px; margin-bottom:20px; max-width : 750px; top:50px; ;
-                        background: url(imags/blog/tres_cantos.jpg)  top center scroll">
-                        <div id="image8">
+                        <a id="button4" href="blog18_es_canarias_es.html" class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image4')" onmouseout="change_imagen2('image4')" data-target="#image4">Leer más</a>
+                    </div> 
+                     <div class="w-100 d-none d-lg-block d-xl-none"><!-- wrap every 4 on lg--></div>
+                     <div class="w-100 d-none d-xl-block"><!-- wrap every 4 on xl--></div>                
+                    <div class="card mb-4 text-left"
+                        style="height:280px;
+                        background: url(imags/blog/tres_cantos.jpg) top center scroll">
+                        <div id="image3">
                             <div class="card-header card_h">
                                 <h4 class="card-title">Mi paso por Tres Cantos<button type="button" class="btn btn-info btn-sm card_button_h">10 Septiembre 2017</button></h4>
                             </div>
                             <div class="card_space"></div>
-                            <div class="card-footer card_f hidden-md-down" id="card_body8" >
-                                Tras Canarias volvi a la península por verano y comence a trabajar para Siemens a traves de una consultora.
-                                Tres Cantos es una ciudad que ha crecido mucho cerca de Madrid debido al gran numero de empresas de todos los ...
-                            </div>
-                            <div class="card-footer card_f hidden-lg-up" id="card_body8" >
-                                Tras Canarias volvi a la península por verano y comence a trabajar para Siemens a traves de una consultora ...
+                            <div class="card-footer card_f" id="card_body3" >
+                                Tras Canarias volvi a la península por verano y comence a trabajar para Siemens a traves ...
                             </div>
                         </div>
-                        <a id="button8" href="blog17_es_trescantos_es.html"  class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image8')" onmouseout="change_imagen2('image8')" data-target="#image8">Leer más</a>
-                    </div>
-                </div>
-                <div class="card-deck card_d">
-                    <div  class="col-12 col-lg-11 col-sm-12  col-md-12 card text-left"
-                        style="margin-top:10px; margin-bottom:20px; max-width : 750px; top:50px;
+                        <a id="button3" href="blog17_es_trescantos_es.html"  class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image3')" onmouseout="change_imagen2('image3')" data-target="#image3">Leer más</a>
+                    </div>  
+                    <div class="w-100 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
+                    <div class="w-100 d-none d-md-block d-lg-none"><!-- wrap every 2 on md--></div>
+                    <div  class="card mb-4 text-left"
+                        style="height:280px; 
                         background: url(imags/blog/las_palmas.jpg)  top center scroll">
-                        <div id="image7">
+                        <div id="image2">
                             <div class="card-header card_h">
                                 <h4 class="card-title">Explorando Canarias<button type="button" class="btn btn-info btn-sm card_button_h">1 Junio 2017</button></h4>
                             </div>
                             <div class="card_space"></div>
-                            <div class="card-footer card_f hidden-md-down" id="card_body7" >
-                                A principios de 2017 decidi comenzar una aventura nueva moviendome a Las Palmas,
-                                donde estuve estudiando ingles y conociendo la isla con fines a estudiar un master en la Universidad de las Palmas, lugar que siempre me llamo la atención ...
-                            </div>
-                            <div class="card-footer card_f hidden-lg-up" id="card_body7" >
-                                A principios de 2017 decidi comenzar una aventura nueva moviendome a Las Palmas, donde estuve ...
+                            <div class="card-footer card_f" id="card_body2" >
+								A principios de 2017 decidi comenzar una aventura nueva moviendome a  ...
                             </div>
                         </div>
-                        <a id="button7" href="blog17_es_canarias_es.html" class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image7')" onmouseout="change_imagen2('image7')" data-target="#image7">Leer más</a>
-                    </div>
-                    <div class="col-12 col-lg-11 col-sm-12  col-md-12 card text-left"
-                        style="margin-top:10px; margin-bottom:20px; max-width : 750px; top:50px; ;
+                        <a id="button2" href="blog17_es_canarias_es.html" class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image2')" onmouseout="change_imagen2('image2')" data-target="#image2">Leer más</a>
+                    </div>                   
+                    <div class="card mb-4 text-left"
+                        style="height:280px;
                         background: url(imags/blog/barranco_hoz.jpg)  top center scroll">
-                        <div id="image6" >
+                        <div id="image1" >
                             <div class="card-header card_h">
                                 <h4 class="card-title">Primera excursion senderista<button type="button" class="btn btn-info btn-sm card_button_h">30 Mayo 2017</button></h4>
                             </div>
                             <div class="card_space"></div>
-                            <div class="card-footer card_f hidden-md-down" id="card_body6" >
-                                Para conmemorar dos años de excursiones senderistas por la provincia de Guadalajara,
-                                el presente creador de este sitio web esta organizando una excursion en la zona este de Guadalajara. Se cuenta con un servicio de alquiler de  ...
-                            </div>
-                            <div class="card-footer card_f hidden-lg-up" id="card_body6" >
-                                Para conmemorar dos años de excursiones senderistas por la provincia de Guadalajara, el presente ...
+                            <div class="card-footer card_f" id="card_body1" >
+                                Para conmemorar dos años de excursiones senderistas por la provincia de ...
                             </div>
                         </div>
-                        <a id="button6" href="blog17_es_firsttrip_es.html" class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image6')" onmouseout="change_imagen2('image6')" data-target="#image6">Leer más</a>
+                        <a id="button1" href="blog17_es_firsttrip_es.html" class="btn btn-primary img-overlay card_button_f" onmouseover="change_imagen('image1')" onmouseout="change_imagen2('image1')" data-target="#image1">Leer más</a>
                     </div>
-                </div> 
-                <div class="hidden-md-down"> 
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    <!-- HORIZONTA_GRANDE -->
-                    <ins class="adsbygoogle"
-                         style="display:inline-block;width:728px;height:90px"
-                         data-ad-client="ca-pub-8000076722057083"
-                         data-ad-slot="1958507219"></ins>
-                    <script>
-                    (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-                </div>  
-                <div class="hidden-lg-up">  
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    <!-- HORIZONTAL_PEQUENIO -->
-                    <ins class="adsbygoogle"
-                         style="display:inline-block;width:320px;height:100px"
-                         data-ad-client="ca-pub-8000076722057083"
-                         data-ad-slot="6771850198"></ins>
-                    <script>
-                    	(adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-                </div>                  
-            </div>
-            <div class="col-1 col-lg-1  hidden-lg-down" id="sidebar2" style="margin-top:90px; ">
+                     <div class="w-100 d-none d-lg-block d-xl-none"><!-- wrap every 4 on lg--></div>
+                     <div class="w-100 d-none d-xl-block"><!-- wrap every 4 on xl--></div>
+                     <div class="w-100 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
+                    <div class="w-100 d-none d-md-block d-lg-none"><!-- wrap every 2 on md--></div>  
+	                <div class="hidden-lg-up" style="margin-bottom:50px; margin-top:10px;">  
+	                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	                    <!-- HORIZONTAL_PEQUENIO -->
+	                    <ins class="adsbygoogle"
+	                         style="display:inline-block;width:320px;height:100px"
+	                         data-ad-client="ca-pub-8000076722057083"
+	                         data-ad-slot="6771850198"></ins>
+	                    <script>
+	                    	(adsbygoogle = window.adsbygoogle || []).push({});
+	                    </script>
+	                </div>  
+                </div>
+            </div>                        
+
+            <div class="col-lg-1 col-xs-0 hidden-lg-down" id="sidebar2" style="margin-top:50px; ">
+                <div class="container-fluid">
+                    <div id="myCarousel2" class="carousel slide bg-inverse hidden-md-down"   style="width: 150px; margin-top:-50px; left:-20px;"  data-ride="carousel" >
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel2" data-slide-to="0" class=""></li>
+                            <li data-target="#myCarousel2" data-slide-to="1" class="active"></li>
+                            <li data-target="#myCarousel2" data-slide-to="2" class=""></li>
+                            <li data-target="#myCarousel2" data-slide-to="3" class=""></li>                            
+                        </ol>
+                        <div class="carousel-inner"  role="listbox">
+                            <div class="carousel-item active" data-interval="500">
+                                <img class="d-block img-fluid ml-auto mr-auto" style="max-height: 150px; max-width : 150px;" src="imags/Main/mi_ciudad.jpg" alt="First slide">
+                            </div>
+                            <div class="carousel-item" data-interval="500">
+                                <img class="d-block img-fluid ml-auto mr-auto" style="max-height: 150px; max-width : 150px;" src="imags/Main/mi_pueblo.jpg" alt="Second slide">
+                            </div>
+                            <div class="carousel-item" data-interval="500">
+                                <img class="d-block img-fluid ml-auto mr-auto" style="max-height: 150px; max-width : 150px;" src="imags/Main/canarias.jpg" alt="Third slide">
+                            </div>
+                            <div class="carousel-item" data-interval="500">
+                                <img class="d-block img-fluid ml-auto mr-auto" style="max-height: 150px; max-width : 150px;" src="imags/Main/rutas_senderistas.jpg" alt="Fourth slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#myCarousel2" data-slide="prev">
+                            <span class="carousel-control-prev-icon" ></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#myCarousel2" data-slide="next">
+                            <span class="carousel-control-next-icon"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>              
                 <div class="sidebar-module text-right"  >
                     <a href="https://www.degiro.es/amigo-invita-amigo/empezar-a-invertir.html?id=3OGJ8RBP&referral_name=SERGIO%20L%C3%93PEZ%20MART%C3%8DNEZ"><img class="img-fluid"  src="imags/banners/degiro_vertical.png" id="degiro" alt="banner"/></a>
-                    <br /><br />
-
-                
-
-                    <a href="https://transferwise.com/u/1bbfd"><img  src="imags/banners/transferwise.jpg"  alt="transferwise"/></a><br />
 				</div>
             </div>
 		</div>	
-        <nav aria-label="Page navigation" class="pagination justify-content-center justify-content-lg-center" style="margin-top: 120px;" >
+        <nav aria-label="Page navigation" class="pagination justify-content-center justify-content-lg-center" style="margin-bottom: -127px; margin-top:133px" >
             <ul class="pagination ">
                 <li class="page-item disabled">
                     <a class="page-link" href="#" tabindex="-1">Anterior</a>
@@ -286,22 +284,19 @@
         </nav>
         <hr>
         <footer>
-            <div class="container" style="padding-top: 0; margin-top:0px">
+            <div class="container" style="padding-top: 0; margin-top:100px">
                 <div class="row">
                     <div class="col-md-4 col-sm-6 footerleft ">
                         <div class="logofooter"><img class="img-fluid right_l" src="imags/Main/logo_transparente.png" alt="logo"/> </div>
                         <p>Sitio web personal de Sergio LM. Experiencias, viajes, rutas senderistas y mucho más.</p>
-                        <ul class="bottom_ul">
+                        <ul class="bottom_ul" style="margin-top:-20px;">
                             <li><a href="avisolegal_es.html">Aviso Legal</a></li>
                             <li><a href="aboutme_es.html">Sobre Mi</a></li>
                             <li><a href="blog_01_es.html">Blog</a></li>
                             <li><a href="contactme_es.html">Contacto</a></li>
-                            <li><a href="#">Faq's</a></li>
-                            <li><a href="#">Site Map</a></li>
                         </ul>
                     </div>
-                    <div class="col-md-3 col-sm-6 paddingtop-bottom hidden-md-down">
-                        <h6 class="heading7">ULTIMOS POSTS</h6>
+                    <div class="col-md-4 col-sm-6 paddingtop-bottom hidden-md-down" style="margin-top:20px;">
                         <div class="text-left">
                             <a href="https://plus.google.com/108456074028547332093"><img class="icono_f" src="imags/icons/footer-google+.png" alt=google+_footer /></a>                           
                             <a href="https://www.facebook.com/Diariodeuningeniero-643060745845646/"><img class="icono_f" src="imags/icons/footer-fb.png" alt=facebook_footer /></a> 
@@ -311,7 +306,7 @@
                             <p>Nueva Página de Facebook, Diariodeuningeniero <span>1 Agosto,2017</span></p>
                         </div>
                     </div>
-                    <div class="col-md-3 col-sm-6 paddingtop-bottom">
+                    <div class="col-md-4 col-sm-6 paddingtop-bottom" style="margin-top:20px;">
                         <div class="fb-page"
                             data-href="https://www.facebook.com/Diariodeuningeniero-643060745845646/"
                             data-width="380"
@@ -327,16 +322,16 @@
                 </div>
             </div>
         </footer>
-        <div class="wrapper hidden-lg-up"  id="social_footer" style=" position:fixed; height:60px; bottom: 0; right:60px; margin-bottom: 0; padding-top:20px; transition: height 0.3s linear 0s, padding 0.3s linear 0s; overflow:hidden;">
+        <div class="wrapper hidden-lg-up"  id="social_footer" style=" position:fixed; height:60px;  margin-bottom: 0; padding-top:20px; transition: height 0.3s linear 0s, padding 0.3s linear 0s; overflow:hidden;">
             <div class="fb-send icono" data-href="www.diariodeuningeniero.com/blog_01_es.html"></div>
             <a href="rss/general_rss.xml"><img class="icono" src="imags/icons/icon-rss.png"></a>
             <a href="http://twitter.com/home?status=Bienvenido a mi blog+www.diariodeuningeniero.com/blog_01_es.html"><img class="icono" src="imags/icons/icon-twitter.png"></a>
             <a href="whatsapp://send?text= www.diariodeuningeniero/blog_01_es.html" data-text="Bienvenido a mi blog-by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono pull-right" src="imags/icons/icon-whatsapp.png"></a>
         </div>
         <!-- footer start from here-->
-        <div class="copyright">
+        <div class="copyright" style="margin-top:-10px; margin-bottom:-50px ">
             <div class="container">
-                <div class="col-md-6">
+                <div class="col-12">
                     <p>© 2016 - All Rights Reserved - Diseñada por Sergio López Martínez</p>
                 </div>
             </div>
