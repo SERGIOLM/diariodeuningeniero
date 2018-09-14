@@ -8,19 +8,19 @@
 	"buffers":
 	[
 		{
-			"file": "eco18_usa_china_es.html",
+			"file": "eco18_usa_korea_es.html",
 			"settings":
 			{
-				"buffer_size": 20701,
+				"buffer_size": 21652,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "eco18_usa_korea_es.html",
+			"file": "eco18_referendum_cat_en.html",
 			"settings":
 			{
-				"buffer_size": 21652,
+				"buffer_size": 31648,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -79,26 +79,40 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_FEDrateschanges_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_referendum_cat_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_04_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_04_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_03_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_03_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_02_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_02_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_01_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_01_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_main_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_usa_china_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_usa_korea_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_usa_china_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_usa_china_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_usa_china_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_usa_korea_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_usa_korea_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_04_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_04_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_BTC_bubble_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_BTC_bubble_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_BTC_bubble_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_BTC_bubble_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_trescantos_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_house_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_idiom_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_main_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_markets_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_social_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_telecoms_es.html",
@@ -144,8 +158,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_confital_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guayadeque_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_sindice_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_ciudad_es.html",
@@ -172,7 +184,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_toulouse_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_health_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_health_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_markets_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_social_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_telecoms_en.html",
@@ -195,18 +206,7 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_galdar_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_palmas_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_tejeda_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_teror_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_lindice_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_main_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_brigidateror_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_charco_azul_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_confital_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guayadeque_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_sindice_en.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_teror_en.html"
 	],
 	"find":
 	{
@@ -217,6 +217,8 @@
 		"height": 105.0,
 		"where_history":
 		[
+			"",
+			"ecodiario_es_mv",
 			""
 		]
 	},
@@ -225,6 +227,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"eco_diario_en_mv",
+			"eco_diario_es_mv",
+			"            <div class=\"row hidden-lg-down\" style=\"height:150px;\">\n                    </div>      ",
 			"eco17_BTC_bubble_es",
 			"<a class=\"nav-link\" href=\"blog_02_es.html\">Mi Blog</a>",
 			"<a class=\"nav-link\" href=\"blog_02_es.html\">Mi Blog</a>                       ",
@@ -349,10 +354,7 @@
 			"enable_page_level_ads: true\n",
 			"\n    enable_page_level_ads: true\n",
 			"<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({\n    google_ad_client: \"ca-pub-2986601773010447\",\n    enable_page_level_ads: true\n  });\n</script>",
-			"                    <div class=\"col-md-3 col-sm-6 paddingtop-bottom hidden-md-down\">",
-			"                        <h6 class=\"heading7\">ULTIMOS POSTS</h6>",
-			"p>",
-			"<a class=\"nav-link\" href=\"#\">Mi Blog<span class=\"sr-only\">(current)</span></a>"
+			"                    <div class=\"col-md-3 col-sm-6 paddingtop-bottom hidden-md-down\">"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -360,6 +362,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"ecodiario_en_mv\n<html lang=\"es\">\n    <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n        <meta name=\"description\" content=\"Blog de diario de un ingeniero, analisis economicos\"/>\n        <meta name=\"author\" content=\"Sergio Lopez Martinez\">\n        <link rel=\"icon\" type=\"image/png\" href=\"favicons/favicon_emprender.png\" />\n        <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n        <meta name=\"robots\" content=\"index, follow\" />\n        <meta name=\"keywords\" content=\"diariodeuningeniero, blog diario de un ingeniero,  analisis economicos, analisis de valores, analisis anual economico, analisis economicos, hechos relevantes año\" />\n        <meta name=\"twync_verified\" content=\"eaf0c97332671011a7b81aae9825e97630fb2160\" />\n        <title>Diario de un Ingeniero - Blog Economia - Web Site By Sergio Lopez Design </title>\n        <link href=\"css/style_s.css\" rel=\"stylesheet\" type=\"text/css\" media=\"screen\">\n        <!-- Bootstrap core CSS -->\n        <link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css\" rel=\"stylesheet\">\n    </head>\n\t<body>\n\t\t<header>\n            <nav class=\"navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top \">\n                <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarsExampleDefault\" aria-controls=\"navbarsExampleDefault\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                <span class=\"navbar-toggler-icon\"></span>\n                </button>\n                <img  class=\"img-fluid hidden-lg-up\" src=\"imags/banners/eco_diario_es_mv.jpg\" alt=”Logo” />\n                <div class=\"container-fluid  img-fluid  hidden-lg-up row\" style=\"height: 40px;\">                    \n                    <a class=\"navbar-brand\" href=\"blog_02_es.html\">Blog</a>\n                    <a class=\"btn btn-primary navbar-toggler navbar-toggler-left hidden-lg-up\" type=\"button\" data-toggle=\"offcanvas\"  aria-controls=\"sidebar\"\n                        aria-expanded=\"false\" aria-label=\"Toggle navigation\" style=\"height:30px;  top:1%; left:1%; position:fixed; z-index:6;\" >\n                        <span class=\"navbar-toggler-icon\"></span>\n                    </a>\n                    <a><img class=\"offset-1 icono_s\" src=\"imags/icons/sp0.jpg\" alt=”ESP_LANGUAGUE” /></a>\n                    <a href=\"eco_04_en.html\"><img class=\"icono_s\" src=\"imags/icons/en.jpg\" alt=”ENG_LANGUAGUE” /></a>\n                </div>\n                <div class=\"collapse navbar-collapse\" id=\"navbarsExampleDefault\">\n                    <ul class=\"navbar-nav mr-auto\">\n                        <li class=\"nav-item active\">\n                            <a class=\"nav-link\" href=\"blog_02_es.html\">Personal Blog<span class=\"sr-only\">(current)</span></a>\n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"dropdown01\" data-toggle=\"dropdown\" aria-expanded=\"false\">Emprender fuera</a>\n                            <div class=\"dropdown-menu\" aria-labelledby=\"dropdown01\">\n                                <a class=\"dropdown-item\" href=\"wa_uk_main_es.html\">Inglaterra</a>\n                                <a class=\"dropdown-item\" href=\"wa_fr_main_es.html\">Francia</a>\n                            </div>\n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"dropdown02\" data-toggle=\"dropdown\" aria-expanded=\"false\">Mis Sitios</a>\n                            <div class=\"dropdown-menu\" aria-labelledby=\"dropdown02\">\n                                <a class=\"dropdown-item\" href=\"gu_main_es.html\">Guadalajara</a>\n                                <a class=\"dropdown-item disabled\" href=\"#\">El Bierzo</a>\n                                <a class=\"dropdown-item\" href=\"gc_main_es.html\">Canarias</a>\n                            </div>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"aboutme_es.html\">Sobre mi</a>\n                        </li>\n                    </ul>\n                </div>\n            </nav>\n            <div class=\"container-fluid  hidden-md-down\"\n\n                style=\"\n                background-size: cover;\n                background:url('imags/banners/ecodiario_es.jpg') center no-repeat; margin-top:50px;\"\n                >\n                <a><img src=\"imags/icons/sp0.jpg\" alt=”ESP_LANGUAGUE” /></a><br>\n                <a href=\"eco_04_en.html\"><img src=\"imags/icons/en.jpg\" alt=”ENG_LANGUAGUE” /></a>\n            </div>\n            <div class=\"container-fluid\">\n                <div id=\"myCarousel\" class=\"carousel slide bg-inverse hidden-md-up\" style=\"max-height: 500px; margin-bottom:10px; margin-top:80px\"  data-ride=\"carousel\">\n                    <ol class=\"carousel-indicators\">\n                        <li data-target=\"#myCarousel\" data-slide-to=\"0\" class=\"\"></li>\n                        <li data-target=\"#myCarousel\" data-slide-to=\"1\" class=\"active\"></li>\n                        <li data-target=\"#myCarousel\" data-slide-to=\"2\" class=\"\"></li>\n                        <li data-target=\"#myCarousel\" data-slide-to=\"3\" class=\"\"></li>                        \n                    </ol>\n                    <div class=\"carousel-inner\" role=\"listbox\">\n                        <div class=\"carousel-item\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/analisis_macro.jpg\" alt=\"First slide\">\n                        </div>\n                        <div class=\"carousel-item active\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/analisis_global.jpg\" alt=\"Second slide\">\n                        </div>\n                        <div class=\"carousel-item\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/analisis_materias_primas.jpg\" alt=\"Third slide\">\n                        </div>\n                        <div class=\"carousel-item\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/comportamiento_mercado.jpg\" alt=\"Fourth slide\">\n                        </div>\n                    </div>\n                    <a class=\"carousel-control-prev\" href=\"#myCarousel\" data-slide=\"prev\">\n                        <span class=\"carousel-control-prev-icon\" ></span>\n                        <span class=\"sr-only\">Previous</span>\n                    </a>\n                    <a class=\"carousel-control-next\" href=\"#myCarousel\" data-slide=\"next\">\n                        <span class=\"carousel-control-next-icon\"></span>\n                        <span class=\"sr-only\">Next</span>\n                    </a>\n                </div>                                  \n            </div>\n        </header>\n        <a href=\"#inicial\"><img class=\"hidden-md-down\" style=\"height:60px;  top:700px; right:25%; position:fixed; z-index:6;\" src=\"imags/icons/arrow.png\"></a>\n        <a href=\"#inicial\"><img class=\"hidden-lg-up\"   style=\"height:30px;  top:700px; right:5%;  position:fixed; z-index:6;\" src=\"imags/icons/arrow.png\"></a>\n        <div id=\"inicial\" class=\"row row-offcanvas row-offcanvas-left\" style=\"top:0px; margin-bottom: -300px;\">            \n            <div class=\"col-lg-0 col-md-0 col-sm-0  sidebar-offcanvas\" id=\"sidebar\" style=\"margin-top:10px; margin-left:30px; \">\n                <div class=\"sidebar-module text-left\"  >\n                    <a href=\"http://www.feedvalidator.org/check.cgi?url=http%3A//www.diariodeuningeniero.com/rss/general_rss.xml\"><img src=\"https://www.feedvalidator.org/images/valid-rss-rogers.png\" alt=\"[Valid RSS]\" title=\"Validate my RSS feed\" /></a>\n                    <br />\n                    <div class=\"g-person\" data-width=\"140\" data-href=\"//plus.google.com/u/0/108456074028547332093\" data-theme=\"dark\" data-rel=\"author\"></div><br />\n                    <div class=\"fb-page\" data-href=\"https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/\" data-width=\"150\" data-small-header=\"true\" data-adapt-container-width=\"true\" data-hide-cover=\"false\" data-show-facepile=\"true\"><blockquote cite=\"https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/\" class=\"fb-xfbml-parse-ignore\"><a href=\"https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/\">Diariodeuningeniero</a></blockquote></div><br />\n                    <div class=\"fb-follow\" data-href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\" data-width=\"140\" data-layout=\"standard\" data-size=\"small\" data-show-faces=\"true\"></div><br />\n                    <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n                    <!-- VERTICAL_PEQUEÑO -->\n                    <ins class=\"adsbygoogle\"\n                         style=\"display:inline-block;width:180px;height:150px\"\n                         data-ad-client=\"ca-pub-8000076722057083\"\n                         data-ad-slot=\"7162252801\"></ins>\n                    <script>\n                        (adsbygoogle = window.adsbygoogle || []).push({});\n                    </script>\n                </div>\n            </div>  \n         \n            <div class=\"col-12 col-lg-9 col-md-8 col-xs-12\" style=\"text-align:justify; top:5px;\">    \n                <div class=\"card-deck\">\n                    <div class=\"card mb-4\"\n                        style=\"height:280px; \n                        background: url(imags/eco/blog18_canarias.jpg) top center scroll\">\n                        <div id=\"image6\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Nueva sección Canarias<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Agosto 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f hidden-md-down\" id=\"card_body6\" >\n                                Tras mi vuelta de Canarias decidi incluir una sección sobre esta maravillosa isla llamada ...\n                            </div>\n                        </div>\n                        <a id=\"button6\" href=\"gc_main_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image6')\" onmouseout=\"change_imagen2('image6')\" data-target=\"#image6\">Leer más</a>\n                    </div>   \n                    <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco18_BTC_bubble_burst.jpg)  top center scroll\">\n                        <div id=\"image5\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">El pinchazo del Bitcoin<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Abril 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body5\" >\n                                A inicios de Enero comenzaría la correción del Bitcoin que acabaría dejando un retroceso del ...\n                            </div>\n                        </div>\n                        <a id=\"button5\" href=\"eco17_BTC_bubble_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image5')\" onmouseout=\"change_imagen2('image5')\" data-target=\"#image5\">Leer más</a>\n                    </div>\n                    <div class=\"w-100 d-none d-sm-block d-md-none\"><!-- wrap every 2 on sm--></div>\n                    <div class=\"w-100 d-none d-md-block d-lg-none\"><!-- wrap every 2 on md--></div>\n                     <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco17_usa_china.jpg) top center scroll;\">\n                        <div id=\"image4\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Guerra comercial con China<button type=\"button\"  class=\"btn btn-info btn-sm card_button_h\"1 Abril 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body4\" >\n\t                     \t\tDespues de las tensiones pasadas llegaría por fin un autentico terremoto con los aranceles....\n                            </div>\n                        </div>\n                        <a id=\"button4\" href=\"eco18_usa_china_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image4')\" onmouseout=\"change_imagen2('image4')\" data-target=\"#image4\">Leer más</a>\n                    </div> \n                     <div class=\"w-100 d-none d-lg-block d-xl-none\"><!-- wrap every 4 on lg--></div>\n                     <div class=\"w-100 d-none d-xl-block\"><!-- wrap every 4 on xl--></div>                \n                    <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco18_cataluña_fuga.jpg) top center scroll\">\n                        <div id=\"image3\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Fuga de empresas en Cataluña<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Febrero 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body3\" >\n                                Muchas empresas catalanas no pudieron soportar más la perdida de clientes o bajada de ventas y  ...\n                            </div>\n                        </div>\n                        <a id=\"button3\" href=\"eco18_referendum_cat_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image3')\" onmouseout=\"change_imagen2('image3')\" data-target=\"#image3\">Leer más</a>\n                    </div>  \n                    <div class=\"w-100 d-none d-sm-block d-md-none\"><!-- wrap every 2 on sm--></div>\n                    <div class=\"w-100 d-none d-md-block d-lg-none\"><!-- wrap every 2 on md--></div>\n                    <div  class=\"card mb-4 text-left\"\n                        style=\"height:280px; \n                        background: url(imags/eco/eco17_abengoa.jpg)  top center scroll\">\n                        <div id=\"image2\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Abengoa dialogando con los impugnantes <button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Febrero 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body2\" >\n\t\t\t\t\t\t\t\tAbengoa, con mucho camino aún para la recuperación tenía un escollo que salvar ...\n                            </div>\n                        </div>\n                        <a id=\"button2\" href=\"eco17_popular_es.html\" class=\"disabled btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image2')\" onmouseout=\"change_imagen2('image2')\" data-target=\"#image2\">Leer más</a>\n                    </div>                   \n                    <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco17_usa_korea.jpg)  top center scroll\">\n                        <div id=\"image1\" >\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Tregua con corea<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Febrero 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body1\" >\n\t\t\t\t\t\t\t\tTras ver la mayor confrontación de la historia entre USA y Corea pocos pensaban lo que ...\n                            </div>\n                        </div>\n                        <a id=\"button1\" href=\"eco18_usa_korea_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image1')\" onmouseout=\"change_imagen2('image1')\" data-target=\"#image1\">Leer más</a>\n                    </div>\n                     <div class=\"w-100 d-none d-lg-block d-xl-none\"><!-- wrap every 4 on lg--></div>\n                     <div class=\"w-100 d-none d-xl-block\"><!-- wrap every 4 on xl--></div>\n                     <div class=\"w-100 d-none d-sm-block d-md-none\"><!-- wrap every 2 on sm--></div>\n                    <div class=\"w-100 d-none d-md-block d-lg-none\"><!-- wrap every 2 on md--></div>  \n\t                <div class=\"hidden-lg-up\" style=\"margin-bottom:50px; margin-top:10px;\">  \n\t                    <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t                    <!-- HORIZONTAL_PEQUENIO -->\n\t                    <ins class=\"adsbygoogle\"\n\t                         style=\"display:inline-block;width:320px;height:100px\"\n\t                         data-ad-client=\"ca-pub-8000076722057083\"\n\t                         data-ad-slot=\"6771850198\"></ins>\n\t                    <script>\n\t                    \t(adsbygoogle = window.adsbygoogle || []).push({});\n\t                    </script>\n\t                </div>  \n                </div>\n                <div class=\"row hidden-lg-down\" style=\"height:150px;\">\n                </div>\n            </div>                        \n\n            <div class=\"col-lg-1 col-xs-0 hidden-lg-down\" id=\"sidebar2\" style=\"margin-top:50px; \">\n                <div class=\"container-fluid\">\n                    <div id=\"myCarousel2\" class=\"carousel slide bg-inverse hidden-md-down\"   style=\"width: 150px; margin-top:-50px; left:-20px;\"  data-ride=\"carousel\" >\n                        <ol class=\"carousel-indicators\">\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"0\" class=\"\"></li>\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"1\" class=\"active\"></li>\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"2\" class=\"\"></li>\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"3\" class=\"\"></li>                            \n                        </ol>\n                        <div class=\"carousel-inner\"  role=\"listbox\">\n                            <div class=\"carousel-item active\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/analisis_macro.jpg\" alt=\"First slide\">\n                            </div>\n                            <div class=\"carousel-item\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/analisis_global.jpg\" alt=\"Second slide\">\n                            </div>\n                            <div class=\"carousel-item\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/analisis_materias_primas.jpg\" alt=\"Third slide\">\n                            </div>\n                            <div class=\"carousel-item\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/comportamiento_mercado.jpg\" alt=\"Fourth slide\">\n                            </div>\n                        </div>\n                        <a class=\"carousel-control-prev\" href=\"#myCarousel2\" data-slide=\"prev\">\n                            <span class=\"carousel-control-prev-icon\" ></span>\n                            <span class=\"sr-only\">Previous</span>\n                        </a>\n                        <a class=\"carousel-control-next\" href=\"#myCarousel2\" data-slide=\"next\">\n                            <span class=\"carousel-control-next-icon\"></span>\n                            <span class=\"sr-only\">Next</span>\n                        </a>\n                    </div>\n                </div>              \n                <div class=\"sidebar-module text-right\"  >\n                    <a href=\"https://www.degiro.es/amigo-invita-amigo/empezar-a-invertir.html?id=3OGJ8RBP&referral_name=SERGIO%20L%C3%93PEZ%20MART%C3%8DNEZ\"><img class=\"img-fluid\"  src=\"imags/banners/degiro_vertical.png\" id=\"degiro\" alt=\"banner\"/></a>\n\t\t\t\t</div>\n            </div>\n\t\t</div>\t\n        <nav aria-label=\"Page navigation\" class=\"pagination justify-content-center justify-content-lg-center\" style=\"margin-bottom: -127px; margin-top:133px\" >\n            <ul class=\"pagination \">\n                <li class=\"page-item disabled\">\n                    <a class=\"page-link\" href=#\" tabindex=\"-1\">Anterior</a>\n                </li>\n\t\t\t\t <li class=\"page-item active\">\n                    <a class=\"page-link\" href=\"#\">4<span class=\"sr-only\">(current)</span></a>\n                </li>\t\n                <li class=\"page-item\">\n                    <a class=\"page-link\" href=\"eco_03_es.html\">3</a>\n                </li>\t\t\t\t\t\n                <li class=\"page-item\">\n                    <a class=\"page-link\" href=\"#\">...</a>\n                </li>\t\t\t\t\n                <li class=\"page-item\">\n                    <a class=\"page-link\" href=\"eco_01_es.html\">1</a>\n                </li>\n                <li class=\"page-item \">\n                    <a class=\"page-link\" href=\"eco_03_es.html\">Siguiente</a>\n                </li>\n            </ul>\n        </nav>\n        <hr>\n        <footer>\n            <div class=\"container\" style=\"padding-top: 0; margin-top:100px\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal de Sergio LM. Experiencias, viajes, rutas senderistas y mucho más.</p>\n                        <ul class=\"bottom_ul\" style=\"margin-top:-20px;\">\n                            <li><a href=\"avisolegal_es.html\">Aviso Legal</a></li>\n                            <li><a href=\"aboutme_es.html\">Sobre Mi</a></li>\n                            <li><a href=\"blog_01_es.html\">Blog</a></li>\n                            <li><a href=\"contactme_es.html\">Contacto</a></li>\n                        </ul>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6 paddingtop-bottom hidden-md-down\" style=\"margin-top:20px;\">\n                        <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>                           \n                        <div class=\"post\">\n                            <p>Nueva Página de Facebook, Diariodeuningeniero <span>1 Agosto,2017</span></p>\n                        </div>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6 paddingtop-bottom\" style=\"margin-top:20px;\">\n                        <div class=\"fb-page\"\n                            data-href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"\n                            data-width=\"380\"\n                            data-hide-cover=\"false\"\n                            data-show-facepile=\"false\">\n                        </div>\n                        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\" ><br />\n                            <input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n                            <input type=\"hidden\" name=\"encrypted\" value=\"-&#45;&#45;&#45;&#45;BEGIN PKCS7-&#45;&#45;&#45;&#45;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-&#45;&#45;&#45;&#45;END PKCS7-&#45;&#45;&#45;&#45;\">\n                            <input type=\"image\" src=\"imags/banners/paypal_donation.jpg\"  name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\" height=\"30px\" width=\"120px\" align=\"center\">\n                        </form>                        \n                    </div>\n                </div>\n            </div>\n        </footer>\n        <div class=\"wrapper hidden-lg-up\"  id=\"social_footer\" style=\" position:fixed; height:60px; bottom: 0; right:60px; margin-bottom: 0; padding-top:20px; transition: height 0.3s linear 0s, padding 0.3s linear 0s; overflow:hidden;\">\n            <div class=\"fb-send icono\" data-href=\"www.diariodeuningeniero.com/eco_04_es.html\"></div>\n            <a href=\"rss/general_rss.xml\"><img class=\"icono\" src=\"imags/icons/icon-rss.png\"></a>\n            <a href=\"http://twitter.com/home?status=Noticias Economia 2018 (4)+www.diariodeuningeniero.com/eco_04_es.html\"><img class=\"icono\" src=\"imags/icons/icon-twitter.png\"></a>\n            <a href=\"whatsapp://send?text= www.diariodeuningeniero/eco_04_es.html\" data-text=\"Noticias Economia 2018 (4)-by diariodeuningeniero\" data-action=\"share/whatsapp/share\"><img class=\"icono pull-right\" src=\"imags/icons/icon-whatsapp.png\"></a>\n        </div>\n        <!-- footer start from here-->\n        <div class=\"copyright\" style=\"margin-top:-10px; margin-bottom:-50px \">\n            <div class=\"container\">\n                <div class=\"col-12\">\n                    <p>© 2016 - All Rights Reserved - Diseñada por Sergio López Martínez</p>\n                </div>\n            </div>\n        </div>\n        <!-- Bootstrap core JavaScript\n        ================================================== -->\n        <!-- Placed at the end of the document so the pages load faster -->\n        <script src=\"https://code.jquery.com/jquery-3.1.1.slim.min.js\" integrity=\"sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n\"></script>\n        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js\" integrity=\"sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb\"></script>\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js\"></script>\n        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->\n        <script src=\"https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js\"></script>\n        <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js\"></script>\n        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js\"></script>\n        <!--\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/tether.min.js\" integrity=\"sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n\" crossorigin=\"anonymous\"></script>\n        <script>window.jQuery || document.write('<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/jquery-slim.min.js\"><\\/script>')</script>\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/tether.min.js\" integrity=\"sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb\" crossorigin=\"anonymous\"></script>\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/dist/js/bootstrap.min.js\"></script>\n        &lt;!&ndash; IE10 viewport hack for Surface/desktop Windows 8 bug &ndash;&gt;\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/ie10-viewport-bug-workaround.js\"></script>\n        &lt;!&ndash; Popper &ndash;&gt;\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/popper.min.js\" integrity=\"sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4\" crossorigin=\"anonymous\"></script>\n        -->\n        <!-- OTHER SCRIPTS*/    -->\n\t\t<!-- 1 GOOGLE ADDS*/    -->\n\t\t<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t\t<script>\n\t\t  (adsbygoogle = window.adsbygoogle || []).push({\n\t\t    google_ad_client: \"ca-pub-8000076722057083\",\n\t\t    enable_page_level_ads: true\n\t\t  });\n\t\t</script>   \n        <script type=\"text/javascript\">\n        function change_imagen(id) {\n        document.getElementById(id).style.zIndex = -1;\n        }\n        function change_imagen2(id) {\n        document.getElementById(id).style.zIndex = 1;\n        }\n        </script>\n\t\t<!-- 2 PROFILE*/    -->\n        <script type=\"text/javascript\">\n        $('[data-toggle=\"offcanvas\"]').click(function () {\n        $('.row-offcanvas').toggleClass('active')\n        });\n        </script>\n\t\t<!-- 3 PROFILE*/    -->\n        <!-- Initialize Bootstrap functionality-->\n        <script>\n        // /*Initialize tooltip component*/\n        $(function () {\n        $('[data-toggle=\"tooltip\"]').tooltip()\n        });\n        // Initialize popover component\n        $(function () {\n        $('[data-toggle=\"popover\"]').popover()\n        })\n        </script>\n        <!-- 4 SCRIPTS ADD DEGIRO. -->\n        <script>\n        /*Array con las imagenes que se iran mostrando en la web*/\n        var imagenes=['imags/banners/degiro_vertical.png',\n        'imags/banners/degiro_vertical2.png'];\n        /*Funcion para cambiar la imagen*/\n        function rotarImagenes()\n        {\n        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay\n        var index=Math.floor((Math.random()*imagenes.length));\n        // cambiamos la imagen\n        document.getElementById(\"degiro\").src=imagenes[index];\n        }\n        /*Función que se ejecuta una vez cargada la página*/\n        onload=function()\n        {\n        // Cargamos una imagen aleatoria\n        rotarImagenes();\n        // Indicamos que cada 5 segundos cambie la imagen\n        setInterval(rotarImagenes,5000);\n        }\n        </script>\n        <!-- 5 SCRIPTS REDES SOCIALES. -->\n        <!-- Inserta esta etiqueta en la sección \"head\" o justo antes de la etiqueta \"body\" de cierre. -->\n        <div id=\"fb-root\"></div>\n        <script>\n        (function(d, s, id) {\n        var js, fjs = d.getElementsByTagName(s)[0];\n        if (d.getElementById(id)) return;\n        js = d.createElement(s); js.id = id;\n        js.src = \"//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8\";\n        fjs.parentNode.insertBefore(js, fjs);\n        }(document, 'script', 'facebook-jssdk'));\n        </script>\n        <script src=\"https://apis.google.com/js/platform.js\" async defer>\n        {'es'}\n        </script>\n        <script type=\"text/javascript\">\n        window.___gcfg = {lang: 'es'};\n        (function() {\n        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n        po.src = 'https://apis.google.com/js/platform.js';\n        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n        })();\n        </script>\n        <script>\n        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';\n        if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';\n        fjs.parentNode.insertBefore(js,fjs);\n        }}(document, 'script', 'twitter-wjs');\n        </script>\n        <script type=\"text/javascript\">\n        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';\n        if(!d.getElementById(id)){js=d.createElement(s);\n        js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");\n        </script>\n        <!-- 6 SCRIPT estadisticas -->\n        <script>\n        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n        ga('create', 'UA-90367288-1', 'auto');\n        ga('send', 'pageview');\n        </script>\n    </body>\n            <div class=\"row hidden-lg-down\" style=\"height:170px;\">",
+			"ecodiario_es_mv\n<html lang=\"es\">\n    <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n        <meta name=\"description\" content=\"Blog de diario de un ingeniero, analisis economicos\"/>\n        <meta name=\"author\" content=\"Sergio Lopez Martinez\">\n        <link rel=\"icon\" type=\"image/png\" href=\"favicons/favicon_emprender.png\" />\n        <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n        <meta name=\"robots\" content=\"index, follow\" />\n        <meta name=\"keywords\" content=\"diariodeuningeniero, blog diario de un ingeniero,  analisis economicos, analisis de valores, analisis anual economico, analisis economicos, hechos relevantes año\" />\n        <meta name=\"twync_verified\" content=\"eaf0c97332671011a7b81aae9825e97630fb2160\" />\n        <title>Diario de un Ingeniero - Blog Economia - Web Site By Sergio Lopez Design </title>\n        <link href=\"css/style_s.css\" rel=\"stylesheet\" type=\"text/css\" media=\"screen\">\n        <!-- Bootstrap core CSS -->\n        <link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css\" rel=\"stylesheet\">\n    </head>\n\t<body>\n\t\t<header>\n            <nav class=\"navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top \">\n                <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarsExampleDefault\" aria-controls=\"navbarsExampleDefault\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                <span class=\"navbar-toggler-icon\"></span>\n                </button>\n                <img  class=\"img-fluid hidden-lg-up\" src=\"imags/banners/eco_diario_es_mv.jpg\" alt=”Logo” />\n                <div class=\"container-fluid  img-fluid  hidden-lg-up row\" style=\"height: 40px;\">                    \n                    <a class=\"navbar-brand\" href=\"blog_02_es.html\">Blog</a>\n                    <a class=\"btn btn-primary navbar-toggler navbar-toggler-left hidden-lg-up\" type=\"button\" data-toggle=\"offcanvas\"  aria-controls=\"sidebar\"\n                        aria-expanded=\"false\" aria-label=\"Toggle navigation\" style=\"height:30px;  top:1%; left:1%; position:fixed; z-index:6;\" >\n                        <span class=\"navbar-toggler-icon\"></span>\n                    </a>\n                    <a><img class=\"offset-1 icono_s\" src=\"imags/icons/sp0.jpg\" alt=”ESP_LANGUAGUE” /></a>\n                    <a href=\"eco_04_en.html\"><img class=\"icono_s\" src=\"imags/icons/en.jpg\" alt=”ENG_LANGUAGUE” /></a>\n                </div>\n                <div class=\"collapse navbar-collapse\" id=\"navbarsExampleDefault\">\n                    <ul class=\"navbar-nav mr-auto\">\n                        <li class=\"nav-item active\">\n                            <a class=\"nav-link\" href=\"blog_02_es.html\">Personal Blog<span class=\"sr-only\">(current)</span></a>\n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"dropdown01\" data-toggle=\"dropdown\" aria-expanded=\"false\">Emprender fuera</a>\n                            <div class=\"dropdown-menu\" aria-labelledby=\"dropdown01\">\n                                <a class=\"dropdown-item\" href=\"wa_uk_main_es.html\">Inglaterra</a>\n                                <a class=\"dropdown-item\" href=\"wa_fr_main_es.html\">Francia</a>\n                            </div>\n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"dropdown02\" data-toggle=\"dropdown\" aria-expanded=\"false\">Mis Sitios</a>\n                            <div class=\"dropdown-menu\" aria-labelledby=\"dropdown02\">\n                                <a class=\"dropdown-item\" href=\"gu_main_es.html\">Guadalajara</a>\n                                <a class=\"dropdown-item disabled\" href=\"#\">El Bierzo</a>\n                                <a class=\"dropdown-item\" href=\"gc_main_es.html\">Canarias</a>\n                            </div>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"aboutme_es.html\">Sobre mi</a>\n                        </li>\n                    </ul>\n                </div>\n            </nav>\n            <div class=\"container-fluid  hidden-md-down\"\n\n                style=\"\n                background-size: cover;\n                background:url('imags/banners/ecodiario_es.jpg') center no-repeat; margin-top:50px;\"\n                >\n                <a><img src=\"imags/icons/sp0.jpg\" alt=”ESP_LANGUAGUE” /></a><br>\n                <a href=\"eco_04_en.html\"><img src=\"imags/icons/en.jpg\" alt=”ENG_LANGUAGUE” /></a>\n            </div>\n            <div class=\"container-fluid\">\n                <div id=\"myCarousel\" class=\"carousel slide bg-inverse hidden-md-up\" style=\"max-height: 500px; margin-bottom:10px; margin-top:80px\"  data-ride=\"carousel\">\n                    <ol class=\"carousel-indicators\">\n                        <li data-target=\"#myCarousel\" data-slide-to=\"0\" class=\"\"></li>\n                        <li data-target=\"#myCarousel\" data-slide-to=\"1\" class=\"active\"></li>\n                        <li data-target=\"#myCarousel\" data-slide-to=\"2\" class=\"\"></li>\n                        <li data-target=\"#myCarousel\" data-slide-to=\"3\" class=\"\"></li>                        \n                    </ol>\n                    <div class=\"carousel-inner\" role=\"listbox\">\n                        <div class=\"carousel-item\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/analisis_macro.jpg\" alt=\"First slide\">\n                        </div>\n                        <div class=\"carousel-item active\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/analisis_global.jpg\" alt=\"Second slide\">\n                        </div>\n                        <div class=\"carousel-item\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/analisis_materias_primas.jpg\" alt=\"Third slide\">\n                        </div>\n                        <div class=\"carousel-item\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/comportamiento_mercado.jpg\" alt=\"Fourth slide\">\n                        </div>\n                    </div>\n                    <a class=\"carousel-control-prev\" href=\"#myCarousel\" data-slide=\"prev\">\n                        <span class=\"carousel-control-prev-icon\" ></span>\n                        <span class=\"sr-only\">Previous</span>\n                    </a>\n                    <a class=\"carousel-control-next\" href=\"#myCarousel\" data-slide=\"next\">\n                        <span class=\"carousel-control-next-icon\"></span>\n                        <span class=\"sr-only\">Next</span>\n                    </a>\n                </div>                                  \n            </div>\n        </header>\n        <a href=\"#inicial\"><img class=\"hidden-md-down\" style=\"height:60px;  top:700px; right:25%; position:fixed; z-index:6;\" src=\"imags/icons/arrow.png\"></a>\n        <a href=\"#inicial\"><img class=\"hidden-lg-up\"   style=\"height:30px;  top:700px; right:5%;  position:fixed; z-index:6;\" src=\"imags/icons/arrow.png\"></a>\n        <div id=\"inicial\" class=\"row row-offcanvas row-offcanvas-left\" style=\"top:0px; margin-bottom: -300px;\">            \n            <div class=\"col-lg-0 col-md-0 col-sm-0  sidebar-offcanvas\" id=\"sidebar\" style=\"margin-top:10px; margin-left:30px; \">\n                <div class=\"sidebar-module text-left\"  >\n                    <a href=\"http://www.feedvalidator.org/check.cgi?url=http%3A//www.diariodeuningeniero.com/rss/general_rss.xml\"><img src=\"https://www.feedvalidator.org/images/valid-rss-rogers.png\" alt=\"[Valid RSS]\" title=\"Validate my RSS feed\" /></a>\n                    <br />\n                    <div class=\"g-person\" data-width=\"140\" data-href=\"//plus.google.com/u/0/108456074028547332093\" data-theme=\"dark\" data-rel=\"author\"></div><br />\n                    <div class=\"fb-page\" data-href=\"https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/\" data-width=\"150\" data-small-header=\"true\" data-adapt-container-width=\"true\" data-hide-cover=\"false\" data-show-facepile=\"true\"><blockquote cite=\"https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/\" class=\"fb-xfbml-parse-ignore\"><a href=\"https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/\">Diariodeuningeniero</a></blockquote></div><br />\n                    <div class=\"fb-follow\" data-href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\" data-width=\"140\" data-layout=\"standard\" data-size=\"small\" data-show-faces=\"true\"></div><br />\n                    <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n                    <!-- VERTICAL_PEQUEÑO -->\n                    <ins class=\"adsbygoogle\"\n                         style=\"display:inline-block;width:180px;height:150px\"\n                         data-ad-client=\"ca-pub-8000076722057083\"\n                         data-ad-slot=\"7162252801\"></ins>\n                    <script>\n                        (adsbygoogle = window.adsbygoogle || []).push({});\n                    </script>\n                </div>\n            </div>  \n         \n            <div class=\"col-12 col-lg-9 col-md-8 col-xs-12\" style=\"text-align:justify; top:5px;\">    \n                <div class=\"card-deck\">\n                    <div class=\"card mb-4\"\n                        style=\"height:280px; \n                        background: url(imags/eco/blog18_canarias.jpg) top center scroll\">\n                        <div id=\"image6\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Nueva sección Canarias<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Agosto 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f hidden-md-down\" id=\"card_body6\" >\n                                Tras mi vuelta de Canarias decidi incluir una sección sobre esta maravillosa isla llamada ...\n                            </div>\n                        </div>\n                        <a id=\"button6\" href=\"gc_main_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image6')\" onmouseout=\"change_imagen2('image6')\" data-target=\"#image6\">Leer más</a>\n                    </div>   \n                    <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco18_BTC_bubble_burst.jpg)  top center scroll\">\n                        <div id=\"image5\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">El pinchazo del Bitcoin<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Abril 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body5\" >\n                                A inicios de Enero comenzaría la correción del Bitcoin que acabaría dejando un retroceso del ...\n                            </div>\n                        </div>\n                        <a id=\"button5\" href=\"eco17_BTC_bubble_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image5')\" onmouseout=\"change_imagen2('image5')\" data-target=\"#image5\">Leer más</a>\n                    </div>\n                    <div class=\"w-100 d-none d-sm-block d-md-none\"><!-- wrap every 2 on sm--></div>\n                    <div class=\"w-100 d-none d-md-block d-lg-none\"><!-- wrap every 2 on md--></div>\n                     <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco17_usa_china.jpg) top center scroll;\">\n                        <div id=\"image4\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Guerra comercial con China<button type=\"button\"  class=\"btn btn-info btn-sm card_button_h\"1 Abril 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body4\" >\n\t                     \t\tDespues de las tensiones pasadas llegaría por fin un autentico terremoto con los aranceles....\n                            </div>\n                        </div>\n                        <a id=\"button4\" href=\"eco18_usa_china_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image4')\" onmouseout=\"change_imagen2('image4')\" data-target=\"#image4\">Leer más</a>\n                    </div> \n                     <div class=\"w-100 d-none d-lg-block d-xl-none\"><!-- wrap every 4 on lg--></div>\n                     <div class=\"w-100 d-none d-xl-block\"><!-- wrap every 4 on xl--></div>                \n                    <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco18_cataluña_fuga.jpg) top center scroll\">\n                        <div id=\"image3\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Fuga de empresas en Cataluña<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Febrero 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body3\" >\n                                Muchas empresas catalanas no pudieron soportar más la perdida de clientes o bajada de ventas y  ...\n                            </div>\n                        </div>\n                        <a id=\"button3\" href=\"eco18_referendum_cat_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image3')\" onmouseout=\"change_imagen2('image3')\" data-target=\"#image3\">Leer más</a>\n                    </div>  \n                    <div class=\"w-100 d-none d-sm-block d-md-none\"><!-- wrap every 2 on sm--></div>\n                    <div class=\"w-100 d-none d-md-block d-lg-none\"><!-- wrap every 2 on md--></div>\n                    <div  class=\"card mb-4 text-left\"\n                        style=\"height:280px; \n                        background: url(imags/eco/eco17_abengoa.jpg)  top center scroll\">\n                        <div id=\"image2\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Abengoa dialogando con los impugnantes <button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Febrero 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body2\" >\n\t\t\t\t\t\t\t\tAbengoa, con mucho camino aún para la recuperación tenía un escollo que salvar ...\n                            </div>\n                        </div>\n                        <a id=\"button2\" href=\"eco17_popular_es.html\" class=\"disabled btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image2')\" onmouseout=\"change_imagen2('image2')\" data-target=\"#image2\">Leer más</a>\n                    </div>                   \n                    <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco17_usa_korea.jpg)  top center scroll\">\n                        <div id=\"image1\" >\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Tregua con corea<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Febrero 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body1\" >\n\t\t\t\t\t\t\t\tTras ver la mayor confrontación de la historia entre USA y Corea pocos pensaban lo que ...\n                            </div>\n                        </div>\n                        <a id=\"button1\" href=\"eco18_usa_korea_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image1')\" onmouseout=\"change_imagen2('image1')\" data-target=\"#image1\">Leer más</a>\n                    </div>\n                     <div class=\"w-100 d-none d-lg-block d-xl-none\"><!-- wrap every 4 on lg--></div>\n                     <div class=\"w-100 d-none d-xl-block\"><!-- wrap every 4 on xl--></div>\n                     <div class=\"w-100 d-none d-sm-block d-md-none\"><!-- wrap every 2 on sm--></div>\n                    <div class=\"w-100 d-none d-md-block d-lg-none\"><!-- wrap every 2 on md--></div>  \n\t                <div class=\"hidden-lg-up\" style=\"margin-bottom:50px; margin-top:10px;\">  \n\t                    <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t                    <!-- HORIZONTAL_PEQUENIO -->\n\t                    <ins class=\"adsbygoogle\"\n\t                         style=\"display:inline-block;width:320px;height:100px\"\n\t                         data-ad-client=\"ca-pub-8000076722057083\"\n\t                         data-ad-slot=\"6771850198\"></ins>\n\t                    <script>\n\t                    \t(adsbygoogle = window.adsbygoogle || []).push({});\n\t                    </script>\n\t                </div>  \n                </div>\n                <div class=\"row hidden-lg-down\" style=\"height:150px;\">\n                </div>\n            </div>                        \n\n            <div class=\"col-lg-1 col-xs-0 hidden-lg-down\" id=\"sidebar2\" style=\"margin-top:50px; \">\n                <div class=\"container-fluid\">\n                    <div id=\"myCarousel2\" class=\"carousel slide bg-inverse hidden-md-down\"   style=\"width: 150px; margin-top:-50px; left:-20px;\"  data-ride=\"carousel\" >\n                        <ol class=\"carousel-indicators\">\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"0\" class=\"\"></li>\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"1\" class=\"active\"></li>\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"2\" class=\"\"></li>\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"3\" class=\"\"></li>                            \n                        </ol>\n                        <div class=\"carousel-inner\"  role=\"listbox\">\n                            <div class=\"carousel-item active\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/analisis_macro.jpg\" alt=\"First slide\">\n                            </div>\n                            <div class=\"carousel-item\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/analisis_global.jpg\" alt=\"Second slide\">\n                            </div>\n                            <div class=\"carousel-item\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/analisis_materias_primas.jpg\" alt=\"Third slide\">\n                            </div>\n                            <div class=\"carousel-item\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/comportamiento_mercado.jpg\" alt=\"Fourth slide\">\n                            </div>\n                        </div>\n                        <a class=\"carousel-control-prev\" href=\"#myCarousel2\" data-slide=\"prev\">\n                            <span class=\"carousel-control-prev-icon\" ></span>\n                            <span class=\"sr-only\">Previous</span>\n                        </a>\n                        <a class=\"carousel-control-next\" href=\"#myCarousel2\" data-slide=\"next\">\n                            <span class=\"carousel-control-next-icon\"></span>\n                            <span class=\"sr-only\">Next</span>\n                        </a>\n                    </div>\n                </div>              \n                <div class=\"sidebar-module text-right\"  >\n                    <a href=\"https://www.degiro.es/amigo-invita-amigo/empezar-a-invertir.html?id=3OGJ8RBP&referral_name=SERGIO%20L%C3%93PEZ%20MART%C3%8DNEZ\"><img class=\"img-fluid\"  src=\"imags/banners/degiro_vertical.png\" id=\"degiro\" alt=\"banner\"/></a>\n\t\t\t\t</div>\n            </div>\n\t\t</div>\t\n        <nav aria-label=\"Page navigation\" class=\"pagination justify-content-center justify-content-lg-center\" style=\"margin-bottom: -127px; margin-top:133px\" >\n            <ul class=\"pagination \">\n                <li class=\"page-item disabled\">\n                    <a class=\"page-link\" href=#\" tabindex=\"-1\">Anterior</a>\n                </li>\n\t\t\t\t <li class=\"page-item active\">\n                    <a class=\"page-link\" href=\"#\">4<span class=\"sr-only\">(current)</span></a>\n                </li>\t\n                <li class=\"page-item\">\n                    <a class=\"page-link\" href=\"eco_03_es.html\">3</a>\n                </li>\t\t\t\t\t\n                <li class=\"page-item\">\n                    <a class=\"page-link\" href=\"#\">...</a>\n                </li>\t\t\t\t\n                <li class=\"page-item\">\n                    <a class=\"page-link\" href=\"eco_01_es.html\">1</a>\n                </li>\n                <li class=\"page-item \">\n                    <a class=\"page-link\" href=\"eco_03_es.html\">Siguiente</a>\n                </li>\n            </ul>\n        </nav>\n        <hr>\n        <footer>\n            <div class=\"container\" style=\"padding-top: 0; margin-top:100px\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal de Sergio LM. Experiencias, viajes, rutas senderistas y mucho más.</p>\n                        <ul class=\"bottom_ul\" style=\"margin-top:-20px;\">\n                            <li><a href=\"avisolegal_es.html\">Aviso Legal</a></li>\n                            <li><a href=\"aboutme_es.html\">Sobre Mi</a></li>\n                            <li><a href=\"blog_01_es.html\">Blog</a></li>\n                            <li><a href=\"contactme_es.html\">Contacto</a></li>\n                        </ul>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6 paddingtop-bottom hidden-md-down\" style=\"margin-top:20px;\">\n                        <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>                           \n                        <div class=\"post\">\n                            <p>Nueva Página de Facebook, Diariodeuningeniero <span>1 Agosto,2017</span></p>\n                        </div>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6 paddingtop-bottom\" style=\"margin-top:20px;\">\n                        <div class=\"fb-page\"\n                            data-href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"\n                            data-width=\"380\"\n                            data-hide-cover=\"false\"\n                            data-show-facepile=\"false\">\n                        </div>\n                        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\" ><br />\n                            <input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n                            <input type=\"hidden\" name=\"encrypted\" value=\"-&#45;&#45;&#45;&#45;BEGIN PKCS7-&#45;&#45;&#45;&#45;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-&#45;&#45;&#45;&#45;END PKCS7-&#45;&#45;&#45;&#45;\">\n                            <input type=\"image\" src=\"imags/banners/paypal_donation.jpg\"  name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\" height=\"30px\" width=\"120px\" align=\"center\">\n                        </form>                        \n                    </div>\n                </div>\n            </div>\n        </footer>\n        <div class=\"wrapper hidden-lg-up\"  id=\"social_footer\" style=\" position:fixed; height:60px; bottom: 0; right:60px; margin-bottom: 0; padding-top:20px; transition: height 0.3s linear 0s, padding 0.3s linear 0s; overflow:hidden;\">\n            <div class=\"fb-send icono\" data-href=\"www.diariodeuningeniero.com/eco_04_es.html\"></div>\n            <a href=\"rss/general_rss.xml\"><img class=\"icono\" src=\"imags/icons/icon-rss.png\"></a>\n            <a href=\"http://twitter.com/home?status=Noticias Economia 2018 (4)+www.diariodeuningeniero.com/eco_04_es.html\"><img class=\"icono\" src=\"imags/icons/icon-twitter.png\"></a>\n            <a href=\"whatsapp://send?text= www.diariodeuningeniero/eco_04_es.html\" data-text=\"Noticias Economia 2018 (4)-by diariodeuningeniero\" data-action=\"share/whatsapp/share\"><img class=\"icono pull-right\" src=\"imags/icons/icon-whatsapp.png\"></a>\n        </div>\n        <!-- footer start from here-->\n        <div class=\"copyright\" style=\"margin-top:-10px; margin-bottom:-50px \">\n            <div class=\"container\">\n                <div class=\"col-12\">\n                    <p>© 2016 - All Rights Reserved - Diseñada por Sergio López Martínez</p>\n                </div>\n            </div>\n        </div>\n        <!-- Bootstrap core JavaScript\n        ================================================== -->\n        <!-- Placed at the end of the document so the pages load faster -->\n        <script src=\"https://code.jquery.com/jquery-3.1.1.slim.min.js\" integrity=\"sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n\"></script>\n        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js\" integrity=\"sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb\"></script>\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js\"></script>\n        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->\n        <script src=\"https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js\"></script>\n        <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js\"></script>\n        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js\"></script>\n        <!--\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/tether.min.js\" integrity=\"sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n\" crossorigin=\"anonymous\"></script>\n        <script>window.jQuery || document.write('<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/jquery-slim.min.js\"><\\/script>')</script>\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/tether.min.js\" integrity=\"sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb\" crossorigin=\"anonymous\"></script>\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/dist/js/bootstrap.min.js\"></script>\n        &lt;!&ndash; IE10 viewport hack for Surface/desktop Windows 8 bug &ndash;&gt;\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/ie10-viewport-bug-workaround.js\"></script>\n        &lt;!&ndash; Popper &ndash;&gt;\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/popper.min.js\" integrity=\"sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4\" crossorigin=\"anonymous\"></script>\n        -->\n        <!-- OTHER SCRIPTS*/    -->\n\t\t<!-- 1 GOOGLE ADDS*/    -->\n\t\t<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t\t<script>\n\t\t  (adsbygoogle = window.adsbygoogle || []).push({\n\t\t    google_ad_client: \"ca-pub-8000076722057083\",\n\t\t    enable_page_level_ads: true\n\t\t  });\n\t\t</script>   \n        <script type=\"text/javascript\">\n        function change_imagen(id) {\n        document.getElementById(id).style.zIndex = -1;\n        }\n        function change_imagen2(id) {\n        document.getElementById(id).style.zIndex = 1;\n        }\n        </script>\n\t\t<!-- 2 PROFILE*/    -->\n        <script type=\"text/javascript\">\n        $('[data-toggle=\"offcanvas\"]').click(function () {\n        $('.row-offcanvas').toggleClass('active')\n        });\n        </script>\n\t\t<!-- 3 PROFILE*/    -->\n        <!-- Initialize Bootstrap functionality-->\n        <script>\n        // /*Initialize tooltip component*/\n        $(function () {\n        $('[data-toggle=\"tooltip\"]').tooltip()\n        });\n        // Initialize popover component\n        $(function () {\n        $('[data-toggle=\"popover\"]').popover()\n        })\n        </script>\n        <!-- 4 SCRIPTS ADD DEGIRO. -->\n        <script>\n        /*Array con las imagenes que se iran mostrando en la web*/\n        var imagenes=['imags/banners/degiro_vertical.png',\n        'imags/banners/degiro_vertical2.png'];\n        /*Funcion para cambiar la imagen*/\n        function rotarImagenes()\n        {\n        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay\n        var index=Math.floor((Math.random()*imagenes.length));\n        // cambiamos la imagen\n        document.getElementById(\"degiro\").src=imagenes[index];\n        }\n        /*Función que se ejecuta una vez cargada la página*/\n        onload=function()\n        {\n        // Cargamos una imagen aleatoria\n        rotarImagenes();\n        // Indicamos que cada 5 segundos cambie la imagen\n        setInterval(rotarImagenes,5000);\n        }\n        </script>\n        <!-- 5 SCRIPTS REDES SOCIALES. -->\n        <!-- Inserta esta etiqueta en la sección \"head\" o justo antes de la etiqueta \"body\" de cierre. -->\n        <div id=\"fb-root\"></div>\n        <script>\n        (function(d, s, id) {\n        var js, fjs = d.getElementsByTagName(s)[0];\n        if (d.getElementById(id)) return;\n        js = d.createElement(s); js.id = id;\n        js.src = \"//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8\";\n        fjs.parentNode.insertBefore(js, fjs);\n        }(document, 'script', 'facebook-jssdk'));\n        </script>\n        <script src=\"https://apis.google.com/js/platform.js\" async defer>\n        {'es'}\n        </script>\n        <script type=\"text/javascript\">\n        window.___gcfg = {lang: 'es'};\n        (function() {\n        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n        po.src = 'https://apis.google.com/js/platform.js';\n        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n        })();\n        </script>\n        <script>\n        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';\n        if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';\n        fjs.parentNode.insertBefore(js,fjs);\n        }}(document, 'script', 'twitter-wjs');\n        </script>\n        <script type=\"text/javascript\">\n        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';\n        if(!d.getElementById(id)){js=d.createElement(s);\n        js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");\n        </script>\n        <!-- 6 SCRIPT estadisticas -->\n        <script>\n        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n        ga('create', 'UA-90367288-1', 'auto');\n        ga('send', 'pageview');\n        </script>\n    </body>\n            <div class=\"row hidden-lg-down\" style=\"height:170px;\">",
+			"<!DOCTYPE html>\n<html lang=\"es\">\n    <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n        <meta name=\"description\" content=\"Blog de diario de un ingeniero, analisis economicos\"/>\n        <meta name=\"author\" content=\"Sergio Lopez Martinez\">\n        <link rel=\"icon\" type=\"image/png\" href=\"favicons/favicon_emprender.png\" />\n        <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n        <meta name=\"robots\" content=\"index, follow\" />\n        <meta name=\"keywords\" content=\"diariodeuningeniero, blog diario de un ingeniero,  analisis economicos, analisis de valores, analisis anual economico, analisis economicos, hechos relevantes año\" />\n        <meta name=\"twync_verified\" content=\"eaf0c97332671011a7b81aae9825e97630fb2160\" />\n        <title>Diario de un Ingeniero - Blog Economia - Web Site By Sergio Lopez Design </title>\n        <link href=\"css/style_s.css\" rel=\"stylesheet\" type=\"text/css\" media=\"screen\">\n        <!-- Bootstrap core CSS -->\n        <link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css\" rel=\"stylesheet\">\n    </head>\n\t<body>\n\t\t<header>\n            <nav class=\"navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top \">\n                <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarsExampleDefault\" aria-controls=\"navbarsExampleDefault\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                <span class=\"navbar-toggler-icon\"></span>\n                </button>\n                <img  class=\"img-fluid hidden-lg-up\" src=\"imags/banners/eco_diario_es_mv.jpg\" alt=”Logo” />\n                <div class=\"container-fluid  img-fluid  hidden-lg-up row\" style=\"height: 40px;\">                    \n                    <a class=\"navbar-brand\" href=\"blog_02_es.html\">Blog</a>\n                    <a class=\"btn btn-primary navbar-toggler navbar-toggler-left hidden-lg-up\" type=\"button\" data-toggle=\"offcanvas\"  aria-controls=\"sidebar\"\n                        aria-expanded=\"false\" aria-label=\"Toggle navigation\" style=\"height:30px;  top:1%; left:1%; position:fixed; z-index:6;\" >\n                        <span class=\"navbar-toggler-icon\"></span>\n                    </a>\n                    <a><img class=\"offset-1 icono_s\" src=\"imags/icons/sp0.jpg\" alt=”ESP_LANGUAGUE” /></a>\n                    <a href=\"eco_04_en.html\"><img class=\"icono_s\" src=\"imags/icons/en.jpg\" alt=”ENG_LANGUAGUE” /></a>\n                </div>\n                <div class=\"collapse navbar-collapse\" id=\"navbarsExampleDefault\">\n                    <ul class=\"navbar-nav mr-auto\">\n                        <li class=\"nav-item active\">\n                            <a class=\"nav-link\" href=\"blog_02_es.html\">Personal Blog<span class=\"sr-only\">(current)</span></a>\n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"dropdown01\" data-toggle=\"dropdown\" aria-expanded=\"false\">Emprender fuera</a>\n                            <div class=\"dropdown-menu\" aria-labelledby=\"dropdown01\">\n                                <a class=\"dropdown-item\" href=\"wa_uk_main_es.html\">Inglaterra</a>\n                                <a class=\"dropdown-item\" href=\"wa_fr_main_es.html\">Francia</a>\n                            </div>\n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"dropdown02\" data-toggle=\"dropdown\" aria-expanded=\"false\">Mis Sitios</a>\n                            <div class=\"dropdown-menu\" aria-labelledby=\"dropdown02\">\n                                <a class=\"dropdown-item\" href=\"gu_main_es.html\">Guadalajara</a>\n                                <a class=\"dropdown-item disabled\" href=\"#\">El Bierzo</a>\n                                <a class=\"dropdown-item\" href=\"gc_main_es.html\">Canarias</a>\n                            </div>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"aboutme_es.html\">Sobre mi</a>\n                        </li>\n                    </ul>\n                </div>\n            </nav>\n            <div class=\"container-fluid  hidden-md-down\"\n\n                style=\"\n                background-size: cover;\n                background:url('imags/banners/ecodiario_es.jpg') center no-repeat; margin-top:50px;\"\n                >\n                <a><img src=\"imags/icons/sp0.jpg\" alt=”ESP_LANGUAGUE” /></a><br>\n                <a href=\"eco_04_en.html\"><img src=\"imags/icons/en.jpg\" alt=”ENG_LANGUAGUE” /></a>\n            </div>\n            <div class=\"container-fluid\">\n                <div id=\"myCarousel\" class=\"carousel slide bg-inverse hidden-md-up\" style=\"max-height: 500px; margin-bottom:10px; margin-top:80px\"  data-ride=\"carousel\">\n                    <ol class=\"carousel-indicators\">\n                        <li data-target=\"#myCarousel\" data-slide-to=\"0\" class=\"\"></li>\n                        <li data-target=\"#myCarousel\" data-slide-to=\"1\" class=\"active\"></li>\n                        <li data-target=\"#myCarousel\" data-slide-to=\"2\" class=\"\"></li>\n                        <li data-target=\"#myCarousel\" data-slide-to=\"3\" class=\"\"></li>                        \n                    </ol>\n                    <div class=\"carousel-inner\" role=\"listbox\">\n                        <div class=\"carousel-item\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/analisis_macro.jpg\" alt=\"First slide\">\n                        </div>\n                        <div class=\"carousel-item active\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/analisis_global.jpg\" alt=\"Second slide\">\n                        </div>\n                        <div class=\"carousel-item\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/analisis_materias_primas.jpg\" alt=\"Third slide\">\n                        </div>\n                        <div class=\"carousel-item\">\n                            <img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 350px; max-width : 400px;\" src=\"imags/Main/comportamiento_mercado.jpg\" alt=\"Fourth slide\">\n                        </div>\n                    </div>\n                    <a class=\"carousel-control-prev\" href=\"#myCarousel\" data-slide=\"prev\">\n                        <span class=\"carousel-control-prev-icon\" ></span>\n                        <span class=\"sr-only\">Previous</span>\n                    </a>\n                    <a class=\"carousel-control-next\" href=\"#myCarousel\" data-slide=\"next\">\n                        <span class=\"carousel-control-next-icon\"></span>\n                        <span class=\"sr-only\">Next</span>\n                    </a>\n                </div>                                  \n            </div>\n        </header>\n        <a href=\"#inicial\"><img class=\"hidden-md-down\" style=\"height:60px;  top:700px; right:25%; position:fixed; z-index:6;\" src=\"imags/icons/arrow.png\"></a>\n        <a href=\"#inicial\"><img class=\"hidden-lg-up\"   style=\"height:30px;  top:700px; right:5%;  position:fixed; z-index:6;\" src=\"imags/icons/arrow.png\"></a>\n        <div id=\"inicial\" class=\"row row-offcanvas row-offcanvas-left\" style=\"top:0px; margin-bottom: -300px;\">            \n            <div class=\"col-lg-0 col-md-0 col-sm-0  sidebar-offcanvas\" id=\"sidebar\" style=\"margin-top:10px; margin-left:30px; \">\n                <div class=\"sidebar-module text-left\"  >\n                    <a href=\"http://www.feedvalidator.org/check.cgi?url=http%3A//www.diariodeuningeniero.com/rss/general_rss.xml\"><img src=\"https://www.feedvalidator.org/images/valid-rss-rogers.png\" alt=\"[Valid RSS]\" title=\"Validate my RSS feed\" /></a>\n                    <br />\n                    <div class=\"g-person\" data-width=\"140\" data-href=\"//plus.google.com/u/0/108456074028547332093\" data-theme=\"dark\" data-rel=\"author\"></div><br />\n                    <div class=\"fb-page\" data-href=\"https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/\" data-width=\"150\" data-small-header=\"true\" data-adapt-container-width=\"true\" data-hide-cover=\"false\" data-show-facepile=\"true\"><blockquote cite=\"https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/\" class=\"fb-xfbml-parse-ignore\"><a href=\"https://www.facebook.com/https://www.facebook.com/Diariodeuningeniero-643060745845646/-643060745845646/\">Diariodeuningeniero</a></blockquote></div><br />\n                    <div class=\"fb-follow\" data-href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\" data-width=\"140\" data-layout=\"standard\" data-size=\"small\" data-show-faces=\"true\"></div><br />\n                    <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n                    <!-- VERTICAL_PEQUEÑO -->\n                    <ins class=\"adsbygoogle\"\n                         style=\"display:inline-block;width:180px;height:150px\"\n                         data-ad-client=\"ca-pub-8000076722057083\"\n                         data-ad-slot=\"7162252801\"></ins>\n                    <script>\n                        (adsbygoogle = window.adsbygoogle || []).push({});\n                    </script>\n                </div>\n            </div>  \n         \n            <div class=\"col-12 col-lg-9 col-md-8 col-xs-12\" style=\"text-align:justify; top:5px;\">    \n                <div class=\"card-deck\">\n                    <div class=\"card mb-4\"\n                        style=\"height:280px; \n                        background: url(imags/eco/blog18_canarias.jpg) top center scroll\">\n                        <div id=\"image6\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Nueva sección Canarias<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Agosto 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f hidden-md-down\" id=\"card_body6\" >\n                                Tras mi vuelta de Canarias decidi incluir una sección sobre esta maravillosa isla llamada ...\n                            </div>\n                        </div>\n                        <a id=\"button6\" href=\"gc_main_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image6')\" onmouseout=\"change_imagen2('image6')\" data-target=\"#image6\">Leer más</a>\n                    </div>   \n                    <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco18_BTC_bubble_burst.jpg)  top center scroll\">\n                        <div id=\"image5\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">El pinchazo del Bitcoin<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Abril 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body5\" >\n                                A inicios de Enero comenzaría la correción del Bitcoin que acabaría dejando un retroceso del ...\n                            </div>\n                        </div>\n                        <a id=\"button5\" href=\"eco17_BTC_bubble_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image5')\" onmouseout=\"change_imagen2('image5')\" data-target=\"#image5\">Leer más</a>\n                    </div>\n                    <div class=\"w-100 d-none d-sm-block d-md-none\"><!-- wrap every 2 on sm--></div>\n                    <div class=\"w-100 d-none d-md-block d-lg-none\"><!-- wrap every 2 on md--></div>\n                     <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco17_usa_china.jpg) top center scroll;\">\n                        <div id=\"image4\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Guerra comercial con China<button type=\"button\"  class=\"btn btn-info btn-sm card_button_h\"1 Abril 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body4\" >\n\t                     \t\tDespues de las tensiones pasadas llegaría por fin un autentico terremoto con los aranceles....\n                            </div>\n                        </div>\n                        <a id=\"button4\" href=\"eco18_usa_china_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image4')\" onmouseout=\"change_imagen2('image4')\" data-target=\"#image4\">Leer más</a>\n                    </div> \n                     <div class=\"w-100 d-none d-lg-block d-xl-none\"><!-- wrap every 4 on lg--></div>\n                     <div class=\"w-100 d-none d-xl-block\"><!-- wrap every 4 on xl--></div>                \n                    <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco18_cataluña_fuga.jpg) top center scroll\">\n                        <div id=\"image3\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Fuga de empresas en Cataluña<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Febrero 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body3\" >\n                                Muchas empresas catalanas no pudieron soportar más la perdida de clientes o bajada de ventas y  ...\n                            </div>\n                        </div>\n                        <a id=\"button3\" href=\"eco18_referendum_cat_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image3')\" onmouseout=\"change_imagen2('image3')\" data-target=\"#image3\">Leer más</a>\n                    </div>  \n                    <div class=\"w-100 d-none d-sm-block d-md-none\"><!-- wrap every 2 on sm--></div>\n                    <div class=\"w-100 d-none d-md-block d-lg-none\"><!-- wrap every 2 on md--></div>\n                    <div  class=\"card mb-4 text-left\"\n                        style=\"height:280px; \n                        background: url(imags/eco/eco17_abengoa.jpg)  top center scroll\">\n                        <div id=\"image2\">\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Abengoa dialogando con los impugnantes <button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Febrero 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body2\" >\n\t\t\t\t\t\t\t\tAbengoa, con mucho camino aún para la recuperación tenía un escollo que salvar ...\n                            </div>\n                        </div>\n                        <a id=\"button2\" href=\"eco17_popular_es.html\" class=\"disabled btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image2')\" onmouseout=\"change_imagen2('image2')\" data-target=\"#image2\">Leer más</a>\n                    </div>                   \n                    <div class=\"card mb-4 text-left\"\n                        style=\"height:280px;\n                        background: url(imags/eco/eco17_usa_korea.jpg)  top center scroll\">\n                        <div id=\"image1\" >\n                            <div class=\"card-header card_h\">\n                                <h4 class=\"card-title\">Tregua con corea<button type=\"button\" class=\"btn btn-info btn-sm card_button_h\">1 Febrero 2018</button></h4>\n                            </div>\n                            <div class=\"card_space\"></div>\n                            <div class=\"card-footer card_f\" id=\"card_body1\" >\n\t\t\t\t\t\t\t\tTras ver la mayor confrontación de la historia entre USA y Corea pocos pensaban lo que ...\n                            </div>\n                        </div>\n                        <a id=\"button1\" href=\"eco18_usa_korea_es.html\" class=\"btn btn-primary img-overlay card_button_f\" onmouseover=\"change_imagen('image1')\" onmouseout=\"change_imagen2('image1')\" data-target=\"#image1\">Leer más</a>\n                    </div>\n                     <div class=\"w-100 d-none d-lg-block d-xl-none\"><!-- wrap every 4 on lg--></div>\n                     <div class=\"w-100 d-none d-xl-block\"><!-- wrap every 4 on xl--></div>\n                     <div class=\"w-100 d-none d-sm-block d-md-none\"><!-- wrap every 2 on sm--></div>\n                    <div class=\"w-100 d-none d-md-block d-lg-none\"><!-- wrap every 2 on md--></div>  \n\t                <div class=\"hidden-lg-up\" style=\"margin-bottom:50px; margin-top:10px;\">  \n\t                    <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t                    <!-- HORIZONTAL_PEQUENIO -->\n\t                    <ins class=\"adsbygoogle\"\n\t                         style=\"display:inline-block;width:320px;height:100px\"\n\t                         data-ad-client=\"ca-pub-8000076722057083\"\n\t                         data-ad-slot=\"6771850198\"></ins>\n\t                    <script>\n\t                    \t(adsbygoogle = window.adsbygoogle || []).push({});\n\t                    </script>\n\t                </div>  \n                </div>\n                <div class=\"row hidden-lg-down\" style=\"height:150px;\">\n                </div>\n            </div>                        \n\n            <div class=\"col-lg-1 col-xs-0 hidden-lg-down\" id=\"sidebar2\" style=\"margin-top:50px; \">\n                <div class=\"container-fluid\">\n                    <div id=\"myCarousel2\" class=\"carousel slide bg-inverse hidden-md-down\"   style=\"width: 150px; margin-top:-50px; left:-20px;\"  data-ride=\"carousel\" >\n                        <ol class=\"carousel-indicators\">\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"0\" class=\"\"></li>\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"1\" class=\"active\"></li>\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"2\" class=\"\"></li>\n                            <li data-target=\"#myCarousel2\" data-slide-to=\"3\" class=\"\"></li>                            \n                        </ol>\n                        <div class=\"carousel-inner\"  role=\"listbox\">\n                            <div class=\"carousel-item active\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/analisis_macro.jpg\" alt=\"First slide\">\n                            </div>\n                            <div class=\"carousel-item\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/analisis_global.jpg\" alt=\"Second slide\">\n                            </div>\n                            <div class=\"carousel-item\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/analisis_materias_primas.jpg\" alt=\"Third slide\">\n                            </div>\n                            <div class=\"carousel-item\" data-interval=\"500\">\n                            \t<img class=\"d-block img-fluid ml-auto mr-auto\" style=\"max-height: 150px; max-width : 150px;\" src=\"imags/Main/comportamiento_mercado.jpg\" alt=\"Fourth slide\">\n                            </div>\n                        </div>\n                        <a class=\"carousel-control-prev\" href=\"#myCarousel2\" data-slide=\"prev\">\n                            <span class=\"carousel-control-prev-icon\" ></span>\n                            <span class=\"sr-only\">Previous</span>\n                        </a>\n                        <a class=\"carousel-control-next\" href=\"#myCarousel2\" data-slide=\"next\">\n                            <span class=\"carousel-control-next-icon\"></span>\n                            <span class=\"sr-only\">Next</span>\n                        </a>\n                    </div>\n                </div>              \n                <div class=\"sidebar-module text-right\"  >\n                    <a href=\"https://www.degiro.es/amigo-invita-amigo/empezar-a-invertir.html?id=3OGJ8RBP&referral_name=SERGIO%20L%C3%93PEZ%20MART%C3%8DNEZ\"><img class=\"img-fluid\"  src=\"imags/banners/degiro_vertical.png\" id=\"degiro\" alt=\"banner\"/></a>\n\t\t\t\t</div>\n            </div>\n\t\t</div>\t\n        <nav aria-label=\"Page navigation\" class=\"pagination justify-content-center justify-content-lg-center\" style=\"margin-bottom: -127px; margin-top:133px\" >\n            <ul class=\"pagination \">\n                <li class=\"page-item disabled\">\n                    <a class=\"page-link\" href=#\" tabindex=\"-1\">Anterior</a>\n                </li>\n\t\t\t\t <li class=\"page-item active\">\n                    <a class=\"page-link\" href=\"#\">4<span class=\"sr-only\">(current)</span></a>\n                </li>\t\n                <li class=\"page-item\">\n                    <a class=\"page-link\" href=\"eco_03_es.html\">3</a>\n                </li>\t\t\t\t\t\n                <li class=\"page-item\">\n                    <a class=\"page-link\" href=\"#\">...</a>\n                </li>\t\t\t\t\n                <li class=\"page-item\">\n                    <a class=\"page-link\" href=\"eco_01_es.html\">1</a>\n                </li>\n                <li class=\"page-item \">\n                    <a class=\"page-link\" href=\"eco_03_es.html\">Siguiente</a>\n                </li>\n            </ul>\n        </nav>\n        <hr>\n        <footer>\n            <div class=\"container\" style=\"padding-top: 0; margin-top:100px\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal de Sergio LM. Experiencias, viajes, rutas senderistas y mucho más.</p>\n                        <ul class=\"bottom_ul\" style=\"margin-top:-20px;\">\n                            <li><a href=\"avisolegal_es.html\">Aviso Legal</a></li>\n                            <li><a href=\"aboutme_es.html\">Sobre Mi</a></li>\n                            <li><a href=\"blog_01_es.html\">Blog</a></li>\n                            <li><a href=\"contactme_es.html\">Contacto</a></li>\n                        </ul>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6 paddingtop-bottom hidden-md-down\" style=\"margin-top:20px;\">\n                        <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>                           \n                        <div class=\"post\">\n                            <p>Nueva Página de Facebook, Diariodeuningeniero <span>1 Agosto,2017</span></p>\n                        </div>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6 paddingtop-bottom\" style=\"margin-top:20px;\">\n                        <div class=\"fb-page\"\n                            data-href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"\n                            data-width=\"380\"\n                            data-hide-cover=\"false\"\n                            data-show-facepile=\"false\">\n                        </div>\n                        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\" ><br />\n                            <input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n                            <input type=\"hidden\" name=\"encrypted\" value=\"-&#45;&#45;&#45;&#45;BEGIN PKCS7-&#45;&#45;&#45;&#45;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-&#45;&#45;&#45;&#45;END PKCS7-&#45;&#45;&#45;&#45;\">\n                            <input type=\"image\" src=\"imags/banners/paypal_donation.jpg\"  name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\" height=\"30px\" width=\"120px\" align=\"center\">\n                        </form>                        \n                    </div>\n                </div>\n            </div>\n        </footer>\n        <div class=\"wrapper hidden-lg-up\"  id=\"social_footer\" style=\" position:fixed; height:60px; bottom: 0; right:60px; margin-bottom: 0; padding-top:20px; transition: height 0.3s linear 0s, padding 0.3s linear 0s; overflow:hidden;\">\n            <div class=\"fb-send icono\" data-href=\"www.diariodeuningeniero.com/eco_04_es.html\"></div>\n            <a href=\"rss/general_rss.xml\"><img class=\"icono\" src=\"imags/icons/icon-rss.png\"></a>\n            <a href=\"http://twitter.com/home?status=Noticias Economia 2018 (4)+www.diariodeuningeniero.com/eco_04_es.html\"><img class=\"icono\" src=\"imags/icons/icon-twitter.png\"></a>\n            <a href=\"whatsapp://send?text= www.diariodeuningeniero/eco_04_es.html\" data-text=\"Noticias Economia 2018 (4)-by diariodeuningeniero\" data-action=\"share/whatsapp/share\"><img class=\"icono pull-right\" src=\"imags/icons/icon-whatsapp.png\"></a>\n        </div>\n        <!-- footer start from here-->\n        <div class=\"copyright\" style=\"margin-top:-10px; margin-bottom:-50px \">\n            <div class=\"container\">\n                <div class=\"col-12\">\n                    <p>© 2016 - All Rights Reserved - Diseñada por Sergio López Martínez</p>\n                </div>\n            </div>\n        </div>\n        <!-- Bootstrap core JavaScript\n        ================================================== -->\n        <!-- Placed at the end of the document so the pages load faster -->\n        <script src=\"https://code.jquery.com/jquery-3.1.1.slim.min.js\" integrity=\"sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n\"></script>\n        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js\" integrity=\"sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb\"></script>\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js\"></script>\n        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->\n        <script src=\"https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js\"></script>\n        <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js\"></script>\n        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js\"></script>\n        <!--\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/tether.min.js\" integrity=\"sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n\" crossorigin=\"anonymous\"></script>\n        <script>window.jQuery || document.write('<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/jquery-slim.min.js\"><\\/script>')</script>\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/tether.min.js\" integrity=\"sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb\" crossorigin=\"anonymous\"></script>\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/dist/js/bootstrap.min.js\"></script>\n        &lt;!&ndash; IE10 viewport hack for Surface/desktop Windows 8 bug &ndash;&gt;\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/ie10-viewport-bug-workaround.js\"></script>\n        &lt;!&ndash; Popper &ndash;&gt;\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/docs/assets/js/vendor/popper.min.js\" integrity=\"sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4\" crossorigin=\"anonymous\"></script>\n        -->\n        <!-- OTHER SCRIPTS*/    -->\n\t\t<!-- 1 GOOGLE ADDS*/    -->\n\t\t<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t\t<script>\n\t\t  (adsbygoogle = window.adsbygoogle || []).push({\n\t\t    google_ad_client: \"ca-pub-8000076722057083\",\n\t\t    enable_page_level_ads: true\n\t\t  });\n\t\t</script>   \n        <script type=\"text/javascript\">\n        function change_imagen(id) {\n        document.getElementById(id).style.zIndex = -1;\n        }\n        function change_imagen2(id) {\n        document.getElementById(id).style.zIndex = 1;\n        }\n        </script>\n\t\t<!-- 2 PROFILE*/    -->\n        <script type=\"text/javascript\">\n        $('[data-toggle=\"offcanvas\"]').click(function () {\n        $('.row-offcanvas').toggleClass('active')\n        });\n        </script>\n\t\t<!-- 3 PROFILE*/    -->\n        <!-- Initialize Bootstrap functionality-->\n        <script>\n        // /*Initialize tooltip component*/\n        $(function () {\n        $('[data-toggle=\"tooltip\"]').tooltip()\n        });\n        // Initialize popover component\n        $(function () {\n        $('[data-toggle=\"popover\"]').popover()\n        })\n        </script>\n        <!-- 4 SCRIPTS ADD DEGIRO. -->\n        <script>\n        /*Array con las imagenes que se iran mostrando en la web*/\n        var imagenes=['imags/banners/degiro_vertical.png',\n        'imags/banners/degiro_vertical2.png'];\n        /*Funcion para cambiar la imagen*/\n        function rotarImagenes()\n        {\n        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay\n        var index=Math.floor((Math.random()*imagenes.length));\n        // cambiamos la imagen\n        document.getElementById(\"degiro\").src=imagenes[index];\n        }\n        /*Función que se ejecuta una vez cargada la página*/\n        onload=function()\n        {\n        // Cargamos una imagen aleatoria\n        rotarImagenes();\n        // Indicamos que cada 5 segundos cambie la imagen\n        setInterval(rotarImagenes,5000);\n        }\n        </script>\n        <!-- 5 SCRIPTS REDES SOCIALES. -->\n        <!-- Inserta esta etiqueta en la sección \"head\" o justo antes de la etiqueta \"body\" de cierre. -->\n        <div id=\"fb-root\"></div>\n        <script>\n        (function(d, s, id) {\n        var js, fjs = d.getElementsByTagName(s)[0];\n        if (d.getElementById(id)) return;\n        js = d.createElement(s); js.id = id;\n        js.src = \"//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8\";\n        fjs.parentNode.insertBefore(js, fjs);\n        }(document, 'script', 'facebook-jssdk'));\n        </script>\n        <script src=\"https://apis.google.com/js/platform.js\" async defer>\n        {'es'}\n        </script>\n        <script type=\"text/javascript\">\n        window.___gcfg = {lang: 'es'};\n        (function() {\n        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n        po.src = 'https://apis.google.com/js/platform.js';\n        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n        })();\n        </script>\n        <script>\n        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';\n        if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';\n        fjs.parentNode.insertBefore(js,fjs);\n        }}(document, 'script', 'twitter-wjs');\n        </script>\n        <script type=\"text/javascript\">\n        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';\n        if(!d.getElementById(id)){js=d.createElement(s);\n        js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");\n        </script>\n        <!-- 6 SCRIPT estadisticas -->\n        <script>\n        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n        ga('create', 'UA-90367288-1', 'auto');\n        ga('send', 'pageview');\n        </script>\n    </body>\n            <div class=\"row hidden-lg-down\" style=\"height:170px;\">",
 			"<a class=\"nav-link\" href=\"eco_04_es.html\">ECO Blog</a>",
 			"<a class=\"navbar-brand\" href=\"eco_04_es.html\">ECO Blog</a>",
 			"<a class=\"navbar-brand\" href=\"eco_04_en.html\">ECO Blog</a>",
@@ -459,192 +464,11 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "eco18_usa_china_es.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20701,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10138,
-								10138
-							]
-						],
-						"settings":
-						{
-							"SL.17.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1530.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "eco18_usa_korea_es.html",
 					"semi_transient": false,
 					"settings":
@@ -656,13 +480,16 @@
 						"selection":
 						[
 							[
-								8892,
-								8892
+								8212,
+								8178
 							]
 						],
 						"settings":
 						{
-							"SL.24.region_keys":
+							"SL.13.region_keys":
+							[
+							],
+							"SL.15.region_keys":
 							[
 							],
 							"bracket_highlighter.busy": false,
@@ -699,36 +526,11 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -739,11 +541,114 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										8227,
+										8228
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										8179,
+										8180
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
@@ -753,7 +658,125 @@
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2039.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "eco18_referendum_cat_en.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17166,
+								17166
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
 							],
 							"bracket_highlighter.locations":
 							{
@@ -772,51 +795,41 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
@@ -826,17 +839,27 @@
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
 							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2160.0,
+						"translation.y": 2592.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -927,7 +950,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 221.0,
+	"side_bar_width": 125.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
