@@ -25,20 +25,29 @@ thead, th { background-color: #ccc; }
   max-width:  400px;
   height: 200px;  
 }
-/*.modal-dialog{
-  max-width:  400px;
-  height: 200px;
-}
 
-.ekko-lightbox-item fade in show{
-    max-width:  400px;
-    height: 200px;  
-}
-
-.modal-megamenu {
-    width:40%;
-    height:80%;
-}*/
+  /* HEADER */
+.mob_banner_fmt   { min-height:60px; }
+.mob_header_fmt   { height: 40px; }
+.mob_header_but   { height:30px;  top:1%; left:1%; position:fixed; z-index:6; }
+.blog_carousel    { max-height: 500px; margin-bottom:10px; margin-top:80px; } 
+.blog_carousel_i  { max-height: 350px; max-width : 400px; }
+.blog_carousel2   { width: 150px; margin-top:-50px; left:-20px; } 
+.blog_carousel2_i { max-height: 150px; max-width : 150px; } 
+.arrow_up         { height:60px;  top:700px; right:25%; position:fixed; z-index:6; } 
+.arrow_up2        { height:60px;  bottom:10%; right:15%; position:fixed; z-index:6; }        
+.mob_arrow_up     { height:30px;  top:700px; right:5%;  position:fixed; z-index:6; } 
+.mob_arrow_up2    { height:30px;  bottom:5%;  right:15%;  position:fixed; z-index:6; } 
+.content_l        { margin-bottom: -100px; }
+.content_l2       { margin-bottom: -300px; }
+.content_cards    { text-align:justify; top:5px; }
+.sidebar_lft      { margin-top:10px; margin-left:30px; }
+.sidebar_rgt      { margin-top:50px; }  
+.page_numbers     { margin-bottom: -100px; margin-top:150px; }  
+.footer_fmt       { margin-top:90px; }  
+.footer_fmt_i     { margin-top:20px; }  
+.social_fmt       { position:fixed; height:60px; bottom: 0; right:60px; margin-bottom: 0; padding-top:20px; transition: height 0.3s linear 0s, padding 0.3s linear 0s; overflow:hidden; }                  
+.mob_add_h        { margin-bottom:200px; margin-top:10px; margin-left: :20px;}
 
 .modal-body {
     max-width:  400px;
@@ -295,12 +304,12 @@ footer { background-color:#0c1a1e; min-height:150px; font-family: 'Open Sans', s
 .icon { float:left; margin-right:5px;}
 
 
-.copyright { min-height:40px; background-color:#000000;}
+.copyright { min-height:40px; background-color:#000000; margin-top:-10px; margin-bottom:-50px;}
 .copyright p { text-align:left; color:#FFF; padding:10px 0; margin-bottom:0px;}
 .heading7 { font-size:21px; font-weight:700; color:#d9d6d6; margin-bottom:22px;}
 .post p { font-size:12px; color:#FFF; line-height:20px;}
 .post p span { display:block; color:#8f8f8f;}
-.bottom_ul { list-style-type:none; float:right; margin-bottom:0px;}
+.bottom_ul { list-style-type:none; float:right; margin-bottom:0px; margin-top:-20px;}
 .bottom_ul li { float:left; line-height:40px;}
 .bottom_ul li:after { content:"/"; color:#FFF; margin-right:8px; margin-left:8px;}
 .bottom_ul li a { color:#FFF; font-size:12px;}
