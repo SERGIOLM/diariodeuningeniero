@@ -25,7 +25,6 @@ thead, th { background-color: #ccc; }
   max-width:  400px;
   height: 200px;  
 }
-
   /* HEADER */
 .mob_banner_fmt   { min-height:60px; }
 .mob_header_fmt   { height: 40px; }
@@ -34,10 +33,9 @@ thead, th { background-color: #ccc; }
 .blog_carousel_i  { max-height: 350px; max-width : 400px; }
 .blog_carousel2   { width: 150px; margin-top:-50px; left:-20px; } 
 .blog_carousel2_i { max-height: 150px; max-width : 150px; } 
-.arrow_up         { height:60px;  top:700px; right:25%; position:fixed; z-index:6; } 
-.arrow_up2        { height:60px;  bottom:10%; right:15%; position:fixed; z-index:6; }        
-.mob_arrow_up     { height:30px;  top:700px; right:5%;  position:fixed; z-index:6; } 
-.mob_arrow_up2    { height:30px;  bottom:5%;  right:15%;  position:fixed; z-index:6; } 
+.arrow_up        { height:60px;  bottom:10%; right:15%; position:fixed; z-index:6; } 
+.mob_arrow_up    { height:30px;  bottom:5%;  right:15%;  position:fixed; z-index:6; } 
+.content_center   { margin:5px; text-align:justify; margin-bottom:10px; }
 .content_l        { margin-bottom: -100px; }
 .content_l2       { margin-bottom: -300px; }
 .content_cards    { text-align:justify; top:5px; }
