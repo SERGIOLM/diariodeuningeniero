@@ -26,15 +26,16 @@ thead, th { background-color: #ccc; }
   height: 200px;  
 }
   /* HEADER */
-.mob_banner_fmt   { min-height:60px; }
+.mob_banner_fmt   { min-height:60px;}
 .mob_header_fmt   { height: 40px; }
 .mob_header_but   { height:30px;  top:1%; left:1%; position:fixed; z-index:6; }
 .blog_carousel    { max-height: 500px; margin-bottom:10px; margin-top:80px; } 
 .blog_carousel_i  { max-height: 350px; max-width : 400px; }
 .blog_carousel2   { width: 150px; margin-top:-50px; left:-20px; } 
 .blog_carousel2_i { max-height: 150px; max-width : 150px; } 
-.arrow_up        { height:60px;  bottom:10%; right:15%; position:fixed; z-index:6; } 
-.mob_arrow_up    { height:30px;  bottom:5%;  right:15%;  position:fixed; z-index:6; } 
+.arrow_up         { height:60px;  bottom:10%; right:15%; position:fixed; z-index:6; } 
+.mob_arrow_up     { height:30px;  bottom:5%;  right:15%;  position:fixed; z-index:6; } 
+.mob_content_space{ height:120px; }
 .content_center   { margin:5px; text-align:justify; margin-bottom:10px; }
 .content_l        { margin-bottom: -100px; }
 .content_l2       { margin-bottom: -300px; }
