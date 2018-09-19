@@ -9,8 +9,8 @@
 
    <url><loc>http://www.diariodeuningeniero.com/aboutme_en.html</loc><changefreq>yearly</changefreq></url>
    <url><loc>http://www.diariodeuningeniero.com/aboutme_en.html</loc><changefreq>yearly</changefreq></url>
-   <url><loc>http://www.diariodeuningeniero.com/aviso_legal_es.html</loc><changefreq>never</changefreq></url>
-   <url><loc>http://www.diariodeuningeniero.com/aviso_legal_en.html</loc><changefreq>weekly</changefreq></url>
+   <url><loc>http://www.diariodeuningeniero.com/avisolegal_es.html</loc><changefreq>never</changefreq></url>
+   <url><loc>http://www.diariodeuningeniero.com/aviso_egal_en.html</loc><changefreq>weekly</changefreq></url>
    <url><loc>http://www.diariodeuningeniero.com/blog16_es_backspain_es.html</loc><changefreq>yearly</changefreq></url>
    <url><loc>http://www.diariodeuningeniero.com/blog16_es_backspain_en.html</loc><changefreq>yearly</changefreq></url>
    <url><loc>http://www.diariodeuningeniero.com/blog16_es_launch_es.html</loc><changefreq>yearly</changefreq></url>
@@ -19,8 +19,8 @@
    <url><loc>http://www.diariodeuningeniero.com/blog16_fr_toulouse_en.html</loc><changefreq>yearly</changefreq></url>
    <url><loc>http://www.diariodeuningeniero.com/blog16_uk_london.html</loc><changefreq>yearly</changefreq></url>
    <url><loc>http://www.diariodeuningeniero.com/blog16_uk_london.html</loc><changefreq>yearly</changefreq></url>
-   <url><loc>http://www.diariodeuningeniero.com/blog16_stratford_es.html</loc><changefreq>yearly</changefreq></url>
-   <url><loc>http://www.diariodeuningeniero.com/blog16_stratford_en.html</loc><changefreq>yearly</changefreq></url>
+   <url><loc>http://www.diariodeuningeniero.com/blog16_uk_stratford_es.html</loc><changefreq>yearly</changefreq></url>
+   <url><loc>http://www.diariodeuningeniero.com/blog16_uk_stratford_en.html</loc><changefreq>yearly</changefreq></url>
    <url><loc>http://www.diariodeuningeniero.com/blog17_es_canarias_es.html</loc><changefreq>yearly</changefreq></url>
    <url><loc>http://www.diariodeuningeniero.com/blog17_es_canarias_en.html</loc><changefreq>yearly</changefreq></url>
    <url><loc>http://www.diariodeuningeniero.com/blog17_es_firsttrip_es.html</loc><changefreq>yearly</changefreq></url>
@@ -179,9 +179,7 @@
    <url><loc>http://www.diariodeuningeniero.com/gu_s_pietajo_es.html</loc><changefreq>monthly</changefreq></url>         
    <url><loc>http://www.diariodeuningeniero.com/gu_s_pietajo_en.html</loc><changefreq>monthly</changefreq></url>            
    <url><loc>http://www.diariodeuningeniero.com/gu_sindice_es.html</loc><changefreq>monthly</changefreq></url>         
-   <url><loc>http://www.diariodeuningeniero.com/gu_sindice_en.html</loc><changefreq>monthly</changefreq></url>
-   <url><loc>http://www.diariodeuningeniero.com/gu_sindex_es.html</loc><changefreq>weekly</changefreq></url>         
-   <url><loc>http://www.diariodeuningeniero.com/gu_sindex_en.html</loc><changefreq>weekly</changefreq></url>            
+   <url><loc>http://www.diariodeuningeniero.com/gu_sindice_en.html</loc><changefreq>monthly</changefreq></url>          
    <url><loc>http://www.diariodeuningeniero.com/wa_fr_banks_es.html</loc><changefreq>monthly</changefreq></url>         
    <url><loc>http://www.diariodeuningeniero.com/wa_fr_banks_en.html</loc><changefreq>monthly</changefreq></url>   
    <url><loc>http://www.diariodeuningeniero.com/wa_fr_country_es.html</loc><changefreq>monthly</changefreq></url>         
