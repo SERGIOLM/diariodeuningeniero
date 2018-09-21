@@ -61,10 +61,14 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_03_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_abengoa_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_03_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_04_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_04_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_abengoa_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_abengoa_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_abengoa_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_abengoa_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_03_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_03_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_popular_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_popular_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_country_london_es.html",
@@ -184,11 +188,7 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_telecoms_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_tourism_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_tourism_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transfer_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transfer_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transport_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transport_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_work_en.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transfer_en.html"
 	],
 	"find":
 	{
@@ -210,6 +210,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"17_abeng",
+			"disabled",
 			"</ s",
 			"bien",
 			"estion",
@@ -335,9 +337,7 @@
 			"<a class=\"nav-link\" href=\"blog_02_en.html\">My Blog</a>",
 			"<a class=\"navbar-brand\" href=\"blog_01_en.html\">Blog</a>",
 			"<a class=\"navbar-brand\" href=\"blog_01_es.html\">Blog</a>",
-			"<a class=\"navbar-brand\" href=\"eco_01_es.html\">ECO Blog</a>",
-			"                    <a class=\"navbar-brand\" href=\"eco_01_es.html\">ECO Blog</a>",
-			"eco_01"
+			"<a class=\"navbar-brand\" href=\"eco_01_es.html\">ECO Blog</a>"
 		],
 		"highlight": true,
 		"in_selection": false,
