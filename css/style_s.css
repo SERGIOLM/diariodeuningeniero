@@ -41,7 +41,7 @@ thead, th { background-color: #ccc; }
 .content_l2       { margin-bottom: -300px; }
 .content_cards    { text-align:justify; top:5px; }
 .sidebar_lft      { margin-top:10px; margin-left:30px; }
-.sidebar_rgt      { margin-top:50px; }  
+.sidebar_rgt      { margin-top:-30px; }  
 .page_numbers     { margin-bottom: -100px; margin-top:150px; }  
 .footer_fmt       { margin-top:90px; }  
 .footer_fmt_i     { margin-top:20px; }  
