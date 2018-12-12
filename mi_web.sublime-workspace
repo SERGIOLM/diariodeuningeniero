@@ -8,10 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "eco18_duro_felguera_en.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 39782,
+				"buffer_size": 34756,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -70,49 +70,69 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_iag_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_melia_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_07_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_07_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_06_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_06_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_05_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_05_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_04_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_04_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_03_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_03_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_02_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_02_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_01_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_01_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_cnmv_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_cnmv_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_repsol_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guayadeque_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guayadeque_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_aguimes_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_agaete_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_arucas_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_brigida_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_firgas_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_galdar_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_palmas_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_tejeda_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_teror_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_iag_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_melia_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_abengoa_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_melia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_iag_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_dia_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bbva_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bbva_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_tejeda_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_brigidateror_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_brigidateror_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_charco_azul_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_charco_azul_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_confital_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_confital_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guayadeque_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guayadeque_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bankia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_santander_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bankia_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_santander_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_acerinox_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_05_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_galdar_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_idiom_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_es.html",
@@ -132,14 +152,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_gastronomia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_historia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_isla_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_agaete_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_aguimes_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_arucas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_brigida_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_firgas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_galdar_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_palmas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_teror_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_lindice_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_main_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_sindice_es.html",
@@ -183,25 +195,13 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_health_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_house_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_markets_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_repsol_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_BTC_bubble_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_gastronomia_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_historia_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_isla_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_agaete_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_aguimes_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_arucas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_brigida_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_firgas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_palmas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_tejeda_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_teror_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_lindice_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_main_en.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_historia_en.html"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -498,27 +498,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "eco18_duro_felguera_en.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 39782,
+						"buffer_size": 34756,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								34079,
-								34079
+								34756,
+								34756
 							]
 						],
 						"settings":
 						{
-							"SL.13.region_keys":
-							[
-							],
-							"SL.22.region_keys":
+							"SL.35.region_keys":
 							[
 							],
 							"bracket_highlighter.busy": false,
@@ -527,12 +524,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										14,
+										15
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										0,
+										1
+									]
 								},
 								"unmatched":
 								{
@@ -540,46 +552,11 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -590,84 +567,74 @@
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content"
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"bracket_highlighter.locations":
 							{
 								"close":
 								{
-									"1":
-									[
-										34141,
-										34142
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										34015,
-										34016
-									]
 								},
 								"unmatched":
 								{
+									"1":
+									[
+										34751,
+										34755
+									]
 								}
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -678,18 +645,53 @@
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content"
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7682.0,
+						"translation.y": 8614.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -783,7 +785,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 517.0,
+	"side_bar_width": 379.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
