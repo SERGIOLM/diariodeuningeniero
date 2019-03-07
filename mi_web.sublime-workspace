@@ -7,6 +7,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "eco_09_es.html",
+			"settings":
+			{
+				"buffer_size": 34583,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "eco_08_es.html",
+			"settings":
+			{
+				"buffer_size": 34718,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 35007,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -69,19 +96,26 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_grupo_san_jose_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_fcc_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_fcc_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_acciona_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_grupo_san_jose_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_acciona_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_ferrovial_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_acs_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_grupo_san_jose_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_07_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_07_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_06_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_04_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_05_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_03_es.html",
@@ -189,14 +223,7 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_repsol_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_sacyr_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_santander_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_telefonica_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_usa_korea_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_usa_china_es.html",
-		"/C/Users/Sergio/AppData/Roaming/Sublime Text 3/Packages/User/GoogleDictionary.sublime-settings",
-		"/C/Users/Sergio/AppData/Roaming/Sublime Text 3/Packages/DictionaryAutoComplete/DictionaryAutoComplete.sublime-settings",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_3_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_social_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bankia_en.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_telefonica_es.html"
 	],
 	"find":
 	{
@@ -219,6 +246,13 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"</ strong>",
+			"< /strong>",
+			"< /str",
+			"Sacyr",
+			"sacyr",
+			"18",
+			"sacyr",
 			"Sacyr",
 			"sacyr",
 			"17",
@@ -339,14 +373,7 @@
 			"disabled",
 			"</ s",
 			"bien",
-			"estion",
-			"habra",
-			">                ",
-			"blog17_es_ies_rincon_es.html",
-			"wiki/Horario_de_verano",
-			"blog17_es_ies",
-			"rincon",
-			"blog16_stratford"
+			"estion"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -354,6 +381,17 @@
 		"regex": false,
 		"replace_history":
 		[
+			"</strong>",
+			"FCC",
+			"fcc",
+			"ferrovial",
+			"fcc",
+			"acciona",
+			"acs",
+			"Acciona",
+			"ACS",
+			"FCC",
+			"Ferrovial",
 			"Grupo San Jose",
 			"grupo_san_jose",
 			"<br><br>",
@@ -470,18 +508,7 @@
 			"                    <div class=\"col-md-4 col-sm-6 footerleft \">                        \n\t\t\t\t\t\t<",
 			"        <div class=\"wrapper hidden-lg-up social_fmt\" id=\"social_footer\">            \n\t\t\t<",
 			"        </footer>\n        <div class=\"wrapper hidden-lg-up social_fmt\" id=\"social_footer\">            \n\t\t\t<",
-			"        <div class=\"wrapper hidden-lg-up social_fmt\" id=\"social_footer\">            \n\t\t\t<\n\n",
-			"        </footer>\n        <div class=\"wrapper hidden-lg-up social_fmt\" id=\"social_footer\">            \n\t\t\t<\n\n",
-			"        </footer>\n        <div class=\"wrapper hidden-lg-up social_fmt\" id=\"social_footer\">\n\n",
-			"        <div class=\"wrapper hidden-lg-up social_fmt\" id=\"social_footer\">            \n\t\t\t<div class=\"fb-send icono\" data-href=\"www.diariodeuningeniero.com/eco_01_es.html\"></div>",
-			"        <div class=\"wrapper hidden-lg-up social_fmt\" id=\"social_footer\">",
-			"                    <div id=\"myCarousel2\" class=\"carousel slide bg-inverse hidden-md-down blog_carousel2\" data-ride=\"carousel\" >",
-			"<img class=\"d-block img-fluid ml-auto mr-auto blog_carousel2_i\" src=\"imags",
-			"<div id=\"inicial\" class=\"row row-offcanvas row-offcanvas-left content_l\">",
-			"        <a href=\"#inicial\"><img class=\"hidden-md-down arrow_up\"     src=\"imags/icons/arrow.png\"></a>\n        <a href=\"#inicial\"><img class=\"hidden-lg-up mob_arrow_up\"   src=\"imags/icons/arrow.png\"></a>",
-			"        <a href=\"#inicial\"><img class=\"hidden-md-down arrow_up\"     src=\"imags/icons/arrow.png\"></a>\t\t<a href=\"#inicial\"><img class=\"hidden-lg-up\"   style=\"height:30px;  bottom:5%;  right:15%;  position:fixed; z-index:6;\" src=\"imags/icons/arrow.png\"></a>\n        <div id=\"inicial\" class=\"row row-offcanvas row-offcanvas-left\" style=\"margin-bottom: 100px;\">  ",
-			"",
-			"        <a href=\"#inicial\"><img class=\"hidden-md-down arrow_up\"     src=\"imags/icons/arrow.png\"></a>\n        <a href=\"#inicial\"><img class=\"hidden-lg-up mob_arrow_up\"   src=\"imags/icons/arrow.png\"></a>"
+			"        <div class=\"wrapper hidden-lg-up social_fmt\" id=\"social_footer\">            \n\t\t\t<\n\n"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -492,8 +519,617 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "eco_09_es.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.22.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 22,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "eco_08_es.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								34718
+							]
+						],
+						"settings":
+						{
+							"SL.23.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35007,
+								35007
+							]
+						],
+						"settings":
+						{
+							"SL.24.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										35002,
+										35006
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8902.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -544,7 +1180,7 @@
 	"project": "mi_web.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 73.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -582,7 +1218,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 475.0,
+	"side_bar_width": 367.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
