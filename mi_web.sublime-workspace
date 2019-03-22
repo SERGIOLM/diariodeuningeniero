@@ -7,33 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "eco_09_es.html",
-			"settings":
-			{
-				"buffer_size": 34619,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "eco_10_en.html",
-			"settings":
-			{
-				"buffer_size": 33961,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 34908,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -96,6 +69,20 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_urbas_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_vertice_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_duro_felguera_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_nyesa_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_artificial_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_electrica_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_naturgy_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_iberdrola_es.html",
@@ -107,15 +94,8 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_endesa_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_enagas_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_electrica_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_naturgy_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_amadeus_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_ferrovial_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_usa_korea_es.html",
@@ -123,7 +103,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_telefonica_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_repsol_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_year_review_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bbva_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_arcelor_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_acerinox_es.html",
@@ -169,7 +148,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_acciona_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_fcc_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_grupo_san_jose_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_07_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_04_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_03_es.html",
@@ -218,12 +196,7 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_mesa_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_pietajo_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_banks_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_paris_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_toulouse_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_health_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_confital_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_charco_azul_es.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_es.html"
 	],
 	"find":
 	{
@@ -246,6 +219,12 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"Vertice",
+			"vertice",
+			"Vertice",
+			"Nyesa",
+			"nyesa",
+			"endesa",
 			"Endesa",
 			"endesa",
 			"Endesa",
@@ -367,13 +346,7 @@
 			"Analisis tecnico de telefonica",
 			"                <img class=\"img-fluid hidden-lg-up mob_banner_fmt\" src=\"imags/banners/ecodiario_es.jpg\" alt=”Logo” />",
 			"                <img class=\"img-fluid hidden-lg-up mob_banner_fmt\" src=\"imags/banners/ecodiario_en.jpg\" alt=”Logo” />",
-			"                            <li><a href=\"contactme_en.html\">Contact</a></li>\n                        </ul>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6 paddingtop-bottom hidden-md-down footer_fmt_i\">\n\n                        <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>                           \n                        <div class=\"post\">\n                            <p>Nueva Página de Facebook, Diariodeuningeniero <span>1 Agosto,2017</span></p>\n                        </div>",
-			"habia",
-			"paises",
-			"maximo",
-			"minimo",
-			"minimos",
-			"maximos"
+			"                            <li><a href=\"contactme_en.html\">Contact</a></li>\n                        </ul>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6 paddingtop-bottom hidden-md-down footer_fmt_i\">\n\n                        <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>                           \n                        <div class=\"post\">\n                            <p>Nueva Página de Facebook, Diariodeuningeniero <span>1 Agosto,2017</span></p>\n                        </div>"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -381,6 +354,14 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Duro Felguera",
+			"duro_felguera",
+			"urbas",
+			"Urbas",
+			"Vertice",
+			"vertice",
+			"nyesa",
+			"Nyesa",
 			"Red Electrica",
 			"red_electrica",
 			"naturgy",
@@ -500,15 +481,7 @@
 			"mínimos",
 			"máximos",
 			"inflación",
-			"subió",
-			"comenzó",
-			"cedió ",
-			"edió ",
-			"vendrá",
-			"despropósito",
-			"beneplácito",
-			"éndose",
-			"ándose"
+			"subió"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -519,617 +492,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "eco_09_es.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34619,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								34619
-							]
-						],
-						"settings":
-						{
-							"SL.36.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 9152.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "eco_10_en.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 33961,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"SL.37.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": 37,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34908,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								34908,
-								34908
-							]
-						],
-						"settings":
-						{
-							"SL.38.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-									"1":
-									[
-										34903,
-										34907
-									]
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 8938.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1180,7 +544,7 @@
 	"project": "mi_web.sublime-project",
 	"replace":
 	{
-		"height": 71.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
