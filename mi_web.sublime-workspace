@@ -69,20 +69,27 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sniace_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sniace_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_urbas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_vertice_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_duro_felguera_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_nyesa_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_nyesa_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_vertice_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_naturgy_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_urbas_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_urbas_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_duro_felguera_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_vertice_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_duro_felguera_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_artificial_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_electrica_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_naturgy_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_iberdrola_es.html",
@@ -94,7 +101,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_endesa_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_enagas_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_electrica_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_naturgy_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_amadeus_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_ferrovial_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_es.html",
@@ -190,17 +196,11 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_gastronomia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_1_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_2_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_altotajo_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_hundido_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_mesa_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_pietajo_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_banks_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_es.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_2_es.html"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -219,6 +219,19 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			">\n",
+			"The",
+			"</ strong",
+			"Nyesa",
+			"nyesa",
+			"Nyesa",
+			"nyesa",
+			"Nyesa",
+			"nyesa",
+			"Nyesa",
+			"nyesa",
+			"Iberdrola",
+			"iberdrola",
 			"Vertice",
 			"vertice",
 			"Vertice",
@@ -333,20 +346,7 @@
 			"acerinox",
 			"bbva",
 			"Acerinox",
-			"acerinox",
-			"Acerinox",
-			"acerinox",
-			"</ strong>",
-			"sacyr",
-			"emprender",
-			"sacyr",
-			"</ strong>",
-			"técnico",
-			"tecnico",
-			"Analisis tecnico de telefonica",
-			"                <img class=\"img-fluid hidden-lg-up mob_banner_fmt\" src=\"imags/banners/ecodiario_es.jpg\" alt=”Logo” />",
-			"                <img class=\"img-fluid hidden-lg-up mob_banner_fmt\" src=\"imags/banners/ecodiario_en.jpg\" alt=”Logo” />",
-			"                            <li><a href=\"contactme_en.html\">Contact</a></li>\n                        </ul>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6 paddingtop-bottom hidden-md-down footer_fmt_i\">\n\n                        <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>                           \n                        <div class=\"post\">\n                            <p>Nueva Página de Facebook, Diariodeuningeniero <span>1 Agosto,2017</span></p>\n                        </div>"
+			"acerinox"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -354,6 +354,19 @@
 		"regex": false,
 		"replace_history":
 		[
+			"</strong",
+			"Sniace",
+			"sniace",
+			"Sniace",
+			"Urbas",
+			"urbas",
+			"Urbas",
+			"Vertice",
+			"vertice",
+			"Duro Felguera",
+			"duro_felguera",
+			"Nyesa",
+			"nyesa",
 			"Duro Felguera",
 			"duro_felguera",
 			"urbas",
@@ -468,20 +481,7 @@
 			"</strong>",
 			"dia",
 			"acerinox",
-			"repsol",
-			"</strong>",
-			"técnico",
-			"                <img class=\"img-fluid hidden-lg-up mob_banner_fmt\" src=\"imags/banners/ecodiario_es_mv.jpg\" alt=”Logo” />",
-			"                <img class=\"img-fluid hidden-lg-up mob_banner_fmt\" src=\"imags/banners/ecodiario_en_mv.jpg\" alt=”Logo” />",
-			"                            <li><a href=\"contactme_en.html\">Contact</a></li>\n                        </ul>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6 paddingtop-bottom hidden-md-down footer_fmt_i\">\n\n                        <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/Diariodeuningeniero-643060745845646/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>                           \n                        <div class=\"post\">\n                            <p>New Website of Facebook, Diariodeuningeniero <span>1st August,2017</span></p>\n                        </div>",
-			"había",
-			"países",
-			"máximo",
-			"mínimo",
-			"mínimos",
-			"máximos",
-			"inflación",
-			"subió"
+			"repsol"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -544,7 +544,7 @@
 	"project": "mi_web.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 71.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -582,7 +582,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 510.0,
+	"side_bar_width": 338.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
