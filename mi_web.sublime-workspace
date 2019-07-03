@@ -8,10 +8,28 @@
 	"buffers":
 	[
 		{
-			"file": "eco18_abengoa_en.html",
+			"file": "eco_07_es.html",
 			"settings":
 			{
-				"buffer_size": 28508,
+				"buffer_size": 34977,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "eco_06_es.html",
+			"settings":
+			{
+				"buffer_size": 34547,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "eco19_unicaja_en.html",
+			"settings":
+			{
+				"buffer_size": 25121,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -78,11 +96,31 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_unicaja_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_arcelor_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_arcelor_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bbva_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bbva_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bankia_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bankia_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_06_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_07_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_07_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_06_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_abengoa_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_abengoa_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_iberdrola_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_abengoa_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_santander_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_es.html",
 		"/C/Users/Sergio/Downloads/Game.of.Thrones.S08E01.720p.WEB.H264-MEMENTO[ettv]/game.of.thrones.s08e01.720p.web.h264-memento[ettv].srt",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sniace_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sniace_en.html",
@@ -90,20 +128,14 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_nyesa_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_vertice_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_naturgy_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_10_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_urbas_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_urbas_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_duro_felguera_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_vertice_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_duro_felguera_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_artificial_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_08_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_electrica_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_naturgy_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_iberdrola_en.html",
@@ -121,8 +153,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_telefonica_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_repsol_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_year_review_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bbva_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_arcelor_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_acerinox_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_abengoa_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_year_review_es.html",
@@ -138,8 +168,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_acs_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_fcc_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_05_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_06_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_07_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_brexit_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_FEDrateschanges_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco16_itareferendum_es.html",
@@ -151,8 +179,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_BTC_bubble_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_popular_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_usa_china_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bankia_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bankia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_BTC_bubble_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_dia_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_iag_es.html",
@@ -165,15 +191,12 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_acciona_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_fcc_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_grupo_san_jose_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_07_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_04_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_03_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_year_review_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_02_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_01_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_tecnicas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_arcelor_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_bbva_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_cnmv_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_dia_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_en.html",
@@ -198,14 +221,9 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_5_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_5_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_ohl_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_06_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_ocejon_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guayadeque_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_gastronomia_es.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_es.html"
 	],
 	"find":
 	{
@@ -228,6 +246,15 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"Bitcoin",
+			"</ str",
+			"bankai",
+			"Sabadell",
+			"2018",
+			"Bankia",
+			"bankia",
+			"Sacyr",
+			"sacyr",
 			"Sacyr",
 			"sacyr",
 			"Sniace",
@@ -346,16 +373,7 @@
 			"Acerinox",
 			"acerinox",
 			"                            <a class=\"nav-link\" href=\"eco_04_en.html\">ECO Blog</a>",
-			"                            <a class=\"nav-link\" href=\"eco_04_es.html\">ECO Blog</a>",
-			"                            <a class=\"nav-link\" href=\"eco_04_en.html\">My Economics Blog</a>",
-			"                            <a class=\"nav-link\" href=\"eco_04_en.html\">My Blog Economics</a>",
-			"                            <a class=\"nav-link\" href=\"eco_04_es.html\">Mi Blog de economia</a>",
-			"                    <a class=\"navbar-brand\" href=\"eco_04_en.html\">ECO Blog</a>",
-			"                    <a class=\"navbar-brand\" href=\"eco_04_es.html\">ECO Blog</a>",
-			"                            <a class=\"nav-link\" href=\"eco_05_en.html\">Economics Blog</a>",
-			"                            <a class=\"nav-link\" href=\"eco_05_es.html\">Mi Blog de Economía</a>",
-			"                    <a class=\"navbar-brand\" href=\"eco_05_es.html\">Blog de Economía</a>",
-			"                    <a class=\"navbar-brand\" href=\"eco_05_en.html\">Economics Blog</a>"
+			"                            <a class=\"nav-link\" href=\"eco_04_es.html\">ECO Blog</a>"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -363,6 +381,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"2019",
+			"Unicaja",
+			"unicaja",
+			"Abengoa",
+			"abengoa",
 			"Abengoa",
 			"abengoa",
 			"Abengoa",
@@ -485,12 +508,7 @@
 			"                    <a class=\"navbar-brand\" href=\"eco_06_en.html\">Economics Blog</a>",
 			"melia",
 			"Melia",
-			"IAG",
-			"iag",
-			"bbva",
-			"BBVA",
-			"Santander",
-			"santander"
+			"IAG"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -501,29 +519,29 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "eco18_abengoa_en.html",
-					"semi_transient": true,
+					"file": "eco_07_es.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 28508,
+						"buffer_size": 34977,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11866,
-								11866
+								20890,
+								20890
 							]
 						],
 						"settings":
 						{
-							"SL.18.region_keys":
+							"SL.24.region_keys":
 							[
 							],
 							"bracket_highlighter.busy": false,
@@ -560,51 +578,6 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -614,7 +587,52 @@
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
 							"bracket_highlighter.locations":
 							{
@@ -622,8 +640,131 @@
 								{
 									"1":
 									[
-										11863,
-										11865
+										20898,
+										20899
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										20883,
+										20884
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "eco_06_es.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19875,
+								19875
+							]
+						],
+						"settings":
+						{
+							"SL.25.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										21497,
+										21499
 									]
 								},
 								"icon":
@@ -638,8 +779,96 @@
 								{
 									"1":
 									[
-										11863,
-										11865
+										21388,
+										21390
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										20020,
+										20023
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										19807,
+										19810
 									]
 								},
 								"unmatched":
@@ -648,41 +877,129 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "eco19_unicaja_en.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2614,
+								2614
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -693,26 +1010,134 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2622,
+										2623
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2607,
+										2608
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2128.0,
+						"translation.y": 159.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -765,7 +1190,7 @@
 	"project": "mi_web.sublime-project",
 	"replace":
 	{
-		"height": 71.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -803,7 +1228,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 297.0,
+	"side_bar_width": 407.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
