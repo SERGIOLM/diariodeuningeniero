@@ -7,6 +7,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "eco_11_es.html",
+			"settings":
+			{
+				"buffer_size": 34493,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -69,6 +78,11 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sellos_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sellos_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_usa_china_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_usa_china_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_BTC_bubble_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_usa_china_es.html",
@@ -78,9 +92,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_BTC_bubble_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_usa_korea_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_usa_china_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_usa_china_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_unicaja_es.html",
 		"/C/Users/Sergio/AppData/Roaming/Sublime Text 3/Packages/User/DictionaryAutoComplete.sublime-settings",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_work_es.html",
@@ -194,9 +205,7 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_nyesa_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_nyesa_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_electrica_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_electrica_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sacyr_es.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_electrica_es.html"
 	],
 	"find":
 	{
@@ -219,6 +228,10 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"5%",
+			"lthoug",
+			" </ strong>",
+			" </ P>",
 			"strong",
 			"mexico",
 			"2018",
@@ -342,11 +355,7 @@
 			"dia",
 			"eco18",
 			"melia",
-			"        $( '#topo' ).attr( 'src', 'imags/gran_canaria/isla/' + id + '.png');",
-			"        $( '#topo' ).attr( 'src', 'imags/gran_canaria/senderismo/mapas/gc_i_' + id + '.png');",
-			"$( '#topo' ).attr( 'src', 'imags/gran_canaria/senderismo/mapas/' + id + '.png');",
-			"</ strong",
-			"< /strong"
+			"        $( '#topo' ).attr( 'src', 'imags/gran_canaria/isla/' + id + '.png');"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -354,6 +363,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"</strong>",
+			"</p>",
 			"2019",
 			"whatsapp://send?text= www.diariodeuningeniero.com/",
 			"2019",
@@ -479,9 +490,7 @@
 			"                    <a class=\"navbar-brand\" href=\"eco_06_es.html\">ECO Blog</a>",
 			"                            <a class=\"nav-link\" href=\"eco_06_en.html\">Economics Blog</a>",
 			"                            <a class=\"nav-link\" href=\"eco_06_es.html\">Mi Blog de Economía</a>",
-			"                    <a class=\"navbar-brand\" href=\"eco_06_es.html\">Blog de Economía</a>",
-			"                    <a class=\"navbar-brand\" href=\"eco_06_en.html\">Economics Blog</a>",
-			"melia"
+			"                    <a class=\"navbar-brand\" href=\"eco_06_es.html\">Blog de Economía</a>"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -492,8 +501,205 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "eco_11_es.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								34493
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9121.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -544,7 +750,7 @@
 	"project": "mi_web.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 71.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -582,7 +788,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 424.0,
+	"side_bar_width": 380.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
