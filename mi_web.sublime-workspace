@@ -7,15 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "eco_11_es.html",
-			"settings":
-			{
-				"buffer_size": 34493,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -78,11 +69,17 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_BTC_bubble_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_BTC_bubble_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_duro_felguera_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_eur_usd_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_eur_usd_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_abengoa2_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sellos_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_sellos_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_usa_china_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_usa_china_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_BTC_bubble_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_usa_china_es.html",
@@ -187,7 +184,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_amadeus_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_amadeus_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_duro_felguera_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_duro_felguera_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_enagas_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_enagas_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_endesa_en.html",
@@ -200,16 +196,11 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_grupo_san_jose_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_iberdrola_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_iberdrola_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_naturgy_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_naturgy_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_nyesa_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_nyesa_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_electrica_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_red_electrica_es.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_naturgy_en.html"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -501,205 +492,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "eco_11_es.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34493,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								34493
-							]
-						],
-						"settings":
-						{
-							"SL.18.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 9121.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -750,7 +544,7 @@
 	"project": "mi_web.sublime-project",
 	"replace":
 	{
-		"height": 71.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
