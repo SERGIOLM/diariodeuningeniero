@@ -7,98 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n    <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n        <meta name=\"description\" content=\"Análisis técnico del IBEX35 2020\">\n        <meta name=\"author\" content=\"Sergio Lopez Martinez\">\n        <link rel=\"icon\" type=\"image/png\" href=\"favicons/favicon_di.png\">\n        <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">\n        <meta name=\"robots\" content=\"index, follow\">\n        <meta name=\"keywords\" content=\"technical analysis ibex35 2020, technical analysis ibex35, long-term technical analysis ibex35, spain coronavirus ibex35, covid19 markets spain stock market \">\n        <meta name=\"twync_verified\" content=\"eaf0c97332671011a7b81aae9825e97630fb2160\">\n        <title>Análisis técnico IBEX35 2020. diariodeuningeniero</title>\n        <link href=\"css/style_s.css\" rel=\"stylesheet\" type=\"text/css\" media=\"screen\">\n        <!-- Bootstrap core CSS -->\n        <link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css\" rel=\"stylesheet\">\n    </head>\n    <body>\n        <header>\n            <nav class=\"navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top\">\n                <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarsExampleDefault\" aria-controls=\"navbarsExampleDefault\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                <span class=\"navbar-toggler-icon\"></span>\n                </button>\n                <a class=\"btn btn-primary navbar-toggler navbar-toggler-left hidden-lg-up mob_header_but\" type=\"button\" data-toggle=\"offcanvas\" aria-controls=\"sidebar\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" >\n                    <span class=\"navbar-toggler-icon\"></span>\n                </a>                \n                <img class=\"img-fluid hidden-lg-up mob_banner_fmt\" src=\"imags/banners/ecodiario_en_mv.jpg\" alt=”Logo” />\n                <div class=\"container-fluid img-fluid hidden-lg-up row mob_header_fmt\">                    \n                    <a class=\"navbar-brand\" href=\"eco_12_en.html\">Economics Blog</a>\n                    <a href=\"eco20_ibex35_es.html\"><img class=\"offset-1 icono_s\" src=\"imags/icons/sp.jpg\" alt=”ESP_LANGUAGUE” /></a>\n                    <a><img class=\"icono_s\" src=\"imags/icons/en0.jpg\" alt=”ENG_LANGUAGUE” /></a>\n                </div>\n                <div class=\"collapse navbar-collapse\" id=\"navbarsExampleDefault\">\n                    <ul class=\"navbar-nav mr-auto\">\n                        <li class=\"nav-item active\">\n                            <a class=\"nav-link\" href=\"eco_12_en.html\">Economics Blog</a>\n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"dropdown01\" data-toggle=\"dropdown\" aria-expanded=\"false\">Go abroad</a>\n                            <div class=\"dropdown-menu\" aria-labelledby=\"dropdown01\">\n                                <a class=\"dropdown-item\" href=\"wa_uk_main_en.html\">England</a>\n                                <a class=\"dropdown-item\" href=\"wa_fr_main_en.html\">France</a>\n                            </div>\n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"dropdown02\" data-toggle=\"dropdown\" aria-expanded=\"false\">My places</a>\n                            <div class=\"dropdown-menu\" aria-labelledby=\"dropdown02\">\n                                <a class=\"dropdown-item\" href=\"gu_main_en.html\">Guadalajara</a>\n                                <a class=\"dropdown-item disabled\" href=\"#\">El Bierzo</a>\n                                <a class=\"dropdown-item\" href=\"gc_main_en.html\">Canarias</a>\n                            </div>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"aboutme_en.html\">About me</a>\n                        </li>\n                    </ul>\n                </div>\n            </nav>\n            <div class=\"container-fluid  hidden-md-down\"\n                style=\"background-size: cover;\n                background:url('imags/banners/ecodiario_es.jpg') center no-repeat; margin-top:56px;margin-bottom:30px;\"\n                >\n                <a href=\"eco20_ibex35_es.html\"><img src=\"imags/icons/sp.jpg\" alt=”ESP_LANGUAGUE” /></a>\n                <a><img src=\"imags/icons/en0.jpg\" alt=”ENG_LANGUAGUE” /></a>\n\t\t\t\t<br><br><br>\n            </div>\n        </header>\n\n        <a href=\"#inicial\"><img class=\"hidden-md-down arrow_up\"     src=\"imags/icons/arrow.png\"></a>\n        <a href=\"#inicial\"><img class=\"hidden-lg-up mob_arrow_up\"   src=\"imags/icons/arrow.png\"></a>\n        <div id=\"inicial\" class=\"row row-offcanvas row-offcanvas-left content_l\">  \n            <div class=\"col-lg-0 col-md-0 col-sm-0  sidebar-offcanvas sidebar_lft\" id=\"sidebar\">\n                <div class=\"sidebar-module text-left\"  >\n                    <a href=\"http://www.feedvalidator.org/check.cgi?url=http%3A//www.diariodeuningeniero.com/rss/general_rss.xml\"><img src=\"https://www.feedvalidator.org/images/valid-rss-rogers.png\" alt=\"[Valid RSS]\" title=\"Validate my RSS feed\" /></a>\n                    <br />\n                    <div class=\"g-person\" data-width=\"140\" data-href=\"//plus.google.com/u/0/108456074028547332093\" data-theme=\"dark\" data-rel=\"author\"></div><br />\n                    <div class=\"fb-page\" data-href=\"https://www.facebook.com/https://www.facebook.com/DiarioIngeniero-373287576574463/-643060745845646/\" data-width=\"150\" data-small-header=\"true\" data-adapt-container-width=\"true\" data-hide-cover=\"false\" data-show-facepile=\"true\"><blockquote cite=\"https://www.facebook.com/https://www.facebook.com/DiarioIngeniero-373287576574463/-643060745845646/\" class=\"fb-xfbml-parse-ignore\"><a href=\"https://www.facebook.com/https://www.facebook.com/DiarioIngeniero-373287576574463/-643060745845646/\">Diariodeuningeniero</a></blockquote></div><br />\n                    <div class=\"fb-follow\" data-href=\"https://www.facebook.com/DiarioIngeniero-373287576574463/\" data-width=\"140\" data-layout=\"standard\" data-size=\"small\" data-show-faces=\"true\"></div><br />\n                    <a href=\"https://www.degiro.es/amigo-invita-amigo/empezar-a-invertir.html?id=3OGJ8RBP&referral_name=SERGIO%20L%C3%93PEZ%20MART%C3%8DNEZ\"><img class=\"img-fluid\"  src=\"imags/banners/degiro_vertical.png\" id=\"degiro\" alt=\"banner\"/></a>\n                    <br /><br />\n\t\t\t\t\t<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n                        <ins class=\"adsbygoogle\"\n                        style=\"display:inline-block;width:160px;height:600px\"\n                        data-ad-client=\"ca-pub-8000076722057083\"\n                        data-ad-slot=\"9350582858\"></ins>\n\t                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>\n                </div>\n            </div>  \n            <div class=\"col-12 col-lg-8 col-md-8 col-xs-12 content_center\">\n                <div class=\"mob_content_space hidden-lg-up\"></div>  \n                    <h2>Before COVID19...</h2>\n                        <p> Since the financial crisis of 2008, all the indices have recovered the losses and have managed to exceed their maximums. In the case of the IBEX35, this is not the case if we do not count the dividends that companies give. The DAX30 for example counts these dividends in its index. However, the IBEX35 is the only almost minor recovery it has had. This is so due to the construction bubble, which was submerged for almost a decade, which made the rate of GDP growth and wealth of the country unreal. In addition, it has gone through other bad situations that are considered as small corrections to the index such as <a href=\"http://www.diariodeuningeniero.com/eco16_brexit_es.html\"> the brexit </a>, the 2016 oil crisis , or instability due to the <a href=\"http://www.diariodeuningeniero.com/eco17_referendum_cat_es.html\"> problem in catalonia </a> where due to the obsolete Spanish electoral system a small part of the population of 5% can mark the road map of all Spaniards. This problem will always be exploited both by the Spanish right to sow hatred as well as by the Catalan bourgeoisie itself, which grows rich at everyone's expense. Two years of turbulence have come since 2017 due to <a href=\"http://www.diariodeuningeniero.com/eco18_referendum_cat_es.html\"> this reason </a> and aggravated by the results of the elections in 2019 that make the economy cannot take off again.\n                        <br>\n                        Once the financial crisis was over, Spain could hardly contain the second crisis, that of unemployment <strong> with unemployment rates well above any country in the euro zone, reaching maximums of 26% </strong> and in some areas in Spain this figure increased to more than 50% of the population. Once the end of the crisis has come, as shown in the graph, 6000 points would be touched. That minimum is decisive right now because it was outside the triangle that has followed these 10 years and is the one that will mark the new triangle to come. <strong> This is so because with COVID we have lost the support that was at 8700 points </strong>. </p>\n                        <br>\n                        <img class=\"img-fluid\" src=\"imags/eco/eco20/eco_ibex35_2Y_2020.jpg\" alt=\"eco_ibex35_1Y_2020\" />\n                        <br>  \n                    <div class=\"hidden-md-down\">    \n                        <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n                        <!-- HORIZONTA_GRANDE -->\n                        <ins class=\"adsbygoogle\"\n                             style=\"display:inline-block;width:728px;height:90px\"\n                             data-ad-client=\"ca-pub-8000076722057083\"\n                             data-ad-slot=\"1958507219\"></ins>\n                        <script>\n                           (adsbygoogle = window.adsbygoogle || []).push({});\n                        </script>\n                    </div>  \n                    <div class=\"hidden-lg-up\">\n                        <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n                        <!-- HORIZONTAL_PEQUENIO -->\n                        <ins class=\"adsbygoogle\"\n                             style=\"display:inline-block;width:320px;height:100px\"\n                             data-ad-client=\"ca-pub-8000076722057083\"\n                             data-ad-slot=\"6771850198\"></ins>\n                        <script>\n                            (adsbygoogle = window.adsbygoogle || []).push({});\n                        </script> \n                    </div>                                          \n                    <h2> Analysis of COVID19 impact on IBEX35 companies </h2>\n                        <p> If we just carry out a detailed analysis and look at the comparative graph between mid-January and mid-April where chaos was still far from reaching Europe, we see how the companies that have suffered the most are banks, airlines and companies. tourism such as hotel chains and travel agencies. The strongest companies are those that were producing better results such as <strong> Iberdrola, Acciona and Gamesa </strong>. The latter were already quite expensive but they are very solvent and they are hardly affected by this crisis, so covid19 has been the perfect opportunity for many funds to increase their position. And it is that in periods of uncertainty it is best to be in solid positions.\n                        <br>\n                        <img class=\"img-fluid\" src=\"imags/eco/eco20/ibex35_valores_COVID.jpg\" alt=\"ibex35_valores_COVID\" />\n                        <img class=\"img-fluid\" src=\"imags/eco/eco20/continuo_valores_COVID.jpg\" alt=\"continuo_valores_COVID\" />\n                        <br><br>\n                        Although if we ask ourselves where to invest when the crisis, that is, the coronavirus has disappeared and returns to normal, we will have to look for values that have dropped a lot because before the covid19 the accounts had not been good, or that they were in trouble financial or that the company's profit was linked to events that had not yet happened, that is, companies with uncertainty about their future. During the crisis it is seen that the only beneficiaries have been supermarkets which, due to the closure of restaurants and small shops, have kept all the market share. This is the case of <strong> </strong>, the true protagonist of COVID with an increase from 0.05 euros to the current 0.15 euros (<strong> almost 200% profit from minimums </strong>) as well as companies related to the healthcare or pharmaceutical sector such as Pharmamar.</p>\n\n                        <br>\n                        <ul>\n                            <li><h4 style=\"color:red; font-weight: bolder\">Companies with the largest decreases</h4>\n                                In a first moment of rise, when it is solid and new drops are ruled out, it is best to position yourself in the most punished companies which will rebound the most. In the case of all companies in the continuum, we have <strong> EDREAMS with a brutal drop of 5 to 1.2 euros </strong> in minimums, although it has already doubled in value and is at 2.30, making it no longer so attractive. <strong> IAG is still attractive, having dropped from 8 euros to 2 euros, almost a 75% drop </strong>. Right now it is at 3 euros and about 62% of losses. It is one of the companies in which more retail money is entering, although financial giants such as Citigroup, which already owns 5% of the group, have entered. These positions can be speculative and that would be the first point to follow, entering over-punished values and maintaining position until they reach 50% or 40% of their value.\n                            </li>\n                            <li><h4 style=\"color:blue; font-weight: bolder\">Unfairly depreciated companies</h4>                        \n                                Once the indexes correct, it would be interesting to dedicate 50% of our positions to holding assets that have depreciated but that do not affect the covid crisis at all as if it could affect IAG. Value that would be better to avoid in the second purchases. Values as such are the construction companies in which we have, for example, ACS and SACYR. Both are down 75% from highs as well. <strong> ACS from 40 euros almost to 11 euros and Sacyr from 2.70 to 1 euro </strong>. These companies also happen to be on the radar of the experts due to the notable improvement in results and were close to breaking the lateral channels that they have been registering for the last 5 years. It is for this reason that the recovery of their quotation will be delayed from those that less and in less than 1 year will return to their previous quotations.\n                            </li>\n                            <li><h4 style=\"color:orange; font-weight: bolder\">Companies or banks with intrinsic value</h4>                              \n                                Other groups to consider are the small Spanish banks whose listing has suffered somewhat more than large banks. They both have the negativity of being in the same sector. <br>\n                                Although large banks such as Santander or BBVA will have a greater impact due to the devaluation of currencies in South America where they have a great role. And it is that both Mexico (BBVA) and Brazil (Santander) will suffer much more from the effects of COVID19. There is a lot of uncertainty as to how the virus will end there and that makes these banks so devalued.\n                                <br>\n                                Small Spanish banks have the advantage that they quote very little and can be said to be very juicy for large ones. This can lead to OPAS and bank mergers. The candidates for these takeover bids are 4 banks that have lost more than 50% like the big ones and <strong> are Banco Unicaja (from 1 to 0.5), Liberbank (0.34 to 0.12), Banco Sabadell (1 to 0.42) and Bankia (2 to 0.90) </strong>. These banks offer great opportunities because of this, because when these OPAS are rumored or announced by the greats, they will want to eliminate competition and gain presence in regions where they also have less.\n                                <li><h4 style=\"color:green; font-weight: bolder\">Companies with good future prospects</h4>  \n                                Finally, if we want to build a good portfolio, once the second rebound is over and the previous values are reached in a more mature stage of the rebound. We must integrate both stocks with a very good outlook and the most recommended, always taking advantage of stock market corrections as stocks with great prospects. These values are those linked to renewable energy and that have an international presence such as <strong> Acciona </strong> and, pending debt improvement, could also be considered <strong> Abengoa </strong>. Other stocks with very good prospects better than the previous ones (triple annual profit) but on a small scale are <strong> Audax Renovables and Solaria </strong>. You can also buy new technology companies like Cellnex with brilliant results for 3 years.\n                            </li>\n                            <li><h4 style=\"color:green; font-weight: bolder\">Valores defensivos</h4>                          \n                               If this crisis is complicated and it looks like a recession, it will be good to incorporate defensive values such as the Spanish electricity companies that give guaranteed benefits every year and that do not depend on events that may come (<strong> Red Electrica, Endesa, Naturgy, Enagas, Iberdrola</strong>).\n                            </li>\n                        </ul>\n\n                    <h1> Future trend </h1>\n                        <p> In the short term I foresee as I had said at the beginning an imminent correction and later a slow rise. In the following graph I show how I see the possible rise after the rebound and correction.\n                        <br>\n                        If the confinement ends in May and economic activity resumes, a drop in GDP of around 15% could be expected this year, if it will last longer it may increase, although it will be necessary to count in summer to what extent it affects the one with the least foreign tourists. In the event that arrivals decrease by 50%, GDP could easily fall by 25% and Spain could enter a technical recession.\n                        <br>\n                        Being a mainly service country without great industrial activity like other countries around us, Spain is going to take a hard hit from this specific crisis, albeit much reduced this year.\n                        <br>\n                        It will be necessary to be attentive to the possible resistances given by fibonnaci and the possible steps that the index leaves as time goes by. The most possible is that next year if we grow again before, we can recover the value in less than 2 years. The worst of the crisis has already happened in Spain although it remains to be seen how it ends in the United States.\n                        <br>\n                        Regarding values ​​to monitor, <strong> 7500 and 8300 </strong> as possible maximums until the end of the year, and around 7100, (current value as possible support).\n                        <br>\n                        <img class=\"img-fluid\" src=\"imags/eco/eco20/eco_IBEX35_1D_2020.jpg\" alt=\"eco_IBEX35_1D_2020\" />                    \n\t\t\t\t<div class=\"hidden-md-down\"> \t\n                    <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t                <!-- HORIZONTA_GRANDE -->\n\t                <ins class=\"adsbygoogle\"\n\t                     style=\"display:inline-block;width:728px;height:90px\"\n\t                     data-ad-client=\"ca-pub-8000076722057083\"\n\t                     data-ad-slot=\"1958507219\"></ins>\n\t                <script>\n\t                   (adsbygoogle = window.adsbygoogle || []).push({});\n\t                </script>\n\t            </div>  \n\t            <div class=\"hidden-lg-up\">\n\t                <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t                <!-- HORIZONTAL_PEQUENIO -->\n\t                <ins class=\"adsbygoogle\"\n\t                     style=\"display:inline-block;width:320px;height:100px\"\n\t                     data-ad-client=\"ca-pub-8000076722057083\"\n\t                     data-ad-slot=\"6771850198\"></ins>\n\t                <script>\n\t\t                (adsbygoogle = window.adsbygoogle || []).push({});\n\t\t            </script> \n\t\t\t\t</div>   \n\t\t\t</div>   \n            <div class=\"col-2 col-lg-2  hidden-lg-down\" id=\"sidebar2\">\n                <div class=\"sidebar-module text-right\"  >\n                    <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n                        <ins class=\"adsbygoogle\"\n                        style=\"display:inline-block;width:160px;height:600px\"\n                        data-ad-client=\"ca-pub-8000076722057083\"\n                        data-ad-slot=\"9350582858\"></ins>\n\t                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>\n                </div>\n\t\t\t</div>\t\t\t\t\n        </div>\n        <hr>\n        <footer>\n            <div class=\"container footer_fmt\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Personal website of Sergio LM. Experiences, travels, economical analysis, trekking paths and more.</p>\n                        <ul class=\"bottom_ul\">\n                            <li><a href=\"avisolegal_en.html\">Legal Advisor</a></li>\n                            <li><a href=\"aboutme_en.html\">About me</a></li>\n                            <li><a href=\"blog_01_es.html\">Blog</a></li>\n                            <li><a href=\"contactme_en.html\">Contact</a></li>\n                            <li><a href=\"#\">Faq's</a></li>\n                            <li><a href=\"#\">Site Map</a></li>\n                        </ul>\n                    </div>\n                    <div class=\"col-md-3 col-sm-6 paddingtop-bottom\">\n                        <h6 class=\"heading7\">LASTS POSTS</h6>\n                        <div class=\"text-left\">\n                            <a href=\"https://plus.google.com/108456074028547332093\"><img class=\"icono_f\" src=\"imags/icons/footer-google+.png\" alt=google+_footer /></a>                           \n                            <a href=\"https://www.facebook.com/DiarioIngeniero-373287576574463/\"><img class=\"icono_f\" src=\"imags/icons/footer-fb.png\" alt=facebook_footer /></a> \n                            <a href=\"https://twitter.com/diariodesergi\"><img class=\"icono_f\" src=\"imags/icons/footer-twitter.png\" alt=twitter_footer /></a>\n                        </div>    \n                        <div class=\"post\">\n                            <p>New Facebook Page, Diariodeuningeniero <span>1st August,2017</span></p>\n                        </div>\n                    </div>\n                    <div class=\"col-md-3 col-sm-6 paddingtop-bottom footer_fmt_i\">\n                        <div class=\"fb-page\"\n                            data-href=\"https://www.facebook.com/DiarioIngeniero-373287576574463/\"\n                            data-width=\"380\"\n                            data-hide-cover=\"false\"\n                            data-show-facepile=\"false\">\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </footer>\n        <div class=\"wrapper hidden-lg-up social_fmt\" id=\"social_footer\">            \n\t\t\t<div class=\"fb-send icono\" data-href=\"www.diariodeuningeniero.com/eco20_ibex35_en.html\"></div>\n            <a href=\"rss/general_rss.xml\"><img class=\"icono \" src=\"imags/icons/icon-rss.png\"></a>\n            <a href=\"http://twitter.com/home?status=COVID19 impact on IBEX35 by diariodeuningeniero+www.diariodeuningeniero.com/eco20_ibex35_en.html\"><img class=\"icono\" src=\"imags/icons/icon-twitter.png\"></a>\n            <a href=\"whatsapp://send?text= www.diariodeuningeniero.com/eco20_ibex35_en.html\" data-text=\"COVID19 impact on IBEX35 by diariodeuningeniero\" data-action=\"share/whatsapp/share\"><img class=\"icono pull-right\" src=\"imags/icons/icon-whatsapp.png\"></a>\n        </div>\n        <!-- footer start from here-->\n        <div class=\"copyright\">\n            <div class=\"container\">\n                <div class=\"col-md-6\">\n                    <p>© 2016 - All Rights Reserved - Diseñada por Sergio López Martínez</p>\n                </div>\n            </div>\n        </div>\n        <!-- Bootstrap core JavaScript\n        ================================================== -->\n        <!-- Placed at the end of the document so the pages load faster -->\n        <script src=\"https://code.jquery.com/jquery-3.1.1.slim.min.js\" integrity=\"sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n\"></script>\n        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js\" integrity=\"sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb\"></script>\n        <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js\"></script>\n        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->\n        <script src=\"https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js\"></script>\n        <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js\"></script>\n        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js\"></script>\n        <!-- OTHER SCRIPTS*/    -->\n        <script type=\"text/javascript\">\n        $('[data-toggle=\"offcanvas\"]').click(function () {\n        $('.row-offcanvas').toggleClass('active')\n        });\n        </script>\n        <!-- Initialize Bootstrap functionality\n        <script>\n        // /*Initialize tooltip component*/\n        $(function () {\n        $('[data-toggle=\"tooltip\"]').tooltip()\n        });\n        // Initialize popover component\n        $(function () {\n        $('[data-toggle=\"popover\"]').popover()\n        })\n        </script>-->\n        <!-- SCRIPTS ADD DEGIRO. -->\n        <script>\n        /*Array con las imagenes que se iran mostrando en la web*/\n        var imagenes=['imags/banners/degiro_vertical.png',\n        'imags/banners/degiro_vertical2.png'];\n        /*Funcion para cambiar la imagen*/\n        function rotarImagenes()\n        {\n        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay\n        var index=Math.floor((Math.random()*imagenes.length));\n        // cambiamos la imagen\n        document.getElementById(\"degiro\").src=imagenes[index];\n        }\n        /*Función que se ejecuta una vez cargada la página*/\n        onload=function()\n        {\n        // Cargamos una imagen aleatoria\n        rotarImagenes();\n        // Indicamos que cada 5 segundos cambie la imagen\n        setInterval(rotarImagenes,5000);\n        }\n        </script>\n        <!-- SCRIPTS REDES SOCIALES. -->\n        <!-- Inserta esta etiqueta en la sección \"head\" o justo antes de la etiqueta \"body\" de cierre. -->\n        <div id=\"fb-root\"></div>\n        <script>\n        (function(d, s, id) {\n        var js, fjs = d.getElementsByTagName(s)[0];\n        if (d.getElementById(id)) return;\n        js = d.createElement(s); js.id = id;\n        js.src = \"//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8\";\n        fjs.parentNode.insertBefore(js, fjs);\n        }(document, 'script', 'facebook-jssdk'));\n        </script>\n        <script src=\"https://apis.google.com/js/platform.js\" async defer>\n        {'es'}\n        </script>\n        <script type=\"text/javascript\">\n        window.___gcfg = {lang: 'es'};\n        (function() {\n        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n        po.src = 'https://apis.google.com/js/platform.js';\n        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n        })();\n        </script>\n        <script>\n        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';\n        if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';\n        fjs.parentNode.insertBefore(js,fjs);\n        }}(document, 'script', 'twitter-wjs');\n        </script>\n        <script type=\"text/javascript\">\n        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';\n        if(!d.getElementById(id)){js=d.createElement(s);\n        js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");\n        </script>\n        <!-- SCRIPT estadisticas -->\n        <script>\n        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n        ga('create', 'UA-90367288-1', 'auto');\n        ga('send', 'pageview');\n        </script>\n        <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n        <script>\n          (adsbygoogle = window.adsbygoogle || []).push({\n            google_ad_client: \"ca-pub-8000076722057083\",\n            enable_page_level_ads: true\n          });\n        </script>           \n    </body>\n</html>",
-			"file": "eco20_ibex35_en.html",
-			"file_size": 30622,
-			"file_write_time": 132311775299085599,
-			"settings":
-			{
-				"buffer_size": 30046,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "eco20_ibex35_es.html",
-			"settings":
-			{
-				"buffer_size": 32098,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "eco_12_es.html",
-			"settings":
-			{
-				"buffer_size": 34443,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "blog_02_es.html",
-			"settings":
-			{
-				"buffer_size": 34115,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blog_02_en.html",
-			"settings":
-			{
-				"buffer_size": 34060,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blog_01_es.html",
-			"settings":
-			{
-				"buffer_size": 34208,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blog_01_en.html",
-			"settings":
-			{
-				"buffer_size": 34165,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blog18_es_ulpgc_es.html",
-			"settings":
-			{
-				"buffer_size": 21066,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blog17_es_trescantos_en.html",
-			"settings":
-			{
-				"buffer_size": 21550,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 34732,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -112,11 +20,31 @@
 		"selected_items":
 		[
 			[
-				"install",
+				"Package Control: INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
 				"Package Control: Install Package"
 			],
 			[
 				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Cont",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
 				"Package Control: Install Package"
 			],
 			[
@@ -162,17 +90,106 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_12_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_ibex35_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_eur_usd_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_ibex35_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_BTC_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_12_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_12_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/index.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_indices_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_indices_es.html",
+		"/C/Users/Sergio/Downloads/ejercicio1.xml",
+		"/C/Users/Sergio/Desktop/ejemplos_de_clase_tema_BDXML/estad_jugadores_xml.xq",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/ej10.xq",
+		"/C/Users/Sergio/Desktop/ejemplos_de_clase_tema_BDXML/lista_coches_xml.xq",
+		"/C/Users/Sergio/Desktop/ejemplos_de_clase_tema_BDXML/ejemplo_flwor_cdteca.xq",
+		"/C/Users/Sergio/Desktop/ejemplos_de_clase_tema_BDXML/lista_coches_html.xq",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/ej09.xq",
+		"/C/Users/Sergio/Desktop/ejemplos_de_clase_tema_BDXML/lista_coches.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema6/clientes_prueba_xml.xml",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/equipos.xml",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/estadisticas.xml",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/partidos.xml",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/jugadores.xml",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/ej05.xq",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/ej04.xml",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/reunion_clase.xq",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema6/conce02.xq",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema6/ejemplo1_xq.xq",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema6/ejemplo1b_xq.xq",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema6/ejemplo_clase.xq",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/ej06.xq",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/ej07.xq",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/ej08.xq",
+		"/C/Users/Sergio/Desktop/ejercicios_xml_xq_clase/ej11.xq",
+		"/C/Users/Sergio/AppData/Local/Temp/Rar$DIa0.409/lista_coches_html.xq",
+		"/C/Users/Sergio/AppData/Local/Temp/Rar$DIa0.365/lista_coches_xml.xq",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_ibex35_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_ibex35_en.html",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/futbol.xsl",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/productos.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/prueba1.xsl",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/examen1.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/futbol.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/ejercicio8.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/cdteca.css",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/productos_html.xsl",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/calificaciones1.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/calificaciones.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/calificaciones2.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/centro examen.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/centro_examen.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/ejercicio6.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/ejercicios_xml_xq_clase/equipo.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/ejercicio5_3.xml",
+		"/C/Users/Sergio/AppData/Local/Temp/Rar$DIa0.716/BDdistanzaej.xml",
+		"/C/Users/Sergio/AppData/Local/Temp/Rar$DIa0.557/BDdistanzaej.xml",
+		"/C/Users/Sergio/AppData/Local/Temp/Rar$DIa0.070/BDdistanzaej.xml",
+		"/C/Users/Sergio/AppData/Local/Temp/Rar$DIa0.698/notas.xml",
+		"/C/Users/Sergio/AppData/Local/Temp/Rar$DIa0.032/notas.xml",
+		"/C/Users/Sergio/AppData/Local/Temp/Rar$DIa0.258/ejercicio5_3.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/ejercicio6.xsl",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/futbol2.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/oferta.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/oferta.xsl",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/notas.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema5/futbol3.xml",
+		"/C/Users/Sergio/AppData/Local/Temp/Rar$DIa0.293/LMSGI05_TARE_R01.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/calificaciones2.xsd",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/pizzeria2.xsd",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/notas.xsd",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/familia_xsd.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/PROYECTOS/ASIR_PROY_FULL_Glosario_-_20141118.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/centro_examen.xsd",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/PROYECTOS/ASIR_PROY02/ArchivosUnidad/Moodle/PROY02_Glosario.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/materiales/LM/ASIR_LMSGI_FULL_Glosario_-_20141118.xml",
+		"/C/Users/Sergio/AppData/Local/Temp/Rar$DIa0.905/LMSGI05_TARE_R01.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/ejercicio_keys.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/ejercicio_keys.xsd",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/calificaciones1.dtd",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/concesionario_examen_xsd3.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/IesCCM.dtd",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/familia_dtd.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/ejemplo_keys.xsd",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/ejemplo_keys.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/familia.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/concesionario_examen.xml",
+		"/C/Users/Sergio/Desktop/ibex35.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/ej2.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/concesionario_examen.dtd",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/concesionario_de_coches.xml",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/concesionario_examen.xsd",
+		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/podadora.xml",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_trescantos_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_ulpgc_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_en.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_eur_usd_es.html",
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_BTC_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/css/style_s.css",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_BTC_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_eur_usd_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_abengoa_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_11_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco20_abengoa_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_eur_usd_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_BTC_bubble_es.html",
@@ -183,7 +200,6 @@
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco19_abengoa2_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco_09_es.html",
 		"/C/Users/Sergio/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
-		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/calificaciones.xml",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_telecoms_en.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco18_acerinox_es.html",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/avisolegal_es.html",
@@ -191,105 +207,17 @@
 		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema3/ejercicio_4.xml",
 		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema3/ejercicio1_b.xml",
 		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema3/manualimprescindible XML. Edición 2012/03/03-002.xml",
-		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/concesionario_examen.xml",
-		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/ej2.xml",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/rss/general_rss.xml",
-		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/podadora.xml",
 		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/quina2.xml",
 		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/quina3.dtd",
 		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/quina2.xsd",
 		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/libreria_rep.xml",
 		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/libreria_rep.xsd",
-		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/familia_dtd.xml",
 		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema3/cursoxml/leccion3/titulosinterno.xml",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_markets_en.html",
-		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema4/concesionario_de_coches.xml",
 		"/D/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/ASIR/LENGUAJE_MARCAS/tema3/7-planificacion.xml",
 		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/aboutme_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/aboutme_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/avisolegal_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog17_es_firsttrip_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog18_es_canarias_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_gastronomia_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_historia_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_isla_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_isla_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_agaete_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_aguimes_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_arucas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_brigida_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_firgas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_galdar_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_palmas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_tejeda_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_l_teror_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_lindice_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_main_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_brigidateror_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_charco_azul_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_confital_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guayadeque_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_guigui_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_maspalomas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_roque_nublo_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_s_temisas_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gc_sindice_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_ciudad_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_gastronomia_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_1_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_2_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_3_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_4_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_5_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_h_i_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_main_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_provincia_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_aguila_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_alarilla_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_altotajo_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_hundido_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_mesa_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_ocejon_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_s_pietajo_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/gu_sindice_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_banks_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_paris_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_country_toulouse_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_health_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_house_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_idiom_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_main_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_markets_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_social_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_telecoms_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_tourism_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transfer_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_transport_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_fr_work_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_main_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_banks_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_country_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_country_london_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_health_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_house_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_idiom_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_main_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_social_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_tourism_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_transfer_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_transport_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/wa_uk_work_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_fleet_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_es_backspain_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog16_uk_london_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_en.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/blog_02_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/ca_main_es.html",
-		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/eco17_BTC_bubble_es.html"
+		"/C/Users/Sergio/Documents/Mis sitios web/Mi sitio/aboutme_en.html"
 	],
 	"find":
 	{
@@ -312,6 +240,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"priceSum",
+			"extension",
 			"Empresas",
 			"2019",
 			"Marz",
@@ -437,8 +367,6 @@
 			"</ strong>",
 			"sacyr",
 			"Sacyr",
-			"Indra",
-			"indra",
 			"Indra"
 		],
 		"highlight": true,
@@ -585,1198 +513,8 @@
 	"groups":
 	[
 		{
-			"selected": 4,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "eco20_ibex35_en.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 30046,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								19786,
-								19786
-							]
-						],
-						"settings":
-						{
-							"SL.15.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3654.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "eco20_ibex35_es.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 32098,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12930,
-								12930
-							]
-						],
-						"settings":
-						{
-							"SL.16.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										12979,
-										12981
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										12931,
-										12933
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1249.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "eco_12_es.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34443,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								34443,
-								0
-							]
-						],
-						"settings":
-						{
-							"SL.15.region_keys":
-							[
-							],
-							"SL.17.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "blog_02_es.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34115,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2757,
-								2757
-							]
-						],
-						"settings":
-						{
-							"SL.19.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										2765,
-										2766
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										2750,
-										2751
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 216.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "blog_02_en.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34060,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2657,
-								2657
-							]
-						],
-						"settings":
-						{
-							"SL.17.region_keys":
-							[
-							],
-							"SL.20.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										2666,
-										2667
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										2651,
-										2652
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "blog_01_es.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34208,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2663,
-								2663
-							]
-						],
-						"settings":
-						{
-							"SL.21.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										2671,
-										2672
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										2656,
-										2657
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "blog_01_en.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34165,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2663,
-								2663
-							]
-						],
-						"settings":
-						{
-							"SL.22.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										2671,
-										2672
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										2656,
-										2657
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "blog18_es_ulpgc_es.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 21066,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"SL.23.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "blog17_es_trescantos_en.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 21550,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"SL.21.region_keys":
-							[
-							],
-							"SL.24.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34732,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								34732,
-								34732
-							]
-						],
-						"settings":
-						{
-							"SL.18.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-									"1":
-									[
-										34727,
-										34731
-									]
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 8762.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1869,7 +607,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 429.0,
+	"side_bar_width": 314.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
