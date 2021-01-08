@@ -142,9 +142,15 @@
 			</div>				
         </div>
         <hr>
+        <div id="consent-popup" class="hidden">
+            <p>Usando este sitio web aceptas nuestros <a href="avisolegal_es.html">Terminos y condiciones</a>.
+            Por favor <a id="accept" href="">Aceptar</a> esto antes de usar el sitio web.
+            </p>
+        </div>
+        <script src="js/app.js"></script>        
         <footer>
             <div class="container footer_fmt">
-                <div class="row">
+				<div class="row">
                     <div class="col-md-4 col-sm-6 footerleft ">
                         <div class="logofooter"><img class="img-fluid right_l" src="imags/Main/logo_transparente.png" alt="logo"/> </div>
                         <p>Sitio web personal de Sergio LM. Experiencias, viajes, rutas senderistas y mucho más.</p>
@@ -292,5 +298,28 @@
             enable_page_level_ads: true
           });
         </script>           
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"/>
+        <div id="WgD">
+          <div class='WgD-position'>
+            <div class='WgD-container'>
+              <h3 class='WgD-title'>
+        Adblock Detectado</h3>
+        <p class='WgD-text'>
+        El sitio se mantiene gracias a la publicidad, por favor <strong>Desactiva Adblock</strong> para seguir navegando</p>
+        <a class='WgD-reload' href=".">He desactivado Adblock</a>
+            </div>
+        </div>
+        <div class='WgD-particles'>
+            <i class="wgd-usd"></i><i class="wgd-eur"></i>
+            <i class="wgd-usd"></i><i class="wgd-eur"></i>
+            <i class="wgd-btc"></i><i class="wgd-usd"></i>
+            <i class="wgd-usd"></i><i class="wgd-eur"></i>
+            <i class="wgd-btc"></i><i class="wgd-usd"></i>
+            <i class="wgd-eur"></i>
+          </div>
+        </div>
+        <script>//<![CDATA[
+        function adBlockDetected(){document.getElementById("WgD").classList.add("is-detected"),document.body.classList.add("ab-is-detected")}if("undefined"!=typeof fuckAdBlock||"undefined"!=typeof FuckAdBlock)adBlockDetected();else{var importFAB=document.createElement("script");importFAB.onload=function(){fuckAdBlock.onDetected(adBlockDetected),fuckAdBlock.onNotDetected(adBlockNotDetected)},importFAB.onerror=function(){adBlockDetected()},importFAB.integrity="sha384-CXnSItT4vv0CF9Lrll7Wu5SofkJWovtQcEuqpH2REEeQURSJapSzBwvm1QTDwgBK",importFAB.crossOrigin="anonymous",importFAB.src="https://cdn.jsdelivr.net/npm/fuckadblock@3.2.1/fuckadblock.min.js",document.head.appendChild(importFAB)}
+//]]></script>        
     </body>
 </html>
