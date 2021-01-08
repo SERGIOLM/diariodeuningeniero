@@ -313,18 +313,22 @@ footer { background-color:#0c1a1e; min-height:150px; font-family: 'Open Sans', s
 .bottom_ul li:after { content:"/"; color:#FFF; margin-right:8px; margin-left:8px;}
 .bottom_ul li a { color:#FFF; font-size:12px;}
 
-#consent-popup {
+#barracookies {
+    display: none;
+    z-index: 99999;
     position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 2rem 8rem;
-    background-color: black;
-    transition: opacity 1s ease;
-    color:white;
-    &.hidden {
-        opacity: 0;
-    }
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 100%;
+    min-height: 40px;
+    padding: 5px;
+    background:black;
+    color: #ffffff;
+    line-height: 20px;
+    font-size: 12px;
+    text-align: center;
+    box-sizing: border-box;
 }
 
  /*!

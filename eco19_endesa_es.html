@@ -13,7 +13,7 @@
         <title>Endesa analisis técnico diaryofanengineer</title>
         <link href="css/style_s.css" rel="stylesheet" type="text/css" media="screen">
         <!-- Bootstrap core CSS -->
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet" crossOrigin ="anonymous">
     </head>
     <body>
         <header>
@@ -206,12 +206,11 @@
 			</div>				
         </div>
         <hr>
-        <div id="consent-popup" class="hidden">
-            <p>Usando este sitio web aceptas nuestros <a href="avisolegal_es.html">Terminos y condiciones</a>.
-            Por favor <a id="accept" href="">Aceptar</a> esto antes de usar el sitio web.
-            </p>
-        </div>
-        <script src="js/app.js"></script>        
+        <div id="barracookies">
+            Se le informa que este sitio almacena cookies para mejorar el servicio web. Si continua navegando se entiende que acepta su uso
+             <br/>
+            <a href="javascript:void(0);" onclick="var expiration = new Date(); expiration.setTime(expiration.getTime() + (60000 * 60 * 24 * 365)); setCookie('avisocookies', '1', expiration, '/');document.getElementById('barracookies').style.display = 'none';"><b>OK</b></a> | <a href="avisolegal_es.html" target="_blank">Aviso Legal</a></div>
+        <script src="js/app.js"></script>       
         <footer>
             <div class="container footer_fmt">
 				<div class="row">
@@ -267,7 +266,7 @@
         ================================================== -->
         <!-- Placed at the end of the document so the pages load faster -->
         <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossOrigin ="anonymous" ></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
         <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
         <script src="https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js"></script>

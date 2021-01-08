@@ -1,35 +1,25 @@
-const cookieStorage = {
-    getItem: (item) => {
-        const cookies = document.cookie
-            .split(';')
-            .map(cookie => cookie.split('='))
-            .reduce((acc, [key, value]) => ({ ...acc, [key.trim()]: value }), {});
-        return cookies[item];
-    },
-    setItem: (item, value) => {
-        document.cookie = `${item}=${value};`
-    }
+
+function setCookie(name, value, expires, path, domain, secure) {
+    document.cookie = name + "=" + escape(value) + ((expires == null) ? "" : "; expires=" + expires.toGMTString()) + ((path == null) ? "" : "; path=" + path) + ((domain == null) ? "" : "; domain=" + domain) + ((secure == null) ? "" : "; secure")
 }
 
-const storageType = cookieStorage;
-const consentPropertyName = 'jdc_consent';
-const shouldShowPopup = () => !storageType.getItem(consentPropertyName);
-const saveToStorage = () => storageType.setItem(consentPropertyName, true);
-
-window.onload = () => {
-
-    const acceptFn = event => {
-        saveToStorage(storageType);
-        consentPopup.classList.add('hidden');
+function getCookie(name) {
+    var cname = name + "=";
+    var dc = document.cookie;
+    if (dc.length > 0) {
+        begin = dc.indexOf(cname);
+        if (begin != -1) {
+            begin += cname.length;
+            end = dc.indexOf(";", begin);
+            if (end == -1)
+                end = dc.length;
+            return unescape(dc.substring(begin, end))
+        }
     }
-    const consentPopup = document.getElementById('consent-popup');
-    const acceptBtn = document.getElementById('accept');
-    acceptBtn.addEventListener('click', acceptFn);
-
-    if (shouldShowPopup(storageType)) {
-        setTimeout(() => {
-            consentPopup.classList.remove('hidden');
-        }, 2000);
+    return null
     }
-
-};
+function delCookie(name, path, domain) {
+    if (getCookie(name)) {
+        document.cookie = name + "=" + ((path == null) ? "" : "; path=" + path) + ((domain == null) ? "" : "; domain=" + domain) + "; expires=Thu, 01-Jan-70 00:00:01 GMT"
+    }
+}
