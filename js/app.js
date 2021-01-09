@@ -23,3 +23,12 @@ function delCookie(name, path, domain) {
         document.cookie = name + "=" + ((path == null) ? "" : "; path=" + path) + ((domain == null) ? "" : "; domain=" + domain) + "; expires=Thu, 01-Jan-70 00:00:01 GMT"
     }
 }
+
+    var comprobar = getCookie("avisocookies");
+    if (comprobar != null) {
+    } else {
+        var expiration = new Date();
+        expiration.setTime(expiration.getTime() + (60000 * 60 * 24 * 365));
+        setCookie("avisocookies", "1", expiration);
+        document.getElementById("barracookies").style.display = "block";
+    }
