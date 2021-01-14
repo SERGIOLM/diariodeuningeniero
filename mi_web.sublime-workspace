@@ -1,0 +1,757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "eco_14_es.html",
+			"settings":
+			{
+				"buffer_size": 36258,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Con",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"Package Cont",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View In Browser"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"install",
+			"control",
+			"install",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/css",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/js",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/rss"
+	],
+	"file_history":
+	[
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_arbistar_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_14_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_arbistar_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_14_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/index.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_arbistar_es .html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_abengoashares_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_BTC_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_BTC_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_BTC_bubble_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_unicaja_liberbank_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_unicaja_liberbank_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_unicaja_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_13_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_13_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/css/style_s.css",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_abengoa_protagonistas_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_abengoa_protagonistas_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/js/app.js",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_abengoa_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_abengoa_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco20_indices_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_abengoashares_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_abengoa_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/IE_SERVER/eco21_abengoa_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/IE_SERVER/eco21_abengoa_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/aboutme_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/wa_uk_transfer_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog16_es_backspain_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog16_es_launch_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog16_fr_toulouse_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog16_uk_london_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog16_uk_stratford_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog17_es_canarias_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog17_es_firsttrip_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog17_es_trescantos_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog18_es_canarias_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog18_es_ies_rincon_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog18_es_ulpgc_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog_01_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog_02_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/contactme_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_brexit_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_FEDrateschanges_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_itareferendum_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_petrol_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_UEbankproblems_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_usaelections_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_year_review_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_abengoa_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_best_inverter_keys_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_BTC_bubble_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_elections_france_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_FEDrateschanges_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_popular_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_referendum_cat_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_usa_china_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_usa_korea_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_why_not_banks_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_year_review_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_abengoa_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_acerinox_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_arcelor_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_bankia_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_bbva_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_BTC_bubble_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_cnmv_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_dia_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_gamesa_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_iag_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_indra_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_melia_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_ohl_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_referendum_cat_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_repsol_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_sacyr_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_santander_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_tecnicas_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_telefonica_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_usa_china_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_usa_korea_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_year_review_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_abengoa2_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_acciona_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_acs_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_amadeus_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_BTC_bubble_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_duro_felguera_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_enagas_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_endesa_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_eur_usd_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_fcc_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_ferrovial_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_grupo_san_jose_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_iberdrola_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_naturgy_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_nyesa_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_red_electrica_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_sacyr_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_sellos_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_sniace_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_unicaja_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_urbas_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_usa_china_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco19_vertice_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco20_covid19_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco20_eur_usd_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco20_ibex35_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco20_indices_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_01_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_02_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_03_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_04_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_05_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_06_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_07_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_08_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_09_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_10_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_11_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_12_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/gc_gastronomia_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/gc_historia_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/gc_isla_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/gc_l_agaete_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/gc_l_aguimes_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/gc_l_arucas_en.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 278.0,
+		"where_history":
+		[
+			"",
+			"\t",
+			"",
+			"ecodiario_es_mv",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"atras",
+			"eco_12_en",
+			"eco_13_en",
+			"        <div id=\"consent-popup\" class=\"hidden\">\n            <p>By using this site you agree to our <a href=\"avisolegal_en.html\">Terms and Conditions</a>.\n            Please <a id=\"accept\" href=\"\">Accept</a> these before using the site.\n            </p>\n        </div>",
+			"sidebar",
+			"                  </",
+			"        <div id=\"consent-popup\" class=\"hidden\">\n            <p>By using this site you agree to our <a href=\"avisolegal_en.html\">Terms and Conditions</a>.\n            Please <a id=\"accept\" href=\"\">Accept</a> these before using the site.\n            </p>\n        </div>\n        <script src=\"js/app.js\"></script>  ",
+			"ergio LM.                    </div>",
+			"        <div id=\"consent-popup\" class=\"hidden\">\n            <p>Usando este sitio web aceptas nuestros <a href=\"avisolegal_es.html\">Terminos y condiciones</a>.\n            Por favor <a id=\"accept\" href=\"\">Aceptar</a> esto antes de usar el sitio web.\n            </p>\n        </div>\n        <script src=\"js/app.js\"></script>        \n        <footer>",
+			"       <div id=\"barracookies\">\n            Se le informa que este sitio almacena cookies para mejorar el servicio web. Si continua navegando se entiende que acepta su uso\n             <br/>\n            <a href=\"javascript:void(0);\" onclick=\"var expiration = new Date(); expiration.setTime(expiration.getTime() + (60000 * 60 * 24 * 365)); setCookie('avisocookies', '1', expiration, '/');document.getElementById('barracookies').style.display = 'none';\"><b>OK</b></a> | <a href=\"avisolegal_es.html\" target=\"_blank\">Aviso Legal</a></div>\n        <script src=\"js/app.js\"></script>       \n        <footer>",
+			"acce",
+			"        <!-- SCRIPTS ADD DEGIRO. -->\n        <script>\n        /*Array con las imagenes que se iran mostrando en la web*/\n        var imagenes=['imags/banners/degiro_vertical.png',\n        'imags/banners/degiro_vertical2.png'];\n        /*Funcion para cambiar la imagen*/\n        function rotarImagenes()\n        {\n        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay\n        var index=Math.floor((Math.random()*imagenes.length));\n        // cambiamos la imagen\n        document.getElementById(\"degiro\").src=imagenes[index];\n        }\n        /*Función que se ejecuta una vez cargada la página*/\n        onload=function()\n        {\n        // Cargamos una imagen aleatoria\n        rotarImagenes();\n        // Indicamos que cada 5 segundos cambie la imagen\n        setInterval(rotarImagenes,5000);\n        }\n        </script>",
+			"        <script>\n        /*Array con las imagenes que se iran mostrando en la web*/\n        var imagenes=['imags/banners/degiro_vertical.png',\n        'imags/banners/degiro_vertical2.png'];\n        /*Funcion para cambiar la imagen*/\n        function rotarImagenes()\n        {\n        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay\n        var index=Math.floor((Math.random()*imagenes.length));\n        // cambiamos la imagen\n        document.getElementById(\"degiro\").src=imagenes[index];\n        }\n        /*Función que se ejecuta una vez cargada la página*/\n        onload=function()\n        {\n        // Cargamos una imagen aleatoria\n        rotarImagenes();\n        // Indicamos que cada 5 segundos cambie la imagen\n        setInterval(rotarImagenes,5000);\n        }\n        </script>",
+			"                    <a href=\"https://www.degiro.es/amigo-invita-amigo/empezar-a-invertir.html?id=3OGJ8RBP&referral_name=SERGIO%20L%C3%93PEZ%20MART%C3%8DNEZ\"><img class=\"img-fluid\"  src=\"imags/banners/degiro_vertical.png\" id=\"degiro\" alt=\"banner\"/></a>",
+			"degiro",
+			"iframe",
+			"window",
+			"        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js\" integrity=\"sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb\"></script>",
+			"        <link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css\" rel=\"stylesheet\">",
+			"crossorigin",
+			"https://www.feedvalidator.org/images/valid-rss-rogers.png",
+			"http://www.feedvalidator.org/check.cgi?url=http%3A//www.diariodeuningeniero.com/rss/general_rss.xml",
+			"    </body>\n</html>",
+			"         <hr>\n        <div id=\"consent-popup\" class=\"hidden\">\n            <p>Usando este sitio web aceptas nuestros <a href=\"avisolegal_es.html\">Terminos y condiciones</a>.\n            Por favor <a id=\"accept\" href=\"\">Aceptar</a> esto antes de usar el sitio web.\n            </p>\n        </div>",
+			"        <hr>\n        <footer>",
+			"        <hr>\n        <footer>\n            <div class=\"container\"  style=\" padding-top: 0; margin-top:-240px\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal de Sergio LM.",
+			"        <hr>\n        <footer>\n            <div class=\"container\" style=\"padding-top: 0; margin-top:150px\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal de Sergio LM.",
+			"        <hr>\n        <footer>",
+			"        <hr>\n        <footer>\n            <div class=\"container\"  style=\" padding-top: 0; \">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Personal website of Sergio LM.",
+			"        <hr>\n        <footer>\n            <div class=\"container\" style=\"padding-top: 0; margin-top:150px\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Personal website of Sergio LM.",
+			"        <hr>\n        <footer>",
+			"        <hr>\n        <footer>\n            <div class=\"container footer_fmt\">\n\t\t\t\t<div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">                        \n\t\t\t\t\t\t<div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Personal website of Sergio LM.",
+			"        <hr>\n        <footer>\n            <div class=\"container\" style=\"padding-top: 0; margin-top:0px\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Personal website of Sergio LM.",
+			"        <hr>\n        <footer>\n            <div class=\"container\" style=\"padding-top: 0; margin-top:0px\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal de Sergio LM.",
+			"        <hr>\n        <footer>",
+			"        <hr>\n        <footer>\n            <div class=\"container\"  style=\" padding-top: 0; \">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal de Sergio LM.",
+			"        <hr>\n        <footer>\n            <div class=\"container footer_fmt\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal de Sergio LM.",
+			"       <hr>\n        <footer>\n            <div class=\"container footer_fmt\">\n\t\t\t\t<div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal de Sergio LM.",
+			"Usando este sitio",
+			"Sitio web personal of Sergio LM. Experiences, ",
+			"        <div id=\"consent-popup\" class=\"hidden\">\n            <p>By using this site you agree to our <a href=\"avisolegal_en.html\">Terms and Conditions</a>.\n            Please <a id=\"accept\" href=\"\">Accept</a> these before using the site.\n            </p>\n        </div>\n        <script src=\"js/app.js\"></script>\n        <div id=\"consent-popup\" class=\"hidden\">\n            <p>Usando este sitio web aceptas nuestros <a href=\"avisolegal_es.html\">Terminos y condiciones</a>.\n            Por favor <a id=\"accept\" href=\"\">Aceptar</a> esto antes de usar el sitio web.\n            </p>\n        </div>",
+			"        <footer>\n            <div class=\"container footer_fmt\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Personal website",
+			"_es",
+			"ECO",
+			"blog",
+			"eco",
+			"abengoa",
+			"img_fluid",
+			"fluid",
+			"priceSum",
+			"extension",
+			"Empresas",
+			"2019",
+			"Marz",
+			",arz",
+			"marz",
+			"href=\"eco_06_en.html\">ECO Blog",
+			"href=\"eco_06_es.html\">ECO Blog",
+			"href=\"eco_06_en.html\">ECO Blog",
+			"href=\"eco_06_es.html\">ECO Blog",
+			"eco_06",
+			"eco_06_en.html\">ECO Blog</a>",
+			"eco_06_es.html\">ECO Blog</a>",
+			"eco_06_es",
+			"</ strong>",
+			"interesados",
+			"5%",
+			"lthoug",
+			" </ strong>",
+			" </ P>",
+			"strong",
+			"mexico",
+			"2018",
+			"whatsapp://send?text= www.diariodeuningeniero.com//",
+			"whatsapp://send?text= www.diariodeuningeniero",
+			"whatsapp://send?text= www.diariodeuningeniero/",
+			"Bitcoin",
+			"</ str",
+			"bankai",
+			"Sabadell",
+			"2018",
+			"Bankia",
+			"bankia",
+			"Sacyr",
+			"sacyr",
+			"Sacyr",
+			"sacyr",
+			"Sniace",
+			"sniace",
+			">\n",
+			"The",
+			"</ strong",
+			"Nyesa",
+			"nyesa",
+			"Nyesa",
+			"nyesa",
+			"Nyesa",
+			"nyesa",
+			"Nyesa",
+			"nyesa",
+			"Iberdrola",
+			"iberdrola",
+			"Vertice",
+			"vertice",
+			"Vertice",
+			"Nyesa",
+			"nyesa",
+			"endesa",
+			"Endesa",
+			"endesa",
+			"Endesa",
+			"endesa",
+			"Endesa",
+			"endesa",
+			"sacyr",
+			"Sacyr",
+			"Enagas",
+			"Endesa",
+			"endesa",
+			"Endesa",
+			"endesa",
+			"Endesa",
+			"endesa",
+			"Endesa",
+			"ferrovial",
+			"Ferrovial",
+			"Sacyr",
+			"sacyr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"        <div id=\"barracookies\">\n            You are informed that this site stores cookies to improve the web service. If you continue browsing it is understood that you accept their use\n             <br/>\n            <a href=\"javascript:void(0);\" onclick=\"var expiration = new Date(); expiration.setTime(expiration.getTime() + (60000 * 60 * 24 * 365)); setCookie('avisocookies', '1', expiration, '/');document.getElementById('barracookies').style.display = 'none';\"><b>OK</b></a> | <a href=\"avisolegal_en.html\" target=\"_blank\">Legal Advisor</a></div>\n        <script src=\"js/app.js\"></script>",
+			"        <div id=\"barracookies\">\n            Se le informa que este sitio almacena cookies para mejorar el servicio web. Si continua navegando se entiende que acepta su uso\n             <br/>\n            <a href=\"javascript:void(0);\" onclick=\"var expiration = new Date(); expiration.setTime(expiration.getTime() + (60000 * 60 * 24 * 365)); setCookie('avisocookies', '1', expiration, '/');document.getElementById('barracookies').style.display = 'none';\"><b>OK</b></a> | <a href=\"avisolegal_es.html\" target=\"_blank\">Aviso Legal</a></div>\n        <script src=\"js/app.js\"></script>       \n        <footer>",
+			"",
+			"        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js\" integrity=\"sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb\" crossOrigin =\"anonymous\" ></script>",
+			"        <link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css\" rel=\"stylesheet\" crossOrigin =\"anonymous\">",
+			"https://www.onepointsync.com/wp-content/uploads/2016/08/valid-rss-rogers.png",
+			"https://validator.w3.org/feed/check.cgi?url=www.diariodeuningeniero.com%2Frss%2Fgeneral_rss.xml",
+			"        <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css\"/>\n        <div id=\"WgD\">\n          <div class='WgD-position'>\n            <div class='WgD-container'>\n              <h3 class='WgD-title'>\n        Adblock Detectado</h3>\n        <p class='WgD-text'>\n        El sitio se mantiene gracias a la publicidad, por favor <strong>Desactiva Adblock</strong> para seguir navegando</p>\n        <a class='WgD-reload' href=\".\">He desactivado Adblock</a>\n            </div>\n        </div>\n        <div class='WgD-particles'>\n            <i class=\"wgd-usd\"></i><i class=\"wgd-eur\"></i>\n            <i class=\"wgd-usd\"></i><i class=\"wgd-eur\"></i>\n            <i class=\"wgd-btc\"></i><i class=\"wgd-usd\"></i>\n            <i class=\"wgd-usd\"></i><i class=\"wgd-eur\"></i>\n            <i class=\"wgd-btc\"></i><i class=\"wgd-usd\"></i>\n            <i class=\"wgd-eur\"></i>\n          </div>\n        </div>\n        <script>//<![CDATA[\n        function adBlockDetected(){document.getElementById(\"WgD\").classList.add(\"is-detected\"),document.body.classList.add(\"ab-is-detected\")}if(\"undefined\"!=typeof fuckAdBlock||\"undefined\"!=typeof FuckAdBlock)adBlockDetected();else{var importFAB=document.createElement(\"script\");importFAB.onload=function(){fuckAdBlock.onDetected(adBlockDetected),fuckAdBlock.onNotDetected(adBlockNotDetected)},importFAB.onerror=function(){adBlockDetected()},importFAB.integrity=\"sha384-CXnSItT4vv0CF9Lrll7Wu5SofkJWovtQcEuqpH2REEeQURSJapSzBwvm1QTDwgBK\",importFAB.crossOrigin=\"anonymous\",importFAB.src=\"https://cdn.jsdelivr.net/npm/fuckadblock@3.2.1/fuckadblock.min.js\",document.head.appendChild(importFAB)}\n//]]></script>        \n    </body>\n</html>",
+			"        <hr>\n        <div id=\"consent-popup\" class=\"hidden\">\n            <p>Usando este sitio web aceptas nuestros <a href=\"avisolegal_es.html\">Terminos y condiciones</a>.\n            Por favor <a id=\"accept\" href=\"\">Aceptar</a> esto antes de usar el sitio web.\n            </p>\n        </div>",
+			"        <hr>\n        <div id=\"consent-popup\" class=\"hidden\">\n            <p>Usando este sitio web aceptas nuestros <a href=\"avisolegal_es.html\">Terminos y condiciones</a>.\n            Por favor <a id=\"accept\" href=\"\">Aceptar</a> esto antes de usar el sitio web.\n            </p>\n        </div>\n        <script src=\"js/app.js\"></script>        \n        <footer>\n            <div class=\"container footer_fmt\">\n\t\t\t\t<div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal de Sergio LM.",
+			"        <hr>\n        <div id=\"consent-popup\" class=\"hidden\">\n            <p>By using this site you agree to our <a href=\"avisolegal_en.html\">Terms and Conditions</a>.\n            Please <a id=\"accept\" href=\"\">Accept</a> these before using the site.\n            </p>\n        </div>\n        <script src=\"js/app.js\"></script>        \n        <footer>\n            <div class=\"container footer_fmt\">\n\t\t\t\t<div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Personal website of Sergio LM.",
+			"        <hr>\n        <div id=\"consent-popup\" class=\"hidden\">\n            <p>Usando este sitio web aceptas nuestros <a href=\"avisolegal_es.html\">Terminos y condiciones</a>.\n            Por favor <a id=\"accept\" href=\"\">Aceptar</a> esto antes de usar el sitio web.\n            </p>\n        </div>\n        <script src=\"js/app.js\"></script>        \n        <footer>\n            <div class=\"container footer_fmt\">\n\t\t\t\t<div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal de Sergio LM.",
+			"Personal website of Sergio LM. Experiences,",
+			"        <div id=\"consent-popup\" class=\"hidden\">\n            <p>By using this site you agree to our <a href=\"avisolegal_en.html\">Terms and Conditions</a>.\n            Please <a id=\"accept\" href=\"\">Accept</a> these before using the site.\n            </p>\n        </div>",
+			"        <div id=\"consent-popup\" class=\"hidden\">\n            <p>Usando este sitio web aceptas nuestros <a href=\"avisolegal_es.html\">Terminos y condiciones</a>.\n            Por favor <a id=\"accept\" href=\"\">Aceptar</a> esto antes de usar el sitio web.\n            </p>\n        </div>\n        <script src=\"js/app.js\"></script>        \n        <footer>\n            <div class=\"container footer_fmt\">\n\t\t\t\t<div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Sitio web personal",
+			"        <div id=\"consent-popup\" class=\"hidden\">\n            <p>By using this site you agree to our <a href=\"avisolegal_en.html\">Terms and Conditions</a>.\n            Please <a id=\"accept\" href=\"\">Accept</a> these before using the site.\n            </p>\n        </div>\n        <script src=\"js/app.js\"></script>\n        <footer>\n            <div class=\"container footer_fmt\">\n                <div class=\"row\">\n                    <div class=\"col-md-4 col-sm-6 footerleft \">\n                        <div class=\"logofooter\"><img class=\"img-fluid right_l\" src=\"imags/Main/logo_transparente.png\" alt=\"logo\"/> </div>\n                        <p>Personal website",
+			"2020",
+			"href=\"eco_11_en.html\">ECO Blog",
+			"href=\"eco_11_es.html\">ECO Blog",
+			"href=\"eco_11_en.html\">ECO Blog",
+			"href=\"eco_11_es.html\">ECO Blog",
+			"eco_11_en.html\">ECO Blog</a>",
+			"eco_11_es.html\">ECO Blog</a>",
+			"eco_11_es",
+			"</strong>",
+			"</p>",
+			"2019",
+			"whatsapp://send?text= www.diariodeuningeniero.com/",
+			"2019",
+			"Unicaja",
+			"unicaja",
+			"Abengoa",
+			"abengoa",
+			"Abengoa",
+			"abengoa",
+			"Abengoa",
+			"abengoa",
+			"</strong",
+			"Sniace",
+			"sniace",
+			"Sniace",
+			"Urbas",
+			"urbas",
+			"Urbas",
+			"Vertice",
+			"vertice",
+			"Duro Felguera",
+			"duro_felguera",
+			"Nyesa",
+			"nyesa",
+			"Duro Felguera",
+			"duro_felguera",
+			"urbas",
+			"Urbas",
+			"Vertice",
+			"vertice",
+			"nyesa",
+			"Nyesa",
+			"Red Electrica",
+			"red_electrica",
+			"naturgy",
+			"Naturgy",
+			"Iberdrola",
+			"iberdrola",
+			"amadeus",
+			"Amadeus",
+			"Enagás",
+			"enagas",
+			"endesa",
+			"Endesa",
+			"Enagás",
+			"Red Eléctrica",
+			"red_electrica",
+			"naturgy",
+			"Naturgy",
+			"Amadeus",
+			"amadeus",
+			"Enagas",
+			"enagas",
+			"iberdrola",
+			"Iberdrola",
+			"endesa",
+			"Endesa",
+			"Ferrovial",
+			"ferrovial",
+			"Análisis",
+			"ACS",
+			"</strong>",
+			"FCC",
+			"fcc",
+			"ferrovial",
+			"fcc",
+			"acciona",
+			"acs",
+			"Acciona",
+			"ACS",
+			"FCC",
+			"Ferrovial",
+			"Grupo San Jose",
+			"grupo_san_jose",
+			"<br><br>",
+			"</",
+			"gamesa",
+			"Gamesa",
+			"Técnicas Reunidas",
+			"tecnicas",
+			"México",
+			"</strong>",
+			"OHL",
+			"ohl",
+			"OHL",
+			"bursátil",
+			"quedó",
+			"Gürtel",
+			"vendió",
+			"caída",
+			"corrección",
+			"rápidamente",
+			"</strong>",
+			"ArcelorMittal",
+			"arcelor",
+			"</strong>",
+			"indra",
+			"Indra",
+			"OHL",
+			"ohl",
+			"OHL",
+			"tecnicas"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "eco_14_es.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14651,
+								14651
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14677,
+										14678
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										14635,
+										14636
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5999.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 133.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mi_web.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
