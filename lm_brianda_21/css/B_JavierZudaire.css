@@ -1,0 +1,61 @@
+/* HOJA DE ESTILO CSS */
+/* Definicion del cuerpo */
+body {
+	margin:0;
+	padding:0;
+	color:white;
+	background-color:grey;
+	font-family: Arial, Gadget, sans-serif;
+}
+/* Definicion de caja CABECERA */
+.cabecera {
+	height:250px;
+	background-image:url("../IMAGS/background-header.jpg");
+	background-size:cover;
+	border-top:1px solid white;
+	border-bottom:1px solid white;
+}
+/* Titulo de la cabecera */
+.cabecera h1 {
+	overflow:auto;
+	padding:60px;
+	font-size:4em;
+	text-align:center;
+	color:white;
+}
+/* Definicion de la caja BARRA LATERAL */
+.barralateralizq {
+	background:black;
+	color:grey;
+	height:960px;
+}
+.barralateralder {
+	background:black;
+	color:grey;
+	height:960px;
+}
+/* Definicion de la caja CONTENIDO */
+.contenido {
+	padding:20px;
+	color:white;
+	background-color:grey;
+}
+/* Parrafos de CONTENIDO */
+.contenido p {
+	line-height:125%;
+	font-size:125%;
+}
+/* Imagenes de CONTENIDO */
+.contenido img {
+	float:right;
+	margin-left:50px;
+}
+/* Definicion de la caja PIE */
+.pie {
+	width:100%;
+	color:white;
+	text-align:center;
+	padding:10px; 
+	background-color:black;
+	border-top:1px solid white;
+}

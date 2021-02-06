@@ -1,0 +1,279 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+
+}
+h1{
+	font-size: 50px; font-weight: 600; line-height: 80px;
+}
+
+p{
+	font-size: 18px;
+	line-height: 1.8;
+	margin-bottom: 0px;
+}
+
+section{
+	padding: 120px 0;
+}
+
+a:hover{
+	text-decoration: none;
+}
+.topmargin-xs {
+	margin-top: 15px;
+}
+.topmargin-sm {
+	margin-top: 30px;
+}
+.topmargin-lg {
+	margin-top: 60px;
+}
+.btn{
+	font-size: 14px;
+	padding: 15px 26px;
+	min-width: 160px;
+	border-radius: 2px;
+	display: inline-block;
+
+}
+
+.btn-light {
+	background: transparent;
+	color: black;
+	border: 2px solid #bc9677;
+	transition:all .5s ease-in-out;
+}
+
+.btn ion-icon{
+	font-size: 15px;
+	margin-left: 5px;
+	margin-bottom: 5px 
+}
+
+.btn-light:hover {
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}
+
+.logotipo{
+	width: 100px;
+}
+.navbar {
+	background-color: white;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05);
+	min-height: 100px; 
+	font-size: 12px;
+	padding: auto;
+}
+
+.nav-link {
+	color: #bc9677;
+}
+
+.nav-link:hover {
+	color:  #1a1a1a;
+}
+
+.icon-menu{
+	font-size: 40px;
+	color: #bc9677;
+}
+
+.icon-menu:focus {
+	outline: none;
+
+}
+
+#hero {
+	background-image: url("https://image.freepik.com/foto-gratis/tablas-fondo-desenfocado_1253-46.jpg");
+	background-size: cover;
+	padding-top: 90px;
+	min-height: 500px;
+	color: #ffffff; 
+
+}
+
+#hero p {
+	color: #bc9677;
+}
+.content-center{
+	max-width: 800px;
+	margin: 0 auto 80px auto;
+	text-align: center;
+	color: #bc9677;
+}
+
+.content-center h2{
+	color: black;
+	font-size: 40px;
+	padding-bottom: 10px;
+	padding-top: 30px;
+}
+.content-center p{
+	color: black;
+	font-size: 18px;
+}
+
+.conten-center a{
+	font-size: 32px;
+}
+
+.portfolio-container{
+	position: relative;
+	overflow: hidden;
+	margin: 10px 0;
+	border-radius: 2px;
+}
+
+.portfolio-details{
+	position: absolute;
+	bottom: -8px;
+	left: 15px;
+	z-index: 9000;
+}
+
+.portfolio-details a h2, .portfolio-details a p{
+	color: #bc9677;
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.portfolio-details h2{
+	margin-bottom: 0px;
+}
+
+.portfolio-container img{
+	-moz-transition: all 0.8s;
+	-webkit-transition: all 0.8s;
+	transition: all 0.8s;
+	width: 600px;
+	align-items: center;
+	padding: auto;
+	margin-left: 20px;
+
+}
+
+.portfolio-container img:hover {
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+	filter: blur(2.5px);
+}
+
+.portfolio-container1{
+	position: relative;
+	overflow: hidden;
+	margin: 10px 0;
+	border-radius: 2px;
+}
+
+.portfolio-details1{
+	position: absolute;
+	bottom: -8px;
+	left: 15px;
+	z-index: 9000;
+}
+
+.portfolio-details1 a h2, .portfolio-details1 a p{
+	color: #bc9677;
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.portfolio-details1 h2{
+	margin-bottom: 0px;
+}
+
+.portfolio-container1 img{
+	-moz-transition: all 0.8s;
+	-webkit-transition: all 0.8s;
+	transition: all 0.8s;
+	width: 600px;
+	align-items: right;
+	padding: auto;
+	margin-left: 20px;
+	position: relative;
+}
+
+.portfolio-container1 img:hover {
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+	filter: blur(2.5px);
+}
+
+@media (min-width: 576px) { 
+	h1{
+		font-size: 40px; line-height: normal;
+	}
+ }
+
+@media (min-width: 768px) { ... }
+
+
+@media (min-width: 992px) { ... }
+
+
+@media (min-width: 1200px) { ... }
+
+.footer-copyright{
+	background-color: #bc9677;
+	font-color: white; 
+	font-size: 12px;
+
+}
+
+.list-unstyled{
+	background-color: white;
+	font-color: #bc9677;
+}
+
+footer{
+	background-color: #D6C0AD;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05);
+	min-height: 80px; 
+	font-size: 12px;
+	padding: auto;
+}
+
+.text-uppercase {
+	color: black;
+	background-color: #D6C0AD;
+}
+
+h5 {
+	background-color: #D6C0AD;
+
+}
+.footer-copyright a{
+	font-color: black;
+}
+
+.text-uppercase p a ion-icon{
+	color: black;
+
+}
+ion-icon{
+	color: black; 
+	width: 50px;
+	height: 50px;
+	align-items: center;
+}
+
+ ion-icon:hover{
+ 	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+	filter: blur(0.5px);
+ }
+
+ h5 .text-uppercase{
+ 	background-color: #bc9677;
+ }
+
+.text-uppercase li a{
+	font-color: black;
+}

@@ -1,0 +1,111 @@
+.nav {
+  color: white;
+  padding: 40px;
+  border-bottom: white dotted 1px;
+}
+
+
+p {
+  color: white;
+}
+
+li{
+  color: white;
+}
+
+td {
+  color: white;
+}
+
+body .text {
+  color: white;
+}
+
+body a:hover  {
+  color: red;
+}
+
+body {
+  margin: 0px;
+  font-family: hack nerd font;
+  color: white;
+}
+
+
+#content form [type=text],#content form [type=Email],#content form textarea {
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 0;
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+table{
+  border: 1px solid #ccc;
+}
+
+#content table tr {
+  background-color: #000000
+}
+
+#content table tr * {
+  padding: 6px
+}
+
+#content table tr ts.7 {
+  background-color: red;
+}
+
+
+#content text {
+  padding: 0px 200px 0px 200px;
+}
+
+#content ul  {
+  text-decoration:none;
+  list-style: none;
+}
+
+#content ul a  {
+  text-decoration:none;
+  color: white;
+  list-style: none;
+}
+
+#content ul a:hover {
+  color: red;
+}
+
+.color {
+  background-color: red;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: white;
+}
+
+footer a  {
+  color: white;
+}
+
+footer a:hover  {
+  color: red;
+}
+
+.instagram {
+  padding-left: 300px;
+  padding-right: 200px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.hackandroid {
+  padding-left: 300px;
+  padding-right: 200px;
+  padding-top: 40px;
+  padding-bottom: 80px;
+}

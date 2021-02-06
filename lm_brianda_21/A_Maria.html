@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>EMD SACEDON</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link href="css/A_Maria.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  <style>
+    div.barra_izqda{height: 400px;background-color: blue}
+        div.centro{height: 400px;background-color: red}
+
+    div.barra_dcha{height: 400px;background-color: green}
+    div.mi_carousel{ max-height: 300px; margin-bottom:10px; margin-top:0px; }
+
+  </style>
+
+</head>
+<body>
+<div align="center"> 
+  <img style="height:100px; width:1200px; " src="IMAGS2/escudo.png"> 
+  </div>
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <!-- Brand -->
+  <a class="navbar-brand">
+    <img src="https://pbs.twimg.com/profile_images/659488701123284992/epoa-cbR.jpg" height="60" width="80" class="rounded-circle"></a>
+  <!-- Links -->
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="#">NOTICIAS</a>  
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">PARTIDOS</a>
+    </li>
+
+    <!-- Dropdown -->
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+        PLANTILLA
+      </a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="file:///C:/Users/Dell/Documents/PAGINA_BOOTSTRAP/PORTEROS.html" target="blank">PORTEROS</a>
+        <a class="dropdown-item" href="file:///C:/Users/Dell/Documents/PAGINA_BOOTSTRAP/ALAS.html">ALAS</a>
+        <a class="dropdown-item" href="file:///C:/Users/Dell/Documents/PAGINA_BOOTSTRAP/PIVOTS.html" target="blank">PIVOTs</a>
+         <a class="dropdown-item" href="file:///C:/Users/Dell/Documents/PAGINA_BOOTSTRAP/ALA_PIVOT.html" target="blank">ALA-PIVOT</a>
+        <a class="dropdown-item" href="file:///C:/Users/Dell/Documents/PAGINA_BOOTSTRAP/CIERRES.html" target="blank">CIERRES</a>
+        <a class="dropdown-item" href="file:///C:/Users/Dell/Documents/PAGINA_BOOTSTRAP/ENTRENADORES.html" target="blank">ENTRENADORES</a>
+      </div>
+    </li>
+  </ul>
+</nav>
+<div class="row">
+    <div class="col-lg-2 col-md-3 d-none d-md-block" style="background-color:transparent; height: 600px;">
+      <img src="IMAGS2/patrocinadores.jpg" alt="PATROCINADORES" width="200" height="500">
+    </div>
+    <div class="col-lg-8 col-md-9 col col-lg-2" style="background-color:transparent;height: 600px;">
+      <div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+  
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="IMAGS2/equipocopa.jpg" alt="EQUIPO" width="850" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="IMAGS2/equipofirmas.jpg" alt="FIRMAS" width="850" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="IMAGS2/final.jpg" alt="FINAL" width="990" height="500">
+    </div>
+  </div>
+  
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+    </div>
+    <div class="col-lg-2 col-md-1 d-none d-md-block" style="background-color:transparent;height: 500px;">
+<div class="col-sm-12 text-center mb-4">
+<table class="table table-striped clasificacion-home" style="margin-top:0px;">
+ <p1> Clasificación</p1>
+ <tbody>  
+ <thead>
+  <tr>
+<style>
+  th{
+    font-size: 9px;
+  }
+
+  td{
+    font-size: 9px;
+  }
+</style>
+  </tr>
+  </thead>                      
+ <tr>
+   <th scope="row" >1</th>
+   <th scope="row" >Bargas CD Roberto Cristoba</th>
+   <td >25</td>
+   </tr>
+
+   <tr>
+   <th scope="row" >2</th>
+   <th scope="row" >Caceres Universidad</th>
+   <td >21</td>
+   </tr>
+
+   <tr>
+   <th scope="row" >3</th>
+   <th scope="row" >Navalmoral FS</th>
+   <td >19</td>
+   </tr>
+
+   <tr>
+   <th scope="row" >4</th>
+   <th scope="row" >Ciudad de Alcorcon Futsal</th>
+   <td >19</td>
+   </tr>
+
+   <tr>
+   <th scope="row" >5</th>
+   <th scope="row" >Cobisa FS</th>
+   <td >16</td>
+   </tr>
+
+   <tr>
+   <th scope="row" >6</th>
+   <th scope="row" >EFS Colmenar Viejo Futsal</th>
+   <td >10</td>
+   </tr>
+
+   <tr>
+   <th scope="row" >7</th>
+   <th scope="row" >Colegio San José A</th>
+   <td >9</td>
+   </tr>
+
+   <tr>
+   <th scope="row" >8</th>
+   <th scope="row" >Torrejón Sala Five-Play</th>
+   <td >8</td>
+   </tr>
+
+   <tr>
+   <th scope="row" >9</th>
+   <th scope="row" >Sacedón</th>
+   <td >7</td>
+   </tr>
+
+   <tr>
+   <th scope="row" >10</th>
+   <th scope="row" >AD Madroñera Futsal</th>
+   <td >6</td>
+   </tr>
+  </tbody>
+ </table>
+   </div>
+    </div>
+  </div>
+ 
+  <div style="text-align: center; position: relative; top: 0px;" class="footer"> 
+  <p> Copyright © 2020- Maria Esteban. EMD SACEDON. Sacedón, 19120 (Guadalajara). </p> 
+  <a href="https://www.facebook.com/SacedonFs"target="_blank"><img style="height:30px; width:30px;" src="IMAGS2/facebook.png"></a>
+  
+  <a href="https://twitter.com/SacedonFs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"target="_blank"><img style="height:30px; width:30px;" src="IMAGS2/twitter.png"></a>
+  
+  <a href="https://www.instagram.com/sacedonfs/?hl=es"target="_blank"><img style="height:30px; width:30px;" src="IMAGS2/instangram.png"></a>
+  
+  <a href="https://www.youtube.com/channel/UCpov2dPvJPtas-H0lpb6aRg"target="_blank"><img style="height:30px; width:30px;" src="IMAGS2/youtube.png"></a>
+</div>
+</body>
+</html>
