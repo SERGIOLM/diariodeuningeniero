@@ -8,19 +8,28 @@
 	"buffers":
 	[
 		{
-			"file": "blog21_es_fp_lenguaje_marcas_es.html",
+			"file": "blog21_es_gu_filomena_es.html",
 			"settings":
 			{
-				"buffer_size": 36590,
+				"buffer_size": 22480,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "lm_brianda_21/A_Julian.html",
+			"file": "blog_03_es.html",
 			"settings":
 			{
-				"buffer_size": 7394,
+				"buffer_size": 36494,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "blog21_es_fp_lenguaje_marcas_es.html",
+			"settings":
+			{
+				"buffer_size": 34325,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -121,21 +130,32 @@
 	],
 	"file_history":
 	[
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog_03_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Sandra.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Alvaro.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog18_es_ulpgc_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog21_es_fp_lenguaje_marcas_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Hugo.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/A_PabloAbad.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/index.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_PabloMartinez.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/A_Julian.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_JavierZudaire.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog21_es_fp_lenguaje_marcas_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Pablo.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/favicons/favicon_di.png",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/A_Daniel.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/A_Maria.html",
 		"/C/Users/sergi/OneDrive/Escritorio/auntenficacion2.php",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Carlos.html",
 		"/C/Users/sergi/OneDrive/Escritorio/cuenta_paginas.php",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Javier.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog21_es_fp_lenguaje_marcas_es.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_CristinaSanchez.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_AdrianLario.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/AdrianLario.html",
 		"/C/Users/sergi/OneDrive/Escritorio/privada.php",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog_03_es.html",
 		"/C/Users/sergi/OneDrive/Escritorio/autentificacion.php",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog_03_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/index.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog21_es_implementacion_web_en.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog21_es_lenguaje_marcas_en.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog21_es_fp_informatica_es.html",
@@ -155,7 +175,6 @@
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/css/style_s.css",
 		"/E/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/2020-2021/LENGUAJE_MARCAS/tema4/calificaciones2b.xsd",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog17_es_firsttrip_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog18_es_ulpgc_es.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/jquery-latest.js",
 		"/E/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/2020-2021/LENGUAJE_MARCAS/tema4/ejem_keys.xsd",
 		"/E/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/2020-2021/LENGUAJE_MARCAS/tema4/family.xsd",
@@ -238,17 +257,7 @@
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_arcelor_es.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_bankia_en.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_bankia_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_bbva_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_bbva_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_BTC_bubble_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_BTC_bubble_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_cnmv_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_cnmv_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_dia_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_dia_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_duro_felguera_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_gamesa_en.html"
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco18_bbva_en.html"
 	],
 	"find":
 	{
@@ -271,6 +280,12 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"C:\\Users\\Alvaro\\Desktop\\pagina web 2\\pagina web 2 intento\\trunk\\imagenes",
+			"jpg",
+			"JPG",
+			"back",
+			"francisco",
+			"C:\\Users\\paler\\OneDrive\\ASIR\\Lenguaje de marcas\\HTML\\PÁGINA WEB 2\\",
 			"IMAGES",
 			"IMAGS",
 			"Carlos",
@@ -392,13 +407,7 @@
 			"iberdrola",
 			"Vertice",
 			"vertice",
-			"Vertice",
-			"Nyesa",
-			"nyesa",
-			"endesa",
-			"Endesa",
-			"endesa",
-			"Endesa"
+			"Vertice"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -406,6 +415,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"IMAGS\\",
 			"IMAGS",
 			"IMAGS2",
 			"",
@@ -532,8 +542,7 @@
 			"caída",
 			"corrección",
 			"rápidamente",
-			"</strong>",
-			"ArcelorMittal"
+			"</strong>"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -544,24 +553,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "blog21_es_fp_lenguaje_marcas_es.html",
+					"file": "blog21_es_gu_filomena_es.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 36590,
+						"buffer_size": 22480,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12952,
-								12952
+								5466,
+								5466
 							]
 						],
 						"settings":
@@ -573,8 +582,8 @@
 								{
 									"1":
 									[
-										12965,
-										12966
+										5471,
+										5472
 									]
 								},
 								"icon":
@@ -589,8 +598,8 @@
 								{
 									"1":
 									[
-										12936,
-										12937
+										5446,
+										5447
 									]
 								},
 								"unmatched":
@@ -599,26 +608,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -629,58 +618,198 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
-								"bh_square_content"
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2579.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog_03_es.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3921.0,
+						"translation.y": 2887.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "lm_brianda_21/A_Julian.html",
+					"buffer": 2,
+					"file": "blog21_es_fp_lenguaje_marcas_es.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7394,
+						"buffer_size": 34325,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1546,
-								1551
+								16972,
+								16970
 							]
 						],
 						"settings":
@@ -692,24 +821,24 @@
 								{
 									"1":
 									[
-										1558,
-										1559
+										16967,
+										16970
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										1545,
-										1546
+										16381,
+										16384
 									]
 								},
 								"unmatched":
@@ -718,26 +847,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -748,38 +857,58 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
-								"bh_square_content"
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 198.0,
+						"translation.y": 5395.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -839,7 +968,7 @@
 	"project": "mi_web.sublime-project",
 	"replace":
 	{
-		"height": 79.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
