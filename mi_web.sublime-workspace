@@ -8,10 +8,11 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/sergi/OneDrive/Escritorio/privada2.php",
+			"file": "blog21_es_fp_lenguaje_marcas_es.html",
 			"settings":
 			{
-				"buffer_size": 212,
+				"buffer_size": 34350,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -112,6 +113,30 @@
 	],
 	"file_history":
 	[
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_abengoa_junta_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_junta_marzo_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Roberto.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_13_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_13_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/A_Juan.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_13_es .html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_14_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_14_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_abengoa_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_abengoa_en.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco21_abengoashares_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_03_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog_03_es.html",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog_02_es.html",
+		"/E/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/2020-2021/LENGUAJE_MARCAS/tema5/futbol.css",
+		"/E/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/2020-2021/LENGUAJE_MARCAS/tema5/family.xsd",
+		"/E/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/2020-2021/LENGUAJE_MARCAS/tema5/cd_5.xsl",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/A_Daniel.html",
+		"/E/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/2020-2021/LENGUAJE_MARCAS/tema5/ej_estilos.css",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/css/A_Eder.css",
+		"/C/Users/sergi/AppData/Local/Temp/Rar$DIa11420.13203/A_Eder.css",
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/A_Eder.html",
+		"/C/Users/sergi/OneDrive/Escritorio/privada2.php",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog18_es_ies_rincon_en.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog21_es_fp_lenguaje_marcas_es.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog21_es_fp_lenguaje_marcas_en.html",
@@ -138,12 +163,10 @@
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog21_es_gu_filomena_en.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/index.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/css/style_s.css",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog_03_es.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog_03_en.html",
 		"/C/Users/sergi/Documents/Mis sitios web/IE_SERVER/index.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/ca_main_es.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Jesus.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_03_es.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Sandra.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Alvaro.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Hugo.html",
@@ -153,7 +176,6 @@
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_JavierZudaire.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Pablo.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/favicons/favicon_di.png",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/A_Daniel.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/A_Maria.html",
 		"/C/Users/sergi/OneDrive/Escritorio/auntenficacion2.php",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/lm_brianda_21/B_Carlos.html",
@@ -177,9 +199,7 @@
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog21_es_seguridad_inf_es.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog21_es_implementacion_web_es.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog_01_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog_02_es.html",
 		"/C/Users/sergi/OneDrive/Escritorio/formulario.php",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco_14_es.html",
 		"/E/DOCUMENTOS/Carrera Profesional/DOCUMENTACION BRIANDA/2020-2021/LENGUAJE_MARCAS/tema4/calificaciones2b.xsd",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/blog17_es_firsttrip_en.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/jquery-latest.js",
@@ -220,30 +240,11 @@
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_UEbankproblems_es.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_usaelections_en.html",
 		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_usaelections_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_year_review_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_year_review_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_abengoa_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_abengoa_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_best_inverter_keys_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_best_inverter_keys_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_BTC_bubble_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_BTC_bubble_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_elections_france_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_elections_france_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_FEDrateschanges_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_FEDrateschanges_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_popular_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_popular_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_referendum_cat_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_referendum_cat_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_usa_china_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_usa_china_es.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_usa_korea_en.html",
-		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco17_usa_korea_es.html"
+		"/C/Users/sergi/Documents/Mis sitios web/Mi sitio/eco16_year_review_en.html"
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 44.0
 	},
 	"find_in_files":
 	{
@@ -262,6 +263,11 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"roberto",
+			"engranajes",
+			"jpg",
+			"10 Feb",
+			"10 Febrero",
 			"central_l",
 			"img_fluid",
 			"sandra",
@@ -384,12 +390,7 @@
 			"</ strong",
 			"Nyesa",
 			"nyesa",
-			"Nyesa",
-			"nyesa",
-			"Nyesa",
-			"nyesa",
-			"Nyesa",
-			"nyesa"
+			"Nyesa"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -540,27 +541,118 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/sergi/OneDrive/Escritorio/privada2.php",
+					"file": "blog21_es_fp_lenguaje_marcas_es.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 212,
+						"buffer_size": 34350,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								16240,
+								16240
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										16264,
+										16265
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										16235,
+										16236
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 6582.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
