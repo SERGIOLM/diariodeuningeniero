@@ -1,0 +1,121 @@
+body {
+			background-color:#8E44AD;
+	}
+	h1{
+		margin-left: 50px;
+		margin-right: 55px;
+	}
+	header {
+	 border-image-width: 0px; 
+	}
+	nav a { float: right;
+		text-decoration: none;
+		color: orange;
+		font-size: 14px;
+
+	}
+	ul {
+		list-style-type: none;
+		color: pink;
+		margin-left: 250px;
+		padding: 0px;
+		border-left-width: 1px;
+		border-left-style: solid;
+		border-left-color: #CCC;
+	}
+	li {
+		display: inline-block;
+	
+	}
+	a {
+		font-family: Arial, Helvetica, sans-serif;
+		color: #47D997;
+		text-decoration: none;
+		font-size: 1.5em;
+		display: block;
+		padding: 0px;
+		border-bottom-width: 0px;
+		border-bottom-color: #CCC;
+		border-top-width: 0px;
+		border-top-style: solid;
+		border-top-color: #CCC;
+		border-right-width: 0px;
+		border-right-style: solid;
+		border-right-color: #CCC;
+		margin-right: 0px;
+	}
+	p {
+		font-family: Broadway;
+	 	margin-top: 20px;
+	 	margin-left: 250px;
+		margin-right: 250px;
+		color: yellow;
+	}
+	p1 {
+		margin-top: 20px;
+		margin-left: 250px;
+		margin-right: 250px;
+		color: white; 
+		display: block;
+	}
+	p2{	
+		margin-top: 20px;
+		margin-left: 250px;
+		margin-right: 250px;
+		display: block;
+		color:white;
+	}
+	.lateral{ margin-top: 35px;
+		font-size: 16px;
+		position: relative;
+		float: left;
+		margin-left: 15px;
+		color: white; 
+		background-color: #8E44AD;
+		margin-right: 20px;
+	} 
+	.lateral>ul{ 
+		position: relative;
+		color: white;
+		float: left;
+		margin-left: 15px
+	}
+	.lateral>ul>li{
+			position: relative;
+		color: white;
+		float: left;
+		margin-left: 15px
+	}
+	.lateral>ul>li>a{ position: relative;
+		color: yellow;
+		float: left;
+		margin-left: 15px
+	}
+	table { 
+		margin-top: 20px;
+		margin-left: 250px;
+		margin-right: 250px;
+  		table-layout: fixed
+  		width: 65%;
+		border-collapse: collapse;
+		border: 5px solid white;
+}
+th, td {
+	width: 25%;
+	text-align: center;
+	vertical-align: top;
+	border-spacing: 0;
+	border-collapse: collapse;
+	padding: 0.3em;
+	caption-side: bottom;
+	color: white;
+} 
+caption {
+	padding: 0.3em;
+}
+footer{
+	margin-top: 20px;
+	margin-left: 250px;
+	margin-right: 250px;
+	color: white;
+	}

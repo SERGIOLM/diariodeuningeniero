@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>El tiempo</title>
+  <link>https://www.tiempo.es/</link>
+  <description>El tiempo</description>
+  <item>
+    <title>Tiempo en Guadalajara</title>
+    <link>https://www.tiempo.es/guadalajara-es3121069.html</link>
+    <description>Ek tiempo en Guadalajara</description>
+  </item>
+  <item>
+    <title>Tiempo en Madrid</title>
+    <link>https://www.tiempo.es/madrid-es6355233.html</link>
+    <description>El tiempo en Madrid</description>
+  </item>
+</channel>
+
+</rss>

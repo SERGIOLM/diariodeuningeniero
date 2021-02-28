@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    font-family: 'lato';
+}
+
+
+.parallax-index1{
+    height: 600px;
+    background-image: url('../IMAGS_AEDER/castro10.PNG');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-device-width: 500px) {
+  .parallax-index1 {
+    background-attachment: scroll;
+    background-size: contain;
+    display: block;
+    height: 150px !important;
+  }
+}
+
+@media only screen and (min-device-width: 500px) and (max-device-width: 750px) {
+  .parallax-index1 {
+    background-attachment: scroll;
+    background-size: contain;
+    display: block;
+    height: 250px !important;
+  }
+}
+
+@media only screen and (min-device-width: 750px) and (max-device-width: 1000px) {
+  .parallax-index1 {
+    background-attachment: scroll;
+    background-size: contain;
+    display: block;
+    height: 350px !important;
+  }
+}
+
+@media only screen and (min-device-width: 1000px) and (max-device-width: 1366px) {
+  .parallax-index1 {
+    background-attachment: scroll;
+    background-size: contain;
+    display: block;
+    height: 450px !important;
+  }
+}
+
+.parallax-quienes {
+    height: 600px;
+    background-image: url('../IMAGS_AEDER/biblaop.JPG');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.center{
+    max-width: 1100px;
+    width: 90%;
+    overflow: hidden;
+    margin: auto;
+    text-align: center;
+}
+
+.espacio{
+    padding: 30px 0 60px 0;
+}
+
+.espacio h2{
+    text-align: center;
+    padding: 30px;
+    color: #006aad;
+}
+
+.espacio p{
+    text-align: justify;
+    color: #006aad;
+}
+
+
+.texto{
+    background: #006aad;
+    height:190px;
+}
+
+.texto h2{
+    text-align: center;
+    color: #006aad;
+    display: flex;
+    height:inherit;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+@media screen and (max-width: 480px) and (orientation: landscape) {
+  .parallax-index1{
+      width: 100% !important;
+      height: 300px !important;
+    }
+}
+
+@media screen and (min-width: 100px) and  (max-width: 761px) {
+  .parallax-index1{
+      width: 100%;
+      height: 600px;}
+}
+
+@media screen and (min-width: 761px) and  (max-width: 780px) {
+  .parallax-index1{
+      width: 100%;
+      height: 600px;}
+}
+
+@media screen and (min-width: 780px) and  (max-width: 1199px) {
+  .parallax-index1{
+      width: 100%;
+      height: 600px;}
+}
+
+@media screen and (min-width: 768px) and  (max-width: 991px) {
+  .parallax-index1{
+      width: 100%;
+      height: 600px;}
+}
+
+
+.parallax-contact {
+    height: 600px;
+    background-image: url('../IMAGS_AEDER/csatro.gif');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
