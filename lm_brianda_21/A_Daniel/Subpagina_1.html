@@ -343,8 +343,46 @@
     </li>
   </ul>
 </nav>
+<p id="demo"></p>
+<div class="container" style="text-align: justify;">
+<p style="max-width: 600px;">A continuación se te presenta una calculadora para que puedas hacerte una idea de tus posibles daños. Introduce el valor de tu hechizo y añadele los multiplicadores de tus habilidades. Tambien puesdes multiplicarle los porcentajes de tus beneficios de armadura. Si quieres conseguir la cantidad exacta deberas restarle la defensa enemiga al elemento o fisica.</p></div>
+<input type="text" id="n11" placeholder="primer dato">
+<input type="text" id="n22" placeholder="segundo dato">
+
+<select id="op">
+    <option value="+">+</option>
+    <option value="-">-</option>
+    <option value="*">*</option>
+    <option value="/">/</option>
+</select>
+    
+<button id="calcular2">Calcular</button>
+
+<output style="color: white;" id="r2"></output> 
+<script>
+    
+    document.querySelector('#calcular2').addEventListener('click', () =>{
+        const n1 = parseInt(document.querySelector('#n11').value);
+        const n2 = parseInt(document.querySelector('#n22').value);
+        const op2 = document.querySelector('#op').value;
+        let r;
+        if(op2 == '+'){
+            r = n1 + n2;
+        }else if( op2 == '-'){
+            r = n1 - n2;
+        }else if(op2 == '*'){
+            r = n1 * n2;
+        }else if(op2 == '/'){
+            r = n1 / n2;
+        }
+        document.querySelector('#r2').innerHTML = r;
+    });
+
+</script>
 </div>
+
 </div>
+
 
 		<div class="footer" style="position: relative; align-items: center; margin-left: 40%;">
 			<ul class="pagination">

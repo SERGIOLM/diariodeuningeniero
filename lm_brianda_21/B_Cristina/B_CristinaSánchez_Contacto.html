@@ -1,6 +1,19 @@
 <!doctype html>
 <html lang="en">
   <head>
+      <script>
+        function Ver_Hora()
+          {
+            var mihora = new Date();
+            var horas = mihora.getHours().toString();
+            var minutos = mihora.getMinutes().toString();
+            if (minutos.lenght == 1) minutos = "0" + minutos;
+            var segundos = mihora.getSeconds().toString();
+            if (segundos.length == 1) segundos = "0" + segundos;
+
+            document.forms[0].mireloj.value = horas + ":" + minutos + ":" + segundos;
+          }
+      </script>
     <link rel-"preconecte" href-"https://fonts.gstatic.com">
 <link href-"https://fonts.googleapis.com/css2? familia,Josefin+Sans:wght@600&display-swap" rel-"hoja de estilo">
     <!-- Required meta tags -->
@@ -54,6 +67,17 @@
   </div>
 </div>
 </nav>
+<br><br><br>
+<form>
+          <p align="center">
+            <input type="text" size="10" name="mireloj">
+
+          </p>
+        </form>
+
+      <script>
+        var r = setInterval ("Ver_Hora()",500);
+      </script>
 
 <section id="contact">
         <div class="container">
@@ -65,41 +89,54 @@
                 </div>
                 <div class="col-md-6 mt-4">
                     <div class="row">
+                        <div class="col-md-6" id="formulario">
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Nombre">
+                                 <i class="form_validacion-estado fas fa-times-circle"></i>
+                            </div>
+                        </div><p class="form_input-error">Nombre no válido.</p>
                         <div class="col-md-6">
                             <div class="form-group">
-                                <input type="text" class="form-control" id="" placeholder="Nombre">
+                                <input type="text" class="form-control" name="apellidos" id="apellidos" placeholder="Apellidos">
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        
+                        <div class="col-md-12">
                             <div class="form-group">
-                                <input type="text" class="form-control" id="" placeholder="Apellidos">
+                                <input type="email" class="form-control" id="email" placeholder="Email">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group">
-                                <input type="email" class="form-control" id="" placeholder="Email">
+                                <input type="text" class="form-control" id="puesto" placeholder="Puesto a desempeñar">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group">
-                                <input type="text" class="form-control" id="" placeholder="Puesto a desempeñar">
+                                <input type="number" class="form-control" name="numero" id="numero" placeholder="Numero de teléfono (opcional)">
+                                <i class="form_validacion-estado1 fas fa-times-circle"></i>
                             </div>
-                        </div>
-                        <div class="col-md-12">
-                            <div class="form-group">
-                                <input type="number" class="form-control" id="" placeholder="Numero de teléfono (opcional)">
-                            </div>
-                        </div>
-                        <div class="col-md-12">
-                            <a href="" class="btn btn-primary full-width">Enviar</a>
-                        </div>
+                        </div><p class="form_input-error">Solo puedes incluir numeros. Como máximo, 9.</p><br><br><br>
+                      <div class="form_group" id="gropu_terminos"></div>  
+                        <label class="formulario_label">
+                          <input class="form_checkbox" type="checkbox" name="terminos" id="terminos">
+                          Acepto Terminos y Condiciones
+                        </label>
                     </div>
+                    <div class="formulario_mensaje" id="formulario_mensaje">
+                    <i class="formulario-error fas fa-exclamation-triangle"></i><b>Error: Rellena el formulario bien.</b></p>
+                    </div><br>
+                        <div class="col-md-12">
+                            <a href="" class="btn btn-primary full-width" type="submit">Enviar</a> 
+                        </div>
+
                 </div>
-            </div>
         </div>
     </section>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/formulario.js"></script>
+    <script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>

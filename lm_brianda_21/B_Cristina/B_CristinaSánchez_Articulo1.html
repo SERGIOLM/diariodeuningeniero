@@ -1,6 +1,16 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <script>
+        function ver_imagen()
+        {
+
+        if (!document.images)
+        return
+      document.images.img.src=
+      document.imagenes.imagen.options[document.imagenes.imagen.selectedIndex].value
+        }
+      </script>
     <link rel-"preconecte" href-"https://fonts.gstatic.com">
 <link href-"https://fonts.googleapis.com/css2? familia,Josefin+Sans:wght@600&display-swap" rel-"hoja de estilo">
     <!-- Required meta tags -->
@@ -67,7 +77,18 @@
 <section>
    <div class="container-text">
         <p>Si no es por la música, los humanos viviriamos amargados. Dime, ¿a cuánta gente conoces que no le gusta música? Yo creo que no conozco a nadie.<br>Dentro del panorama musical, podemos destacar diversos estilos.<br> Spotify, nos brinda la posibilidad de conocerlos todos y ofrecernos las mejores playlist con los mejores temazos.<br> A continuación, os mostraré una tabla con todos los estilos musicales:
-        </p>
+        </p><br><br>
+
+        <form name="imagenes">
+        <select name="imagen" size="1" onChange="ver_imagen()">
+          <option>Elige una imagen</option>
+          <option value="imagenes\slider-2.jpg">1</option>
+          <option value="imagenes\slider-3.jpg">2</option>
+          <option value="imagenes\slider-1.jpg">3</option>
+        </select>
+      </form>
+      <img src="imagenes\slider-2.jpg" name="img" width="600" height="436" border="3">
+      <br><br>
         <table class="table table-success table-striped">
   <thead>
     <tr>

@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Tanques League Of Legends</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="icon" type="image/png" href="E:\Lenguaje de Marcas\css\Tank_icon.webp">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+	<script src=”https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js”></script>
+	<!-- Scrip boton ir arriba -->
+	<script>
+
+jQuery(document).ready(function() {
+  
+  var btn = $('#button');
+
+  $(window).scroll(function() {
+    if ($(window).scrollTop() > 300) {
+      btn.addClass('show');
+    } else {
+      btn.removeClass('show');
+    }
+  });
+
+  btn.on('click', function(e) {
+    e.preventDefault();
+    $('html, body').animate({scrollTop:0}, '300');
+  });
+
+});
+
+</script>
+
+  </head>
+  <header>
+ 	<nav class="navbar navbar-expand-xl  navbar-dark justify-content-center" style="background-image: url(https://www.ampapoetatmc.es/wp-content/uploads/2016/12/cabeceras_azul.jpg); height: 125px">
+  <!-- Logo -->
+  <a class="navbar-brand" href="#" style="font-size: 35px; font-family:Coalition; color: #F4BD00">
+  	<img src="http://www.macupdate.com/images/icons256/47210.png" style="width:70px">     Tanques League Of Legends
+  </a>
+
+  <!-- Enlaces -->
+  <ul class="navbar-nav" style="font-size: 20px; font-family: Bernard MT">
+    <li class="nav-item active">
+      <a class="nav-link active" href="#" data-toggle="tooltip" title="Sin Terminar">Inicio</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" href="2 Pagina web - Bootstrap.html" data-toggle="tooltip" title="Sin Terminar">Contacto</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" href="#" data-toggle="tooltip" title="Sin Terminar">Acerca de</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" href="#" data-toggle="tooltip" title="Sin Terminar">Blog</a>
+    </li>
+
+    <!-- Desplegable -->
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle active" href="#" id="navbardrop" data-toggle="dropdown">
+        Campeones
+      </a>
+      <div class="dropdown-menu bg-warning">
+        <a class="dropdown-item" href="#ornn1">Ornn</a>
+        <a class="dropdown-item" href="#sion2">Sion</a>
+        <a class="dropdown-item" href="#morde3">Mordekaiser</a>
+        <a class="dropdown-item" href="#sett4">Sett</a>
+      </div>
+    </li>
+  </ul>
+</nav>
+  </header>
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+  <style type="text/css">
+    #wrapper {
+    padding-left: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#wrapper.toggled {
+    padding-left: 250px;
+}
+
+#sidebar-wrapper {
+    z-index: 1000;
+    position: absolute;
+    left: 250px;
+    height: 6632px;
+    margin-left: -250px;
+    overflow-y: auto;
+    background: #E9E9E9;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+    width: 250px;
+}
+
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+}
+
+#wrapper.toggled #page-content-wrapper {
+    position: absolute;
+    margin-right: -250px;
+}
+
+/* Sidebar Styles */
+
+.sidebar-nav {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar-nav li {
+    text-indent: 20px;
+    line-height: 40px;
+}
+
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+.sidebar-nav li a:hover {
+    text-decoration: none;
+    color:black;
+    background:#FFC92D;
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+    text-decoration: none;
+}
+
+.sidebar-nav > .sidebar-brand {
+    height: 65px;
+    font-size: 18px;
+    line-height: 60px;
+}
+
+.sidebar-nav > .sidebar-brand a {
+    color:black;
+}
+
+.sidebar-nav > .sidebar-brand a:hover {
+    color:#e87e1b ;
+    background: none;
+}
+
+@media(min-width:768px) {
+    #wrapper {
+        padding-left: 250px;
+    }
+
+    #wrapper.toggled {
+        padding-left: 0;
+    }
+
+    #sidebar-wrapper {
+        width: 250px;
+    }
+
+    #wrapper.toggled #sidebar-wrapper {
+        width: 0;
+    }
+
+    #page-content-wrapper {
+        padding: 20px;
+        position: relative;
+    }
+
+    #wrapper.toggled #page-content-wrapper {
+        position: relative;
+        margin-right: 0;
+    }
+}
+  </style>
+<div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a style="font-family: Call Of Ops Duty; font-size: 23px" href="#">
+                        Tabla De Contenidos
+                    </a>
+                </li>
+                <li style="font-family: stencil">
+                    <a href="#intro0">Introducción</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="#ornn1">Ornn</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="#sion2">Sion</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="#morde3">Mordekaiser</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="#sett4">Sett</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="#estadisticas5">Estadisticas</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="#dokkan">Mas Informacion</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="2 Pagina web - Bootstrap.html">Contacto</a>
+                </li>
+                <br>
+                <li>
+                   
+                </li>
+
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+<div class="container" style="padding: 3rem; background-color: #F7F7F7">
+	
+<h1 style="text-align: center; font-family: Comic Kings; color: #0E94F0; font-size: 50px"><a name="intro0">Introduccion</h1>
+	<br>
+		<p style="font-size: 18px; font-family: verdana">
+			Los Tanques son campeones especialmente duraderos, su función puede variar en dos enfoques distintos, primero están aquellos tanques ofensivos que suelen estar en las primeras lineas de combate, deben decidir cuando iniciar y como en los momentos precisos, por lo mismo se encargan del control de oponentes claves, al mismo tiempo que absorben la mayor cantidad de daño posible con el fin de mitigar el recibido por aliados. El segundo enfoque que pueden tomar los tanques consiste en la defensa de los aliados más débiles, entregando primero bloqueo de habilidades oponentes (generalmente con su propio cuerpo), gran cantidad de control de masas a todos los oponentes que intenten dañarlos y además limitando las posibles entradas de los enemigos a la linea trasera del equipo.
+		</p>
+<br>
+    <p style="font-size: 18px; font-family: verdana">
+      A continuación se muestra a Ornn el campeon que mas he jugado, así como un resumen de sus habilidades
+    </p>
+    <br>
+          <div align="center">
+          <video width="710" height="400" controls poster="https://pm1.narvii.com/6550/1c99242ef210fdec8f03a2e05d710a37cdc1edec_hq.jpg">
+            <source src="C:\Users\usuario\Videos\ornn.mp4" type="video/mp4">
+          </video>
+          </div> 
+<br>
+		<p style="font-size: 18px; font-family: verdana">
+			No hace mucho no existía ningún tanque (categorizado así por riot) que tenga rango, siendo quizá el único  Thresh, quien lo citan más como Soporte.
+			Con el Rework de Urgot, esta regla se rompe, siendo el primer campeón Tanque (ofensivo) con Rango.
+		</p>
+  <br>
+  <p style="font-size: 18px; font-family: verdana">
+      En esta página os dejo a lo que a mi parecer son los 4 mejores colosos de League of Legends
+    </p>
+	<br>
+	<br>
+  <br>
+  <br>
+
+	<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+    <li data-target="#demo" data-slide-to="3"></li>
+    <li data-target="#demo" data-slide-to="4"></li>
+  </ul>
+  
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://esports.as.com/2019/12/12/league-of-legends/Garen-Reinos-Mecha_1308779111_314731_1440x600.jpg" alt="garen" width="1000" height="400">
+    </div>
+    <div class="carousel-item">
+      <img src="http://lol-stats.net/uploads/ofuBMvoTlHs4OUJRI64rqjsF5QSO6CJqr2avj6iO.jpeg" alt="Sion" width="1000" height="400">
+    </div>
+    <div class="carousel-item">
+      <img src="https://esports.eldesmarque.com/wp-content/uploads/2019/06/Mordekaiser-infernal-rework.jpg" alt="Morde" width="1000" height="400">
+    </div>
+    <div class="carousel-item">
+      <img src="https://esports.eldesmarque.com/wp-content/uploads/2018/11/Ornn-Zudomon.jpg" alt="Ornn" width="1000" height="400">
+    </div>
+    <div class="carousel-item">
+      <img src="https://www.beahero.gg/wp-content/uploads/2019/12/Misi%C3%B3n-secreta-anticipa-la-llegada-de-Sett-a-League-of-Legends.png" alt="sett" width="1000" height="400">
+    </div>
+  </div>
+  
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+<br>
+<br>
+	<h2 class="ornn" style="text-align: center; font-family: Thunderstrike; color: #1669F0"><a name="ornn1">Ornn: El Fuego debajo de la Montaña</h2>
+    <br>
+			<p style="font-size: 18px; font-family: verdana">
+				Ornn valora su privacidad más que los otros semidioses. En su solitaria morada bajo un antiguo volcán, aviva las calderas burbujeantes de piedra fundida para forjar objetos de calidad inigualable. Aun así, desde estas profundidades, Ornn presiente problemas; una vez más, los seres divinos están interfiriendo en asuntos mortales. En las guerras venideras, Fréljord, y el mundo, necesitarán a un buen herrero.
+			</p>
+			<p style="font-size: 18px; font-family: verdana">
+				Ornn fue el mayor de sus hermanos y hermanas. Entró al mundo con ansias de pelear. Aunque eso no fue tan sencillo. Los árboles eran adversarios débiles; se quebraban muy fácil. Los témpanos de hielo se derretían con su toque y huían hacia el mar.
+			<p style="font-size: 18px; font-family: verdana">
+
+				Frustrado, golpeó una montaña. La montaña no cedió. Ornn estaba satisfecho por esto, así que desafió a la tierra misma a una pelea amistosa.
+			</p>
+    <br>
+    <br>
+			<img src="https://esports.eldesmarque.com/wp-content/uploads/2018/11/Ornn-Zudomon.jpg" height="400px" class=".mx-auto d-block"
+			alt="Imagen"
+			title="Imagen de la pagina"
+      style="display:block;margin:0 auto 0 auto">
+		<br>
+    <br>
+	<h2 class="sion" style="text-align: center; font-family: Thunderstrike; color: #A6080F"><a name="sion2">Sion: El coloso no muerto </h2>
+    <br>
+			<p style="font-size: 18px; font-family: verdana">
+				Como héroe de guerra de una época antigua, Sion era venerado en Noxus por quitarle la vida al rey demaciano con sus propias manos. Sin embargo, se le negó el descanso eterno y lo resucitaron para servir a su imperio incluso en la muerte. Su matanza indiscriminada costó la vida de todos los que estuvieron en su camino sin importar sus lealtades, lo que demostró que ya no conservaba su humanidad. Aun así, con una tosca armadura atornillada a su podrida carne, Sion continúa dirigiéndose a la batalla con temerario desenfreno y sufre al intentar recordar su verdadero ser entre cada corte de su poderosa hacha.
+			</p>
+			<p style="font-size: 18px; font-family: verdana">
+				Sion, un héroe de guerra noxiano empapado de sangre de una época pasada, a Sion se le negó el olvido y se lo devolvió para que pueda seguir sirviendo al imperio incluso en la muerte. Un monstruo imparable, es desatado contra los enemigos de Noxus, aplastando a amigos y enemigos a un lado mientras se lanza al corazón de la masacre, atacando y matando a voluntad.
+			</p>
+    <br>
+    <br>
+			<img src="http://lol-stats.net/uploads/ofuBMvoTlHs4OUJRI64rqjsF5QSO6CJqr2avj6iO.jpeg" height="400px" class=".mx-auto d-block"
+			alt="Imagen 2"
+			title="Imagen segunda de la pagina"
+      style="display:block;margin:0 auto 0 auto">
+		<br>
+    <br>
+	<h2 class="mordekaiser" style="text-align: center; font-family: Thunderstrike; color: #EB7512"><a name="morde3">Mordekaiser: El renacido de hierro </h2>
+    <br>
+			<p style="font-size: 18px; font-family: verdana">
+				En una era pasada, el feroz señor de la guerra Sahn-Uzal asoló las tierras salvajes del norte. Impulsado por la fe oscura, aplastó a toda tribu y asentamiento que encontró en su camino, y forjó un imperio cimentado en sangre y muerte. Cuando el fin de su vida mortal se acercaba, se sintió satisfecho al enterarse de que, indudablemente, había ganado un lugar en la mesa de los dioses, en el glorioso Salón de los Huesos, por toda la eternidad.
+			</p>
+			<p style="font-size: 18px; font-family: verdana">
+				No obstante, al morir, no hubo ningún salón ni gloria esperándolo. En cambio, Sahn-Uzal se encontró en medio de un páramo vacío y gris, cubierto de una niebla etérea y plagado de susurros discordantes. Ocasionalmente, otras almas perdidas se arrastraban cerca: estas figuras fantasmales vagaban a través de su propio olvido personal.
+			</p>
+    <br>
+    <br>
+			<img src="https://esports.eldesmarque.com/wp-content/uploads/2019/06/Mordekaiser-infernal-rework.jpg" height="400px" class=".mx-auto d-block"
+			alt="Imagen 3"
+			title="Imagen tercera de la pagina"
+      style="display:block;margin:0 auto 0 auto">
+    <br>
+    <br>
+  <h2 class="Sett" style="text-align: center; font-family: Thunderstrike; color: #EFB810"><a name="sett4">Sett: El Jefe </h2>
+    <br>
+      <p style="font-size: 18px; font-family: verdana">
+        Sett, uno de los líderes del creciente inframundo criminal de Jonia, ascendió a la fama tras la guerra con Noxus. Se inició como un humilde púgil en las arenas de pelea de Navori, pero pronto ganó notoriedad por su fuerza salvaje y su habilidad para soportar castigos aparentemente interminables. Tras ascender en las clasificaciones de los combatientes locales, Sett se abrió camino a golpes hasta la cima y ahora es quien dirige las arenas en las que alguna vez peleó.
+      </p>
+      <p style="font-size: 18px; font-family: verdana">
+        Si bien ahora es una pieza clave en el floreciente inframundo criminal de Jonia, los orígenes de Sett fueron humildes. Hijo de una vastaya jonia y de un humano noxiano, el niño bestia de sangre mezclada fue un desclasado desde el principio. Su nacimiento escandalizó a la comunidad vastaya de su madre, la cual expulsó a la familia por violar las reglas tribales. Por su parte, los humanos de Jonia tampoco aceptaron esta unión tabú, aunque la mala reputación del padre de Sett como peleador de la arena local servía de aliciente para que no enunciaran su desaprobación.
+      </p>
+    <br>
+    <br>
+      <img src="https://www.beahero.gg/wp-content/uploads/2019/12/Misi%C3%B3n-secreta-anticipa-la-llegada-de-Sett-a-League-of-Legends.png" height="400px" class=".mx-auto d-block"
+      alt="Imagen 4"
+      title="Imagen cuarta de la pagina"
+      style="display:block;margin:0 auto 0 auto">
+</div>
+<br>
+<br>
+<!--Tabla-->
+<div class="container">
+  <div class="jumbotron shadow-lg p-4 mb-4 bg-white" style="background-color: #F1F1F1;" >
+   <H1 style="color:#D81E1E; text-align: center; font-family: Coalition"><a name="estadisticas5"> Estadisticas Tanques </H1>      
+<p>
+ <div class="container">           
+  <table class="table table-dark table-striped">
+    <thead>
+      <tr>
+        <th style="color: orange; font-family: Fox Cavalier">Campeon</th>
+        <th style="color: #EE4F0A; font-family: Fox Cavalier">Armadura Base</th>
+        <th style="color: #0A41EE; font-family: Fox cavalier">Resistencia Magica Base</th>
+        <th style="color: #1AAD2C; font-family: Fox cavalier">Vida Base</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>Ornn</b></td>
+        <td>36 – 104</td>
+        <td>32.1 – 53.35</td>
+        <td>590 – 2205</td>
+      </tr>
+      <tr>
+        <td><b>Sion</b></td>
+        <td>32 – 83</td>
+        <td>32.1 – 53.35</td>
+        <td>545 – 1786</td>
+      </tr>
+      <tr>
+        <td><b>Mordekaiser</b></td>
+        <td>37 – 88</td>
+        <td>32 – 53.25</td>
+        <td>575 – 2105</td>
+      </tr>
+      <tr>
+        <td><b>Sett</b></td>
+        <td>37 – 105</td>
+        <td>32 – 53.25</td>
+        <td>600 – 2181</td>
+      </tr>
+    </tbody>
+  </table>
+ </div>
+</p>
+  </div>
+<br>
+<br>
+  
+
+
+ <h1 style="text-align: center; font-family: Coalition; color: #0A8CE0"><a name="dokkan">Informacion completa acerca de los personajes</h1>
+    <br>
+    <br>
+    <div class="card-deck">
+            <div class="card" style="width:400px">
+        <img style="height: 350px" class="card-img-top" src="https://i.pinimg.com/474x/a9/aa/05/a9aa05905f5ab3c28e475b5033f42275.jpg" alt=" ornn image">
+        <div class="card-body" style="background-color: #E8E8E8">
+          <h4 class="card-title" style="text-align: center;font-family: Call Of Ops Duty; color: #dd3103;" >Ornn</h4> 
+          <p class="card-text" style="text-align: center;font-family: century gothic"><b>El Fuego de la Forja</b></p> 
+          <br>
+          <a href="https://leagueoflegends.fandom.com/es/wiki/Ornn/Historia" class="btn btn-warning .mx-auto d-block " style="font-family: Impact">Mas Información</a>
+        </div>
+      </div>
+      <div class="card" style="width:400px">
+        <img style="height: 350px" class="card-img-top" src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg" alt="sett image">
+        <div class="card-body" style="background-color: #E8E8E8">
+          <h4 class="card-title" style="text-align: center;font-family: Call Of Ops Duty; color: #8add03" >Sett</h4>
+          <p class="card-text" style="text-align: center;font-family: century gothic"><b>El Huerfano Impasible</b></p>
+          <br>
+          <a href="https://leagueoflegends.fandom.com/es/wiki/Sett/Historia" class="btn btn-warning .mx-auto d-block" style="font-family: Impact">Mas Información</a>
+        </div>
+      </div>
+      <div class="card" style="width:400px">
+        <img style="height: 350px" class="card-img-top" src="https://1.bp.blogspot.com/-ei_2lA0bYzM/XO7ftOrGsBI/AAAAAAABTmo/5HgqaqUe5pows6H5wN1CCEc7hyiK7kW4ACLcBGAs/s1600/mordekaiserloadscreen.mordevgu.jpg" alt="morde Card image">
+        <div class="card-body" style="background-color: #E8E8E8">
+          <h4 class="card-title" style="text-align: center;font-family: Call Of Ops Duty; color: #2ba280" >Mordekaiser</h4>
+          <p class="card-text" style="text-align: center;font-family: century gothic"><b>El Bastion Invencible</b></p>
+          <br>
+          <a href="https://leagueoflegends.fandom.com/es/wiki/Mordekaiser/Habilidades" class="btn btn-warning .mx-auto d-block" style="font-family: Impact">Mas Información</a>
+        </div>
+      </div>
+      <div class="card" style="width:400px">
+        <img style="height: 350px" class="card-img-top" src="https://lolskinshop.com/wp-content/uploads/2015/05/load-screen-warmonger-sion.jpg" alt="sion Card image">
+        <div class="card-body" style="background-color: #E8E8E8">
+          <h4 class="card-title" style="text-align: center;font-family: Call Of Ops Duty;color: #5d2ba2" >Sion</h4> 
+          <p class="card-text" style="text-align: center;font-family: century gothic"><b>El Titan Imparable</b></p>
+          <br>
+          <a href="https://leagueoflegends.fandom.com/es/wiki/Sion/Habilidades" class="btn btn-warning .mx-auto d-block" style="font-family: Impact">Mas Información</a>
+        </div>
+      </div>
+    
+</div>
+<br>
+
+  </div>
+
+</div>
+<br>
+<br>
+<div>
+<ul class="pagination float-right">
+  <li class="page-item"><a class="page-link text-dark bg-warning" href="#" style="font-family: impact">Anterior</a></li>
+  <li class="page-item"><a class="page-link text-light bg-dark" href="#" style="font-family: impact">1</a></li>
+  <li class="page-item"><a class="page-link text-light bg-dark" href="2 Pagina web - Bootstrap.html" style="font-family: impact">2</a></li>
+  <li class="page-item"><a class="page-link text-light bg-dark" href="#" style="font-family: impact">3</a></li>
+  <li class="page-item"><a class="page-link text-dark bg-warning" href="2 Pagina web - Bootstrap.html" style="font-family: impact">Siguiente</a></li>
+</ul>
+</div>
+<!-- Boton Ir hacia arriba -->
+<a id="button">
+	<img src="https://www.onlygfx.com/wp-content/uploads/2017/09/grunge-arrow-2-1-1024x823.png" height="40px" width="40px">
+</a>
+<style>#button {
+  display: inline-block;
+  background-color: #FF9800;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  border-radius: 4px;
+  margin: 30px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s;
+  z-index: 1000;
+}
+#button:hover {
+  cursor: pointer;
+  background-color: #333;
+}
+#button:active {
+  background-color: #555;
+}
+</style>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+  <xsl:template match="xmlejer1">
+  <html>
+          <body style="font-familly:Georgia;">
+          <center>
+          <h1>Estadisticas Campeones</h1>
+          <table border="1">
+              <tr bgcolor="#9acd32">
+                  <th>Campeon</th>
+                  <th>Nombre</th>
+                  <th>Titulo</th>
+                  <th>Region</th>
+                  <th>Vida</th>
+                  <th>Armadura</th>
+                  <th>RMagica</th>
+              </tr>
+              <xsl: for-each select="listado/campeon">
+              <tr>
+                      <td><xsl: value-of select="nombre"/></td>
+                      <td><xsl: value-of select="titulo"/></td>
+                      <td><xsl: value-of select="region"/></td>
+                      <td><xsl: value-of select="vida"/></td>
+                      <td><xsl: value-of select="armadura"/></td>
+                      <td><xsl: value-of select="rmagica"/></td>
+              </tr>
+              </xsl: for-each>
+          </table>
+          </center>
+          </body>
+      </html>
+  </xsl:template>
+</xsl:stylesheet>
+
+
+
+
+</body>
+<footer class="pie" style="background: #333333; padding: 4rem 0; text-align: center; margin-top: 6rem;"><a name="footer6">
+  <p style="color: white; font-family: fox cavalier"><b>Oscar Chicharro 1º Asir IES Brianda de Mendoza</b></p>
+<p>
+  <a href="https://twitter.com/Oscar_Chicharro" class="btn btn-outline-info" role="button">Twitter <span class="spinner-border spinner-border-sm"></span></a>
+  <a href="https://Instagram.com/Oscar_Chicharro" class="btn btn-outline-success" role="button">Instagram <span class="spinner-border spinner-border-sm"></span></a>
+  <a href="mailto:oscarchicharro15@gmail.com" class="btn btn-outline-danger" role="button">Correo Electronico <span class="spinner-border spinner-border-sm"></span></a>
+  <a href="2 Pagina web - Bootstrap.html" class="btn btn-outline-light" role="button">Contacto <span class="spinner-border spinner-border-sm"></span></a>
+</p>
+</footer>
+</html>

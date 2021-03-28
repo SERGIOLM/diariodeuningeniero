@@ -11,6 +11,19 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css\B_CristinaSanchez.css">
 <link rel="shortcut icon" href="imagenes\logoweb.jpg"/>
+  <script>
+          function Ver_Hora()
+          {
+            var mihora = new Date();
+            var horas = mihora.getHours().toString();
+            var minutos = mihora.getMinutes().toString();
+            if (minutos.lenght == 1) minutos = "0" + minutos;
+            var segundos = mihora.getSeconds().toString();
+            if (segundos.length == 1) segundos = "0" + segundos;
+
+            document.forms[0].mireloj.value = horas + ":" + minutos + ":" + segundos;
+          }
+        </script>
 
     <title>CRIS'S BLOG</title>
   </head>
@@ -66,6 +79,11 @@
         Quis ullam deleniti totam minus iste hic eveniet.
         </p>
         <a href="B_CristinaSánchez_Articulo1.html" TARGET="_blank" class="btn btn-light topmargin-sm"><b>NAVEGAR</a>
+          <form>
+          <p align="center">
+            <input type="text" size="10" name="mireloj">
+
+          </p>
     </div>
     
 </section>
@@ -168,6 +186,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+    <script>
+      var r= setInterval ("Ver_Hora()", 500); 
+    </script>
   </body>
   <!-- Footer -->
 <footer class="page-footer font-small blue pt-4">

@@ -77,9 +77,10 @@ $(document).ready(function(){
     <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">PARTIDOS</a>
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="#section11">NAVALMORAL-SACEDON</a>
-        <a class="dropdown-item"href="#section12">TORREJON-SACEDON</a>
-        <a class="dropdown-item" href="#section13">SACEDON-COLMENAR</a>
+         <a class="dropdown-item" href="#section11">SACEDON-CACERES</a>
+        <a class="dropdown-item" href="#section12">NAVALMORAL-SACEDON</a>
+        <a class="dropdown-item"href="#section13">TORREJON-SACEDON</a>
+        <a class="dropdown-item" href="#section14">SACEDON-COLMENAR</a>
       </div>
     </li>
     <!--DEPLEGABLE NOTICIAS FICHAJES-->
@@ -98,11 +99,41 @@ $(document).ready(function(){
         <a class="dropdown-item" href="#section31">PREMIO NUEVA ALCARRIA</a>
       </div>
     </li>
+       <!--DEPLEGABLE VOLVER PÁGINA PRINCIPAL-->
+    <li class="nav-item">
+      <a class="nav-link" href="index.html">INICIO</a>
+    </li>
   </ul>
 </div>
 </nav>
 <!--NOTICIA PARTIDO I-->
-<div id="section11" class="container-fluid bg-success" style="padding-top:70px;padding-bottom:70px">
+<div id="section11" class="container-fluid bg-danger" style="padding-top:70px;padding-bottom:70px">
+   <h1 style="text-align: center;">El líder y su pegada derrotaron al Sacedón</h1>
+   <small>21/02/2021</small>
+   <p>Los ribereños se pusieron 2-0 pero acabaron derrotados por 2-6.</p>
+  <p>El lider, Cáceres, visitaba la pista de un Sacedónque plantó cara durante buena parte del partido. Los extremeños comenzaron mejor que los locales pero un gol de Dani.C. al poco de comenzar cambió el signo del partido. El Sacedón comenzó a sentirse más cómodo, con una buena defensa que apenas dejaba opciones al Cáceres. En otra contra, Carlos conseguía el segundo gol y daba esperanzas a los ribereños de conseguir un buen resultado ante el líder.</p>
+  <p>En el último tercio de la primera parte, una ocasión muy clara desaprovechada por el Sacedón fue el preámbulo del primer gol de Cáceres, que fue un duro golpe anímico para los ribereños. Poco después en una acción polémica, los jugadores visitantes sacaron rápido una falta muy dudosa, los colegiados dejaron seguir, y llegó el segundo tanto. El resultado al descanso era de empate a dos.</p>
+  <p>El inicio del segundo periodo fue del Cáceres, tanto que a los cinco minutos ya había marcado dos goles más. El Sacedón intentó reaccionar pero acusaron el golpe, la racha negativa del equipo y la situación clasificatoria minan la moral de un conjunto que semana tras semana no ve reflejado el buen trabajo en resultados. El quinto gol sentenció el partido a poco más de cinco minutos y ya con portero jugador llegó el definitivo 2-6.</p>
+  
+  
+  <div align="center">
+    <img id="imagen" onmouseout="cambiartamañoorig()" onmouseover="cambiartamaño()" src="IMAGS_AMARIA/noticia1.jpg" />
+    <script language="Javascript">
+  function cambiartamaño(){
+   let element=document.getElementById("imagen")
+   element.style.width="1150px";
+  }
+   function cambiartamañoorig(){
+   let element=document.getElementById("imagen")
+   element.style.width="900px";
+  }
+</script>
+</div>
+ <div align="center">
+
+</div>
+<!--NOTICIA PARTIDO II-->
+<div id="section12" class="container-fluid bg-success" style="padding-top:70px;padding-bottom:70px">
    <h1 style="text-align: center;">Un mal arranque condena al Sacedón</h1>
    <small>14/02/2021</small>
    <p>Los ribereños no pudieron reponerse al 4-1 que reflejaba el marcador a los 5´ de partido (5-2).</p>
@@ -111,11 +142,11 @@ $(document).ready(function(){
   <p>La segunda mitad comenzó con gol del Sacedón. Parecía que los ribereños se metían en el partido, pero esa sensación duró unos pocos minutos. El Navalmoral comenzó a dominar de nuevo el juego y fruto de eso llegó el quinto y definitivo tanto. El Sacedón dispuso de varias oportunidades, con cuatro postes en el partido, pero de nuevo estuvo desafortunado de cara a gol. Los últimos minutos con portero jugador tampoco dieron el resultado deseado y el Sacedón apenas creó peligro.</p>
   <p>Sin tiempo para lamentaciones, el Sacedón recibe la próxima semana al líder del grupo con la intención de dar la campanada. </p>
   <div align="center">
-    <img class="img-fluid" style="height:300px; width:500px;" src="IMAGS_AMARIA/noticia3.jpg"> 
+    <img class="img-fluid" style="height:300px; width:500px;" src="IMAGS_AMARIA/noticia3.jpg" > 
   </div>
 </div>
 <!--NOTICIA PARTIDO II-->
-<div id="section12" class="container-fluid bg-warning" style="padding-top:70px;padding-bottom:70px">
+<div id="section13" class="container-fluid bg-warning" style="padding-top:70px;padding-bottom:70px">
   <h1 style="text-align: center;">El Sacedón cae pese a ir por delante casi todo el partido</h1>
    <small>31/01/2021 </small>
   <p>Los ribereños fueron ganando hasta en cuatro ocasiones pero no supieron sacar nada positivo de su visita al Torrejeón (6-4).</p>
@@ -128,7 +159,7 @@ $(document).ready(function(){
   </div>
 </div>
 <!--NOTICIA PARTIDO III-->
-<div id="section13" class="container-fluid bg-secondary" style="padding-top:70px;padding-bottom:70px">
+<div id="section14" class="container-fluid bg-secondary" style="padding-top:70px;padding-bottom:70px">
  <h1 style="text-align: center;">Un Sacedón fallón cayó derrotado por un gol en el último segundo</h1>
  <small>24/01/2021</small>
   <p>El conjunto ribereño fue superior al Colmenar pero no estuvo acertado de cara a gol (2-3).</p>
@@ -156,6 +187,8 @@ $(document).ready(function(){
     <img class="img-fluid" style="height:300px; width:500px;" src="IMAGS_AMARIA/premio.jpg"> 
   </div>
 </div>
+<div class="container">
 <i> Noticias publicadas por: <a href="https://nuevaalcarria.com/">Nueva Alcarria</a></i>
+</div>
 </body>
 </html>

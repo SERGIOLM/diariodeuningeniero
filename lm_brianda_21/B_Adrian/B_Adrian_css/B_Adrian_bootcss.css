@@ -1,6 +1,17 @@
 * {
   box-sizing: border-box;
 }
+.buttonjv{
+  text-decoration: none;
+        padding: 10px;
+        font-weight: 600;
+        font-size: 15px;
+        color: red;
+        background-color: pink;
+        border-radius: 6px;
+        border: 2px solid black;
+        box-shadow: 0 5px #999;
+}
 body {
   font-family: Arial;
   padding: 10px;

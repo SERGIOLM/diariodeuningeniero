@@ -13,6 +13,31 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script type='text/javascript'>
 
+function actual() {
+         fecha=new Date(); //Actualizar fecha.
+         hora=fecha.getHours(); //hora actual
+         minuto=fecha.getMinutes(); //minuto actual
+         segundo=fecha.getSeconds(); //segundo actual
+         if (hora<10) { //dos cifras para la hora
+            hora="0"+hora;
+            }
+         if (minuto<10) { //dos cifras para el minuto
+            minuto="0"+minuto;
+            }
+         if (segundo<10) { //dos cifras para el segundo
+            segundo="0"+segundo;
+            }
+         //ver en el recuadro del reloj:
+         mireloj = hora+" : "+minuto+" : "+segundo; 
+         return mireloj; 
+         }
+function actualizar() { //función del temporizador
+   mihora=actual(); //recoger hora actual
+   mireloj=document.getElementById("reloj"); //buscar elemento reloj
+   mireloj.innerHTML=mihora; //incluir hora en elemento
+   }
+setInterval(actualizar,1000); //iniciar temporizador
+
 $(document).ready(function(){ 
     $(window).scroll(function(){ 
         if ($(this).scrollTop() > 100) { 
@@ -98,6 +123,12 @@ $(document).ready(function(){
    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
+.reloj { width: 150px; height: 30px; padding: 5px 10px; 
+         font: bold 1.5em dotum, "lucida sans", arial; 
+         text-align: center;
+         color: white;
+         float: right; margin: 1em 3em 1em 1em; }
+
 </style>
 </head>
 
@@ -136,6 +167,8 @@ $(document).ready(function(){
       </div>
     </li>
   </ul>
+  <div id="reloj" class="reloj">00 : 00 : 00
+    </div>
 </nav>
 
 
