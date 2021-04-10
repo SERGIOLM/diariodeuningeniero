@@ -1,10 +1,10 @@
-<rss version="2.0">
+﻿<rss version="2.0">
 	<channel>
 		<title>MITOLOGIA GRIEGA Y ROMANA</title>
 		<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_JavierZ/BZudaire_index.html</link>
 		<description>Mitologia Griega y Romana</description>
 		<copyright>Copyright 2021</copyright>
-		<atom:link href="http://www.diariodeuningeniero.com/lm_brianda_21/rss/javierzudaire_rss.xml" rel="self" type="application/rss+xml"/>
+		<link>http://www.diariodeuningeniero.com/lm_brianda_21/rss/javierzudaire_rss.xml</link>
 		<language>es-en</language>
 		<item>
 			<title>MITOLOGIA GRIEGA Y ROMANA</title>
