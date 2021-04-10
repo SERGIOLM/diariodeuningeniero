@@ -27,7 +27,13 @@ $(document).ready(function(){
 
 var cumplecondicion=true;
 var cadena="";
-
+while  (cumplecondicion) {
+cadena=prompt("escriba bienvenido para salir del bucle");
+if (cadena=="bienvenido") {
+         cumplecondicion=false;
+     }
+    
+ } 
 
  function mueveReloj(){
     momentoActual = new Date()
@@ -41,6 +47,8 @@ var cadena="";
 
     setTimeout("mueveReloj()",1000)
 }  
+
+
 </script>
 
 <style type="text/css">
@@ -118,7 +126,7 @@ h2 {color:red;}
 </form>
 </nav>
 
-
+<a href="https://validator.w3.org/feed/check.cgi?url=www.diariodeuningeniero.com%2Flm_brianda21%2Frss%2FAJavierI_rss.xml"><img src="https://www.onepointsync.com/wp-content/uploads/2016/08/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
 <br>
 <div class="row pr-2">
     <div class="col-lg-2 col-md-2" style="height: 600px;">

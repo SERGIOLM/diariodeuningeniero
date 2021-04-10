@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Una Wikia del Montón</title>
+<link>file:///C:/Users/CMA/Documents/Inicio.html</link>
+<description>Una Wiki muy cutre, no voy a mentir sobre ello</description>
+<language>es(Spanish)</language>
+<pubDate>Mon,05 Apr 2021 17:19:47 +0100</pubDate>
+<lastBuildDate>Mon,05 Apr 2021 17:19:47 +0100</lastBuildDate>
+<generator>Meytel.net Syndication</generator>
+<item>
+  <title>Inicio</title>
+  <link>file:///C:/Users/CMA/Documents/Inicio.html</link>
+  <description>Inicio de la pagina</description>
+</item>
+<item>
+  <title>Budokai </title>
+  <link>file:///C:/Users/CMA/Documents/BUDOKAI.html</link>
+  <description>Espacio dedicado al primer juego de Dragon ball de la saga Budokai</description>
+</item>
+<item>
+  <title>Budokai 2</title>
+  <link>file:///C:/Users/CMA/Documents/BUDOKAI%202.html</link>
+  <description>Espacio dedicado al segundo juego de Dragon ball de la saga Budokai</description>
+</item><item>
+  <title>Budokai 3</title>
+  <link>file:///C:/Users/CMA/Documents/BUDOKAI%203.html</link>
+  <description>Espacio dedicado al tercer juego de Dragon ball de la saga Budokai</description>
+</item><item>
+  <title>Budokai Tenkaichi</title>
+  <link>file:///C:/Users/CMA/Documents/TENKAICHI.html</link>
+  <description>Espacio dedicado al primer juego de Dragon ball de la saga Budokai Tenkaichi</description>
+</item><item>
+  <title>Budokai Tenkaichi 2</title>
+  <link>file:///C:/Users/CMA/Documents/TENKAICHI%202.html</link>
+  <description>Espacio dedicado al segundo juego de Dragon ball de la saga Budokai Tenkaichi</description>
+</item><item>
+  <title>Budokai Tenkaichi 3</title>
+  <link>file:///C:/Users/CMA/Documents/TENKAICHI%203.html</link>
+  <description>Espacio dedicado al tercer juego de Dragon ball de la saga Budokai Tenkaichi</description>
+</item>
+</channel>
+</rss>

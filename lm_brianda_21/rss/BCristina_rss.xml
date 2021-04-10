@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>CRIS BLOG</title>
+<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Cristina/B_CristinaS%C3%A1nchez_Inicio.html</link>
+<description>Blog personal, artículos, dscuentos y grandes regalos.</description>
+<copyright>Copyright 2021</copyright>
+<atom:link href="http://www.diariodeuningeniero.com/rss/BCristina_rss.xml" rel="self" type="application/rss+xml"/>
+<language>es-en</language>
+<item>
+	<title>Inicio</title>
+	<author>cristinasanchezadan0@gmail.com (Cris)</author>
+	<description>Inicio con datos destacables</description>
+	<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Cristina/B_CristinaS%C3%A1nchez_Inicio.html</link>
+	<pubDate>Mon, 13 Feb 2017 12:08:10 +0100</pubDate>
+	<guid>http://www.diariodeuningeniero.com/lm_brianda_21/B_Cristina/B_CristinaS%C3%A1nchez_Inicio.html</guid>
+</item>
+<item>
+	<title>Las mejores playlist de Spotify</title>
+	<author>cristinasanchezadan0@gmail.com (Cris)</author>
+	<description>Artículo con las mejores playlist de Spotify</description>
+	<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Cristina/B_CristinaS%C3%A1nchez_Articulo1.html</link>
+	<pubDate>Mon, 2 Jan 2017 12:06:06 +0100</pubDate>
+	<guid>http://www.diariodeuningeniero.com/lm_brianda_21/B_Cristina/B_CristinaS%C3%A1nchez_Articulo1.html</guid>
+</item>
+<item>
+	<title>Donde ver las mejores auroras boreales</title>
+	<author>cristinasanchezadan0@gmail.com (Cris)</author>
+	<description>Artículo que muestra las mejores auroras boreales</description>
+	<link>https://elviajero.elpais.com/elviajero/2018/11/13/actualidad/1542113059_666738.html</link>
+	<pubDate>Sat, 20 Dec 2014 12:06:06 +0100</pubDate>
+	<guid>https://elviajero.elpais.com/elviajero/2018/11/13/actualidad/1542113059_666738.html</guid>
+</item>
+<item>
+	<title>¡Trabaja conmigo!</title>
+	<author>cristinasanchezadan0@gmail.com (Cris)</author>
+	<description>Trabaja junto a mi.</description>
+	<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Cristina/B_CristinaS%C3%A1nchez_Contacto.html</link>
+	<pubDate>Sun, 1 Sep 2013 12:06:06 +0100</pubDate>
+	<guid>http://www.diariodeuningeniero.com/lm_brianda_21/B_Cristina/B_CristinaS%C3%A1nchez_Contacto.html</guid>
+</item>
+<item>
+	<title>Suscripción</title>
+	<author>cristinasanchezadan0@gmail.com (Cris)</author>
+	<description>Diferentes suscripciones.</description>
+	<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Cristina/B_CristinaS%C3%A1nchez_Suscripcion.html</link>
+	<pubDate>Sat, 1 Jun 2013 12:06:06 +0100</pubDate>
+	<guid>http://www.diariodeuningeniero.com/lm_brianda_21/B_Cristina/B_CristinaS%C3%A1nchez_Suscripcion.htmll</guid>
+</item>
+</channel>
+</rss>

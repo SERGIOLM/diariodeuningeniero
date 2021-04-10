@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Importcar</title>
+  <link>../html/Index.html</link>
+  <description>Pagina principal</description>
+
+  <item> 
+    <title>Nuevos Audi</title>
+    <link>../html/Audi.html</link>
+    <description>Pagina de ventas de Audi</description>
+  </item>
+
+  <item>
+    <title>Nuevos BMW</title>
+    <link>../html/BMW.html</link>
+    <description>Pagina de ventas de BMW</description>
+  </item>
+  
+  <item>
+    <title>Nuevos Mercedes Benz</title>
+    <link>../html/Mercedes.html</link>
+    <description>Pagina de ventas de Mercedes</description>
+  </item>
+  
+  <item>
+    <title>Nuevos Volkswagen</title>
+    <link>../html/Volkswagen.html</link>
+    <description>Pagina de ventas de Volkswagen</description>
+  </item>
+  
+  <item>
+    <title>Nuevos Proche</title>
+    <link>../html/Porche.html</link>
+    <description>Pagina de ventas de Porche</description>
+  </item>
+
+</channel>
+<copyright>Importcar Marca registrada</copyright>
+</rss>

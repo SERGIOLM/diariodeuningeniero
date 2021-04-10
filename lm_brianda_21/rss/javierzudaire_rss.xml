@@ -1,0 +1,42 @@
+<rss version="2.0">
+	<channel>
+		<title>MITOLOGIA GRIEGA Y ROMANA</title>
+		<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_JavierZ/BZudaire_index.html</link>
+		<description>Mitologia Griega y Romana</description>
+		<copyright>Copyright 2021</copyright>
+		<atom:link href="http://www.diariodeuningeniero.com/lm_brianda_21/B_JavierZ/rss/javierzudaire_rss.xml" rel="self" type="application/rss+xml"/>
+		<language>es-en</language>
+		<item>
+			<title>MITOLOGIA GRIEGA Y ROMANA</title>
+			<author>jzudaire@gmail.com (Javier Zudaire)</author>
+			<description>Pagina principal</description>
+			<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_JavierZ/BZudaire_index.html</link>
+			<pubDate>Mon, 05 Apr 2021 12:00:00 +0100</pubDate>
+			<guid>http://www.diariodeuningeniero.com/lm_brianda_21/B_JavierZ/BZudaire_index.html</guid>
+		</item>
+		<item>
+			<title>MITOLOGIA GRIEGA Y ROMANA</title>
+			<author>jzudaire@gmail.com (Javier Zudaire)</author>
+			<description>Pagina principal</description>
+			<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_JavierZ/BZudaire_index_2.html</link>
+			<pubDate>Mon, 05 Apr 2021 12:00:00 +0100</pubDate>
+			<guid>http://www.diariodeuningeniero.com/lm_brianda_21/B_JavierZ/BZudaire_index_2.html</guid>
+		</item>
+		<item>
+			<title>MITOLOGIA GRIEGA Y ROMANA</title>
+			<author>jzudaire@gmail.com (Javier Zudaire)</author>
+			<description>Pagina principal</description>
+			<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_JavierZ/BZudaire_index_3.html</link>
+			<pubDate>Mon, 05 Apr 2021 12:00:00 +0100</pubDate>
+			<guid>http://www.diariodeuningeniero.com/lm_brianda_21/B_JavierZ/BZudaire_index_3.html</guid>
+		</item>
+		<item>
+			<title>MITOLOGIA GRIEGA Y ROMANA</title>
+			<author>jzudaire@gmail.com (Javier Zudaire)</author>
+			<description>Pagina principal</description>
+			<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_JavierZ/BZudaire_contacto.html</link>
+			<pubDate>Mon, 05 Apr 2021 12:00:00 +0100</pubDate>
+			<guid>http://www.diariodeuningeniero.com/lm_brianda_21/B_JavierZ/BZudaire_contacto.html</guid>
+		</item>
+	</channel>
+</rss>
