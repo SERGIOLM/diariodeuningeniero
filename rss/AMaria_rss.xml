@@ -1,0 +1,109 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel> 
+	<title>EMD SACEDON</title>
+	<link>https://maria17-b.github.io/SACEDON/</link>
+	<description>Página web sobre equipo de 2º división de FS</description>
+	<copyright>Copyright 2021</copyright>
+	<atom:link href="https://maria17-b.github.io/SACEDON/RSS/emdsacedon_rss.xml" rel="self" type="application/rss+xml"/>
+	<language>es</language>
+<item>
+	<title>NOTICIAS</title>
+	<author>mariaasir17@gmail.com (Maria Esteban)</author>
+	<description>Noticias de los partidos, fichajes,premios,...</description>
+	<link>https://maria17-b.github.io/SACEDON/NOTICIAS.html</link>
+	<pubDate> Mié, 02 de octubre de 2002 13:00:02 GMT </pubDate>
+	<guid>https://maria17-b.github.io/SACEDON/</guid>
+</item>
+
+<item>
+	<title>CALENDARIO</title>
+	<author>mariaasir17@gmail.com (Maria Esteban)</author>
+	<description>Calendario de los partidos de la temporada</description>
+	<link>https://maria17-b.github.io/SACEDON/PARTIDOS.html</link>
+	<pubDate> Mié, 02 de octubre de 2002 13:00:40 GMT </pubDate>
+	<guid>https://maria17-b.github.io/SACEDON/</guid>
+</item>
+
+<item>
+	<title>CLASIFICACIÓN</title>
+	<author>mariaasir17@gmail.com (Maria Esteban)</author>
+	<description>Clasificación de los equipos de 2 división</description>
+	<link>https://maria17-b.github.io/SACEDON/NOTICIAS.html</link>
+	<pubDate> Mié, 02 de octubre de 2002 13:00:20 GMT </pubDate>
+	<guid>https://maria17-b.github.io/SACEDON/</guid>
+</item>
+
+<item>
+	<title>CALENDARIO PLAY-OFF</title>
+	<author>mariaasir17@gmail.com (Maria Esteban)</author>
+	<description>Partidos de eliminatoria o permanencia en 2º división</description>
+	<link>https://maria17-b.github.io/SACEDON/PARTIDOS2.html</link>
+	<pubDate> Mié, 02 de octubre de 2002 13:50:00 GMT </pubDate>
+	<guid>https://maria17-b.github.io/SACEDON/</guid>
+</item>
+
+<item>
+	<title>CLASIFICACIÓN PLAY-OFF</title>
+	<author>mariaasir17@gmail.com (Maria Esteban)</author>
+	<description>Clasificación de la eliminatoria o permanencia en 2º división</description>
+	<link>https://maria17-b.github.io/SACEDON/PARTIDOS2.html</link>
+	<pubDate> Mié, 02 de octubre de 2002 13:00:00 GMT </pubDate>
+	<guid>https://maria17-b.github.io/SACEDON/</guid>
+</item>
+
+<item>
+	<title>PORTEROS</title>
+	<author>mariaasir17@gmail.com (Maria Esteban)</author>
+	<description>Ficha de los porteros de 2º división</description>
+	<link>https://maria17-b.github.io/SACEDON/PORTEROS.html</link>
+	<pubDate> Mié, 02 de octubre de 2002 13:00:00 GMT </pubDate>
+	<guid>https://maria17-b.github.io/SACEDON/</guid>
+</item>
+
+<item>
+	<title>ALAS</title>
+	<author>mariaasir17@gmail.com (Maria Esteban)</author>
+	<description>Ficha de los ala de 2º división</description>
+	<link>https://maria17-b.github.io/SACEDON/ALAS.html</link>
+	<pubDate> Mié, 02 de octubre de 2002 13:00:04 GMT </pubDate>
+	<guid>https://maria17-b.github.io/SACEDON/</guid>
+</item>
+
+
+<item>
+	<title>PIVOTs</title>
+	<author>mariaasir17@gmail.com (Maria Esteban)</author>
+	<description>Ficha de los pivot de 2º división</description>
+	<link>https://maria17-b.github.io/SACEDON/PIVOTS.html</link>
+	<pubDate> Mié, 02 de octubre de 2002 13:00:40 GMT </pubDate>
+	<guid>https://maria17-b.github.io/SACEDON/</guid>
+</item>
+
+<item>
+	<title>CIERRES</title>
+	<author>mariaasir17@gmail.com (Maria Esteban)</author>
+	<description>Ficha de los cierre de 2º división</description>
+	<link>https://maria17-b.github.io/SACEDON/CIERRES.html</link>
+	<pubDate> Mié, 02 de octubre de 2002 13:00:05 GMT </pubDate>
+	<guid>https://maria17-b.github.io/SACEDON/</guid>
+</item>
+
+<item>
+	<title>ENTRENADORES</title>
+	<author>mariaasir17@gmail.com (Maria Esteban)</author>
+	<description>Ficha de los entrenadores de 2º división</description>
+	<link>https://maria17-b.github.io/SACEDON/ENTRENADORES.html</link>
+	<pubDate> Mié, 02 de octubre de 2002 13:00:40 GMT </pubDate>
+	<guid>https://maria17-b.github.io/SACEDON/</guid>
+</item>
+
+<item>
+	<title>TIENDA</title>
+	<author>mariaasir17@gmail.com (Maria Esteban)</author>
+	<description>Formulario para rellenar</description>
+	<link>https://maria17-b.github.io/SACEDON/TIENDA.html</link>
+	<pubDate> Mié, 02 de octubre de 2002 13:00:09 GMT </pubDate>
+	<guid>https://maria17-b.github.io/SACEDON/</guid>
+</item>
+</channel>
+</rss>
