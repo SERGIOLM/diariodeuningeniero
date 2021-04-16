@@ -1,0 +1,106 @@
+@charset "utf-8";
+
+
+
+
+
+{
+
+
+font-size:80px;
+font-family:corbel,David Libre ;
+text-align:center;
+background: #F5EBDC;
+}
+
+
+h3{
+
+font-size:60px;
+color:#7A756F;
+text-align:center;
+
+}
+
+
+p{
+
+color:#7A756F;
+font-size:20px;
+font-family:corbel,David Libre ;
+
+margin:80px;
+
+}
+
+h2{
+
+	font-size:80px;
+color:#7A756F;
+text-align:center;
+}
+
+
+.titulo{
+
+
+	margin:90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.img1{
+margin-left: 300px;
+	width: 300px;
+	
+}
+
+.img2{
+margin-left: 300px;
+
+		width: 350px;
+	
+}
+
+
+.img3{
+width: 300px;
+	
+margin-left: 300px;
+
+}
+
+.img4{
+	width: 300px;
+margin-left: 300px;
+
+
+}
+
+
+
+.img6{
+margin-left : 300px;
+
+
+}
+
+
+body{
+
+	background-image: url(../IMAGS_ANATALIA/lobo.jpg);
+	background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+background-size:cover;
+}
