@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<item><title>pagina portada</title>
+<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Alvaro/pagina%20web%202%20con%20bootstrap.html</link>
+<descripcion>portada de mi pagina web</descripcion>
+</item>
+<item>
+<title>pagina inicial</title>
+<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Alvaro/INTRODUCCI%C3%93N.html</link>
+<descripcion>pagina principal </descripcion>
+</item>
+<item>
+<title>pagina contacto</title>
+<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Alvaro/formulario.html</link>
+<descripcion>apartado de contacto y formulario</descripcion>
+</item>
+</channel>
+</rss>

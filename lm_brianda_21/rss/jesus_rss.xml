@@ -3,14 +3,22 @@
 <rss version="2.0">
 	<channel>
 		<title>mi canal de rss</title>
-     <link>prueba007.html</link>
+     <link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Jesus/B_Jesus.html</link>
      <description>noticias de actualizadad</description>
        <item>
      	<title>noticias de actualizada</title>
-     	<link>https://elpais.com/</link>
-     	<description>noticias sobre el pais</description>
+     	<link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Jesus/B_Jesus.html</link>
+     	<description>pagina 1</description>
+       </item>
+       <item>
+      <title>noticias de actualizada</title>
+      <link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Jesus/prueba006.html</link>
+      <description>pagina 2</description>
+       </item>
+       <item>
+      <title>noticias de actualizada</title>
+      <link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Jesus/prueba005.html</link>
+      <description>pagina 3</description>
        </item>
 	</channel>
-   
-     
- </rss>
+</rss>
