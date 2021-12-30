@@ -30,6 +30,8 @@ thead, th { background-color: #ccc; }
 .mob_header_fmt   { height: 40px; }
 .mob_header_but   { height:50px;  top:10px; left:1%; position:fixed; z-index:6; }
 .blog_carousel    { max-height: 500px; margin-bottom:10px; margin-top:80px; } 
+.toledo_carouselh { max-height: 800px; max-width : 800px;  } 
+.toledo_carouselv { max-height: 800; max-width : 800px;  } 
 .blog_carousel_i  { max-height: 350px; max-width : 400px; }
 .blog_carousel2   { width: 150px; margin-top:-50px; left:-20px; } 
 .blog_carousel2_i { max-height: 150px; max-width : 150px; } 
@@ -105,7 +107,16 @@ img.central_l	  { width:auto; max-height:500px; margin: 10px; horiz-align: cente
   padding-left: 20px;
   padding-top:30px;
 }
+.button_cards{
+    z-index=3;
+    position: absolute;
+    text-align: center;
+    bottom:5px; left:30%;
+}
 
+.card_toledo{
+  padding-top:50px; width:100%; height:600px; margin-top:10px;margin-bottom:20px; margin-right:2px;
+}
 .card_button_h{
   float:right;
   position:relative;
