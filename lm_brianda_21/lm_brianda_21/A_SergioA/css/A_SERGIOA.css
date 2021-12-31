@@ -1,0 +1,93 @@
+/*Cabecera*/
+.barra1{
+      font-family:century;
+      font-size: 25px;
+    }
+    .gu{
+      width:30px;
+    }
+    .div_cabecera{
+      width: 100%;
+      margin-top: 10px;
+
+    }
+    .div_important{
+      padding: 0px !important; 
+    }
+    .coche_fondo{
+      position: all;
+      width: 100%;
+      height: auto;
+      margin-top: 64px;
+    }
+    .ca_Imp{
+      margin-top: -19.7vw;
+      margin-left: 2vw;
+      font-family: eras itc;
+      font-size: 8vw;
+      color: red
+    }
+    .ca_az{
+      margin-top: 5.5vw;
+      margin-left: 50vw;
+      font-family: bookman old style;
+      font-size: 1.4vw;
+      color: blue;
+    }
+/*Redes sociales*/
+    .rrss{
+      display: inline-block;
+      width: 6vw;
+      height: 7vw;
+      float: right;
+      margin-right: 5vw;
+    }
+
+    .sticky-container{
+      padding: 0vw;
+      margin: 0vw;
+      position:fixed;
+      right: -8.5vw;
+      top: 25vw;
+      width:13.5vw;
+      z-index: 1;
+    }
+    .sticky li{
+      list-style-type:none;
+      background-color:#fff;
+      color:#efefef;
+      height:4vw;
+      padding:0px;
+      margin:0px 0px 1px 0px;
+      -webkit-transition:all 0.25s ease-in-out;
+      -moz-transition:all 0.25s ease-in-out;
+      -o-transition:all 0.25s ease-in-out;
+      transition:all 0.25s ease-in-out;
+      cursor:pointer;
+    }
+    .sticky li:hover{
+      margin-left:-115px;
+    }
+    .sticky li img{
+      float:left;
+      margin:5px 4px;
+      margin-right:5px;
+    }
+    .sticky li p{
+      padding-top:5px;
+      margin:0px;
+      line-height:16px;
+      font-size:1vw;
+    }
+    .sticky li p a{
+      text-decoration:none;
+      color:#2C3539;
+    }
+    .sticky li p a:hover{
+      text-decoration:underline;
+    }
+
+    footer{
+      color: red;
+      font-size:1.3vw;
+    }

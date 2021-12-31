@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Pagina principal</title>
+  <link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Francisco/B_Francisco.html</link>
+  <description>Portada Intento de Informatico</description>
+  <item>
+    <title>Portada</title>
+    <link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Francisco/B_Francisco.html</link>
+    <description>Pagina 1</description>
+  </item>
+  <item>
+    <title>Noticia 1</title>
+    <link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Francisco/B_Francisco.html</link>
+    <description>Noticia de MicroMagic</description>
+  </item>
+  <item>
+    <title>Noticia 2</title>
+    <link>http://www.diariodeuningeniero.com/lm_brianda_21/B_Francisco/B_Francisco.html</link>
+    <description>Noticia de Intel</description>
+  </item>
+</channel>
+
+</rss>

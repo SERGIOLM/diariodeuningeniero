@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0">
+    <channel>
+        <title> Pasteleria Rss</title>
+        <link>https://intolact.000webhostapp.com/BSandra_Intolact.html</link>
+        <description>Los mejores Cupcakes sin lactosa de la ciudad</description>
+        <copyright>Copyright 2020</copyright>
+
+        <item>
+        <title>Menú Pasteleria</title>
+        <author>info@intolact.com (Sandra)</author>
+        <link>https://intolact.000webhostapp.com/BSandra_Men%C3%BA.html</link>
+        <description>Variedad de Cupcakes</description>
+        <guid>https://intolact.000webhostapp.com/BSandra_Men%C3%BA.html</guid>
+        </item>
+
+        <item>
+        <title>¿Quiénes Somos?</title>
+        <author>info@intolact.com (Sandra)</author>
+        <link>https://intolact.000webhostapp.com/BSandra_Acerca_de.html</link>
+        <description>Conocenos</description>
+        <guid>https://intolact.000webhostapp.com/BSandra_Acerca_de.html</guid>
+        </item>
+
+        <item>
+        <title>Alergenos</title>
+        <author>info@asesoriaplan-a.es (plan-A)</author>
+        <link>https://www.asesoriaplan-a.es/asesoria/carta-de-alergenos-e-Intolerancias</link>
+        <description>Alergenos</description>
+        <guid>https://www.asesoriaplan-a.es/asesoria/carta-de-alergenos-e-Intolerancias</guid>
+        </item>
+
+
+        <item>
+        <title>Información Nutricional</title>
+        <author>info@intolact.com (Sandra) </author>
+        <link>https://intolact.000webhostapp.com/BSandra_Info.html</link>
+        <description>Ingesta Diaria de Referencia</description>
+        <guid>https://intolact.000webhostapp.com/BSandra_Info.html</guid>
+        </item>
+    </channel>
+</rss>

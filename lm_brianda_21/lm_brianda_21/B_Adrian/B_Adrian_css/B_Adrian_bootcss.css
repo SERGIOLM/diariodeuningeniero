@@ -1,0 +1,175 @@
+* {
+  box-sizing: border-box;
+}
+.buttonjv{
+  text-decoration: none;
+        padding: 10px;
+        font-weight: 600;
+        font-size: 15px;
+        color: red;
+        background-color: pink;
+        border-radius: 6px;
+        border: 2px solid black;
+        box-shadow: 0 5px #999;
+}
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: #ffcfcf;
+  position: relative;
+ }
+  ul.nav-pills {
+    top: 20px;
+    
+  }
+  div.col-8 div {
+    height: 500px;
+  }
+  i{
+    font font-family: Arial;
+  }
+.carrusel{
+  width: 75%;
+  height: 30%;
+}
+
+.enlace{
+  color: black;
+}
+.active1{
+  background-color:#509450;
+  color: white;
+}
+.active{
+  color: black; 
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: grey;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color:#b3b3b3;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: black;
+}
+.header {
+  padding: 20px;
+  text-align: center;
+  background: white;
+}
+.header h1 {
+  font-size: 50px;
+  font-family: 'Faster One';
+  color: white ;
+}
+.footer1{
+  font-size: 20px;
+  font-family:  'Faster One';
+}
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
+
+.rightcolumn {
+  float: right;
+  width: 25%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+.header{
+ /* width: 300px;
+  height: 150px;*/
+}
+.header1 {
+  font-size: 30px;
+  font-family: 'Faster One';
+  color: black ;
+}
+.enlace{
+  color: black;
+}
+.img1{
+  background-color: #aaa;
+  width:550px;
+  height: 350px;
+  padding: 20px;
+}
+.img2{
+  width: 500px;
+  height:300px;
+}
+
+.fakeimg{
+  background-color: #aaa;
+  width:100%;
+  padding: 20px;
+}
+.fake2{
+  width: 270px;
+  height: 130px;
+}
+.fake3{
+  width: 270px;
+  height: 150px;
+}
+.card{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  
+}
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+
