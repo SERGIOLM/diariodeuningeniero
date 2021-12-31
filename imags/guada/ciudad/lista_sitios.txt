@@ -1,0 +1,31 @@
+1 Puente Arabe
+2 Palacio infantado y museo provincial
+3 Concatedral santa maria
+4 capilla luis de lucena
+5 palacio pedro de mendoza y la capilla de la piedad
+6 palacio de la cotilla y sala china
+7 alcazar
+8 torreon alamin
+9 torreon alvarfañez
+10 puerta de bejanque
+11 San Franciso y cripta de los duques del infantado
+12 Panteon de la duquesa de Sevillano
+13 Iglesia de Santiago
+14 Iglesia y convento de san Nicolas
+15 Iglesia y convento del Carmen
+16 Iglesia de San Gines
+17 Parque de la Concordia
+18 Ermita de San Roque
+19 Antigua Carcel 
+20 Zoologico
+21 Centro Comercial Ferial plaza y recinto ferial
+22 Estacion de trenes
+23 Estacion de autobuses
+24 Hospital provincial
+25 Pistas de Atletismo
+26 Palacio Multiusos de Deportes
+27 Centro Acuatico
+28 Piscina municipal
+28 Piscina Sonia Reyes
+29 Polideportivo San Jose
+30 Estadio Pedro Escartin

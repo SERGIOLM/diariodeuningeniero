@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>LeAndroide</title>
+	<link>inicio2.html</link>
+	<description>Información sobre Android</description>
+	<language>es(Spanish)</language>
+	<pubDate>Mon,05 Apr 2021 18:12:33 +0100</pubDate>
+	<lastBuildDate>Mon,05 Apr 2021 18:12:33 +0100</lastBuildDate>
+	<generator>Meytel.net Syndication</generator>
+	<item>
+		<title>Home</title>
+		<link>inicio2.html</link>
+		<description>Página de inicio</description>
+	</item>
+	<item>
+		<title>Galería</title>
+		<link>galeria2a.html</link>
+		<description>Fotos</description>
+	</item>
+	<item>
+		<title>Galería</title>
+		<link>galeria2b.html</link>
+		<description>Fotos</description>
+	</item>
+	<item>
+		<title>Galería</title>
+		<link>galeria2c.html</link>
+		<description>Fotos</description>
+	</item>
+	<item>
+		<title>Versiones</title>
+		<link>versiones2.html</link>
+		<description>Versiones de Android</description>
+	</item>
+	<item>
+		<title>Autor</title>
+		<link>autor2.html</link>
+		<description>Información sobre el autor</description>
+	</item>
+	<item>
+		<title>S.O</title>
+		<link>historia2.html</link>
+		<description>Información sobre el sistema operativo</description>
+	</item>
+	</channel>
+</rss>

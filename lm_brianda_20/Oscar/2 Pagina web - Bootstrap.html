@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="icon" type="image/png" href="E:\Lenguaje de Marcas\css\Favicon5.png">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+	<script src=”https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js”></script>
+	<!-- Scrip boton ir arriba -->
+	<script>
+
+jQuery(document).ready(function() {
+  
+  var btn = $('#button');
+
+  $(window).scroll(function() {
+    if ($(window).scrollTop() > 300) {
+      btn.addClass('show');
+    } else {
+      btn.removeClass('show');
+    }
+  });
+
+  btn.on('click', function(e) {
+    e.preventDefault();
+    $('html, body').animate({scrollTop:0}, '300');
+  });
+
+});
+
+</script>
+
+  </head>
+  <header>
+ 	<nav class="navbar navbar-expand-xl  navbar-dark justify-content-center" style="background-image: url(https://www.ampapoetatmc.es/wp-content/uploads/2016/12/cabeceras_azul.jpg); height: 125px">
+  <!-- Logo -->
+  <a class="navbar-brand" href="#" style="font-size: 35px; font-family:Coalition; color: #F4BD00">
+  	     Contacto
+  </a>
+
+  <!-- Enlaces -->
+  <ul class="navbar-nav" style="font-size: 20px; font-family: Bernard MT">
+    <li class="nav-item active">
+      <a class="nav-link active" href="index.html">Inicio</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" href="#">Contacto</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" href="#" data-toggle="tooltip" title="Sin Terminar">Acerca de</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" href="#" data-toggle="tooltip" title="Sin Terminar">Blog</a>
+    </li>
+
+    <!-- Desplegable -->
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle active" href="#" id="navbardrop" data-toggle="dropdown">
+        Campeones
+      </a>
+      <div class="dropdown-menu bg-warning">
+        <a class="dropdown-item" href="Pagina web - Bootstrap.html#ornn1">Ornn</a>
+        <a class="dropdown-item" href="Pagina web - Bootstrap.html#sion2">Sion</a>
+        <a class="dropdown-item" href="Pagina web - Bootstrap.html#morde3">Mordekaiser</a>
+        <a class="dropdown-item" href="Pagina web - Bootstrap.html#sett4">Sett</a>
+      </div>
+    </li>
+  </ul>
+</nav>
+  </header>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+  <style type="text/css">
+    #wrapper {
+    padding-left: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#wrapper.toggled {
+    padding-left: 250px;
+}
+
+#sidebar-wrapper {
+    z-index: 1000;
+    position: absolute;
+    left: 250px;
+    height: 801px;
+    margin-left: -250px;
+    overflow-y: auto;
+    background: #E9E9E9;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+    width: 250px;
+}
+
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+}
+
+#wrapper.toggled #page-content-wrapper {
+    position: absolute;
+    margin-right: -250px;
+}
+
+/* Sidebar Styles */
+
+.sidebar-nav {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar-nav li {
+    text-indent: 20px;
+    line-height: 40px;
+}
+
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+.sidebar-nav li a:hover {
+    text-decoration: none;
+    color:black;
+    background:#FFC92D;
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+    text-decoration: none;
+}
+
+.sidebar-nav > .sidebar-brand {
+    height: 65px;
+    font-size: 18px;
+    line-height: 60px;
+}
+
+.sidebar-nav > .sidebar-brand a {
+    color:black;
+}
+
+.sidebar-nav > .sidebar-brand a:hover {
+    color:#e87e1b ;
+    background: none;
+}
+
+@media(min-width:768px) {
+    #wrapper {
+        padding-left: 250px;
+    }
+
+    #wrapper.toggled {
+        padding-left: 0;
+    }
+
+    #sidebar-wrapper {
+        width: 250px;
+    }
+
+    #wrapper.toggled #sidebar-wrapper {
+        width: 0;
+    }
+
+    #page-content-wrapper {
+        padding: 20px;
+        position: relative;
+    }
+
+    #wrapper.toggled #page-content-wrapper {
+        position: relative;
+        margin-right: 0;
+    }
+}
+  </style>
+<div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a style="font-family: Call Of Ops Duty; font-size: 23px" href="#">
+                        Tabla De Contenidos
+                    </a>
+                </li>
+                <li style="font-family: stencil">
+                    <a href="Pagina web - Bootstrap.html#intro0">Introducción</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="Pagina web - Bootstrap.html#ornn1">Ornn</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="Pagina web - Bootstrap.html#sion2">Sion</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="Pagina web - Bootstrap.html#morde3">Mordekaiser</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="Pagina web - Bootstrap.html#sett4">Sett</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="Pagina web - Bootstrap.html#estadisticas5">Estadisticas</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="Pagina web - Bootstrap.html#dokkan">Mas Informacion</a>
+                </li>
+                <li  style="font-family: stencil">
+                    <a href="Pagina web - Bootstrap.html#footer6">Contacto</a>
+                </li>
+                <br>
+                <li>
+          
+                </li>
+        </div>
+
+<div class="container" style="padding: 3rem">
+
+
+<!-- Formulario -->
+    <form action="#" target="" method="get" name="formDatosPersonales">
+
+  <label for="nombre" style="font-family: bahnschrift">Nombre</label>
+  <input type="text" name="nombre" id="nombre" placeholder="Escribe tu nombre"/>
+
+  <label for="apellidos" style="font-family: bahnschrift">Apellidos</label>
+  <input type="text" name="apellidos" id="apellidos" placeholder="1er Apellido"/>
+
+  <label for="email" / style="font-family: bahnschrift">Email</label>
+  <input type="email" name="email" id="email" placeholder="Escribe tu Email" required />
+
+  <label for="asunto" style="font-family: bahnschrift">Asunto</label>
+  <input type ="text" name="asunto" id="asunto" placeholder="Titular de la consulta"/>
+
+  <label for="mensaje" style="font-family: bahnschrift">Mensaje</label>
+  <textarea name="mensaje" for="mensaje" placeholder="Describe brevemente en menos de 300 carácteres" maxlength="300"></textarea>
+  
+  <input type="submit" name="enviar" value="Enviar datos"/ style="background-color: #EAB50A; color: #3E3E3E;font-family: Call Of Ops Duty">
+</form>
+  
+  <style>
+    *{box-sizing:border-box;}
+
+form{
+  width:300px;
+  padding:16px;
+  border-radius:10px;
+  margin:auto;
+  background-color:#ccc;
+}
+
+form label{
+  width:72px;
+  font-weight:bold;
+  display:inline-block;
+}
+
+form input[type="text"],
+form input[type="email"]{
+  width:180px;
+  padding:3px 10px;
+  border:1px solid #f6f6f6;
+  border-radius:3px;
+  background-color:#f6f6f6;
+  margin:8px 0;
+  display:inline-block;
+}
+
+form input[type="submit"]{
+  width:100%;
+  padding:8px 16px;
+  margin-top:32px;
+  border:1px solid #000;
+  border-radius:5px;
+  display:block;
+  color:#fff;
+  background-color:#000;
+} 
+
+form input[type="submit"]:hover{
+  cursor:pointer;
+}
+
+textarea{
+  width:100%;
+  height:100px;
+  border:1px solid #f6f6f6;
+  border-radius:3px;
+  background-color:#f6f6f6;     
+  margin:8px 0;
+  resize:none;
+  display:block;
+}
+  </style>
+	
+
+
+<!-- Boton Ir hacia arriba -->
+<a id="button">
+	<img src="https://www.onlygfx.com/wp-content/uploads/2017/09/grunge-arrow-2-1-1024x823.png" height="40px" width="40px">
+</a>
+<style>#button {
+  display: inline-block;
+  background-color: #FF9800;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  border-radius: 4px;
+  margin: 30px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s;
+  z-index: 1000;
+}
+#button:hover {
+  cursor: pointer;
+  background-color: #333;
+}
+#button:active {
+  background-color: #555;
+}
+</style>
+
+
+
+
+
+
+
+
+</body>
+<footer class="pie" style="background: #333333; padding: 4rem 0; text-align: center; margin-top: 6rem;"><a name="footer6">
+  <p style="color: white; font-family: fox cavalier"><b>Oscar Chicharro 1º Asir IES Brianda de Mendoza</b></p>
+<p>
+  <a href="https://twitter.com/Oscar_Chicharro" class="btn btn-outline-info" role="button">Twitter <span class="spinner-border spinner-border-sm"></span></a>
+  <a href="https://Instagram.com/Oscar_Chicharro" class="btn btn-outline-success" role="button">Instagram <span class="spinner-border spinner-border-sm"></span></a>
+  <a href="mailto:oscarchicharro15@gmail.com" class="btn btn-outline-danger" role="button">Correo Electronico <span class="spinner-border spinner-border-sm"></span></a>
+</p>
+</footer>
+</html>

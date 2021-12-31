@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Análisis técnico SP500 DOW JONES NASDAQ 2020">
+        <meta name="author" content="Sergio Lopez Martinez">
+        <link rel="icon" type="image/png" href="favicons/favicon_di.png">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="robots" content="index, follow">
+        <meta name="keywords" content="analisis covid19">
+        <meta name="twync_verified" content="eaf0c97332671011a7b81aae9825e97630fb2160">
+        <title>Análisis técnico IBEX35 2020. diariodeuningeniero</title>
+        <link href="css/style_s.css" rel="stylesheet" type="text/css" media="screen">
+        <!-- Bootstrap core CSS -->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet" crossOrigin ="anonymous">
+    </head>
+    <body>
+        <header>
+            <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top">
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <a class="btn btn-primary navbar-toggler navbar-toggler-left hidden-lg-up mob_header_but" type="button" data-toggle="offcanvas" aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation" >
+                    <span class="navbar-toggler-icon"></span>
+                </a>                
+                <img class="img-fluid hidden-lg-up mob_banner_fmt" src="imags/banners/ecodiario_es_mv.jpg" alt=”Logo” />
+                <div class="container-fluid img-fluid hidden-lg-up row mob_header_fmt">                    
+                    <a class="navbar-brand" href="eco_12_es.html">Blog de Economía</a>
+                    <a><img class="offset-1 icono_s" src="imags/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+                    <a href="eco20_indices_en.html"><img class="icono_s" src="imags/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+                </div>
+                <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="eco_12_es.html">Mi Blog de Economía</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-expanded="false">Emprender fuera</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown01">
+                                <a class="dropdown-item" href="wa_uk_main_es.html">Inglaterra</a>
+                                <a class="dropdown-item" href="wa_fr_main_es.html">Francia</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="dropdown02" data-toggle="dropdown" aria-expanded="false">Mis Sitios</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown02">
+                                <a class="dropdown-item" href="gu_main_es.html">Guadalajara</a>
+                                <a class="dropdown-item disabled" href="#">El Bierzo</a>
+                                <a class="dropdown-item" href="gc_main_es.html">Canarias</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="aboutme_es.html">Sobre mi</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="container-fluid  hidden-md-down"
+                style="background-size: cover;
+                background:url('imags/banners/ecodiario_es.jpg') center no-repeat; margin-top:56px;margin-bottom:30px;"
+                >
+                <a><img src="imags/icons/sp0.jpg" alt=”ESP_LANGUAGUE” /></a>
+                <a href="eco20_indices_en.html"><img src="imags/icons/en.jpg" alt=”ENG_LANGUAGUE” /></a>
+				<br><br><br>
+            </div>
+        </header>
+
+        <a href="#inicial"><img class="hidden-md-down arrow_up"     src="imags/icons/arrow.png"></a>
+        <a href="#inicial"><img class="hidden-lg-up mob_arrow_up"   src="imags/icons/arrow.png"></a>
+        <div id="inicial" class="row row-offcanvas row-offcanvas-left content_l">  
+            <div class="col-lg-0 col-md-0 col-sm-0  sidebar-offcanvas sidebar_lft" id="sidebar">
+                <div class="sidebar-module text-left"  >
+                    <a href="https://validator.w3.org/feed/check.cgi?url=www.diariodeuningeniero.com%2Frss%2Fgeneral_rss.xml"><img src="https://www.onepointsync.com/wp-content/uploads/2016/08/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
+                    <br />
+                    <div class="g-person" data-width="140" data-href="//plus.google.com/u/0/108456074028547332093" data-theme="dark" data-rel="author"></div><br />
+                    <div class="fb-page" data-href="https://www.facebook.com/https://www.facebook.com/DiarioIngeniero-373287576574463/-643060745845646/" data-width="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/https://www.facebook.com/DiarioIngeniero-373287576574463/-643060745845646/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/https://www.facebook.com/DiarioIngeniero-373287576574463/-643060745845646/">Diariodeuningeniero</a></blockquote></div><br />
+                    <div class="fb-follow" data-href="https://www.facebook.com/DiarioIngeniero-373287576574463/" data-width="140" data-layout="standard" data-size="small" data-show-faces="true"></div><br />
+                    <a href="https://www.degiro.es/amigo-invita-amigo/empezar-a-invertir.html?id=3OGJ8RBP&referral_name=SERGIO%20L%C3%93PEZ%20MART%C3%8DNEZ"><img class="img-fluid"  src="imags/banners/degiro_vertical.png" id="degiro" alt="banner"/></a>
+                    <br /><br />
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <ins class="adsbygoogle"
+                        style="display:inline-block;width:160px;height:600px"
+                        data-ad-client="ca-pub-8000076722057083"
+                        data-ad-slot="9350582858"></ins>
+	                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                </div>
+            </div>  
+            <div class="col-12 col-lg-8 col-md-8 col-xs-12 content_center">
+                <div class="mob_content_space hidden-lg-up"></div>  
+                <h2>Como el COVID19 nos cogio desprevenidos</h2>
+                    <p>Antes de nada, reconocer que fui de los muchos que no tome las suficientes medidas ante la catastrofe búrsatil que vino. Eso sí una vez que el SP500 bajo casi hasta los 2.000 puntos fui uno de los pocos que vio ese punto como una gran oportunidad.
+                    Mientras muchos análistas avisaban de que la caída era poca comparado con la que venía, yo ya veía el oportunismo de esos mismos analistas que recomendaban comprar no haría muchas semanas. En ese momento la estrategia tenía que haber sido un cambio de carteras olvidandose de todo lo precedente ya que no valían ya los analisis fundamentales, error de muchos a la hora de comprar o vender.    
+                    <br><br>
+                <h2>España, uno de los mercados más volátiles</h2>
+                    <P>A parte, hubo mucho oportunismo en empresas con poca capitalización para hundir la acción y cambiar acciones con amiguetes. Duro Felguera, Abengoa, Tubos Reunidos, pequeñas firmas inmobiliarias y gran parte del continuo. 
+                    <br>
+                    Depende de los amiguismos unas recuperarían las primeras y otras ni siquiera todavía en 2021 han recuperado la mitad de la caída y en parte esta asimetría completa no es debido en la mayoría de los casos al coronavirus en sí si no a la manipulación por parte de unos pocos y a la nula actuación de la CNMV que en todo el año no ha tomado ninguna medida contra ninguna empresa. Lo único que hicieron fue prohibir las posiciones cortas durante 2 meses para contentar a algunos aunque estas posiciones no eran más que la información privilegiada que tienen algunos para realizar coberturas sobre valores que ellos mismos habían tirado previamente, para poder actuar más rapidamente en caso de que se produzca algun evento y tengan que recomprar. El mercado español es una mafia que se intuía pero este año se ha confirmado. Cuanto menos capitaliza es cuando más manipulado esta el valor, moviendolo pocas manos y jugando con los pocos inversores que tienen.</p>
+                    <br><br>
+
+                <h2>Recuperación en V</h2>
+                    <p>Muchos analistas al mes del covid19 descartaban la V y decían que la recuperación tardaría mucho. Una equivocación terrible y que sirve para dejar de leer ciertos diarios. Y es que economía y bolsa estan relacionados pero no van de la mano, el mercado se adelanta mucho a los acontecimientos y la simpre esperanza de la llegada de algo puede provocar tremendos movimientos. Esto ya lo sabía yo, y de hecho el ejemplo más claro estuvo en la crisis del petróleo de 2016 en la que el precio bajo hasta mínimos por la superproducción de Arabia. China aprovecho la situación para llenar sus depositos, llenando grandes superpetroleros que le dieron el consumo de un par de años a un precio irrisorio, por debajo de los 30 dolares el barril. No tardaría dos meses en recuperar la mitad de la caída y es justamente lo que ha pasado ahora y lo que seguirá pasando. 
+                    <br><br>
+                    Los índices americanos en su gran rebote se llevaron a la mayoría de minoristas que apostaron en corto a toro pasado, y que se comieron toda la caída. Unos dicen que fue la FED que compro bolsa o bonos, otros que fueron las mismas empresas que vendieron que volvieron a recomprar. Lo que si es cierto es que los grandes cuando hacen movimientos de cambio de tendencia lo hacen contra mercado y cuando la mayoría no lo espera, por eso ante los precios que hubo no era muy dificil haberse posicionado en largo y esperar. Hay analistas que quieren ganar siempre la última gota y por esperar muchas veces se quedan fuera y es lo que ha pasado. Esperemos que recapaciten para la siguiente gran crisis que puede tardar 5 años como 20 años.
+
+
+                <h2>Estrategia en indices en 2020</h2>
+                    <p>La estrategia clara fue centrarse en valores de tecnológicas y farmaceuticas o del sector sanitario y desprenderse de bancos o valores ciclicos como energía. Muy pocos dieron con el clavo que ante un confinamiento en la mayoría de paises estas empresas iban a ser el filón. Ni siqueira las renovables fueron en un principio la opción. Si bien han estado recuperando desde el principio de la pandemia.                     
+                    <br>
+                    Fue dificil de leer que valores en España como Pharmamar fueran a multiplicar por más de 10 su valor búrsatil. Cuando ya habían subido tres veces su valor fueron pocos los que se atrevieron a continuar o a entrar en el valor. Si bien es normal que haya caído un 50% desde máximos y aún cayendo un 25% más estaríamos ante una subida espectacular. Por mucho coronavirus que haya un valor no puede multiplicarse por 10 en 1 año. No es sostenible esa subida y si lo es es porque estaba muy devaluado al principio de la subida.
+                    Ahora que el coronavirus esta llegando a su fin resulta lógico pensar en que estas empresas van perdiendo su atractivo en favor de otro tipo de empresas.
+
+                        <img class="img-fluid" src="imags/eco/eco20/eco_SP500_1M_2020.jpg" alt="eco_SP500_1M_2020" />
+                    <br>
+                    <ul>
+                        <li><strong>(1) </strong>El índice <strong>caería hasta los 2200 puntos</strong>, momento en el que tanto Trump como la reserva federal aprovecharían la oportunidad para <strong>anunciar una serie de medidas nunca tomadas en USA desde la segunda guerra mundial</strong>. Una inyección de dinero récord y una compra de bonos ilimitada por parte de la FED. Esto haría que muchas posiciones cortas cerrarán las posiciones tarde y no pudieron aprovechar la caída. </li>
+                        <li><strong>(2) </strong>Tras el cierre de estas posiciones se forma el principio del a V y vuelve a haber riesgo de caídas (la famosa ONDA 5). Esta no se llegará a producir debido a que la FED siguió interviniendo la economía y tras subir por encima de la media de 200 se cerraría la posibilidad bajista (primera semana de abril) de esta crisis<strong> habiendo rebotado claramente en el 0,23 de fibbo (2450 puntos con casi un doble suelo)</strong>.</li>
+                        <li><strong>(3) </strong>A partir de entonces a continuado el rally del rebote con los indices habiendo recuperado el 61.8 de fibonnaci que se encuentra en los 2900 puntos. Incluso a tanteado con acercarse a los 3000. Esto esta lejos del análisis racional de como esta afectando esta crisis a Estados Unidos, si bien los 2200 que llego a tocar tampoco eran realistas, más bien especulación pura.<br>
+                        La subida de este pequeño rally a parte de por la intervención de la FED se ha debido a varios factores:
+                        <ul>
+                            <li>Subida de los grandes valores tecnológicos (euforia en el NASDAQ100 con casi ya recuperada toad la caída).</li>
+                            <li>Acuerdo del petróleo por parte de la OPEP para reducir la producción de petróleo.</li>
+                            <li>Comienzo a aflorar datos positivos (aplanamiento de la curva de contagios del COVID)</li>
+                            <li>Euforia sobremedida en diferentes momentos por la esperada vacuna del virus o por medicamentos más eficientes.</li>
+                        </ul>
+                        <li><strong>(4) </strong>¿Qué va a pasar ahora<br><br>
+                            MEDIO PLAZO (1 MES ): CORTO --> SHORT TERM -> SHORT
+                            LARGO PLAZO: LARGO (buscar nuevo cruce tras giro bajista) [2650]
+                            <ul>
+                                <h3>Por arriba</h3>
+                                <li>Tras analizar fibonnaci nos muestra varios puntos de interes. Por encima del valor actual estarían los 3000 puntos (valor psicológico) .</li>
+                                <li>Los 3100 puntos (valor que representa la vuelta los valores de economía precedentes a la crisis).
+                                Este valor no debería ser rebasado en ningún caso este año. De hecho yo espero un acercamiento previo a elecciones en USA de este año.</li>
+                                <h3>Por debajo</h3>
+                                <li>Por debajo nos encontramos los 2750 puntos que es ahora el soporte del indice con el que anda tanteando (antes la anterior resistencia).</li>
+                                <li>Los 2650 puntos que es donde paro en el primer rebote y para mí principal candidato para realizar un SUPERSOPORTE, de donde de volver a hacer doble suelo no volverá a bajar de este valor y es cuando muchos de los fondos que están fuera vuelvan a entrar.</li>
+                                <li>Los 2400 puntos (la mayoría de análistas opinan que va a volver a ese punto pero yo opino que no llegará y que se quedara por encima.</li>
+                            </ul>
+                        Así pues las cosas ahora mismo esta dibujando lo que podría ser un patrón en forma de HOMBRO CABEZA HOMBRO que nos haría temer una vuelta a estos mínimos descritos (2650). Tras la caída y cuando empiece a haber un volumen considerable, sería recomendable entrar en largo en los índices y terminar de construir nuestra cartera. Porque al final la avaricia de buscar el mejor momento puede hacer que uno se quede fuera de esta oportunidad histórica.</li>
+                        Recomendación (mirar volúmenes diarios esos días) y ver 100 o 200 puntos donde se este negociando una barbaridad.
+                    <br></p>
+                    <img class="img-fluid" src="imags/eco/eco20/eco_SP500_1Y_2020.jpg" alt="eco_SP500_1Y_2020" />
+                <div class="hidden-md-down">    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- HORIZONTA_GRANDE -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:728px;height:90px"
+                         data-ad-client="ca-pub-8000076722057083"
+                         data-ad-slot="1958507219"></ins>
+                    <script>
+                       (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>  
+                <div class="hidden-lg-up">
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- HORIZONTAL_PEQUENIO -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:320px;height:100px"
+                         data-ad-client="ca-pub-8000076722057083"
+                         data-ad-slot="6771850198"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script> 
+                </div>                                            
+                <h2>Análisis impacto COVID19 en DOW JONES</h2>
+                    <p>Si nos fijamos primeramente en el Dow Jones veremos que respecto al SP500 ha seguido un comportamiento similar, si bien ha tenido unos mínimos algo mayores que represetan casí una caída máxima del 40% (18000 desde 30000) frente a 2200 desde 3500. La recuperación también ha sido grande llegando casi al umbral de los 25.000 puntos. Si nos fijamos en el gráfico que dibuje la semana pasada el 6 de Mayo, vemos como va llegando a tomar color la predicción de hice, tanto en esta como en las anteriores. Si bien ha tardado en sucumbir a la realidad.
+                    <br>
+                    <img class="img-fluid" src="imags/eco/eco20/eco_DJ_1M_2020.jpg" alt="eco_DJ_1M_2020" />
+                    <br>
+                    En este dije que el soporte donde volvería rebotar se encontraría cerca de los 22.000 puntos y lo mantengo. La línea de soporte del gráfico esta algo más alta <strong>en los 22.000 pero la directriz que marca el retroceso de fibonacci respecto a la gran caída esta en 22.000</strong>. Este debería ser nuestro punto de apoyo. Si las palabras de Trump se relajan y los datos de infectados por el coronavirus siguen en descenso volverá a rebotar.</p>
+
+                <h2>Análisis impacto COVID19 en NASDAQ</h2>
+                    <p>En DOW Jones será muy similar, teniendo un retroceso hasta 22,000 (el peor escenario podría ser 20,000), no pensé que fuera negativo, pero podría ser. Entonces el Nasdaq tiene un mejor comportamiento que el resto del índice, muy influenciado por grandes compañías como FB, GOOGLE (ALPHABET), MICROSOFT, APPLE. Pero se recuperó cerca del valor que tenía y ahora puede bajar fácilmente. Creo que en proporción puede ser un comportamiento similar en este momento al otro índice, pero la próxima vez que todos se recuperen puede llegar probablemente al valor anterior. Y quédate entre 10.000 y 9.300 por un tiempo. Creo que podría suceder eso a fin de año, incluso antes de las elecciones presidenciales de Estados Unidos. Este índice a influenciado en demasía al SP500, ya que muchos de los valores de este índice estan replicados en el de 500 mejores valores. Por eso esta tan distorsionado el mercado dando la apariencia de estar fuerte ahora mismo.
+                    <br>
+                    <img class="img-fluid" src="imags/eco/eco20/eco_NQ_1M_2020.jpg" alt="eco_NQ_1M_2020" />
+                    <br>
+                    Si nos fijamos en niveles fibonacci vemos 8400 como candidato para el rebote, y los 8000 como segundo candidato.
+                    <br>
+                    En resumen, esta desventaja es un comportamiento normal como una corrección. Supongo que primero de junio subirá todo el índice, para ser el último rally. El verano será una corrección muy lenta (10%) hasta finales de septiembre. Si Biden gana las elecciones el NASDAQ ganará mucha más distancia a los demás índices en los próximo cuatro años, sobre todo al Dow Jones que retrocederá.</p>
+                <div class="hidden-md-down">    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- HORIZONTA_GRANDE -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:728px;height:90px"
+                         data-ad-client="ca-pub-8000076722057083"
+                         data-ad-slot="1958507219"></ins>
+                    <script>
+                       (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>  
+                <div class="hidden-lg-up">
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- HORIZONTAL_PEQUENIO -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:320px;height:100px"
+                         data-ad-client="ca-pub-8000076722057083"
+                         data-ad-slot="6771850198"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>                     
+                </div>  
+                <h2>Análisis impacto COVID19 en el oro</h2>      
+                    <p>Desde la anterior crisis el oro no había tenido tanto volumen en diario como ha ocurrido este año. Antes de la crisis ya se estaba moviendo mucho volumen al alza y con la crisis hubo un pico de subida tremendamente alto, una variación cercana al 5%. Esto no sucede por casualidad y es debido a toda la incertidumbre que hay entorno al COVID. Si bien en los últimos días ha reaccionado a la baja tras el rebote de Wall Street. Pero aún habiendo ese rebote, no ha perdido apenas valor, estando en una franja lateral entre los 1800 y los 1650. Si que es cierto que tras la gran caída el oro bajo de golpe hasta tocar cerca de los 1450. Esto es debido a que mucho capital que estaba en oro fue rápidamente puesto en renta variable para coger el posible rebote. Una vez pegado el primer rebote al alza las posiciones volvieron al oro recogiendo muchos beneficios.
+                    <br>
+                    <img class="img-fluid" src="imags/eco/eco20/eco_gold_1W_2020.jpg" alt="eco_gold_1W_2020" />
+                    <br>
+                    En un primer momento se abrían dos escenarios, uno vuelta a mínimos si hubiera sucedido una nueva onda 5 en los índices que finalmente no sucedio. O una estabilización<strong> para ir al alza directos a los 2000$</strong>. No parece que vaya a suceder de golpe y que llevara unos meses. Aunque para un gráfico a vista de largo plazo un movimiento así es algo muy rápido.
+                    <br>
+                    Mi apuesta es que tras la consecución del rally de las bolsas que ocurrirá cuando los descensos de casos del coronavirus se aceleren y que muchos países, sobre todo Europa, vuelva a la normalidad. Esto llevará al oro a ir aumentando poco a poco su valor ante el miedo de un posible rebrote. Esto sucederá en verano. <strong>Los niveles de fibonacci estan claros (1200, 1400, 1550, 1700 y 2000). </strong>Siendo actor fundamental ahora mismo el 1700 como principal soporte.
+                    <br>
+                    <img class="img-fluid" src="imags/eco/eco20/eco_gold_1Y_2020.jpg" alt="eco_gold_1Y_2020" />
+                    <br>
+                    Tras esto y si todo ocurre en la línea de lo esperado, que no haya un gran rebrote, incluso que se anuncie una vacuna que ponga fin a la amenaza del coronavirus el oro comenzará una lenta caída hasta los niveles de 1400. Incluso podría tocar los 1200 en algún momento para empezar un nuevo ciclo alcista con metas más alla de los 2000$. Esto puede llevar años eso sí.
+                    </p>
+                
+
+				<div class="hidden-md-down"> 	
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	                <!-- HORIZONTA_GRANDE -->
+	                <ins class="adsbygoogle"
+	                     style="display:inline-block;width:728px;height:90px"
+	                     data-ad-client="ca-pub-8000076722057083"
+	                     data-ad-slot="1958507219"></ins>
+	                <script>
+	                   (adsbygoogle = window.adsbygoogle || []).push({});
+	                </script>
+	            </div>  
+	            <div class="hidden-lg-up">
+	                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	                <!-- HORIZONTAL_PEQUENIO -->
+	                <ins class="adsbygoogle"
+	                     style="display:inline-block;width:320px;height:100px"
+	                     data-ad-client="ca-pub-8000076722057083"
+	                     data-ad-slot="6771850198"></ins>
+	                <script>
+		                (adsbygoogle = window.adsbygoogle || []).push({});
+		            </script> 
+				</div>   
+			</div>   
+            <div class="col-2 col-lg-2  hidden-lg-down" id="sidebar2">
+                <div class="sidebar-module text-right"  >
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <ins class="adsbygoogle"
+                        style="display:inline-block;width:160px;height:600px"
+                        data-ad-client="ca-pub-8000076722057083"
+                        data-ad-slot="9350582858"></ins>
+	                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                </div>
+			</div>				
+        </div>
+        <hr>
+        <div id="barracookies">
+            Se le informa que este sitio almacena cookies para mejorar el servicio web. Si continua navegando se entiende que acepta su uso
+             <br/>
+            <a href="javascript:void(0);" onclick="var expiration = new Date(); expiration.setTime(expiration.getTime() + (60000 * 60 * 24 * 365)); setCookie('avisocookies', '1', expiration, '/');document.getElementById('barracookies').style.display = 'none';"><b>OK</b></a> | <a href="avisolegal_es.html" target="_blank">Aviso Legal</a></div>
+        <script src="js/app.js"></script>       
+        <footer>
+            <div class="container footer_fmt">
+				<div class="row">
+                    <div class="col-md-4 col-sm-6 footerleft ">
+                        <div class="logofooter"><img class="img-fluid right_l" src="imags/Main/logo_transparente.png" alt="logo"/> </div>
+                        <p>Sitio web personal de Sergio LM. Experiencias, viajes, rutas senderistas y mucho más.</p>
+                        <ul class="bottom_ul">
+                            <li><a href="avisolegal_es.html">Aviso Legal</a></li>
+                            <li><a href="aboutme_es.html">Sobre Mi</a></li>
+                            <li><a href="blog_01_es.html">Blog</a></li>
+                            <li><a href="contactme_es.html">Contacto</a></li>
+                            <li><a href="#">Faq's</a></li>
+                            <li><a href="#">Site Map</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-sm-6 paddingtop-bottom">
+                        <h6 class="heading7">ULTIMOS POSTS</h6>
+                        <div class="text-left">
+                            <a href="https://plus.google.com/108456074028547332093"><img class="icono_f" src="imags/icons/footer-google+.png" alt=google+_footer /></a>                           
+                            <a href="https://www.facebook.com/DiarioIngeniero-373287576574463/"><img class="icono_f" src="imags/icons/footer-fb.png" alt=facebook_footer /></a> 
+                            <a href="https://twitter.com/diariodesergi"><img class="icono_f" src="imags/icons/footer-twitter.png" alt=twitter_footer /></a>
+                        </div>    
+                        <div class="post">
+                            <p>Nueva Página de Facebook, Diariodeuningeniero <span>1 Agosto,2017</span></p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 paddingtop-bottom footer_fmt_i">
+                        <div class="fb-page"
+                            data-href="https://www.facebook.com/DiarioIngeniero-373287576574463/"
+                            data-width="380"
+                            data-hide-cover="false"
+                            data-show-facepile="false">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <div class="wrapper hidden-lg-up social_fmt" id="social_footer">            
+			<div class="fb-send icono" data-href="www.diariodeuningeniero.com/eco20_indices_es.html"></div>
+            <a href="rss/general_rss.xml"><img class="icono " src="imags/icons/icon-rss.png"></a>
+            <a href="http://twitter.com/home?status=Impacto COVID19 en indices USA by diariodeuningeniero+www.diariodeuningeniero.com/eco20_ibex35_es.html"><img class="icono" src="imags/icons/icon-twitter.png"></a>
+            <a href="whatsapp://send?text= www.diariodeuningeniero.com/eco20_indices_es.html" data-text="Impacto COVID19 en indices USA by diariodeuningeniero" data-action="share/whatsapp/share"><img class="icono pull-right" src="imags/icons/icon-whatsapp.png"></a>
+        </div>
+        <!-- footer start from here-->
+        <div class="copyright">
+            <div class="container">
+                <div class="col-md-6">
+                    <p>© 2016 - All Rights Reserved - Diseñada por Sergio López Martínez</p>
+                </div>
+            </div>
+        </div>
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossOrigin ="anonymous" ></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+        <script src="https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js" crossOrigin ="anonymous"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" crossOrigin ="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" crossOrigin ="anonymous"></script>
+        <!-- OTHER SCRIPTS*/    -->
+        <script type="text/javascript">
+        $('[data-toggle="offcanvas"]').click(function () {
+        $('.row-offcanvas').toggleClass('active')
+        });
+        </script>
+        <!-- Initialize Bootstrap functionality
+        <script>
+        // /*Initialize tooltip component*/
+        $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+        });
+        // Initialize popover component
+        $(function () {
+        $('[data-toggle="popover"]').popover()
+        })
+        </script>-->
+        <!-- SCRIPTS ADD DEGIRO. -->
+        <script>
+        /*Array con las imagenes que se iran mostrando en la web*/
+        var imagenes=['imags/banners/degiro_vertical.png',
+        'imags/banners/degiro_vertical2.png'];
+        /*Funcion para cambiar la imagen*/
+        function rotarImagenes()
+        {
+        // obtenemos un numero aleatorio entre 0 y la cantidad de imagenes que hay
+        var index=Math.floor((Math.random()*imagenes.length));
+        // cambiamos la imagen
+        document.getElementById("degiro").src=imagenes[index];
+        }
+        /*Función que se ejecuta una vez cargada la página*/
+        onload=function()
+        {
+        // Cargamos una imagen aleatoria
+        rotarImagenes();
+        // Indicamos que cada 5 segundos cambie la imagen
+        setInterval(rotarImagenes,5000);
+        }
+        </script>
+        <!-- SCRIPTS REDES SOCIALES. -->
+        <!-- Inserta esta etiqueta en la sección "head" o justo antes de la etiqueta "body" de cierre. -->
+        <div id="fb-root"></div>
+        <script>
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+        fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+        </script>
+        <script src="https://apis.google.com/js/platform.js" async defer>
+        {'es'}
+        </script>
+        <script type="text/javascript">
+        window.___gcfg = {lang: 'es'};
+        (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/platform.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+        </script>
+        <script>
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+        fjs.parentNode.insertBefore(js,fjs);
+        }}(document, 'script', 'twitter-wjs');
+        </script>
+        <script type="text/javascript">
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)){js=d.createElement(s);
+        js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+        </script>
+        <!-- SCRIPT estadisticas -->
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-90367288-1', 'auto');
+        ga('send', 'pageview');
+        </script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-8000076722057083",
+            enable_page_level_ads: true
+          });
+        </script>           
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"/>
+        <div id="WgD">
+          <div class='WgD-position'>
+            <div class='WgD-container'>
+              <h3 class='WgD-title'>
+        Adblock Detectado</h3>
+        <p class='WgD-text'>
+        El sitio se mantiene gracias a la publicidad, por favor <strong>Desactiva Adblock</strong> para seguir navegando</p>
+        <a class='WgD-reload' href=".">He desactivado Adblock</a>
+            </div>
+        </div>
+        <div class='WgD-particles'>
+            <i class="wgd-usd"></i><i class="wgd-eur"></i>
+            <i class="wgd-usd"></i><i class="wgd-eur"></i>
+            <i class="wgd-btc"></i><i class="wgd-usd"></i>
+            <i class="wgd-usd"></i><i class="wgd-eur"></i>
+            <i class="wgd-btc"></i><i class="wgd-usd"></i>
+            <i class="wgd-eur"></i>
+          </div>
+        </div>
+        <script>//<![CDATA[
+        function adBlockDetected(){document.getElementById("WgD").classList.add("is-detected"),document.body.classList.add("ab-is-detected")}if("undefined"!=typeof fuckAdBlock||"undefined"!=typeof FuckAdBlock)adBlockDetected();else{var importFAB=document.createElement("script");importFAB.onload=function(){fuckAdBlock.onDetected(adBlockDetected),fuckAdBlock.onNotDetected(adBlockNotDetected)},importFAB.onerror=function(){adBlockDetected()},importFAB.integrity="sha384-CXnSItT4vv0CF9Lrll7Wu5SofkJWovtQcEuqpH2REEeQURSJapSzBwvm1QTDwgBK",importFAB.crossOrigin="anonymous",importFAB.src="https://cdn.jsdelivr.net/npm/fuckadblock@3.2.1/fuckadblock.min.js",document.head.appendChild(importFAB)}
+//]]></script>        
+    </body>
+</html>
